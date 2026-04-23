@@ -1,11 +1,20 @@
+<!-- topo -->
 # Mateus
 
 <!-- INDICE -->
-**Índice:** [1](1) · [2](2) · [3](3) · [4](4) · [5](5) · [6](6) · [7](7) · [8](8) · [9](9) · [10](10) · [11](11) · [12](12) · [13](13) · [14](14) · [15](15) · [16](16) · [17](17) · [18](18) · [19](19) · [20](20) · [21](21) · [22](22) · [23](23) · [24](24) · [25](25) · [26](26) · [27](27) · [28](28)
+## 📜 Índice
+
+**28 capítulos**
+[1](#cap-1) · [2](#cap-2) · [3](#cap-3) · [4](#cap-4) · [5](#cap-5) · [6](#cap-6) · [7](#cap-7) · [8](#cap-8) · [9](#cap-9) · [10](#cap-10)
+[11](#cap-11) · [12](#cap-12) · [13](#cap-13) · [14](#cap-14) · [15](#cap-15) · [16](#cap-16) · [17](#cap-17) · [18](#cap-18) · [19](#cap-19) · [20](#cap-20)
+[21](#cap-21) · [22](#cap-22) · [23](#cap-23) · [24](#cap-24) · [25](#cap-25) · [26](#cap-26) · [27](#cap-27) · [28](#cap-28)
+
+<div align="right"><a href="#topo"><strong>▲ Voltar ao topo</strong></a></div>
 
 <!-- FIM_INDICE -->
 
-## 1
+
+## 1 {#cap-1}
 
 * **1** Livro da genealogia de Iēsous Christos (Jesus Messias), filho de Davi, filho de Abraão.
 * **2** Abraão gerou a Isaque, Isaque gerou a Jacó, e Jacó gerou a Judá e a seus irmãos,
@@ -33,7 +42,7 @@
 * **24** Despertando do sono, José fez como o anjo do Senhor lhe ordenara e recebeu sua esposa;
 * **25** e não a conheceu até que ela deu à luz um filho; e ele lhe deu o nome de Jesus.
 
-## 2
+## 2 {#cap-2}
 
 * **1** Tendo nascido Jesus em Belém da Judeia, nos dias do rei Herodes, eis que magos do oriente chegaram a Jerusalém,
 * **2** dizendo: Onde está o recém-nascido rei dos judeus? Pois vimos sua estrela no oriente e viemos adorá-lo.
@@ -59,7 +68,7 @@
 * **22** Mas, ouvindo que Arquelau reinava na Judeia em lugar de seu pai Herodes, temeu ir para lá; e, avisado em sonho, retirou-se para as regiões da Galileia,
 * **23** e, chegando, habitou numa cidade chamada Nazaré, para que se cumprisse o que foi dito pelos profetas: Ele será chamado Nazareno.
 
-## 3
+## 3 {#cap-3}
 
 * **1** Naqueles dias, aparece João, o Batista, pregando no deserto da Judeia
 * **2** e dizendo: Arrependei-vos, pois o Reino dos Céus está próximo.
@@ -79,7 +88,7 @@
 * **16** Sendo batizado, Jesus subiu logo da água; e eis que os céus se abriram, e ele viu o Pneuma Theou (Espírito de Deus) descendo como uma pomba vindo sobre ele;
 * **17** e eis que uma voz dos céus dizia: Este é o meu Filho amado, em quem me comprazo.
 
-## 4
+## 4 {#cap-4}
 
 * **1** Então Jesus foi conduzido pelo Espírito ao deserto, para ser tentado pelo diabo.
 * **2** E, tendo jejuado quarenta dias e quarenta noites, depois teve fome.
@@ -107,7 +116,7 @@
 * **24** E sua fama espalhou-se por toda a Síria; e trouxeram-lhe todos os que sofriam, acometidos de várias doenças e tormentos, endemoninhados, lunáticos e paralíticos, e ele os curou.
 * **25** E seguiram-no grandes multidões da Galileia, de Decápolis, de Jerusalém, da Judeia e de além do Jordão.
 
-## 5
+## 5 {#cap-5}
 
 * **1** Vendo as multidões, subiu ao monte; e, tendo ele se assentado, aproximaram-se dele seus discípulos;
 * **2** e, abrindo a boca, ensinava-os, dizendo:
@@ -158,7 +167,7 @@
 * **47** E se saudardes apenas os vossos irmãos, que fazeis de especial? Não fazem os gentios também o mesmo?
 * **48** Sede vós, portanto, perfeitos, como o vosso Pai celestial é perfeito.
 
-## 6
+## 6 {#cap-6}
 
 * **1** Guardai-vos de praticar a vossa justiça diante dos homens, para serdes vistos por eles; caso contrário, não tereis recompensa junto ao vosso Pai que está nos céus.
 * **2** Quando, pois, deres esmola, não toques trombeta diante de ti, como fazem os hipócritas nas sinagogas e nas ruas, para serem glorificados pelos homens; em verdade vos digo que eles já receberam a sua recompensa.
@@ -195,7 +204,7 @@
 * **33** Busquem, porém, primeiro o reino e a justiça dele, e todas essas coisas serão acrescentadas a vocês.
 * **34** Portanto, não se preocupem com o dia de amanhã, pois o amanhã cuidará de si mesmo; basta ao dia o seu próprio mal.
 
-## 7
+## 7 {#cap-7}
 
 * **1** Não julguem, para que não sejam julgados;
 * **2** pois com o critério com que julgam, serão julgados, e com a medida com que medem, será medido a vocês.
@@ -227,7 +236,7 @@
 * **28** E aconteceu que, quando Iēsous (Jesus) terminou estas palavras, as multidões estavam maravilhadas com o seu ensino;
 * **29** pois ele as ensinava como quem tem autoridade, e não como os escribas deles.
 
-## 8
+## 8 {#cap-8}
 
 * **1** Tendo ele descido do monte, seguiram-no grandes multidões.
 * **2** E eis que um leproso, aproximando-se, o adorava, dizendo: Senhor, se quiseres, podes purificar-me.
@@ -264,7 +273,7 @@
 * **33** Os que os apascentavam fugiram e, indo para a cidade, anunciaram tudo, inclusive o que ocorrera aos endemoninhados.
 * **34** E eis que toda a cidade saiu ao encontro de Jesus, e vendo-o, rogaram-lhe que se retirasse dos seus territórios.
 
-## 9
+## 9 {#cap-9}
 
 * **1** Tendo ele entrado no barco, atravessou e foi para a sua própria cidade.
 * **2** E eis que lhe trouxeram um paralítico deitado numa cama. E Jesus, vendo a fé deles, disse ao paralítico: Tem bom ânimo, filho; os teus pecados estão perdoados.
@@ -305,7 +314,7 @@
 * **37** Então diz aos seus discípulos: A colheita é grande, mas os trabalhadores são poucos;
 * **38** roguem, pois, ao Senhor da colheita que envie trabalhadores para a sua colheita.
 
-## 10
+## 10 {#cap-10}
 
 * **1** E chamando os seus doze discípulos, deu-lhes autoridade sobre espíritos imundos para expulsá-los e curar toda sorte de doenças e toda enfermidade.
 * **2** Os nomes dos doze apóstolos são estes: primeiro, Simão, chamado Pedro, e André, seu irmão; Tiago, filho de Zebedeu, e João, seu irmão;
@@ -350,7 +359,7 @@
 * **41** Quem recebe um profeta por ser profeta receberá recompensa de profeta; e quem recebe um justo por ser justo receberá recompensa de justo.
 * **42** E quem der de beber, ainda que seja apenas um copo de água fria, a um destes pequeninos por ser meu discípulo, em verdade lhes digo que de modo algum perderá a sua recompensa.
 
-## 11
+## 11 {#cap-11}
 
 * **1** E aconteceu que, quando Iēsous (Jesus) terminou de dar instruções aos seus doze discípulos, partiu dali para ensinar e pregar nas cidades deles.
 * **2** João, tendo ouvido no cárcere sobre as obras do Christos (Messias), enviou por intermédio dos seus discípulos
@@ -383,7 +392,7 @@
 * **29** Tomem sobre vocês o meu jugo e aprendam de mim, porque sou manso e humilde de coração, e encontrarão descanso para as suas almas;
 * **30** pois o meu jugo é suave e o meu fardo é leve.
 
-## 12
+## 12 {#cap-12}
 
 * **1** Naquela ocasião, passou Jesus pelas searas em um sábado; seus discípulos, sentindo fome, começaram a colher espigas e a comer.
 * **2** Os fariseus, vendo isso, disseram-lhe: Eis que os teus discípulos fazem o que não é lícito fazer no sábado.
@@ -436,7 +445,7 @@
 * **49** E, estendendo a mão para os seus discípulos, disse: Eis minha mãe e meus irmãos;
 * **50** pois qualquer que fizer a vontade do meu Pai que está nos céus, esse é meu irmão, irmã e mãe.
 
-## 13
+## 13 {#cap-13}
 
 * **1** Naquele dia, saindo Jesus de casa, sentou-se junto ao mar;
 * **2** e reuniram-se a ele grandes multidões, de modo que, entrando num barco, sentou-se, e toda a multidão estava em pé na praia.
@@ -497,7 +506,7 @@
 * **57** E escandalizavam-se por causa dele. Mas Iēsous (Jesus) lhes disse: Não há profeta sem honra, a não ser na sua pátria e na sua casa.
 * **58** E não fez ali muitos milagres, por causa da incredulidade deles.
 
-## 14
+## 14 {#cap-14}
 
 * **1** Naquele tempo, ouviu Herodes, o tetrarca, a fama de Jesus,
 * **2** E disse aos seus servos: Este é João, o Batista; ele ressuscitou dos mortos, e por isso estas forças operam nele.
@@ -536,7 +545,7 @@
 * **35** E, reconhecendo-o os homens daquele lugar, mandaram por toda aquela terra em redor, e trouxeram-lhe todos os que estavam enfermos,
 * **36** E rogavam-lhe que apenas pudessem tocar na orla da sua veste; e todos os que a tocaram ficaram sãos.
 
-## 15
+## 15 {#cap-15}
 
 * **1** Então, chegaram a Jesus, vindos de Jerusalém, fariseus e escribas, dizendo:
 * **2** Por que transgridem os teus discípulos a tradição dos anciãos? Pois não lavam as mãos quando comem pão.
@@ -578,7 +587,7 @@
 * **38** E os que comeram foram quatro mil homens, além de mulheres e crianças.
 * **39** E, tendo despedido a multidão, entrou no barco e foi para as regiões de Magadã.
 
-## 16
+## 16 {#cap-16}
 
 * **1** E, chegando os fariseus e os saduceus, tentaram-no, pedindo-lhe que lhes mostrasse algum sinal do céu.
 * **2** Ele, porém, respondendo, disse-lhes: Quando é tarde, dizeis: Haverá bom tempo, porque o céu está rubro.
@@ -609,7 +618,7 @@
 * **27** Porque o Filho do homem virá na glória de seu Patēr (Pai), com os seus anjos, e então dará a cada um segundo as suas obras.
 * **28** Em verdade vos digo que alguns há, dos que aqui estão, que não provarão a morte até que vejam vir o Filho do homem no seu reino.
 
-## 17
+## 17 {#cap-17}
 
 * **1** Seis dias depois, Jesus tomou consigo a Pedro, a Tiago e a João, seu irmão, e os levou em particular a um alto monte.
 * **2** E transfigurou-se diante deles; e o seu rosto resplandeceu como o sol, e as suas vestes tornaram-se brancas como a luz.
@@ -638,7 +647,7 @@
 * **26** Disse-lhe ele: Dos estranhos. Disse-lhe Jesus: Logo, são livres os filhos.
 * **27** Mas, para não os escandalizar, vai ao mar, lança o anzol, tira o primeiro peixe que subir e, abrindo-lhe a boca, acharás um estáter; toma-o e dá-o por mim e por ti.
 
-## 18
+## 18 {#cap-18}
 
 * **1** Naquela mesma hora, aproximaram-se de Jesus os discípulos, dizendo: Quem é o maior no reino dos céus?
 * **2** E Jesus, chamando um menino, pô-lo no meio deles,
@@ -675,7 +684,7 @@
 * **34** E, irado, seu senhor entregou-o aos verdugos até que pagasse tudo o que devia.
 * **35** Assim também meu Pai (Patēr) celestial fará a vocês, se cada um não perdoar de coração ao seu irmão.
 
-## 19
+## 19 {#cap-19}
 
 * **1** Aconteceu que, quando Jesus terminou estes discursos, partiu da Galileia e foi para as regiões da Judeia, além do Jordão.
 * **2** Grandes multidões o seguiram, e ele as curou ali.
@@ -708,7 +717,7 @@
 * **29** E todo aquele que deixou casas, ou irmãos, ou irmãs, ou pai, ou mãe, ou esposa, ou filhos, ou campos por causa do meu nome, receberá cem vezes mais e herdará a vida eterna.
 * **30** Muitos, porém, serão os primeiros a serem últimos, e os últimos, primeiros.
 
-## 20
+## 20 {#cap-20}
 
 * **1** Pois o Reino dos Céus é semelhante a um proprietário que saiu de madrugada para contratar trabalhadores para a sua vinha.
 * **2** Tendo combinado com os trabalhadores um denário por dia, enviou-os para a sua vinha.
@@ -745,7 +754,7 @@
 * **33** Responderam-lhe: Senhor, que nossos olhos sejam abertos.
 * **34** Compadecido, Jesus tocou nos olhos deles, e imediatamente recuperaram a vista e o seguiram.
 
-## 21
+## 21 {#cap-21}
 
 * **1** Quando se aproximaram de Jerusalém e chegaram a Betfagé, ao Monte das Oliveiras, Jesus enviou dois discípulos,
 * **2** dizendo-lhes: Ide à aldeia que está diante de vós e, imediatamente, encontrareis uma jumenta presa e um jumentinho com ela; desamarrai-os e trazei-mos.
@@ -794,7 +803,7 @@
 * **45** Ouvindo as suas parábolas, os principais sacerdotes e os fariseus compreenderam que falava deles;
 * **46** e, procurando prendê-lo, temeram as multidões, pois o consideravam profeta.
 
-## 22
+## 22 {#cap-22}
 
 * **1** Jesus, respondendo, falou-lhes novamente por parábolas:
 * **2** O Reino dos Céus é semelhante a um rei que celebrou as bodas de seu filho.
@@ -843,7 +852,7 @@
 * **45** Se, portanto, Davi o chama de Kyrios (Senhor), como ele é seu filho?
 * **46** E ninguém podia responder-lhe uma palavra, nem alguém ousou, a partir daquele dia, perguntar-lhe mais nada.
 
-## 23
+## 23 {#cap-23}
 
 * **1** Então Iēsous (Jesus) falou às multidões e aos seus discípulos,
 * **2** dizendo: Na cadeira de Moisés sentaram-se os escribas e os fariseus.
@@ -884,7 +893,7 @@
 * **38** Eis que a casa de vocês ficará deserta.
 * **39** Pois lhes digo que não me vereis desde agora, até que digais: Bendito o que vem em nome do Kyriou (Senhor).
 
-## 24
+## 24 {#cap-24}
 
 * **1** E saindo Iēsous (Jesus) do templo, ia caminhando, e seus discípulos aproximaram-se para mostrar-lhe as construções do templo;
 * **2** ele, porém, respondendo, disse-lhes: Não vedes todas estas coisas? Em verdade lhes digo, não ficará aqui pedra sobre pedra que não seja derrubada.
@@ -938,7 +947,7 @@
 * **50** virá o Kyrios (Senhor) daquele servo em um dia em que não espera e em uma hora que não sabe,
 * **51** e o cortará ao meio e colocará a sua parte com os hipócritas; ali haverá o choro e o ranger de dentes.
 
-## 25
+## 25 {#cap-25}
 
 * **1** Então o reino dos céus será semelhante a dez virgens, que, tomando as suas lâmpadas, saíram ao encontro do noivo.
 * **2** Cinco delas eram insensatas e cinco prudentes.
@@ -987,7 +996,7 @@
 * **45** Então lhes responderá, dizendo: Em verdade vos digo que, sempre que não o fizestes a um destes pequeninos, também a mim não o fizestes.
 * **46** E irão estes para o castigo eterno, mas os justos para a vida eterna.
 
-## 26
+## 26 {#cap-26}
 
 * **1** E aconteceu que, quando Iēsous (Jesus) terminou todas estas palavras, disse aos seus discípulos:
 * **2** Sabeis que depois de dois dias é a Páscoa, e o Filho do Homem será entregue para ser crucificado.
@@ -1065,7 +1074,7 @@
 * **74** Então começou a praguejar e a jurar: Não conheço o homem. E imediatamente o galo cantou.
 * **75** E Pedro lembrou-se da palavra de Jesus, que dissera: Antes que o galo cante, três vezes me negarás. E, saindo para fora, chorou amargamente.
 
-## 27
+## 27 {#cap-27}
 
 * **1** Ao amanhecer, todos os principais sacerdotes e os anciãos do povo tomaram conselho contra Jesus para o matarem;
 * **2** e, amarrando-o, levaram-no e entregaram-no a Pilatos, o governador.
@@ -1134,7 +1143,7 @@
 * **65** Pilatos disse-lhes: Tendes uma guarda; ide, guardai-o como sabeis.
 * **66** Eles, indo, guardaram o sepulcro, selando a pedra com a guarda.
 
-## 28
+## 28 {#cap-28}
 
 * **1** No fim do sábado, ao alvorecer do primeiro dia da semana, veio Maria Madalena e a outra Maria ver o sepulcro.
 * **2** E eis que houve um grande terremoto; pois um anjo do Kyrios (Senhor), descendo do céu e aproximando-se, rolou a pedra e assentou-se sobre ela.

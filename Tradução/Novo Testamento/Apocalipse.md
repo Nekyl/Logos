@@ -1,11 +1,20 @@
+<!-- topo -->
 # Apocalipse
 
 <!-- INDICE -->
-**Índice:** [1](1) · [2](2) · [3](3) · [4](4) · [5](5) · [6](6) · [7](7) · [8](8) · [9](9) · [10](10) · [11](11) · [12](12) · [13](13) · [14](14) · [15](15) · [16](16) · [17](17) · [18](18) · [19](19) · [20](20) · [21](21) · [22](22)
+## 📜 Índice
+
+**22 capítulos**
+[1](#cap-1) · [2](#cap-2) · [3](#cap-3) · [4](#cap-4) · [5](#cap-5) · [6](#cap-6) · [7](#cap-7) · [8](#cap-8) · [9](#cap-9) · [10](#cap-10)
+[11](#cap-11) · [12](#cap-12) · [13](#cap-13) · [14](#cap-14) · [15](#cap-15) · [16](#cap-16) · [17](#cap-17) · [18](#cap-18) · [19](#cap-19) · [20](#cap-20)
+[21](#cap-21) · [22](#cap-22)
+
+<div align="right"><a href="#topo"><strong>▲ Voltar ao topo</strong></a></div>
 
 <!-- FIM_INDICE -->
 
-## 1
+
+## 1 {#cap-1}
 
 * **1** Revelação de Iēsous Christou (Jesus Messias), que Theos (Deus) lhe deu para mostrar aos seus servos as coisas que devem acontecer em breve, e que ele enviou e manifestou por meio do seu anjo ao seu servo João,
 * **2** o qual testemunhou a palavra de Deus e o testemunho de Jesus Messias, tudo quanto viu.
@@ -28,7 +37,7 @@
 * **19** Escreve, pois, o que viste, o que é e o que deve acontecer depois disto.
 * **20** O mistério das sete estrelas que viste na minha mão direita, e os sete candelabros de ouro: as sete estrelas são os anjos das sete igrejas, e os sete candelabros são as sete igrejas.
 
-## 2
+## 2 {#cap-2}
 
 * **1** Ao anjo da igreja em Éfeso escreve: Isto diz aquele que segura as sete estrelas na sua mão direita, aquele que caminha no meio dos sete candelabros de ouro:
 * **2** Conheço as tuas obras, o teu trabalho e a tua perseverança, e que não podes suportar os maus, e puseste à prova os que se dizem apóstolos, mas não o são, e os achaste mentirosos;
@@ -60,7 +69,7 @@
 * **28** assim como também recebi de meu Pai, e dar-lhe-ei a estrela da manhã.
 * **29** Quem tem ouvidos, ouça o que o Espírito diz às igrejas.
 
-## 3
+## 3 {#cap-3}
 
 * **1** Ao anjo da igreja em Sardes escreve: Isto diz aquele que tem os sete espíritos de Deus e as sete estrelas: Conheço as tuas obras, que tens nome de que vives, e estás morto.
 * **2** Sê vigilante e confirma o restante que estava para morrer, pois não achei as tuas obras perfeitas diante do meu Deus.
@@ -85,7 +94,7 @@
 * **21** Ao que vencer, dar-lhe-ei assentar-se comigo no meu trono, assim como eu venci e me assentei com meu Pai no seu trono.
 * **22** Quem tem ouvidos, ouça o que o Espírito diz às igrejas.
 
-## 4
+## 4 {#cap-4}
 
 * **1** Depois destas coisas, olhei, e eis uma porta aberta no céu, e a primeira voz que ouvi, como de trombeta falando comigo, dizia: Sobe aqui, e mostrar-te-ei as coisas que devem acontecer depois destas.
 * **2** Imediatamente fui arrebatado em espírito; e eis um trono posto no céu, e um assentado sobre o trono,
@@ -99,7 +108,7 @@
 * **10** os vinte e quatro anciãos prostrar-se-ão diante daquele que está assentado sobre o trono, e adorarão aquele que vive pelos séculos dos séculos, e lançarão as suas coroas diante do trono, dizendo:
 * **11** Digno és, Kyrios e Theos (Senhor e Deus) nosso, de receber a glória, a honra e o poder, porque tu criaste todas as coisas, e por tua vontade elas existiram e foram criadas.
 
-## 5
+## 5 {#cap-5}
 
 * **1** E vi na mão direita daquele que estava assentado sobre o trono um livro escrito por dentro e por fora, selado com sete selos.
 * **2** E vi um anjo forte, proclamando com grande voz: Quem é digno de abrir o livro e de desatar os seus selos?
@@ -116,7 +125,7 @@
 * **13** E ouvi toda criatura que está no céu, e na terra, e debaixo da terra, e no mar, e todas as coisas que neles há, dizerem: Àquele que está assentado sobre o trono e ao Cordeiro seja a bênção, a honra, a glória e o poder pelos séculos dos séculos.
 * **14** E os quatro seres viventes diziam: Amém. E os anciãos prostraram-se e adoraram.
 
-## 6
+## 6 {#cap-6}
 
 * **1** E vi quando o Cordeiro abriu um dos sete selos, e ouvi um dos quatro seres viventes dizer, como em voz de trovão: Vem.
 * **2** E vi, e eis um cavalo branco, e o que estava assentado sobre ele tinha um arco; e foi-lhe dada uma coroa, e saiu vencendo e para vencer.
@@ -136,7 +145,7 @@
 * **16** e diziam aos montes e às rochas: Caí sobre nós e escondei-nos da face daquele que está assentado sobre o trono e da ira do Cordeiro,
 * **17** porque é vindo o grande dia da ira deles, e quem poderá subsistir?
 
-## 7
+## 7 {#cap-7}
 
 * **1** Depois disto vi quatro anjos em pé sobre os quatro cantos da terra, segurando os quatro ventos da terra, para que nenhum vento soprasse sobre a terra, nem sobre o mar, nem sobre árvore alguma.
 * **2** E vi outro anjo subir do lado do nascimento do sol, tendo o selo do Deus vivo, e clamou com grande voz aos quatro anjos, aos quais foi dado prejudicar a terra e o mar,
@@ -156,7 +165,7 @@
 * **16** Nunca mais terão fome, nunca mais terão sede, nem cairá sobre eles o sol, nem calor algum,
 * **17** porque o Cordeiro que está no meio do trono os pastoreará, e os guiará às fontes das águas da vida; e Deus limpará de seus olhos toda lágrima.
 
-## 8
+## 8 {#cap-8}
 
 * **1** E quando abriu o sétimo selo, fez-se silêncio no céu por cerca de meia hora.
 * **2** E vi os sete anjos que estão em pé diante de Deus, e foram-lhes dadas sete trombetas.
@@ -172,7 +181,7 @@
 * **12** E o quarto anjo tocou a trombeta; e foi ferida a terça parte do sol, a terça parte da lua e a terça parte das estrelas, para que a terça parte deles se escurecesse, e o dia não brilhasse pela sua terça parte, e a noite da mesma forma.
 * **13** E olhei, e ouvi uma águia voando pelo meio do céu, dizendo com grande voz: Ai, ai, ai dos que habitam sobre a terra, por causa das outras vozes das trombetas dos três anjos que ainda hão de tocar.
 
-## 9
+## 9 {#cap-9}
 
 * **1** E o quinto anjo tocou a trombeta; e vi uma estrela que do céu caíra sobre a terra; e foi-lhe dada a chave do poço do abismo;
 * **2** e abriu o poço do abismo, e subiu fumaça do poço como fumaça de uma grande fornalha, e o sol e o ar escureceram-se por causa da fumaça do poço.
@@ -196,7 +205,7 @@
 * **20** E os restantes dos homens, que não foram mortos por estas pragas, não se arrependeram das obras das suas mãos, para deixarem de adorar os demônios e os ídolos de ouro, de prata, de bronze, de pedra e de madeira, os quais não podem ver, nem ouvir, nem andar;
 * **21** e não se arrependeram dos seus homicídios, nem das suas feitiçarias, nem da sua prostituição, nem dos seus furtos.
 
-## 10
+## 10 {#cap-10}
 
 * **1** E vi outro anjo forte descendo do céu, vestido com uma nuvem, e o arco-íris estava sobre a sua cabeça, e o seu rosto era como o sol, e os seus pés como colunas de fogo;
 * **2** e tinha na sua mão um livrinho aberto. E pôs o seu pé direito sobre o mar e o esquerdo sobre a terra,
@@ -210,7 +219,7 @@
 * **10** E tomei o livrinho da mão do anjo e comi-o, e era na minha boca doce como mel; e, quando o comi, amargou o meu ventre.
 * **11** E dizem-me: Importa que profetizes outra vez a muitos povos, nações, línguas e reis.
 
-## 11
+## 11 {#cap-11}
 
 * **1** E foi-me dada uma cana semelhante a uma vara, dizendo: Levanta-te e mede o santuário de Deus e o altar, e os que nele adoram.
 * **2** Mas o átrio que está fora do santuário, deixa-o fora e não o meas, porque foi dado às nações, e pisarão a cidade santa por quarenta e dois meses.
@@ -232,7 +241,7 @@
 * **18** E as nações se iraram, e veio a tua ira, e o tempo de serem julgados os mortos, e de dares o galardão aos teus servos, os profetas, e aos santos, e aos que temem o teu nome, aos pequenos e aos grandes, e de destruíres os que destroem a terra.
 * **19** E abriu-se o santuário de Deus no céu, e a arca da sua aliança foi vista no seu santuário; e houve relâmpagos, vozes, trovões, terremoto e grande saraiva.
 
-## 12
+## 12 {#cap-12}
 
 * **1** E viu-se um grande sinal no céu: uma mulher vestida do sol, com a lua debaixo dos seus pés, e sobre a sua cabeça uma coroa de doze estrelas;
 * **2** e estava grávida, e clamava com as dores de parto, sofrendo tormento para dar à luz.
@@ -253,7 +262,7 @@
 * **17** E o dragão irou-se contra a mulher, e foi fazer guerra ao restante da sua descendência, os que guardam os mandamentos de Deus e têm o testemunho de Iēsous (Jesus).
 * **18** E pôs-se sobre a areia do mar.
 
-## 13
+## 13 {#cap-13}
 
 * **1** E vi subir do mar uma besta com dez chifres e sete cabeças, e sobre os seus chifres dez coroas, e sobre as suas cabeças nomes de blasfêmia.
 * **2** E a besta que vi era semelhante a um leopardo, e os seus pés como de urso, e a sua boca como a de leão; e o dragão deu-lhe o seu poder, e o seu trono, e grande autoridade.
@@ -274,7 +283,7 @@
 * **17** para que ninguém possa comprar ou vender, senão aquele que tiver o sinal, o nome da besta ou o número do seu nome.
 * **18** Aqui há sabedoria. Aquele que tem entendimento calcule o número da besta, pois é número de homem; e o seu número é seiscentos e sessenta e seis.
 
-## 14
+## 14 {#cap-14}
 
 * **1** E olhei, e eis o Cordeiro em pé sobre o monte Sião, e com ele cento e quarenta e quatro mil que tinham o seu nome e o nome do seu Patēr (Pai) escritos nas suas testas.
 * **2** E ouvi uma voz do céu como a voz de muitas águas, e como a voz de um grande trovão; e a voz que ouvi era como a de harpistas tocando as suas harpas.
@@ -297,7 +306,7 @@
 * **19** E o anjo lançou a sua gadanha na terra, e vindimou a videira da terra, e lançou-a no grande lagar da ira de Deus.
 * **20** E o lagar foi pisado fora da cidade, e saiu sangue do lagar até aos freios dos cavalos, por mil e seiscentos estádios.
 
-## 15
+## 15 {#cap-15}
 
 * **1** E vi outro grande e maravilhoso sinal no céu: sete anjos que tinham as sete últimas pragas, porque nelas se consumou a ira de Deus.
 * **2** E vi como que um mar de vidro misturado com fogo, e os que venceram a besta, e a sua imagem, e o número do seu nome, que estavam em pé sobre o mar de vidro, com as harpas de Deus.
@@ -308,7 +317,7 @@
 * **7** E um dos quatro seres viventes deu aos sete anjos sete taças de ouro, cheias da ira de Deus, que vive pelos séculos dos séculos.
 * **8** E o santuário encheu-se de fumaça, proveniente da glória de Deus e do seu poder; e ninguém podia entrar no santuário, até que se consumassem as sete pragas dos sete anjos.
 
-## 16
+## 16 {#cap-16}
 
 * **1** E ouvi uma grande voz do templo, dizendo aos sete anjos: Ide e derramai sobre a terra as sete taças da ira de Theos (Deus).
 * **2** E foi o primeiro e derramou a sua taça sobre a terra; e nasceu uma chaga má e dolorosa nos homens que tinham o sinal da besta e que adoravam a sua imagem.
@@ -332,7 +341,7 @@
 * **20** E toda ilha fugiu, e não se acharam montes.
 * **21** E caiu do céu sobre os homens grande saraiva, cada pedra do peso de um talento; e os homens blasfemaram a Theos (Deus) por causa da praga da saraiva, porque a sua praga é muito grande.
 
-## 17
+## 17 {#cap-17}
 
 * **1** E veio um dos sete anjos que tinham as sete taças e falou comigo, dizendo: Vem, mostrar-te-ei a sentença da grande prostituta que está sentada sobre muitas águas,
 * **2** com a qual se prostituíram os reis da terra, e os habitantes da terra se embriagaram com o vinho da sua prostituição.
@@ -353,7 +362,7 @@
 * **17** porque Theos (Deus) pôs nos seus corações que cumpram o propósito dele, e que tenham um mesmo propósito, e que deem à besta o seu reino, até que se cumpram as palavras de Theos (Deus).
 * **18** E a mulher que viste é a grande cidade que reina sobre os reis da terra.
 
-## 18
+## 18 {#cap-18}
 
 * **1** E depois destas coisas vi outro anjo descendo do céu, que tinha grande autoridade, e a terra foi iluminada com a sua glória.
 * **2** E clamou com voz forte, dizendo: Caiu, caiu Babilônia, a grande, e se tornou morada de demônios, e retiro de todo espírito imundo, e retiro de toda ave imunda e detestável,
@@ -380,7 +389,7 @@
 * **23** nunca mais brilhará em ti a luz de lamparina; nunca mais se ouvirá em ti voz de noivo e de noiva; porque os teus mercadores eram os grandes da terra, porque pela tua feitiçaria foram enganadas todas as nações;
 * **24** e nela se achou o sangue de profetas e de santos, e de todos os que foram mortos sobre a terra.
 
-## 19
+## 19 {#cap-19}
 
 * **1** Depois destas coisas, ouvi no céu como que uma grande voz de numerosa multidão, que dizia: Aleluia! A salvação, a glória e o poder pertencem ao nosso Theos (Deus),
 * **2** porque verdadeiras e justas são as suas sentenças; pois julgou a grande prostituta que corrompia a terra com a sua prostituição, e vingou o sangue dos seus servos das mãos dela.
@@ -404,7 +413,7 @@
 * **20** E a besta foi presa, e com ela o falso profeta que diante dela fizera os sinais, com os quais enganou os que receberam o sinal da besta e os que adoravam a sua imagem; vivos foram lançados os dois no lago de fogo que arde com enxofre.
 * **21** E os restantes foram mortos com a espada que saía da boca daquele que estava montado no cavalo, e todas as aves se fartaram das carnes deles.
 
-## 20
+## 20 {#cap-20}
 
 * **1** E vi descer do céu um anjo, que tinha a chave do abismo e uma grande cadeia na sua mão.
 * **2** E segurou o dragão, a antiga serpente, que é o Diabo e Satanás, e o amarrou por mil anos;
@@ -422,7 +431,7 @@
 * **14** E a morte e o inferno foram lançados no lago de fogo. Esta é a segunda morte, o lago de fogo.
 * **15** E se alguém não foi achado escrito no livro da vida, foi lançado no lago de fogo.
 
-## 21
+## 21 {#cap-21}
 
 * **1** E vi um novo céu e uma nova terra; porque o primeiro céu e a primeira terra passaram, e o mar já não existe mais.
 * **2** E vi a cidade santa, a nova Jerusalém, que de Deus descia do céu, preparada como uma noiva adornada para o seu marido.
@@ -452,7 +461,7 @@
 * **26** e a ela trarão a glória e a honra das nações;
 * **27** E não entrará nela coisa alguma impura, nem quem pratique abominação e mentira, mas somente os que estão inscritos no livro da vida do Arníon (Cordeiro).
 
-## 22
+## 22 {#cap-22}
 
 * **1** E mostrou-me um rio de água da vida, claro como cristal, que procedia do trono de Theos (Deus) e do Arníon (Cordeiro),
 * **2** no meio da sua praça; e de um lado e de outro do rio estava a árvore da vida, que produz doze frutos, segundo cada mês, e as suas folhas servem para a cura das nações.

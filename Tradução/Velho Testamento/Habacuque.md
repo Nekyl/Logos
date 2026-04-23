@@ -1,11 +1,18 @@
+<!-- topo -->
 # Habacuque
 
 <!-- INDICE -->
-**Índice:** [1](1) · [2](2) · [3](3)
+## 📜 Índice
+
+**3 capítulos**
+[1](#cap-1) · [2](#cap-2) · [3](#cap-3)
+
+<div align="right"><a href="#topo"><strong>▲ Voltar ao topo</strong></a></div>
 
 <!-- FIM_INDICE -->
 
-## 1
+
+## 1 {#cap-1}
 
 * **1** A sentença que o profeta Habacuque recebeu em visão.
 * **2** Até quando, YHWH (SENHOR), clamarei eu, e Tu não escutarás? Gritarei a Ti: "Violência!", e Tu não salvarás?
@@ -25,7 +32,7 @@
 * **16** Por isso sacrificam à sua rede e queimam incenso à sua rede varredoura; porque por elas a sua porção é gorda e o seu alimento é farto.
 * **17** Porventura por isso esvaziarão a sua rede e não deixarão de matar as nações continuamente?
 
-## 2
+## 2 {#cap-2}
 
 * **1** Estarei na minha torre de vigia, colocar-me-ei sobre a fortaleza e vigiarei para ver o que Ele me dirá e o que responderei à minha queixa.
 * **2** E YHWH me respondeu e disse: Escreve a visão, grava-a sobre tábuas, para que possa ler quem passa correndo.
@@ -48,7 +55,7 @@
 * **19** Ai daquele que diz ao pau: Acorda! E à pedra muda: Desperta! Pode isso ensinar? Eis que está coberto de ouro e prata, mas não há fôlego nenhum no seu interior.
 * **20** Mas YHWH está no Seu santo templo; cale-se diante d'Ele toda a terra.
 
-## 3
+## 3 {#cap-3}
 
 * **1** Oração do profeta Habacuque, sobre Shigionot.
 * **2** YHWH, ouvi a Tua fama e temi; aviva a Tua obra, YHWH, no meio dos anos; no meio dos anos faze-a conhecida; na ira, lembra-te da misericórdia.

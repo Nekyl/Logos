@@ -1,11 +1,18 @@
+<!-- topo -->
 # Malaquias
 
 <!-- INDICE -->
-**Índice:** [1](1) · [2](2) · [3](3) · [4](4)
+## 📜 Índice
+
+**4 capítulos**
+[1](#cap-1) · [2](#cap-2) · [3](#cap-3) · [4](#cap-4)
+
+<div align="right"><a href="#topo"><strong>▲ Voltar ao topo</strong></a></div>
 
 <!-- FIM_INDICE -->
 
-## 1
+
+## 1 {#cap-1}
 
 * **1** Sentença profética da palavra de YHWH (SENHOR) a Israel por intermédio de Malaquias.
 * **2** Eu vos amei, diz YHWH, mas vós dizeis: Em que nos tens amado? Não era Esaú irmão de Jacó? diz YHWH, contudo amei a Jacó,
@@ -22,7 +29,7 @@
 * **13** E dizeis: Que canseira! E a desprezais, diz YHWH dos Exércitos; trazeis o roubado, o coxo e o enfermo; assim trazeis a oferta. Aceitarei eu isso da vossa mão? diz YHWH.
 * **14** Maldito seja o enganador que, tendo um macho no seu rebanho, faz um voto e sacrifica ao Adonai o que é defeituoso; porque eu sou um grande Rei, diz YHWH dos Exércitos, e o meu nome é temível entre as nações.
 
-## 2
+## 2 {#cap-2}
 
 * **1** Agora, pois, ó sacerdotes, esta ordem é para vós.
 * **2** Se não ouvirdes e se não propuserdes no vosso coração dar honra ao meu nome, diz YHWH dos Exércitos, enviarei sobre vós a maldição e amaldiçoarei as vossas bênçãos; e já as tenho amaldiçoado, porque não pondes isso no coração.
@@ -42,7 +49,7 @@
 * **16** Porque YHWH, o Elohim de Israel, diz que odeia o repúdio e aquele que cobre de violência a sua veste, diz YHWH dos Exércitos; portanto, guardai-vos em vosso espírito e não sejais desleais.
 * **17** Enfadais a YHWH com as vossas palavras. E ainda dizeis: Em que o enfadamos? Quando dizeis: Qualquer que faz o mal é bom aos olhos de YHWH, e nesses ele se deleita; ou: Onde está o Elohim do juízo?
 
-## 3
+## 3 {#cap-3}
 
 * **1** Eis que eu envio o meu mensageiro, que preparará o caminho diante de mim; e de repente virá ao seu templo o Adonai, a quem vós buscais, o mensageiro da aliança, a quem vós desejais, eis que ele vem, diz YHWH dos Exércitos.
 * **2** Mas quem suportará o dia da sua vinda? E quem subsistirá, quando ele aparecer? Porque ele é como o fogo do ourives e como o sabão dos lavandeiros.
@@ -63,7 +70,7 @@
 * **17** E eles serão meus, diz YHWH dos Exércitos, naquele dia que farei, serão para mim particular tesouro; poupá-los-ei como um homem poupa a seu filho que o serve.
 * **18** Então voltareis e vereis a diferença entre o justo e o ímpio; entre o que serve a Elohim e o que não o serve.
 
-## 4
+## 4 {#cap-4}
 
 * **1** Porque eis que aquele dia vem, ardendo como fornalha; todos os soberbos e todos os que cometem impiedade serão como o restolho; e o dia que está para vir os abrasará, diz YHWH dos Exércitos, de sorte que não lhes deixará nem raiz nem ramo.
 * **2** Mas para vós, os que temeis o meu nome, nascerá o sol da justiça e cura trará nas suas asas; e saireis e saltareis como bezerros da estrebaria.

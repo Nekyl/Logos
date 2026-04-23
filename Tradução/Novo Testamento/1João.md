@@ -1,11 +1,18 @@
+<!-- topo -->
 # 1 João
 
 <!-- INDICE -->
-**Índice:** [1](1) · [2](2) · [3](3) · [4](4) · [5](5)
+## 📜 Índice
+
+**5 capítulos**
+[1](#cap-1) · [2](#cap-2) · [3](#cap-3) · [4](#cap-4) · [5](#cap-5)
+
+<div align="right"><a href="#topo"><strong>▲ Voltar ao topo</strong></a></div>
 
 <!-- FIM_INDICE -->
 
-## 1
+
+## 1 {#cap-1}
 
 * **1** O que era desde o princípio, o que ouvimos, o que vimos com os nossos olhos, o que contemplamos e as nossas mãos apalparam, a respeito do Verbo da vida—
 * **2** e a vida se manifestou, e nós a vimos, e testemunhamos, e anunciamos a vocês a vida eterna que estava junto ao Patēr (Pai) e nos foi manifestada—
@@ -18,7 +25,7 @@
 * **9** Se confessarmos os nossos pecados, ele é fiel e justo para nos perdoar os pecados e nos purificar de toda injustiça.
 * **10** Se dissermos que não pecamos, fazemo-lo mentiroso, e a sua palavra não está em nós.
 
-## 2
+## 2 {#cap-2}
 
 * **1** Filhinhos meus, escrevo-lhes estas coisas para que não pequem. E, se alguém pecar, temos um advogado junto ao Pai, Jesus Messias, o justo;
 * **2** e ele é a propiciação pelos nossos pecados, e não somente pelos nossos, mas também pelos de todo o mundo.
@@ -50,7 +57,7 @@
 * **28** E agora, filhinhos, permaneçam nele, para que, se ele se manifestar, tenhamos confiança e não sejamos envergonhados diante dele na sua vinda.
 * **29** Se sabem que ele é justo, saibam que todo aquele que pratica a justiça é nascido dele.
 
-## 3
+## 3 {#cap-3}
 
 * **1** Vejam que amor o Pai nos tem concedido, a ponto de sermos chamados filhos de Deus; e nós o somos. Por isso o mundo não nos conhece, porque não o conheceu.
 * **2** Amados, agora somos filhos de Deus, e ainda não se manifestou o que seremos. Sabemos que, se ele se manifestar, seremos semelhantes a ele, porque o veremos como ele é.
@@ -77,7 +84,7 @@
 * **23** E este é o seu mandamento: que creiamos no nome do seu filho Iēsous Christos (Jesus Messias) e nos amemos uns aos outros, assim como ele nos deu mandamento.
 * **24** E aquele que guarda os seus mandamentos permanece nele, e ele nele; e nisto sabemos que ele permanece em nós, pelo Pneuma Hagion (Espírito Santo) que ele nos deu.
 
-## 4
+## 4 {#cap-4}
 
 * **1** Amados, não creiam em todo espírito, mas provem os espíritos se procedem de Deus, porque muitos falsos profetas têm saído pelo mundo.
 * **2** Nisto conhecem o espírito de Deus: todo espírito que confessa que Jesus Messias veio em carne procede de Deus;
@@ -101,7 +108,7 @@
 * **20** Se alguém disser: Amo a Deus, e odiar o seu irmão, é mentiroso; pois aquele que não ama o seu irmão, a quem viu, não pode amar a Deus, a quem não viu.
 * **21** E temos dele este mandamento: que aquele que ama a Deus ame também o seu irmão.
 
-## 5
+## 5 {#cap-5}
 
 * **1** Todo aquele que crê que Jesus é o Messias é nascido de Deus, e todo aquele que ama o que gerou ama também o que dele é nascido.
 * **2** Nisto sabemos que amamos os filhos de Deus: quando amamos a Deus e guardamos os seus mandamentos.

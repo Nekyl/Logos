@@ -1,11 +1,19 @@
+<!-- topo -->
 # Romanos
 
 <!-- INDICE -->
-**Índice:** [1](1) · [2](2) · [3](3) · [4](4) · [5](5) · [6](6) · [7](7) · [8](8) · [9](9) · [10](10) · [11](11) · [12](12) · [13](13) · [14](14) · [15](15) · [16](16)
+## 📜 Índice
+
+**16 capítulos**
+[1](#cap-1) · [2](#cap-2) · [3](#cap-3) · [4](#cap-4) · [5](#cap-5) · [6](#cap-6) · [7](#cap-7) · [8](#cap-8) · [9](#cap-9) · [10](#cap-10)
+[11](#cap-11) · [12](#cap-12) · [13](#cap-13) · [14](#cap-14) · [15](#cap-15) · [16](#cap-16)
+
+<div align="right"><a href="#topo"><strong>▲ Voltar ao topo</strong></a></div>
 
 <!-- FIM_INDICE -->
 
-## 1
+
+## 1 {#cap-1}
 
 * **1** Paulo, servo de Christos Iēsous (Messias Jesus), chamado para ser apóstolo, separado para o evangelho de Theos (Deus),
 * **2** que Ele prometeu anteriormente por meio de seus profetas nas sagradas escrituras,
@@ -40,7 +48,7 @@
 * **31** insensatos, desleais, sem afeição natural, sem misericórdia;
 * **32** os quais, conhecendo bem o decreto de Deus, de que os que praticam tais coisas são dignos de morte, não somente as fazem, mas também aprovam os que as praticam.
 
-## 2
+## 2 {#cap-2}
 
 * **1** Portanto, és indesculpável, ó homem, qualquer que sejas, tu que julgas; pois, naquilo em que julgas o outro, condenas a ti mesmo, pois tu, que julgas, fazes as mesmas coisas.
 * **2** Sabemos que o juízo de Deus é segundo a verdade contra os que praticam tais coisas.
@@ -72,7 +80,7 @@
 * **28** Pois não é judeu o que o é exteriormente, nem é circuncisão a que o é exteriormente na carne;
 * **29** mas judeu é o que o é interiormente, e circuncisão é a do coração, no espírito, não na letra; cujo louvor não provém dos homens, mas de Deus.
 
-## 3
+## 3 {#cap-3}
 
 * **1** Qual é, pois, a vantagem do judeu, ou qual o proveito da circuncisão?
 * **2** Muita, de toda maneira. Primeiramente, porque a eles foram confiados os oráculos de Deus.
@@ -106,7 +114,7 @@
 * **30** se é que um só é o Deus, que justificará pela fé tanto os circuncisos quanto os incircuncisos.
 * **31** Anulamos, pois, a lei pela fé? De modo nenhum; antes, estabelecemos a lei.
 
-## 4
+## 4 {#cap-4}
 
 * **1** Que diremos, pois, ter alcançado Abraão, nosso antepassado segundo a carne?
 * **2** Porque, se Abraão foi justificado pelas obras, tem de que se gloriar; mas não diante de Deus.
@@ -134,7 +142,7 @@
 * **24** mas também por nossa causa, a quem há de ser imputado, aos que cremos naquele que ressuscitou Iēsous, nosso Kyrios, dentre os mortos,
 * **25** o qual foi entregue por causa das nossas transgressões e ressuscitou para a nossa justificação.
 
-## 5
+## 5 {#cap-5}
 
 * **1** Justificados, pois, pela fé, temos paz com Deus por meio de nosso Kyrios Iēsous Christos,
 * **2** por meio de quem obtivemos também acesso pela fé a esta graça na qual estamos firmes, e nos gloriamos na esperança da glória de Deus;
@@ -158,7 +166,7 @@
 * **20** A lei, porém, entrou para que a ofensa abundasse; mas onde o pecado abundou, a graça superabundou,
 * **21** para que, assim como o pecado reinou na morte, também a graça reine pela justiça para a vida eterna, por meio de Iēsous Christos, nosso Kyrios.
 
-## 6
+## 6 {#cap-6}
 
 * **1** Que diremos, pois? Permaneceremos no pecado, para que a graça abunde?
 * **2** De modo nenhum; nós, que morremos para o pecado, como viveremos ainda nele?
@@ -184,7 +192,7 @@
 * **22** Mas agora, libertados do pecado e feitos servos de Deus, tendes o vosso fruto para a santificação, e por fim a vida eterna.
 * **23** Pois o salário do pecado é a morte, mas o dom gratuito de Deus é a vida eterna em Christos Iēsous, nosso Kyrios.
 
-## 7
+## 7 {#cap-7}
 
 * **1** Ou ignorais, irmãos — pois falo aos que conhecem a lei — que a lei tem domínio sobre o homem por todo o tempo em que ele vive?
 * **2** Pois a mulher casada está ligada pela lei ao marido enquanto ele vive; mas, se o marido morrer, ela está livre da lei do marido.
@@ -212,7 +220,7 @@
 * **24** Miserável homem que eu sou! Quem me livrará do corpo desta morte?
 * **25** Graças a Deus por Iēsous Christos, nosso Kyrios. De maneira que eu mesmo, com o entendimento, sirvo à lei de Deus, mas, com a carne, à lei do pecado.
 
-## 8
+## 8 {#cap-8}
 
 * **1** Portanto, agora nenhuma condenação há para os que estão em Christos Iēsous.
 * **2** Pois a lei do espírito da vida em Christos Iēsous me libertou da lei do pecado e da morte.
@@ -254,7 +262,7 @@
 * **38** Pois estou convencido de que nem a morte, nem a vida, nem os anjos, nem os principados, nem as coisas presentes, nem as futuras, nem os poderes,
 * **39** nem a altura, nem a profundidade, nem qualquer outra criatura poderá nos separar do amor de Theos (Deus), que está em Christo Iēsou (Cristo Jesus), o Kyrios (Senhor) nosso.
 
-## 9
+## 9 {#cap-9}
 
 * **1** Digo a verdade em Christo, não minto, dando-me testemunho a minha consciência no Pneuma Hagion (Espírito Santo),
 * **2** que tenho grande tristeza e contínua dor no meu coração;
@@ -290,7 +298,7 @@
 * **32** Por quê? Porque não a buscavam pela fé, mas como que pelas obras; tropeçaram na pedra de tropeço,
 * **33** como está escrito: Eis que ponho em Sião uma pedra de tropeço e uma rocha de escândalo, e aquele que nela crê não será envergonhado.
 
-## 10
+## 10 {#cap-10}
 
 * **1** Irmãos, o desejo do meu coração e a minha oração a Theos por eles é para a salvação.
 * **2** Pois lhes dou testemunho de que têm zelo de Theos, mas não com entendimento.
@@ -314,7 +322,7 @@
 * **20** E Isaías ousa dizer: Fui achado pelos que não me buscavam, manifestei-me aos que não perguntavam por mim.
 * **21** Mas para com Israel diz: Todo o dia estendi as minhas mãos a um povo desobediente e contradizente.
 
-## 11
+## 11 {#cap-11}
 
 * **1** Digo, pois: Porventura Theos rejeitou o seu povo? De modo nenhum; porque também eu sou israelita, da descendência de Abraão, da tribo de Benjamim.
 * **2** Theos não rejeitou o seu povo que antes conheceu. Ou não sabeis o que a Escritura diz de Elias, como ele intercede junto a Theos contra Israel?
@@ -353,7 +361,7 @@
 * **35** Ou quem lhe deu primeiro a ele, para que lhe seja recompensado?
 * **36** Porque dele, e por ele, e para ele são todas as coisas; glória, pois, a ele eternamente, amém.
 
-## 12
+## 12 {#cap-12}
 
 * **1** Rogo-vos, pois, irmãos, pelas misericórdias de Theos, que apresenteis os vossos corpos como sacrifício vivo, santo e agradável a Theos, que é o vosso culto racional;
 * **2** e não vos conformeis com este mundo, mas transformai-vos pela renovação do vosso entendimento, para que experimenteis qual seja a boa, agradável e perfeita vontade de Theos.
@@ -377,7 +385,7 @@
 * **20** Mas, se o teu inimigo tiver fome, dá-lhe de comer; se tiver sede, dá-lhe de beber; porque, fazendo isto, amontoarás brasas de fogo sobre a sua cabeça.
 * **21** Não te deixes vencer pelo mal, mas vence o mal com o bem.
 
-## 13
+## 13 {#cap-13}
 
 * **1** Toda a alma esteja sujeita às autoridades superiores; porque não há autoridade que não venha de Theos, e as que existem foram ordenadas por Theos.
 * **2** Por isso, quem resiste à autoridade resiste à ordenação de Theos; e os que resistem trarão sobre si mesmos a condenação.
@@ -394,7 +402,7 @@
 * **13** Andemos honestamente, como de dia, não em glutonarias e bebedeiras, não em desonestidades e dissoluções, não em contendas e inveja.
 * **14** Mas revesti-vos do Kyrios Iēsous Christos (Senhor Jesus Cristo), e não tenhais cuidado da carne em suas concupiscências.
 
-## 14
+## 14 {#cap-14}
 
 * **1** Ora, quanto ao que é fraco na fé, recebei-o, não em contendas sobre dúvidas.
 * **2** Porque um crê que de tudo pode comer, mas o que é fraco come legumes.
@@ -420,7 +428,7 @@
 * **22** A fé que você tem, guarde-a para si mesmo diante de Theos (Deus). Feliz é aquele que não se condena naquilo que aprova.
 * **23** Mas aquele que tem dúvidas, se comer, está condenado, porque não age por fé; e tudo o que não provém de fé é pecado.
 
-## 15
+## 15 {#cap-15}
 
 * **1** Nós, que somos fortes, devemos suportar as fraquezas dos fracos, e não buscar o que agrada a nós mesmos.
 * **2** Que cada um de nós agrade ao próximo para o bem, visando a edificação.
@@ -456,7 +464,7 @@
 * **32** para que, com alegria, chegando a vocês pela vontade de Theou (Deus), eu descanse junto com vocês.
 * **33** Que o Theos (Deus) da paz esteja com todos vocês. Amém.
 
-## 16
+## 16 {#cap-16}
 
 * **1** Recomendo-lhes Febe, nossa irmã, que é também serva da igreja que está em Cencreia,
 * **2** para que a recebam no Kyriō (Senhor) de maneira digna dos santos, e a ajudem em qualquer coisa que precisarem de vocês, pois ela tem sido protetora de muitos e de mim mesmo.

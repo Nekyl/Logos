@@ -1,11 +1,19 @@
+<!-- topo -->
 # Neemias
 
 <!-- INDICE -->
-**Índice:** [1](1) · [2](2) · [3](3) · [4](4) · [5](5) · [6](6) · [7](7) · [8](8) · [9](9) · [10](10) · [11](11) · [12](12) · [13](13)
+## 📜 Índice
+
+**13 capítulos**
+[1](#cap-1) · [2](#cap-2) · [3](#cap-3) · [4](#cap-4) · [5](#cap-5) · [6](#cap-6) · [7](#cap-7) · [8](#cap-8) · [9](#cap-9) · [10](#cap-10)
+[11](#cap-11) · [12](#cap-12) · [13](#cap-13)
+
+<div align="right"><a href="#topo"><strong>▲ Voltar ao topo</strong></a></div>
 
 <!-- FIM_INDICE -->
 
-## 1
+
+## 1 {#cap-1}
 
 * **1** Estas são as palavras de Neemias, filho de Hacalias. No mês de Quisleu, no vigésimo ano, estando eu na cidadela de Susã,
 * **2** Hanani, um dos meus irmãos, chegou com alguns homens de Judá. Perguntei-lhes sobre os judeus que haviam escapado e sobrevivido ao cativeiro, e sobre Jerusalém.
@@ -19,7 +27,7 @@
 * **10** Eles são os teus servos e o teu povo, que resgataste com o teu grande poder e com a tua mão forte.
 * **11** Ah, Adonai (Senhor), estejam atentos os teus ouvidos à oração do teu servo e à oração dos teus servos que desejam temer o teu nome; concede sucesso hoje ao teu servo e dá-lhe misericórdia diante deste homem." Ora, eu era copeiro do rei.
 
-## 2
+## 2 {#cap-2}
 
 * **1** No mês de Nisã, no vigésimo ano do rei Artaxerxes, estando o vinho diante dele, tomei o vinho e o entreguei ao rei. Eu nunca estivera triste diante dele.
 * **2** O rei me perguntou: "Por que o teu rosto está triste, se não estás doente? Isso não é nada além de tristeza de coração." Então, temi muito.
@@ -42,7 +50,7 @@
 * **19** Quando Sambalate, o horonita, Tobias, o servo amonita, e Gesém, o árabe, souberam disso, zombaram de nós, desprezaram-nos e disseram: "Que é isto que vocês estão fazendo? Estão se rebelando contra o rei?"
 * **20** Respondi-lhes: "O Elohim dos céus é quem nos dará sucesso; nós, seus servos, nos levantaremos e edificaremos. Mas vocês não têm parte, nem direito, nem memorial em Jerusalém."
 
-## 3
+## 3 {#cap-3}
 
 * **1** Levantou-se o sumo sacerdote Eliasibe com os seus irmãos, os sacerdotes, e edificaram a Porta das Ovelhas; consagraram-na e assentaram as suas portas; consagraram-na até à Torre dos Cem e até à Torre de Hananeel.
 * **2** Ao lado dele, edificaram os homens de Jericó; e ao lado deles, edificou Zacur, filho de Inri.
@@ -77,7 +85,7 @@
 * **31** Depois dele, Malquias, filho do ourives, reparou até à casa dos servidores do templo e dos mercadores, defronte da Porta da Inspeção, e até à câmara da esquina.
 * **32** Entre a câmara da esquina e a Porta das Ovelhas, repararam os ourives e os mercadores.
 
-## 4
+## 4 {#cap-4}
 
 * **1** Quando Sambalate soube que estávamos edificando o muro, enfureceu-se, irritou-se muito e zombou dos judeus.
 * **2** Disse diante dos seus irmãos e do exército de Samaria: "Que fazem estes fracos judeus? Irão eles restaurar tudo? Sacrificarão? Acabarão a obra num dia? Farão viver pedras de montões de pó, sendo que estão queimadas?"
@@ -103,7 +111,7 @@
 * **22** Naquele tempo, também disse ao povo: "Que cada um, com o seu servo, pernoite dentro de Jerusalém, para que de noite nos sirvam de guarda e de dia trabalhem."
 * **23** Nem eu, nem os meus irmãos, nem os meus servos, nem os homens da guarda que me seguiam, tirávamos as nossas roupas; cada um levava a sua arma até para a água.
 
-## 5
+## 5 {#cap-5}
 
 * **1** Houve um grande clamor do povo e de suas mulheres contra os seus irmãos, os judeus.
 * **2** Havia os que diziam: "Nós, nossos filhos e nossas filhas somos muitos; precisamos de trigo para comer e viver."
@@ -125,7 +133,7 @@
 * **18** O que se preparava para cada dia era um boi e seis ovelhas escolhidas; também aves eram preparadas para mim, e de dez em dez dias, muito vinho de todas as espécies. Com tudo isso, não exigi o pão do governador, porque a servidão era pesada sobre este povo.
 * **19** Lembra-te de mim para o bem, meu Elohim, por tudo o que fiz por este povo.
 
-## 6
+## 6 {#cap-6}
 
 * **1** Quando Sambalate, Tobias, Gesém, o árabe, e o restante dos nossos inimigos souberam que eu tinha edificado o muro e que nele não restava brecha alguma — embora até aquele tempo eu não tivesse assentado as portas nos portais —,
 * **2** Sambalate e Gesém enviaram-me uma mensagem: "Vem, encontremo-nos em Quefirim, na planície de Ono." Mas eles planejavam fazer-me mal.
@@ -147,7 +155,7 @@
 * **18** Pois muitos em Judá eram seus aliados, porque ele era genro de Secanias, filho de Ará, e seu filho Joanã tinha tomado por mulher a filha de Mesulão, filho de Berequias.
 * **19** Também falavam das suas boas ações diante de mim e levavam as minhas palavras a ele. Tobias enviava cartas para me atemorizar.
 
-## 7
+## 7 {#cap-7}
 
 * **1** Quando o muro foi edificado, assentei as portas, e foram designados os porteiros, os cantores e os levitas.
 * **2** Dei ordens ao meu irmão Hanani e a Hananias, chefe da cidadela, sobre Jerusalém, pois ele era um homem fiel e temente a Elohim mais do que muitos.
@@ -223,7 +231,7 @@
 * **72** E o que o restante do povo deu foi vinte mil dracmas de ouro, duas mil minas de prata e sessenta e sete túnicas sacerdotais.
 * **73** Assim, os sacerdotes, os levitas, os porteiros, os cantores, alguns do povo, os servidores do templo e todo o Israel habitaram nas suas cidades. Chegado o sétimo mês, os filhos de Israel estavam nas suas cidades.
 
-## 8
+## 8 {#cap-8}
 
 * **1** Então todo o povo se ajuntou como um só homem na praça que estava diante da Porta das Águas; e disseram a Esdras, o escriba, que trouxesse o livro da Lei de Moisés, que YHWH (SENHOR) tinha ordenado a Israel.
 * **2** E Esdras, o sacerdote, trouxe a Lei perante a congregação, tanto de homens como de mulheres, e todos os que podiam entender o que ouviam, no primeiro dia do sétimo mês.
@@ -244,7 +252,7 @@
 * **17** E toda a congregação dos que tinham voltado do cativeiro fez cabanas e habitou nelas; porque nunca fizeram assim os filhos de Israel, desde os dias de Jesua, filho de Num, até àquele dia; e houve mui grande alegria.
 * **18** E, de dia em dia, lia-se no livro da Lei de Elohim (Deus), desde o primeiro dia até ao último; e fizeram a festa por sete dias, e no oitavo dia, houve uma assembleia solene, segundo o costume.
 
-## 9
+## 9 {#cap-9}
 
 * **1** E, no dia vinte e quatro deste mês, ajuntaram-se os filhos de Israel com jejum, vestidos de pano de saco e com terra sobre si.
 * **2** E a linhagem de Israel separou-se de todos os estranhos, puseram-se em pé e confessaram os seus pecados e as iniquidades de seus pais.
@@ -285,7 +293,7 @@
 * **37** E ela produz muito fruto para os reis que puseste sobre nós, por causa dos nossos pecados; e eles dominam sobre os nossos corpos e sobre os nossos animais, como lhes apraz; e estamos em grande angústia.
 * **38** E, por causa de tudo isto, fazemos uma aliança fiel e a escrevemos; e os nossos príncipes, os nossos levitas e os nossos sacerdotes a assinam.
 
-## 10
+## 10 {#cap-10}
 
 * **1** E os que assinaram foram: Neemias, o governador, filho de Hacalias, e Zedequias.
 * **2** Seraías, Azarias, Jeremias.
@@ -327,7 +335,7 @@
 * **38** E o sacerdote, filho de Arão, estaria com os levitas, quando os levitas recebessem os dízimos; e os levitas trariam a décima parte dos dízimos à casa do nosso Elohim (Deus), às câmaras da casa do tesouro.
 * **39** Porque àquelas câmaras os filhos de Israel e os filhos de Levi devem trazer a oferta alçada do grão, do vinho e do azeite; porquanto ali estão os utensílios do santuário, os sacerdotes que ministram, os porteiros e os cantores; e que não desampararíamos a casa do nosso Elohim (Deus).
 
-## 11
+## 11 {#cap-11}
 
 * **1** E os chefes do povo habitaram em Jerusalém; e o restante do povo lançou sortes, para trazer um de cada dez para habitar em Jerusalém, a cidade santa, e as outras nove partes nas outras cidades.
 * **2** E o povo bendisse a todos os homens que voluntariamente se ofereceram para habitar em Jerusalém.
@@ -366,7 +374,7 @@
 * **35** Lode e Ono, o vale dos artífices.
 * **36** E das divisões dos levitas, algumas de Judá foram para Benjamim.
 
-## 12
+## 12 {#cap-12}
 
 * **1** Estes são os sacerdotes e os levitas que subiram com Zorobabel, filho de Salatiel, e Jesua: Seraías, Jeremias, Esdras;
 * **2** Amarias, Maluque, Hatus;
@@ -416,7 +424,7 @@
 * **46** Pois, nos dias de Davi e de Asafe, desde a antiguidade, havia chefes dos cantores e cânticos de louvor e ações de graças a Elohim (Deus).
 * **47** Todo o Israel, nos dias de Zorobabel e nos dias de Neemias, dava as porções dos cantores e dos porteiros, conforme a necessidade de cada dia; santificavam as porções para os levitas, e os levitas santificavam as porções para os filhos de Arão.
 
-## 13
+## 13 {#cap-13}
 
 * **1** Naquele dia, leu-se o livro de Moisés aos ouvidos do povo, e achou-se escrito nele que os amonitas e os moabitas não deveriam entrar na congregação de Elohim (Deus) para sempre;
 * **2** Porque não saíram ao encontro dos filhos de Israel com pão e água, e contrataram Balaão contra eles para os amaldiçoar; mas o nosso Elohim (Deus) converteu a maldição em bênção.

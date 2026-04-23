@@ -1,11 +1,22 @@
+<!-- topo -->
 # Jó
 
 <!-- INDICE -->
-**Índice:** [1](1) · [2](2) · [3](3) · [4](4) · [5](5) · [6](6) · [7](7) · [8](8) · [9](9) · [10](10) · [11](11) · [12](12) · [13](13) · [14](14) · [15](15) · [16](16) · [17](17) · [18](18) · [19](19) · [20](20) · [21](21) · [22](22) · [23](23) · [24](24) · [25](25) · [26](26) · [27](27) · [28](28) · [29](29) · [30](30) · [31](31) · [32](32) · [33](33) · [34](34) · [35](35) · [36](36) · [37](37) · [38](38) · [39](39) · [40](40) · [41](41) · [42](42)
+## 📜 Índice
+
+**42 capítulos**
+[1](#cap-1) · [2](#cap-2) · [3](#cap-3) · [4](#cap-4) · [5](#cap-5) · [6](#cap-6) · [7](#cap-7) · [8](#cap-8) · [9](#cap-9) · [10](#cap-10)
+[11](#cap-11) · [12](#cap-12) · [13](#cap-13) · [14](#cap-14) · [15](#cap-15) · [16](#cap-16) · [17](#cap-17) · [18](#cap-18) · [19](#cap-19) · [20](#cap-20)
+[21](#cap-21) · [22](#cap-22) · [23](#cap-23) · [24](#cap-24) · [25](#cap-25) · [26](#cap-26) · [27](#cap-27) · [28](#cap-28) · [29](#cap-29) · [30](#cap-30)
+[31](#cap-31) · [32](#cap-32) · [33](#cap-33) · [34](#cap-34) · [35](#cap-35) · [36](#cap-36) · [37](#cap-37) · [38](#cap-38) · [39](#cap-39) · [40](#cap-40)
+[41](#cap-41) · [42](#cap-42)
+
+<div align="right"><a href="#topo"><strong>▲ Voltar ao topo</strong></a></div>
 
 <!-- FIM_INDICE -->
 
-## 1
+
+## 1 {#cap-1}
 
 * **1** Havia um homem na terra de Uz, chamado Jó; esse homem era íntegro, reto, temente a Elohim (Deus) e desviava-se do mal.
 * **2** Nasceram-lhe sete filhos e três filhas.
@@ -30,7 +41,7 @@
 * **21** E disse: "Nu saí do ventre de minha mãe e nu voltarei para lá. YHWH deu e YHWH tomou; bendito seja o nome de YHWH."
 * **22** Em tudo isso, Jó não pecou, nem atribuiu a Elohim falta alguma.
 
-## 2
+## 2 {#cap-2}
 
 * **1** Certo dia, os filhos de Elohim vieram apresentar-se perante YHWH, e o Satã veio também entre eles apresentar-se perante YHWH.
 * **2** YHWH disse ao Satã: "De onde vens?" O Satã respondeu a YHWH: "De rodear a terra e passear por ela".
@@ -46,7 +57,7 @@
 * **12** Levantando os olhos de longe, não o reconheceram; levantaram a voz e choraram, rasgaram cada um o seu manto e lançaram pó sobre as suas cabeças para o céu.
 * **13** Sentaram-se com ele na terra por sete dias e sete noites, e ninguém lhe dizia palavra alguma, pois viam que a dor era muito grande.
 
-## 3
+## 3 {#cap-3}
 
 * **1** Depois disso, Jó abriu a boca e amaldiçoou o seu dia.
 * **2** Jó respondeu e disse:
@@ -75,7 +86,7 @@
 * **25** "Porque o que eu temia me sobreveio, e o que receava me aconteceu."
 * **26** "Não tive paz, não estive tranquilo, não descansei, e contudo veio a perturbação."
 
-## 4
+## 4 {#cap-4}
 
 * **1** Então Elifaz, o temanita, respondeu e disse:
 * **2** "Se tentarmos falar contigo, te enfadarás? Mas quem poderá conter as palavras?"
@@ -99,7 +110,7 @@
 * **20** "Desde a manhã até à tarde são feridos; perecem para sempre, sem que ninguém atente para isso."
 * **21** "Não se lhes arranca a corda da tenda? Morrem, e não em sabedoria."
 
-## 5
+## 5 {#cap-5}
 
 * **1** "Clama agora; há alguém que te responda? E a qual dos santos te voltarás?"
 * **2** "Pois a ira mata o insensato, e a inveja tira o tolo."
@@ -129,7 +140,7 @@
 * **26** "Virás em velhice à sepultura, como o feixe de trigo colhido a seu tempo."
 * **27** "Eis que isto pesquisamos; assim é. Ouve-o e conhece-o para teu bem."
 
-## 6
+## 6 {#cap-6}
 
 * **1** Então Jó respondeu e disse:
 * **2** "Ah, se a minha mágoa fosse pesada, e a minha calamidade fosse posta numa balança!"
@@ -162,7 +173,7 @@
 * **29** "Voltai, peço-vos, não haja injustiça; voltai, pois a minha justiça ainda está nela."
 * **30** "Há injustiça na minha língua? Ou não poderia o meu paladar discernir a calamidade?"
 
-## 7
+## 7 {#cap-7}
 
 * **1** "Não é uma luta a vida do homem sobre a terra? E os seus dias não são como os de um mercenário?"
 * **2** "Como o servo que suspira pela sombra e como o mercenário que espera pelo seu salário,"
@@ -186,7 +197,7 @@
 * **20** Se pequei, que mal te fiz, ó observador dos homens? Por que me fizeste teu alvo, para que eu seja um peso para mim mesmo?
 * **21** Por que não perdoas a minha transgressão e não removes a minha iniquidade? Pois logo me deitarei no pó; tu me buscarás, e eu já não existirei.
 
-## 8
+## 8 {#cap-8}
 
 * **1** Então respondeu Bildade, o suíta, e disse:
 * **2** Até quando falarás tais coisas? As palavras da tua boca são como um vento impetuoso.
@@ -211,7 +222,7 @@
 * **21** Até que Ele encha a tua boca de riso e os teus lábios de júbilo.
 * **22** Os teus inimigos se vestirão de vergonha, e a tenda dos ímpios não existirá mais.
 
-## 9
+## 9 {#cap-9}
 
 * **1** Então respondeu Jó e disse:
 * **2** Na verdade, sei que é assim; mas como pode o homem ser justo diante de Elohim?
@@ -249,7 +260,7 @@
 * **34** Que Ele retire de sobre mim a sua vara, e que o seu terror não me assombre.
 * **35** Então falarei e não o temerei, pois não sou assim comigo mesmo.
 
-## 10
+## 10 {#cap-10}
 
 * **1** Minha alma tem fastio da minha vida; darei livre curso à minha queixa, falarei na amargura da minha alma.
 * **2** Direi a Eloah: Não me condenes; faze-me saber por que contendes comigo.
@@ -274,7 +285,7 @@
 * **21** antes que eu vá para onde não voltarei, para a terra das trevas e da sombra da morte,
 * **22** terra de escuridão, como a própria treva, sombra da morte e sem ordem, onde a luz é como a escuridão.
 
-## 11
+## 11 {#cap-11}
 
 * **1** Então respondeu Zofar, o naamatita, e disse:
 * **2** A multidão de palavras não será respondida? Ou o homem falador será justificado?
@@ -297,7 +308,7 @@
 * **19** Deitar-te-ás, e ninguém te espantará; muitos suplicarão o teu favor.
 * **20** Mas os olhos dos ímpios desfalecerão, e o refúgio lhes perecerá, e a sua esperança será o suspiro da alma.
 
-## 12
+## 12 {#cap-12}
 
 * **1** Então respondeu Jó e disse:
 * **2** Na verdade, vós sois o povo, e convosco morrerá a sabedoria!
@@ -325,7 +336,7 @@
 * **24** Tira o entendimento aos chefes do povo da terra e os faz errar pelo deserto, onde não há caminho.
 * **25** Apalpam as trevas, sem luz, e Ele os faz errar como um bêbado.
 
-## 13
+## 13 {#cap-13}
 
 * **1** Eis que tudo isto viu o meu olho, ouviu o meu ouvido e entendeu.
 * **2** Como vós sabeis, também eu sei; não sou inferior a vós.
@@ -356,7 +367,7 @@
 * **27** Tu pões os meus pés no tronco, observas todas as minhas veredas e traças os limites para as plantas dos meus pés.
 * **28** E ele se consome como a podridão, como uma veste comida pela traça.
 
-## 14
+## 14 {#cap-14}
 
 * **1** O homem, nascido de mulher, é de poucos dias e cheio de inquietação.
 * **2** Sai como a flor e é cortado; foge como a sombra e não permanece.
@@ -381,7 +392,7 @@
 * **21** Os seus filhos recebem honra, sem que ele o saiba; ou são humilhados, sem que ele o perceba.
 * **22** Apenas a sua carne sobre ele sente dor, e a sua alma sobre ele lamenta.
 
-## 15
+## 15 {#cap-15}
 
 * **1** Então respondeu Elifaz, o temanita, e disse:
 * **2** Acaso o sábio responderá com sabedoria vã e encherá o seu ventre com o vento oriental?
@@ -419,7 +430,7 @@
 * **34** Porque a congregação dos hipócritas será estéril, e o fogo consumirá as tendas do suborno.
 * **35** Concebem a malícia e dão à luz a iniquidade, e o seu ventre prepara o engano.
 
-## 16
+## 16 {#cap-16}
 
 * **1** Então respondeu Iyyov (Jó) e disse:
 * **2** Tenho ouvido muitas coisas como estas; todos vós sois consoladores molestos.
@@ -444,7 +455,7 @@
 * **21** Ah, se o homem pudesse contender com Eloah (Deus), como o filho do homem com o seu próximo!
 * **22** Quando houverem passado poucos anos, seguirei o caminho por onde não voltarei.
 
-## 17
+## 17 {#cap-17}
 
 * **1** O meu espírito se vai consumindo, os meus dias se apagam, e só tenho a sepultura.
 * **2** Se não há zombadores comigo, e se o meu olho não se detém nas suas provocações,
@@ -463,7 +474,7 @@
 * **15** Onde está, pois, a minha esperança? E a minha esperança, quem a verá?
 * **16** Descerão aos ferrolhos da sepultura, quando juntos descansarmos no pó.
 
-## 18
+## 18 {#cap-18}
 
 * **1** Então respondeu Bildade, o suíta, e disse:
 * **2** Até quando poreis fim às palavras? Entendei, e depois falaremos.
@@ -487,7 +498,7 @@
 * **20** Os do ocidente pasmarão do seu dia, e os do oriente serão tomados de horror.
 * **21** Tais são, na verdade, as moradas do perverso, e este é o lugar daquele que não conhece a Eloah (Deus).
 
-## 19
+## 19 {#cap-19}
 
 * **1** Então respondeu Iyyov (Jó) e disse:
 * **2** Até quando afligireis a minha alma e me quebrantareis com palavras?
@@ -519,7 +530,7 @@
 * **28** Se disserdes: Como o perseguiremos? Visto que a raiz da questão se acha em mim.
 * **29** Temei vós a espada, pois o furor traz os castigos da espada, para que saibais que há um Shaddai (Todo-poderoso) que julga.
 
-## 20
+## 20 {#cap-20}
 
 * **1** Então respondeu Zofar, o naamatita, e disse:
 * **2** Por isso os meus pensamentos me fazem responder, e por causa da pressa que há em mim.
@@ -551,7 +562,7 @@
 * **28** O produto da sua casa será levado; no dia da sua ira, tudo será derramado.
 * **29** Esta é a porção do homem ímpio da parte de Elohim (Deus), e a herança que lhe foi determinada por El (Deus).
 
-## 21
+## 21 {#cap-21}
 
 * **1** Então respondeu Jó e disse:
 * **2** Ouvi atentamente a minha palavra, e isto seja a vossa consolação.
@@ -588,7 +599,7 @@
 * **33** Os torrões do vale lhe são doces, e todos os homens o seguem, como antes dele houve inumeráveis.
 * **34** Como, pois, me consolais com vaidade? E nas vossas respostas só resta falsidade.
 
-## 22
+## 22 {#cap-22}
 
 * **1** Então respondeu Elifaz, o temanita, e disse:
 * **2** Pode o homem ser de proveito a El (Deus)? Antes, o prudente é de proveito a si mesmo.
@@ -621,7 +632,7 @@
 * **29** Quando forem abatidos, dirás: Haja exaltação! E ele salvará o humilde de olhos.
 * **30** Ele livrará até o que não é inocente, que será libertado pela pureza das tuas mãos.
 
-## 23
+## 23 {#cap-23}
 
 * **1** Então respondeu Jó e disse:
 * **2** Ainda hoje a minha queixa é amarga; a minha mão pesa sobre o meu gemido.
@@ -641,7 +652,7 @@
 * **16** Porque Eloah (Deus) fez desmaiar o meu coração, e o Shaddai (Todo-poderoso) me perturbou.
 * **17** Pois não fui cortado por causa das trevas, nem porque a escuridão cobriu o meu rosto.
 
-## 24
+## 24 {#cap-24}
 
 * **1** Por que não são os tempos reservados pelo Shaddai (Todo-poderoso), e por que os que o conhecem não veem os seus dias?
 * **2** Há os que removem os marcos, roubam os rebanhos e os apascentam.
@@ -669,7 +680,7 @@
 * **24** Elevam-se por um pouco, e logo não são; são abatidos, colhidos como todos os outros, e cortados como as cabeças das espigas.
 * **25** Se não é assim, quem me desmentirá e reduzirá a nada a minha palavra?
 
-## 25
+## 25 {#cap-25}
 
 * **1** Então respondeu Bildade, o suíta, e disse:
 * **2** Com ele estão o domínio e o temor; ele faz a paz nas suas alturas.
@@ -678,7 +689,7 @@
 * **5** Eis que até a lua não brilha, e as estrelas não são puras aos seus olhos.
 * **6** Quanto menos o homem, que é um verme, e o filho do homem, que é um bicho!
 
-## 26
+## 26 {#cap-26}
 
 * **1** Então respondeu Jó e disse:
 * **2** Como ajudaste aquele que não tem força! Como salvaste o braço que não tem poder!
@@ -695,7 +706,7 @@
 * **13** Pelo Seu sopro aclara os céus; a Sua mão traspassa a serpente veloz.
 * **14** Eis que estas são apenas as orlas dos Seus caminhos; e quão pouco do que ouvimos d'Ele compreendemos! Mas o trovão do Seu poder, quem o entenderá?
 
-## 27
+## 27 {#cap-27}
 
 * **1** E Jó continuou o seu discurso e disse:
 * **2** Vive Elohim (Deus), que tirou o meu direito, e Shaddai (Todo-poderoso), que amargurou a minha alma.
@@ -721,7 +732,7 @@
 * **22** Deus lançará sobre ele, e não poupará; ele fugirá apressadamente da Sua mão.
 * **23** Baterão palmas contra ele e o assobiarão, tirando-o do seu lugar.
 
-## 28
+## 28 {#cap-28}
 
 * **1** Certamente há uma mina para a prata, e lugar onde se refina o ouro.
 * **2** O ferro tira-se da terra, e da pedra se funde o cobre.
@@ -752,7 +763,7 @@
 * **27** Então Ele a viu e a descreveu; estabeleceu-a e também a esquadrinhou.
 * **28** E disse ao homem: Eis que o temor de Adonai (Senhor) é a sabedoria, e o desviar-se do mal é a inteligência.
 
-## 29
+## 29 {#cap-29}
 
 * **1** E Jó continuou o seu discurso e disse:
 * **2** Quem me dera ser como eu era nos meses passados, como nos dias em que Eloah me guardava!
@@ -780,7 +791,7 @@
 * **24** Eu ria-me deles quando não tinham confiança, e não faziam cair a luz do meu rosto.
 * **25** Escolhia o seu caminho, assentava-me como chefe, e habitava como rei entre as tropas, como aquele que consola os que choram.
 
-## 30
+## 30 {#cap-30}
 
 * **1** Mas agora riem-se de mim os mais jovens do que eu, cujos pais eu teria desprezado para pôr com os cães do meu rebanho.
 * **2** Também de que me serviria a força das suas mãos, naqueles cuja velhice já pereceu?
@@ -814,7 +825,7 @@
 * **30** A minha pele escurece e cai sobre mim, e os meus ossos estão queimados pelo calor.
 * **31** A minha harpa tornou-se em luto, e a minha flauta em voz dos que choram.
 
-## 31
+## 31 {#cap-31}
 
 * **1** Fiz aliança com os meus olhos; como, pois, atentaria para uma virgem?
 * **2** Pois que porção teria eu de Eloah lá do alto, e que herança de Shaddai desde as alturas?
@@ -857,7 +868,7 @@
 * **39** se comi os seus frutos sem pagamento e causei a morte dos seus donos,
 * **40** que em vez de trigo brotem espinhos, e em vez de cevada, ervas daninhas. Fim das palavras de Jó.
 
-## 32
+## 32 {#cap-32}
 
 * **1** Então, aqueles três homens cessaram de responder a Jó, porque ele era justo aos seus próprios olhos.
 * **2** Então, a ira de Eliú, filho de Baraquel, o buzita, da família de Rão, se acendeu contra Jó; a sua ira se acendeu porque ele se justificava a si mesmo diante de Elohim (Deus).
@@ -882,7 +893,7 @@
 * **21** Não farei acepção de pessoas, nem usarei títulos lisonjeiros para com ninguém.
 * **22** Porque não sei usar títulos lisonjeiros; em breve o meu Criador me levaria.
 
-## 33
+## 33 {#cap-33}
 
 * **1** Mas, ouve agora, Jó, as minhas palavras, e dá ouvidos a todos os meus discursos.
 * **2** Eis que já abri a minha boca; a minha língua fala no meu paladar.
@@ -918,7 +929,7 @@
 * **32** Se tens algo a dizer, responde-me; fala, pois desejo justificar-te.
 * **33** Se não, ouve-me; cala-te, e eu te ensinarei a sabedoria.
 
-## 34
+## 34 {#cap-34}
 
 * **1** Eliú continuou e disse:
 * **2** Ouvi, vós, sábios, as minhas palavras; e vós, entendidos, dai-me ouvidos.
@@ -958,7 +969,7 @@
 * **36** Meu Pai, seja Jó provado até ao fim, por causa das suas respostas como homens iníquos.
 * **37** Porque ao seu pecado acrescenta a transgressão; entre nós bate palmas e multiplica as suas palavras contra El.
 
-## 35
+## 35 {#cap-35}
 
 * **1** Eliú continuou e disse:
 * **2** Tens tu por certo que isto é justiça, quando dizes: A minha justiça é maior que a de El?
@@ -977,7 +988,7 @@
 * **15** E agora, porque a sua ira não castiga, nem ele se importa muito com a transgressão,
 * **16** abre Jó a sua boca em vaidade e multiplica palavras sem conhecimento.
 
-## 36
+## 36 {#cap-36}
 
 * **1** Eliú continuou e disse:
 * **2** Espera-me um pouco, e eu te mostrarei que ainda há razões a favor de Eloah.
@@ -1013,7 +1024,7 @@
 * **32** Cobre as mãos com o relâmpago e dá-lhe ordem contra o alvo.
 * **33** O seu trovão fala dele, e o gado também, acerca da tempestade que se aproxima.
 
-## 37
+## 37 {#cap-37}
 
 * **1** Até por isso o meu coração treme e salta do seu lugar.
 * **2** Ouvi atentamente o estrondo da Sua voz e o rugido que sai da Sua boca.
@@ -1040,7 +1051,7 @@
 * **23** Shaddai (Todo-poderoso), não O podemos alcançar; Ele é grande em poder, em juízo e em justiça plena; Ele não oprime.
 * **24** Por isso, os homens O temem; Ele não olha para nenhum dos que se julgam sábios de coração.
 
-## 38
+## 38 {#cap-38}
 
 * **1** Então YHWH (SENHOR) respondeu a Jó do meio da tempestade e disse:
 * **2** Quem é este que obscurece o conselho com palavras sem conhecimento?
@@ -1084,7 +1095,7 @@
 * **40** Quando se agacham nos covis e ficam à espreita nas suas guaritas?
 * **41** Quem prepara ao corvo o seu alimento, quando os seus filhotes clamam a Elohim e andam errantes por não terem o que comer?
 
-## 39
+## 39 {#cap-39}
 
 * **1** Sabes tu o tempo em que as cabras monteses têm os seus filhos? Ou observaste as dores das cervas?
 * **2** Contarás os meses que cumprem, e sabes o tempo em que dão à luz?
@@ -1117,7 +1128,7 @@
 * **29** Dali espreita a presa; os seus olhos a veem de longe.
 * **30** Os seus filhotes chupam o sangue; e onde há mortos, ali ela está.
 
-## 40
+## 40 {#cap-40}
 
 * **1** E YHWH respondeu a Jó e disse:
 * **2** Acaso aquele que contende com Shaddai o corrigirá? Aquele que censura a Elohim, que responda a isso.
@@ -1144,7 +1155,7 @@
 * **23** Eis que um rio transborda, e ele não se apressa; sente-se seguro, ainda que o Jordão se levante até à sua boca.
 * **24** Pode alguém prendê-lo pelos olhos, ou com laços furar-lhe o nariz?
 
-## 41
+## 41 {#cap-41}
 
 * **1** Podes tirar o Leviatã com anzol, ou apertar-lhe a língua com uma corda?
 * **2** Podes pôr um junco no seu nariz, ou com um espinho furar a sua queixada?
@@ -1181,7 +1192,7 @@
 * **33** Não há na terra nada que se compare a ele, feito para não ter medo.
 * **34** Ele olha para tudo o que é alto; ele é rei sobre todos os filhos do orgulho.
 
-## 42
+## 42 {#cap-42}
 
 * **1** Então Jó respondeu a YHWH (SENHOR) e disse:
 * **2** Sei que tudo podes, e nenhum dos teus planos pode ser frustrado.

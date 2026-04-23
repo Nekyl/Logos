@@ -1,11 +1,18 @@
+<!-- topo -->
 # Esdras
 
 <!-- INDICE -->
-**Índice:** [1](1) · [2](2) · [3](3) · [4](4) · [5](5) · [6](6) · [7](7) · [8](8) · [9](9) · [10](10)
+## 📜 Índice
+
+**10 capítulos**
+[1](#cap-1) · [2](#cap-2) · [3](#cap-3) · [4](#cap-4) · [5](#cap-5) · [6](#cap-6) · [7](#cap-7) · [8](#cap-8) · [9](#cap-9) · [10](#cap-10)
+
+<div align="right"><a href="#topo"><strong>▲ Voltar ao topo</strong></a></div>
 
 <!-- FIM_INDICE -->
 
-## 1
+
+## 1 {#cap-1}
 
 * **1** No primeiro ano de Ciro, rei da Pérsia, para que se cumprisse a palavra de YHWH (SENHOR) dita por Jeremias, YHWH despertou o espírito de Ciro, rei da Pérsia, o qual fez passar um pregão por todo o seu reino, e também por escrito, dizendo:
 * **2** Assim diz Ciro, rei da Pérsia: YHWH Elohim (Deus) dos céus me deu todos os reinos da terra, e ele me encarregou de lhe edificar uma casa em Jerusalém, que está em Judá.
@@ -19,7 +26,7 @@
 * **10** Trinta taças de ouro, quatrocentas e dez taças de prata de segunda ordem, e mil outros utensílios.
 * **11** Todos os utensílios de ouro e de prata foram cinco mil e quatrocentos. Tudo isso levou Sesbazar, quando os do cativeiro subiram da Babilônia para Jerusalém.
 
-## 2
+## 2 {#cap-2}
 
 * **1** Estes são os filhos da província que subiram do cativeiro, os quais Nabucodonosor, rei da Babilônia, tinha levado para a Babilônia, e que voltaram para Jerusalém e para Judá, cada um para a sua cidade.
 * **2** Os que vieram com Zorobabel, Jesua, Neemias, Seraías, Reelaías, Mordecai, Bilsã, Mispar, Bigvai, Reum e Baaná. O número dos homens do povo de Israel:
@@ -92,7 +99,7 @@
 * **69** Segundo as suas posses, deram para o tesouro da obra: sessenta e um mil dracmas de ouro, cinco mil minas de prata e cem vestes sacerdotais.
 * **70** Assim habitaram os sacerdotes, os levitas, parte do povo, os cantores, os porteiros e os netineus nas suas cidades, e todo o Israel nas suas cidades.
 
-## 3
+## 3 {#cap-3}
 
 * **1** Chegando o sétimo mês, e estando os filhos de Israel nas cidades, o povo se ajuntou como um só homem em Jerusalém.
 * **2** Então se levantou Jesua, filho de Jozadaque, e seus irmãos, os sacerdotes, e Zorobabel, filho de Sealtiel, e seus irmãos, e edificaram o altar do Elohim de Israel, para oferecerem sobre ele holocaustos, como está escrito na lei de Moisés, homem de Elohim.
@@ -108,7 +115,7 @@
 * **12** Mas muitos dos sacerdotes, levitas e chefes das famílias, os anciãos que tinham visto a primeira casa, quando o fundamento desta casa foi posto diante dos seus olhos, choraram em alta voz; muitos, porém, levantaram a voz em júbilo e alegria.
 * **13** De maneira que o povo não podia distinguir o som do brado de alegria do som do choro do povo; porque o povo jubilava com grande brado, e o som se ouvia de longe.
 
-## 4
+## 4 {#cap-4}
 
 * **1** Ouvindo os adversários de Judá e Benjamim que os que voltaram do cativeiro edificavam o templo a YHWH, Elohim de Israel,
 * **2** Chegaram-se a Zorobabel e aos chefes das famílias e disseram-lhes: Deixai-nos edificar convosco, porque, como vós, buscamos o vosso Elohim; e já lhe sacrificamos desde os dias de Esar-Hadom, rei da Assíria, que nos fez subir aqui.
@@ -135,7 +142,7 @@
 * **23** Então, quando a cópia da carta do rei Artaxerxes foi lida diante de Reum, de Sinsai, o escrivão, e de seus companheiros, foram eles apressadamente a Jerusalém, aos judeus, e fizeram-nos parar pela força e poder.
 * **24** Então cessou a obra da casa de Elohim, que estava em Jerusalém, e ficou parada até ao segundo ano do reinado de Dario, rei da Pérsia.
 
-## 5
+## 5 {#cap-5}
 
 * **1** E os profetas Ageu e Zacarias, filho de Ido, profetizaram aos judeus que estavam em Judá e em Jerusalém, em nome do Elohim de Israel, que estava sobre eles.
 * **2** Então se levantaram Zorobabel, filho de Sealtiel, e Jesua, filho de Jozadaque, e começaram a edificar a casa de Elohim que está em Jerusalém; e com eles estavam os profetas de Elohim, ajudando-os.
@@ -155,7 +162,7 @@
 * **16** Então veio aquele Sesbazar e lançou os fundamentos da casa de Elohim que está em Jerusalém; e desde aquele tempo até agora tem sido edificada, e ainda não está acabada.
 * **17** Agora, pois, se parecer bem ao rei, busque-se na casa dos tesouros do rei, que está ali em Babilônia, se é verdade que foi dada ordem pelo rei Ciro para edificar esta casa de Elohim em Jerusalém; e sobre isto o rei nos faça saber a sua vontade.
 
-## 6
+## 6 {#cap-6}
 
 * **1** Então o rei Dario deu ordem, e buscaram na casa dos arquivos, onde se depositavam os tesouros em Babilônia.
 * **2** E achou-se em Acmeta, no palácio que está na província da Média, um rolo, e nele estava escrito um memorial:
@@ -180,7 +187,7 @@
 * **21** Comeram os filhos de Israel que voltaram do exílio, juntamente com todos os que se separaram da impureza das nações da terra para buscar a YHWH (SENHOR), o Elohim de Israel.
 * **22** Celebraram a Festa dos Pães Asmos por sete dias com alegria, pois YHWH os alegrou e inclinou o coração do rei da Assíria para fortalecer suas mãos na obra da casa de Elohim, o Elohim de Israel.
 
-## 7
+## 7 {#cap-7}
 
 * **1** Depois destas coisas, no reinado de Artaxerxes, rei da Pérsia, Esdras, filho de Seraías, filho de Azarias, filho de Hilquias,
 * **2** filho de Salum, filho de Zadoque, filho de Aitube,
@@ -211,7 +218,7 @@
 * **27** Bendito seja YHWH, o Elohim de nossos pais, que pôs tal coisa no coração do rei, para adornar a casa de YHWH que está em Jerusalém,
 * **28** e que inclinou para mim a misericórdia perante o rei, seus conselheiros e todos os príncipes poderosos do rei. Eu, fortalecido pela mão de YHWH, meu Elohim, sobre mim, reuni os chefes de Israel para subirem comigo.
 
-## 8
+## 8 {#cap-8}
 
 * **1** Estes são os chefes de suas famílias e a genealogia dos que subiram comigo do reinado do rei Artaxerxes, da Babilônia:
 * **2** Dos filhos de Fineias, Gérson; dos filhos de Itamar, Daniel; dos filhos de Davi, Hatus;
@@ -250,7 +257,7 @@
 * **35** Os que vieram do cativeiro, os filhos do exílio, ofereceram holocaustos ao Elohim de Israel: doze novilhos por todo o Israel, noventa e seis carneiros, setenta e sete cordeiros e doze bodes como oferta pelo pecado; tudo isso como holocausto a YHWH.
 * **36** Entregaram os decretos do rei aos sátrapas do rei e aos governadores da província além do rio, os quais apoiaram o povo e a casa de Elohim.
 
-## 9
+## 9 {#cap-9}
 
 * **1** Terminadas estas coisas, aproximaram-se de mim os príncipes, dizendo: O povo de Israel, os sacerdotes e os levitas não se separaram dos povos das terras, conforme as suas abominações: dos cananeus, heteus, ferezeus, jebuseus, amonitas, moabitas, egípcios e amorreus.
 * **2** Pois tomaram de suas filhas para si e para seus filhos, e a linhagem santa se misturou com os povos das terras; e a mão dos príncipes e governadores foi a primeira nesta transgressão.
@@ -268,7 +275,7 @@
 * **14** voltaremos a violar os Teus mandamentos e a nos aparentar com os povos destas abominações? Não Te irarias Tu contra nós até nos consumires, sem que restasse remanescente ou sobrevivente?
 * **15** YHWH, Elohim de Israel, Tu és justo, pois restamos como um remanescente, como hoje se vê. Eis-nos diante de Ti em nossa culpa, pois não há como estar diante de Ti por causa disto.
 
-## 10
+## 10 {#cap-10}
 
 * **1** Enquanto Esdras orava e fazia confissão, chorando e prostrando-se diante da casa de Elohim, ajuntou-se a ele uma mui grande congregação de Israel, homens, mulheres e crianças, pois o povo chorava com grande choro.
 * **2** Então Secanias, filho de Jeiel, dos filhos de Elão, respondeu a Esdras: Nós transgredimos contra o nosso Elohim e tomamos mulheres estrangeiras dos povos da terra; mas ainda há esperança para Israel a este respeito.

@@ -1,11 +1,18 @@
+<!-- topo -->
 # 2 Pedro
 
 <!-- INDICE -->
-**Índice:** [1](1) · [2](2) · [3](3)
+## 📜 Índice
+
+**3 capítulos**
+[1](#cap-1) · [2](#cap-2) · [3](#cap-3)
+
+<div align="right"><a href="#topo"><strong>▲ Voltar ao topo</strong></a></div>
 
 <!-- FIM_INDICE -->
 
-## 1
+
+## 1 {#cap-1}
 
 * **1** Simão Pedro, servo e apóstolo de Iēsous Christou (Jesus Messias), aos que alcançaram uma fé tão preciosa quanto a nossa, pela justiça de Theou (Deus) nosso e Salvador Jesus Messias;
 * **2** Graça e paz vos sejam multiplicadas no pleno conhecimento de Theou (Deus) e de Iēsous (Jesus), o Kyrios (Senhor) nosso.
@@ -29,7 +36,7 @@
 * **20** sabendo primeiramente isto: que nenhuma profecia da Escritura provém de interpretação particular;
 * **21** porque a profecia nunca foi produzida por vontade humana, mas os homens falaram da parte de Theou (Deus), movidos pelo Pneuma Hagion (Espírito Santo).
 
-## 2
+## 2 {#cap-2}
 
 * **1** E surgiram também falsos profetas entre o povo, como também haverá entre vós falsos mestres, que introduzirão dissimuladamente heresias destruidoras, negando o soberano que os resgatou, trazendo sobre si mesmos repentina destruição;
 * **2** e muitos seguirão as suas dissoluções, por causa dos quais o caminho da verdade será blasfemado;
@@ -54,7 +61,7 @@
 * **21** Pois melhor lhes fora não conhecerem o caminho da justiça do que, conhecendo-o, desviarem-se do santo mandamento que lhes foi entregue.
 * **22** Aconteceu-lhes o que diz o verdadeiro provérbio: O cão voltou ao seu próprio vômito, e a porca lavada, ao revolvimento na lama.
 
-## 3
+## 3 {#cap-3}
 
 * **1** Amados, escrevo-vos agora esta segunda carta, em ambas as quais desperto com lembrança a vossa mente sincera,
 * **2** para que vos lembreis das palavras anteriormente ditas pelos santos profetas e do mandamento do Kyrios (Senhor) e Salvador, dado pelos vossos apóstolos,

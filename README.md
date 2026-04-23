@@ -30,11 +30,17 @@ Logos/
 ## Mais detalhes
 
 - **[CONFIABILIDADE.md](Tradução/CONFIABILIDADE.md)** — amostras comparadas com os originais, convenções de tradução e veredito sobre a precisão
-- **[Nota do Tradutor](Tradução/CONFIABILIDADE.md#nota-do-tradutor)** — método, sistema de redundância e critérios teológicos
+- **[Nota do Tradutor](Tradução/CONFIABILIDADE.md#7-nota-do-tradutor)** — método, sistema de redundância e critérios teológicos
+
+
+
+
 
 <!-- INDICE_README -->
 
-## Velho Testamento
+## 📜 Índice
+
+### Velho Testamento
 
 - [Gênesis](Tradução/Velho Testamento/Gênesis.md) (50 capítulos)
 - [Êxodo](Tradução/Velho Testamento/Êxodo.md) (40 capítulos)
@@ -63,19 +69,20 @@ Logos/
 - [Lamentações](Tradução/Velho Testamento/Lamentações.md) (5 capítulos)
 - [Ezequiel](Tradução/Velho Testamento/Ezequiel.md) (48 capítulos)
 - [Daniel](Tradução/Velho Testamento/Daniel.md) (12 capítulos)
-- [Oséias](Tradução/Velho Testamento/Oseias.md) (14 capítulos)
+- [Oseias](Tradução/Velho Testamento/Oseias.md) (14 capítulos)
 - [Joel](Tradução/Velho Testamento/Joel.md) (3 capítulos)
 - [Amós](Tradução/Velho Testamento/Amós.md) (9 capítulos)
 - [Obadias](Tradução/Velho Testamento/Obadias.md) (1 capítulos)
 - [Jonas](Tradução/Velho Testamento/Jonas.md) (4 capítulos)
-- [Miquéias](Tradução/Velho Testamento/Miqueias.md) (7 capítulos)
+- [Miqueias](Tradução/Velho Testamento/Miqueias.md) (7 capítulos)
 - [Naum](Tradução/Velho Testamento/Naum.md) (3 capítulos)
 - [Habacuque](Tradução/Velho Testamento/Habacuque.md) (3 capítulos)
 - [Sofonias](Tradução/Velho Testamento/Sofonias.md) (3 capítulos)
 - [Ageu](Tradução/Velho Testamento/Ageu.md) (2 capítulos)
 - [Zacarias](Tradução/Velho Testamento/Zacarias.md) (14 capítulos)
 - [Malaquias](Tradução/Velho Testamento/Malaquias.md) (4 capítulos)
-## Novo Testamento
+
+### Novo Testamento
 
 - [Mateus](Tradução/Novo Testamento/Mateus.md) (28 capítulos)
 - [Marcos](Tradução/Novo Testamento/Marcos.md) (16 capítulos)
@@ -104,6 +111,7 @@ Logos/
 - [3João](Tradução/Novo Testamento/3João.md) (1 capítulos)
 - [Judas](Tradução/Novo Testamento/Judas.md) (1 capítulos)
 - [Apocalipse](Tradução/Novo Testamento/Apocalipse.md) (22 capítulos)
+
 <!-- FIM_INDICE_README -->
 ## Licença
 

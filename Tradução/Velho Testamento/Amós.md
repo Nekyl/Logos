@@ -1,11 +1,18 @@
+<!-- topo -->
 # Amós
 
 <!-- INDICE -->
-**Índice:** [1](1) · [2](2) · [3](3) · [4](4) · [5](5) · [6](6) · [7](7) · [8](8) · [9](9)
+## 📜 Índice
+
+**9 capítulos**
+[1](#cap-1) · [2](#cap-2) · [3](#cap-3) · [4](#cap-4) · [5](#cap-5) · [6](#cap-6) · [7](#cap-7) · [8](#cap-8) · [9](#cap-9)
+
+<div align="right"><a href="#topo"><strong>▲ Voltar ao topo</strong></a></div>
 
 <!-- FIM_INDICE -->
 
-## 1
+
+## 1 {#cap-1}
 
 * **1** Palavras de Amós, que era um dos pastores de Tecoa, que ele viu sobre Israel nos dias de Uzias, rei de Judá, e nos dias de Jeroboão, filho de Joás, rei de Israel, dois anos antes do terremoto.
 * **2** E ele disse: YHWH (SENHOR) rugirá de Sião, e de Jerusalém fará ouvir a sua voz; e os pastos dos pastores se lamentarão, e o topo do Carmelo secará.
@@ -23,7 +30,7 @@
 * **14** Por isso acenderei fogo nos muros de Rabá, e ele consumirá os seus palácios, com alarido no dia da peleja, com tempestade no dia do vendaval.
 * **15** E o seu rei irá para o cativeiro, ele e os seus príncipes juntamente, diz YHWH.
 
-## 2
+## 2 {#cap-2}
 
 * **1** Assim diz YHWH: Por três transgressões de Moabe, e por quatro, não retirarei o castigo, porque queimou os ossos do rei de Edom até os tornar em cal.
 * **2** Por isso enviarei fogo a Moabe, e ele consumirá os palácios de Queriote; e Moabe morrerá com estrondo, com alarido e com som de trombeta.
@@ -42,7 +49,7 @@
 * **15** O que maneja o arco não resistirá, e o ligeiro de pés não se salvará, nem o que cavalga o cavalo salvará a sua vida.
 * **16** E o mais corajoso entre os valentes fugirá nu naquele dia, diz YHWH.
 
-## 3
+## 3 {#cap-3}
 
 * **1** Ouvi esta palavra que YHWH fala contra vós, ó filhos de Israel, contra toda a família que fiz subir da terra do Egito, dizendo:
 * **2** Somente a vós vos tenho conhecido de todas as famílias da terra; portanto, sobre vós visitarei todas as vossas iniquidades.
@@ -60,7 +67,7 @@
 * **14** Que no dia em que eu visitar as transgressões de Israel sobre ele, visitarei também os altares de Betel; e as pontas do altar serão cortadas, e cairão por terra.
 * **15** E ferirei a casa de inverno com a casa de verão; e as casas de marfim perecerão, e muitas casas serão destruídas, diz YHWH.
 
-## 4
+## 4 {#cap-4}
 
 * **1** Ouvi esta palavra, ó vacas de Basã, que estais no monte de Samaria, que oprimis os pobres, que quebrantais os necessitados, que dizeis aos vossos senhores: Trazei, e bebamos.
 * **2** Jurou Adonai YHWH pela sua santidade, que eis que dias virão sobre vós, em que vos levarão com ganchos, e os vossos descendentes com anzóis de pesca.
@@ -76,7 +83,7 @@
 * **12** Portanto, assim te farei, ó Israel; e porque isto te farei, prepara-te, ó Israel, para te encontrares com o teu Elohim.
 * **13** Porque eis que aquele que forma os montes, e cria o vento, e declara ao homem qual é o seu pensamento, que faz da manhã trevas, e pisa os altos da terra, YHWH, Elohim dos Exércitos, é o seu nome.
 
-## 5
+## 5 {#cap-5}
 
 * **1** Ouvi esta palavra que eu levanto contra vós, uma lamentação, ó casa de Israel.
 * **2** Caiu a virgem de Israel, e não tornará a levantar-se; está prostrada na sua terra, não há quem a levante.
@@ -106,7 +113,7 @@
 * **26** Antes levastes a tenda de vosso rei, e o pedestal das vossas imagens, a estrela do vosso deus, que fizestes para vós mesmos.
 * **27** Portanto, vos levarei cativos para além de Damasco, diz YHWH, cujo nome é Elohim dos Exércitos.
 
-## 6
+## 6 {#cap-6}
 
 * **1** Ai dos que vivem sossegados em Sião, e dos que estão seguros no monte de Samaria, os notáveis da principal das nações, aos quais vem a casa de Israel!
 * **2** Passai a Calné, e vede; e dizei dali a Hamate, a grande; descei a Gate dos filisteus; são elas melhores do que estes reinos? Ou é o seu termo maior do que o vosso termo?
@@ -123,7 +130,7 @@
 * **13** Vós que vos alegrais em coisa de nada, que dizeis: Não temos nós tomado poder para nós com a nossa própria força?
 * **14** Porque eis que levantarei contra vós, ó casa de Israel, diz YHWH, Elohim dos Exércitos, uma nação que vos oprimirá desde a entrada de Hamate até ao ribeiro da Arabá.
 
-## 7
+## 7 {#cap-7}
 
 * **1** Assim me fez ver Adonai YHWH, e eis que ele formava gafanhotos no princípio da subida da erva serôdia; e eis que era a erva serôdia depois da ceifa do rei.
 * **2** E aconteceu que, acabando eles de comer a erva da terra, eu disse: Adonai YHWH, perdoa, pois, agora; quem levantará a Jacó? Pois ele é pequeno.
@@ -143,7 +150,7 @@
 * **16** Agora, pois, ouve a palavra de YHWH; tu dizes: Não profetizes contra Israel, e não gotejes a tua palavra contra a casa de Isaque.
 * **17** Portanto, assim diz YHWH: A tua mulher se prostituirá na cidade, e os teus filhos e as tuas filhas cairão à espada, e a tua terra será repartida a cordel; e tu morrerás numa terra imunda, e Israel certamente será levado cativo para fora da sua terra.
 
-## 8
+## 8 {#cap-8}
 
 * **1** Assim me fez ver Adonai YHWH, e eis um cesto de frutos de verão.
 * **2** E disse: Que vês tu, Amós? E eu disse: Um cesto de frutos de verão. Então me disse YHWH: Chegou o fim sobre o meu povo Israel; nunca mais passarei por ele.
@@ -160,7 +167,7 @@
 * **13** Naquele dia as virgens formosas e os jovens desfalecerão de sede.
 * **14** Os que juram pelo pecado de Samaria, e dizem: Vive o teu Elohim, ó Dã; e vive o caminho de Berseba; eles cairão, e não se levantarão mais.
 
-## 9
+## 9 {#cap-9}
 
 * **1** Vi Adonai que estava junto ao altar, e disse: Fere os capitéis, e estremeçam os umbrais, e corta-os a todos pela cabeça; e o que restar deles matarei à espada; nenhum deles conseguirá fugir, nem nenhum deles escapará.
 * **2** Ainda que cavem até ao inferno, a minha mão os tirará dali; e, se subirem ao céu, dali os farei descer.

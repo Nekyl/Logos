@@ -1,11 +1,22 @@
+<!-- topo -->
 # Gênesis
 
 <!-- INDICE -->
-**Índice:** [1](1) · [2](2) · [3](3) · [4](4) · [5](5) · [6](6) · [7](7) · [8](8) · [9](9) · [10](10) · [11](11) · [12](12) · [13](13) · [14](14) · [15](15) · [16](16) · [17](17) · [18](18) · [19](19) · [20](20) · [21](21) · [22](22) · [23](23) · [24](24) · [25](25) · [26](26) · [27](27) · [28](28) · [29](29) · [30](30) · [31](31) · [32](32) · [33](33) · [34](34) · [35](35) · [36](36) · [37](37) · [38](38) · [39](39) · [40](40) · [41](41) · [42](42) · [43](43) · [44](44) · [45](45) · [46](46) · [47](47) · [48](48) · [49](49) · [50](50)
+## 📜 Índice
+
+**50 capítulos**
+[1](#cap-1) · [2](#cap-2) · [3](#cap-3) · [4](#cap-4) · [5](#cap-5) · [6](#cap-6) · [7](#cap-7) · [8](#cap-8) · [9](#cap-9) · [10](#cap-10)
+[11](#cap-11) · [12](#cap-12) · [13](#cap-13) · [14](#cap-14) · [15](#cap-15) · [16](#cap-16) · [17](#cap-17) · [18](#cap-18) · [19](#cap-19) · [20](#cap-20)
+[21](#cap-21) · [22](#cap-22) · [23](#cap-23) · [24](#cap-24) · [25](#cap-25) · [26](#cap-26) · [27](#cap-27) · [28](#cap-28) · [29](#cap-29) · [30](#cap-30)
+[31](#cap-31) · [32](#cap-32) · [33](#cap-33) · [34](#cap-34) · [35](#cap-35) · [36](#cap-36) · [37](#cap-37) · [38](#cap-38) · [39](#cap-39) · [40](#cap-40)
+[41](#cap-41) · [42](#cap-42) · [43](#cap-43) · [44](#cap-44) · [45](#cap-45) · [46](#cap-46) · [47](#cap-47) · [48](#cap-48) · [49](#cap-49) · [50](#cap-50)
+
+<div align="right"><a href="#topo"><strong>▲ Voltar ao topo</strong></a></div>
 
 <!-- FIM_INDICE -->
 
-## 1
+
+## 1 {#cap-1}
 
 * **1** Bereshit (No princípio), Elohim (Deus) criou os céus e a terra.
 * **2** A terra era sem forma e vazia, e havia trevas sobre a face do abismo, e o Espírito de Elohim (Deus) pairava sobre a face das águas.
@@ -39,7 +50,7 @@
 * **30** "E a todos os animais da terra, a todas as aves dos céus e a todos os seres rastejantes sobre a terra, em que há fôlego de vida, dou todas as ervas verdes para mantimento"; e assim foi.
 * **31** Elohim (Deus) viu tudo o que havia feito, e eis que era muito bom. Houve tarde e houve manhã: o sexto dia.
 
-## 2
+## 2 {#cap-2}
 
 * **1** Assim foram concluídos os céus, a terra e todo o seu exército.
 * **2** No sétimo dia, Elohim (Deus) terminou a obra que fizera e, nesse dia, descansou Elohim de toda a sua obra.
@@ -67,7 +78,7 @@
 * **24** Por isso, deixa o homem pai e mãe e se une à sua mulher, tornando-se os dois uma só carne.
 * **25** Ora, ambos estavam nus, o homem e sua mulher, e não se envergonhavam.
 
-## 3
+## 3 {#cap-3}
 
 * **1** A serpente era o mais astuto de todos os animais do campo que YHWH Elohim (SENHOR Deus) havia feito. Ela disse à mulher: "É verdade que Elohim (Deus) disse: 'Não comereis de nenhuma árvore do jardim'?"
 * **2** Respondeu a mulher à serpente: "Do fruto das árvores do jardim podemos comer,"
@@ -94,7 +105,7 @@
 * **23** YHWH Elohim (SENHOR Deus) o lançou fora do jardim do Éden, para cultivar o solo do qual fora tomado.
 * **24** E, tendo expulsado o homem, colocou querubins ao oriente do jardim do Éden e o lampejo de uma espada flamejante que se revolvia, para guardar o caminho da árvore da vida.
 
-## 4
+## 4 {#cap-4}
 
 * **1** O homem conheceu Eva, sua mulher; ela concebeu e deu à luz Caim, e disse: "Alcancei um homem com o auxílio de YHWH (SENHOR)".
 * **2** Depois, deu à luz Abel, irmão de Caim. Abel foi pastor de ovelhas, e Caim foi agricultor.
@@ -123,7 +134,7 @@
 * **25** Adão tornou a conhecer sua mulher; ela deu à luz um filho e lhe chamou Sete, dizendo: "Elohim (Deus) me concedeu outra descendência em lugar de Abel, pois Caim o matou".
 * **26** A Sete também nasceu um filho, a quem chamou Enos; foi nesse tempo que se começou a invocar o nome de YHWH (SENHOR).
 
-## 5
+## 5 {#cap-5}
 
 * **1** Este é o livro da genealogia de Adão. No dia em que Elohim (Deus) criou o homem, à semelhança de Elohim o fez.
 * **2** Homem e mulher os criou, e os abençoou, e lhes chamou pelo nome de Adão, no dia em que foram criados.
@@ -158,7 +169,7 @@
 * **31** Todos os dias de Lameque foram setecentos e setenta e sete anos; e morreu.
 * **32** Noé tinha quinhentos anos quando gerou a Sem, Cam e Jafé.
 
-## 6
+## 6 {#cap-6}
 
 * **1** Quando os homens começaram a se multiplicar sobre a face da terra e lhes nasceram filhas,
 * **2** viram os filhos de Elohim (Deus) que as filhas dos homens eram formosas; e tomaram para si mulheres de todas as que escolheram.
@@ -183,7 +194,7 @@
 * **21** E você, leve consigo de todo tipo de alimento que se come e armazene-o; servirá de mantimento para você e para eles".
 * **22** E Noé fez tudo exatamente como Elohim (Deus) lhe ordenara.
 
-## 7
+## 7 {#cap-7}
 
 * **1** Então YHWH (SENHOR) disse a Noé: "Entre na arca, você e toda a sua casa, porque vi que você é justo diante de mim nesta geração.
 * **2** De todos os animais puros, leve com você sete pares, o macho e sua fêmea; mas dos animais que não são puros, leve dois, o macho e sua fêmea.
@@ -210,7 +221,7 @@
 * **23** Assim foram exterminados todos os seres que havia sobre a face da terra, desde o homem até o animal, o réptil e a ave do céu; foram extintos da terra. Restou apenas Noé e os que com ele estavam na arca.
 * **24** E as águas prevaleceram sobre a terra durante cento e cinquenta dias.
 
-## 8
+## 8 {#cap-8}
 
 * **1** Então Elohim (Deus) lembrou-se de Noé, de todos os animais selvagens e de todos os animais domésticos que estavam com ele na arca; Elohim fez passar um vento sobre a terra, e as águas começaram a baixar.
 * **2** Fecharam-se as fontes do abismo e as janelas do céu, e a chuva do céu se deteve.
@@ -235,7 +246,7 @@
 * **21** YHWH (SENHOR) sentiu o aroma suave e YHWH disse em seu coração: "Não tornarei mais a amaldiçoar a terra por causa do homem, pois a inclinação do coração do homem é má desde a sua juventude; nem tornarei a ferir todos os seres vivos, como fiz.
 * **22** Enquanto a terra durar, plantio e colheita, frio e calor, verão e inverno, dia e noite, não cessarão".
 
-## 9
+## 9 {#cap-9}
 
 * **1** Elohim (Deus) abençoou Noé e seus filhos, dizendo-lhes: "Sejam fecundos, multipliquem-se e encham a terra.
 * **2** O temor e o pavor de vocês estarão sobre todos os animais da terra, sobre todas as aves do céu, sobre tudo o que rasteja pelo chão e sobre todos os peixes do mar; eles foram entregues em suas mãos.
@@ -267,7 +278,7 @@
 * **28** Noé viveu trezentos e cinquenta anos depois do dilúvio.
 * **29** Todos os dias de Noé foram novecentos e cinquenta anos, e morreu.
 
-## 10
+## 10 {#cap-10}
 
 * **1** Estas são as gerações dos filhos de Noé: Sem, Cam e Jafé; e nasceram-lhes filhos depois do dilúvio.
 * **2** Os filhos de Jafé: Gomer, Magogue, Madai, Javã, Tubal, Meseque e Tiras.
@@ -302,7 +313,7 @@
 * **31** Estes são os filhos de Sem, segundo suas famílias, segundo suas línguas, em suas terras, segundo suas nações.
 * **32** Estas são as famílias dos filhos de Noé, segundo suas gerações, em suas nações; e a partir destes as nações se espalharam pela terra depois do dilúvio.
 
-## 11
+## 11 {#cap-11}
 
 * **1** Toda a terra tinha uma só língua e as mesmas palavras.
 * **2** E aconteceu que, partindo eles do oriente, encontraram uma planície na terra de Sinar e ali habitaram.
@@ -337,7 +348,7 @@
 * **31** Tera tomou a Abrão, seu filho, e a Ló, filho de Harã, filho de seu filho, e a Sarai, sua nora, mulher de seu filho Abrão, e saíram juntos de Ur dos Caldeus para ir à terra de Canaã; chegaram até Harã e ali habitaram.
 * **32** Os dias de Tera foram duzentos e cinco anos, e morreu Tera em Harã.
 
-## 12
+## 12 {#cap-12}
 
 * **1** YHWH (SENHOR) disse a Abrão: "Saia da sua terra, da sua parentela e da casa de seu pai, para a terra que eu lhe mostrarei".
 * **2** Farei de ti uma grande nação, te abençoarei e engrandecerei o teu nome; e sê tu uma bênção.
@@ -360,7 +371,7 @@
 * **19** Por que disseste: 'Ela é minha irmã', de modo que a tomei por mulher? Agora, aqui está tua mulher; toma-a e vai-te".
 * **20** O Faraó deu ordens aos seus homens a respeito dele, e eles o despediram, junto com sua mulher e tudo o que possuía.
 
-## 13
+## 13 {#cap-13}
 
 * **1** Abrão subiu do Egito para o Neguebe, ele, sua mulher e tudo o que possuía, e Ló o acompanhava.
 * **2** Abrão era muito rico em gado, em prata e em ouro.
@@ -381,7 +392,7 @@
 * **17** Levanta-te, percorre a terra no seu comprimento e na sua largura, porque eu a darei a ti".
 * **18** Abrão mudou sua tenda e foi habitar junto aos carvalhos de Manre, em Hebrom; e ali edificou um altar a YHWH (SENHOR).
 
-## 14
+## 14 {#cap-14}
 
 * **1** Naqueles dias, Anrafel, rei de Sinar, Arioque, rei de Elasar, Quedorlaomer, rei de Elão, e Tidal, rei de Goim,
 * **2** fizeram guerra contra Bera, rei de Sodoma, contra Birsa, rei de Gomorra, contra Sinabe, rei de Admá, contra Semeber, rei de Zeboim, e contra o rei de Belá (que é Zoar).
@@ -408,7 +419,7 @@
 * **23** jurando que não tomarei nem um fio nem uma correia de sandália, nada do que é teu, para que não digas: 'Eu enriqueci Abrão'.
 * **24** Nada para mim, exceto o que os jovens comeram e a parte dos homens que foram comigo: Aner, Escol e Manre; que eles tomem a sua parte".
 
-## 15
+## 15 {#cap-15}
 
 * **1** Depois destas coisas, a palavra de YHWH (SENHOR) veio a Abrão em visão, dizendo: "Não temas, Abrão, eu sou o teu escudo; a tua recompensa será muito grande".
 * **2** Abrão respondeu: "Adonai YHWH (Senhor SENHOR), que me darás, visto que continuo sem filhos e o herdeiro da minha casa é Eliézer de Damasco?"
@@ -432,7 +443,7 @@
 * **20** dos heteus, dos ferezeus e dos refains,
 * **21** dos amorreus, dos cananeus, dos girgaseus e dos jebuseus".
 
-## 16
+## 16 {#cap-16}
 
 * **1** Ora, Sarai, mulher de Abrão, não lhe dava filhos; ela tinha uma serva egípcia chamada Agar.
 * **2** Disse Sarai a Abrão: "Eis que YHWH (SENHOR) me impediu de dar à luz; rogo-te que possas ter relações com minha serva; talvez por meio dela eu seja edificada". E Abrão atendeu à voz de Sarai.
@@ -451,7 +462,7 @@
 * **15** Agar deu à luz um filho a Abrão; e Abrão chamou o nome de seu filho, que Agar dera à luz, Ismael.
 * **16** Abrão tinha oitenta e seis anos quando Agar deu à luz Ismael a Abrão.
 
-## 17
+## 17 {#cap-17}
 
 * **1** Quando Abrão completou noventa e nove anos, YHWH (SENHOR) lhe apareceu e disse: "Eu sou El Shaddai (Deus Todo-poderoso); anda em minha presença e sê íntegro.
 * **2** Estabelecerei minha aliança entre mim e ti e te multiplicarei extraordinariamente".
@@ -481,7 +492,7 @@
 * **26** Naquele mesmo dia foram circuncidados Abraão e seu filho Ismael.
 * **27** E todos os homens de sua casa, tanto os nascidos em casa como os comprados por dinheiro ao estrangeiro, foram circuncidados com ele.
 
-## 18
+## 18 {#cap-18}
 
 * **1** YHWH (SENHOR) apareceu a ele nos carvalhos de Manre, estando ele sentado à porta da tenda, no maior calor do dia.
 * **2** Levantou os olhos e olhou, e eis que três homens estavam de pé diante dele; vendo-os, correu da porta da tenda ao encontro deles e inclinou-se até o chão.
@@ -516,7 +527,7 @@
 * **31** E disse: "Veja que me atrevo a falar ao meu Senhor; talvez se encontrem ali vinte". Ele respondeu: "Não destruirei por causa dos vinte".
 * **32** E disse: "Não se ire o meu Senhor, se eu falar apenas mais esta vez; talvez se encontrem ali dez". Ele respondeu: "Não destruirei por causa dos dez".
 * **33** YHWH (SENHOR) foi-se, quando acabou de falar com Abraão; e Abraão voltou para o seu lugar.
-## 19
+## 19 {#cap-19}
 
 * **1** Os dois anjos chegaram a Sodoma ao entardecer, e Ló estava sentado à porta de Sodoma. Ao vê-los, Ló levantou-se para recebê-los e prostrou-se com o rosto em terra.
 * **2** Ele disse: "Por favor, meus senhores, desviem-se para a casa do vosso servo, passem a noite e lavem os vossos pés; de madrugada levantar-se-ão e seguirão o vosso caminho". Eles responderam: "Não, passaremos a noite na praça".
@@ -557,7 +568,7 @@
 * **37** A mais velha deu à luz um filho e chamou o seu nome Moabe; este é o pai dos moabitas até ao dia de hoje.
 * **38** A mais nova também deu à luz um filho e chamou o seu nome Ben-Ami; este é o pai dos filhos de Amom até ao dia de hoje.
 
-## 20
+## 20 {#cap-20}
 
 * **1** Abraão partiu dali para a terra do Neguebe e habitou entre Cades e Sur, e peregrinou em Gerar.
 * **2** Abraão disse de Sara, sua mulher: "Ela é minha irmã". E Abimeleque, rei de Gerar, enviou e tomou Sara.
@@ -578,7 +589,7 @@
 * **17** Abraão orou a Elohim, e Elohim curou Abimeleque, a sua mulher e as suas servas, e elas tiveram filhos.
 * **18** Porque YHWH tinha fechado totalmente todas as entranhas da casa de Abimeleque, por causa de Sara, mulher de Abraão.
 
-## 21
+## 21 {#cap-21}
 
 * **1** YHWH visitou Sara como tinha dito, e YHWH fez a Sara como tinha falado.
 * **2** Sara engravidou e deu à luz um filho a Abraão na sua velhice, no tempo determinado de que Elohim lhe falara.
@@ -615,7 +626,7 @@
 * **33** Abraão plantou um bosque em Berseba e invocou ali o nome de YHWH, o Deus Eterno.
 * **34** Abraão peregrinou na terra dos filisteus por muitos dias.
 
-## 22
+## 22 {#cap-22}
 
 * **1** Depois destas coisas, Elohim provou Abraão e disse-lhe: "Abraão!" Ele respondeu: "Eis-me aqui".
 * **2** Disse: "Toma agora o teu filho, o teu único filho, Isaque, a quem amas, e vai-te à terra de Moriá, e oferece-o ali em holocausto sobre um dos montes que eu te direi".
@@ -642,7 +653,7 @@
 * **23** Betuel gerou Rebeca; estes oito deu à luz Milca a Naor, irmão de Abraão.
 * **24** A sua concubina, cujo nome era Reumá, também deu à luz Teba, Gaão, Taás e Maaca.
 
-## 23
+## 23 {#cap-23}
 
 * **1** Os anos da vida de Sara foram cento e vinte e sete anos; estes foram os anos da vida de Sara.
 * **2** Sara morreu em Quiriate-Arba, que é Hebrom, na terra de Canaã; e Abraão veio lamentar Sara e chorar por ela.
@@ -665,7 +676,7 @@
 * **19** Depois disto, Abraão sepultou Sara, sua mulher, na caverna do campo de Macpela, defronte de Manre, que é Hebrom, na terra de Canaã.
 * **20** O campo e a caverna que nele estava foram confirmados a Abraão como posse de sepultura, da parte dos filhos de Hete.
 
-## 24
+## 24 {#cap-24}
 
 * **1** Abraão era velho, avançado em dias, e YHWH tinha abençoado Abraão em tudo.
 * **2** Abraão disse ao seu servo, o mais antigo da sua casa, que governava tudo o que tinha: "Põe agora a tua mão debaixo da minha coxa".
@@ -735,7 +746,7 @@
 * **66** O servo contou a Isaque todas as coisas que tinha feito.
 * **67** Isaque levou-a para a tenda de Sara, sua mãe, tomou Rebeca, e ela tornou-se sua esposa, e ele amou-a. Assim, Isaque consolou-se depois da morte de sua mãe.
 
-## 25
+## 25 {#cap-25}
 
 * **1** Abraão tomou outra esposa, cujo nome era Quetura.
 * **2** Ela deu-lhe à luz Zinrã, Jocsã, Medã, Midiã, Jisbaque e Sua.
@@ -772,7 +783,7 @@
 * **33** Jacó disse: "Jura-me hoje." Ele jurou-lhe e vendeu a sua primogenitura a Jacó.
 * **34** Jacó deu a Esaú pão e o guisado de lentilhas; ele comeu, bebeu, levantou-se e foi-se. Assim, Esaú desprezou a primogenitura.
 
-## 26
+## 26 {#cap-26}
 
 * **1** Houve fome na terra, além da primeira fome que houve nos dias de Abraão; Isaque foi a Gerar, a Abimeleque, rei dos filisteus.
 * **2** YHWH (SENHOR) apareceu-lhe e disse: "Não desças ao Egito; habita na terra que Eu te disser."
@@ -810,7 +821,7 @@
 * **34** Tendo Esaú quarenta anos, tomou por esposa Judite, filha de Beeri, o heteu, e Basemate, filha de Elom, o heteu.
 * **35** Elas foram uma amargura de espírito para Isaque e para Rebeca.
 
-## 27
+## 27 {#cap-27}
 
 * **1** Quando Isaque envelheceu e os seus olhos se escureceram, de modo que não podia ver, chamou Esaú, seu filho mais velho, e disse-lhe: "Meu filho!" Ele respondeu: "Eis-me aqui."
 * **2** Ele disse: "Eis que agora estou velho; não sei o dia da minha morte."
@@ -859,7 +870,7 @@
 * **45** "Até que o furor de seu irmão se desvie de você e ele esqueça o que você lhe fez; então, enviarei e o trarei de lá. Por que eu perderia a ambos em um só dia?".
 * **46** Rebeca disse a Isaque: "Estou cansada da minha vida por causa das filhas de Hete. Se Jacó tomar uma esposa dentre as filhas de Hete, como estas, dentre as filhas da terra, para que me servirá a vida?".
 
-## 28
+## 28 {#cap-28}
 
 * **1** Isaque chamou Jacó, abençoou-o, deu-lhe ordens e disse: "Não tome uma esposa dentre as filhas de Canaã".
 * **2** "Levante-se, vá a Padã-Arã, à casa de Betuel, pai de sua mãe, e tome de lá uma esposa dentre as filhas de Labão, irmão de sua mãe".
@@ -884,7 +895,7 @@
 * **21** "E eu voltar em paz à casa de meu pai, então YHWH será o meu Elohim".
 * **22** "E esta pedra, que erigi como coluna, será a casa de Elohim; e de tudo o que me deres, certamente te darei o dízimo".
 
-## 29
+## 29 {#cap-29}
 
 * **1** Jacó levantou os pés e foi à terra dos filhos do oriente.
 * **2** Olhou e viu um poço no campo, e eis que ali estavam três rebanhos de ovelhas deitados junto a ele, pois daquele poço se davam de beber aos rebanhos; e a pedra sobre a boca do poço era grande.
@@ -922,7 +933,7 @@
 * **34** Ela concebeu novamente, deu à luz um filho e disse: "Agora, desta vez, o meu marido se unirá a mim, pois lhe dei três filhos". Por isso, chamou o seu nome Levi.
 * **35** Ela concebeu novamente, deu à luz um filho e disse: "Desta vez louvarei a YHWH". Por isso, chamou o seu nome Judá; e cessou de dar à luz.
 
-## 30
+## 30 {#cap-30}
 
 * **1** Raquel viu que não dava filhos a Jacó e teve inveja de sua irmã, e disse a Jacó: "Dê-me filhos, senão morrerei".
 * **2** A ira de Jacó acendeu-se contra Raquel, e ele disse: "Estou eu no lugar de Elohim, que impediu de você o fruto do ventre?".
@@ -968,7 +979,7 @@
 * **42** Mas, quando o rebanho era fraco, ele não as punha; assim, os fracos ficavam para Labão, e os fortes para Jacó.
 * **43** O homem enriqueceu muitíssimo e teve muitos rebanhos, servas, servos, camelos e jumentos.
 
-## 31
+## 31 {#cap-31}
 
 * **1** Ele ouviu as palavras dos filhos de Labão, dizendo: "Jacó tomou tudo o que era de nosso pai e do que era de nosso pai adquiriu toda esta glória".
 * **2** Jacó viu o rosto de Labão, e eis que não estava para com ele como nos dias anteriores.
@@ -1026,7 +1037,7 @@
 * **54** Jacó ofereceu um sacrifício no monte e convidou seus irmãos para comer pão; comeram pão e passaram a noite no monte.
 * **55** Labão levantou-se de manhã cedo, beijou seus filhos e suas filhas, abençoou-os e partiu; Labão voltou para o seu lugar.
 
-## 32
+## 32 {#cap-32}
 
 * **1** Jacó seguiu o seu caminho, e os anjos de Elohim encontraram-no.
 * **2** Jacó disse, quando os viu: "Este é o acampamento de Elohim". E chamou o nome daquele lugar Maanaim.
@@ -1061,7 +1072,7 @@
 * **31** O sol nasceu-lhe quando passou Penuel, e ele manquejava da sua coxa.
 * **32** Por isso os filhos de Israel não comem o nervo da coxa, que está sobre a articulação da coxa, até ao dia de hoje, porque ele tocou na articulação da coxa de Jacó, no nervo da coxa.
 
-## 33
+## 33 {#cap-33}
 
 * **1** Jacó levantou os olhos e viu, e eis que Esaú vinha, e com ele quatrocentos homens. Dividiu os filhos entre Lia, Raquel e as duas servas.
 * **2** Pôs as servas e seus filhos na frente, Lia e seus filhos depois, e Raquel e José por último.
@@ -1084,7 +1095,7 @@
 * **19** Comprou a parte do campo onde estendera a sua tenda, da mão dos filhos de Hamor, pai de Siquém, por cem peças de prata.
 * **20** Levantou ali um altar e chamou-lhe El-Elohe-Israel (Deus, o Elohim de Israel).
 
-## 34
+## 34 {#cap-34}
 
 * **1** Dina, filha de Lia, que ela dera à luz a Jacó, saiu para ver as filhas da terra.
 * **2** Viu-a Siquém, filho de Hamor, o heveu, príncipe da terra, tomou-a, deitou-se com ela e humilhou-a.
@@ -1118,7 +1129,7 @@
 * **30** Jacó disse a Simeão e a Levi: "Vós me perturbastes, fazendo-me cheirar mal aos habitantes da terra, aos cananeus e aos ferezeus; sendo eu pouco numeroso, ajuntar-se-ão contra mim, ferir-me-ão, e serei destruído, eu e a minha casa".
 * **31** Eles disseram: "Havia ele de tratar a nossa irmã como a uma prostituta?"
 
-## 35
+## 35 {#cap-35}
 
 * **1** Elohim disse a Jacó: "Levanta-te, sobe a Betel e habita ali; faz ali um altar ao Elohim que te apareceu quando fugias da face de Esaú, teu irmão".
 * **2** Jacó disse à sua casa e a todos os que estavam com ele: "Lançai fora os deuses estranhos que há no meio de vós, purificai-vos e mudai as vossas vestes".
@@ -1150,7 +1161,7 @@
 * **28** Foram os dias de Isaque cento e oitenta anos.
 * **29** Isaque expirou, morreu e foi reunido ao seu povo, velho e farto de dias; e Esaú e Jacó, seus filhos, sepultaram-no.
 
-## 36
+## 36 {#cap-36}
 
 * **1** Estas são as gerações de Esaú, que é Edom.
 * **2** Esaú tomou as suas mulheres das filhas de Canaã: Ada, filha de Elom, o heteu, e Aolibama, filha de Aná, filha de Zibeão, o heveu,
@@ -1196,7 +1207,7 @@
 * **42** o chefe Quenaz, o chefe Temã, o chefe Mibzar,
 * **43** o chefe Magdiel, o chefe Irã; estes são os chefes de Edom, segundo as suas habitações na terra da sua possessão; este é Esaú, pai de Edom.
 
-## 37
+## 37 {#cap-37}
 
 * **1** Jacó habitou na terra das peregrinações de seu pai, na terra de Canaã.
 * **2** Estas são as gerações de Jacó: José, aos dezessete anos, apascentava o rebanho com seus irmãos; sendo ainda jovem, estava com os filhos de Bila e com os filhos de Zilpa, esposas de seu pai; e José trazia más notícias sobre eles ao pai deles.
@@ -1235,7 +1246,7 @@
 * **35** Levantaram-se todos os seus filhos e todas as suas filhas para o consolarem, mas ele recusou ser consolado e disse: "Descerei chorando até meu filho na sepultura". E seu pai chorou por ele.
 * **36** Os midianitas venderam-no no Egito a Potifar, oficial de Faraó, capitão da guarda.
 
-## 38
+## 38 {#cap-38}
 
 * **1** Naquele tempo, Judá desceu de junto de seus irmãos e dirigiu-se a um homem de Adulão, chamado Hira.
 * **2** Judá viu ali a filha de um homem cananeu, chamado Sua; tomou-a e uniu-se a ela.
@@ -1268,7 +1279,7 @@
 * **29** Mas, ao recolher a mão, eis que saiu seu irmão; ela disse: "Como rompeste a barreira para ti?" Por isso, chamaram-lhe Perez.
 * **30** Depois saiu seu irmão, que tinha o fio vermelho no pulso, e chamaram-lhe Zerá.
 
-## 39
+## 39 {#cap-39}
 
 * **1** José foi levado para o Egito, e Potifar, oficial de Faraó, capitão da guarda, um egípcio, comprou-o da mão dos ismaelitas que o tinham levado para lá.
 * **2** YHWH (SENHOR) estava com José, e ele era um homem próspero; ele estava na casa de seu senhor, o egípcio.
@@ -1294,7 +1305,7 @@
 * **22** O carcereiro-mor entregou na mão de José todos os prisioneiros que estavam na casa do cárcere, e tudo o que se fazia ali, ele era quem fazia.
 * **23** O carcereiro-mor não precisava fiscalizar nada do que estava na mão dele, porque YHWH estava com ele, e o que ele fazia, YHWH fazia prosperar.
 
-## 40
+## 40 {#cap-40}
 
 * **1** Depois destas coisas, o copeiro do rei do Egito e o padeiro pecaram contra o seu senhor, o rei do Egito.
 * **2** Faraó indignou-se contra os seus dois oficiais, contra o copeiro-mor e contra o padeiro-mor.
@@ -1320,7 +1331,7 @@
 * **22** Mas ao padeiro-mor, ele o pendurou, conforme José lhes tinha interpretado.
 * **23** O copeiro-mor, porém, não se lembrou de José; esqueceu-se dele.
 
-## 41
+## 41 {#cap-41}
 
 * **1** Passados dois anos inteiros, Faraó sonhou que estava em pé junto ao rio.
 * **2** Eis que do rio subiam sete vacas, formosas à vista e gordas de carne, e pastavam no juncal.
@@ -1380,7 +1391,7 @@
 * **56** A fome estava sobre toda a face da terra; José abriu todos os celeiros e vendeu mantimento aos egípcios, pois a fome se agravava na terra do Egito.
 * **57** De todas as terras vinham ao Egito para comprar mantimento de José, porque a fome era grave em toda a terra.
 
-## 42
+## 42 {#cap-42}
 
 * **1** Jacó viu que havia mantimento no Egito e disse aos seus filhos: "Por que vos olhais uns aos outros?"
 * **2** Disse: "Eis que ouvi que há mantimento no Egito; descei para lá e comprai para nós, para que vivamos e não morramos."
@@ -1421,7 +1432,7 @@
 * **37** Rúben disse ao seu pai: "Mata os meus dois filhos se eu não to trouxer; entrega-o em minhas mãos, e eu o trarei de volta a ti."
 * **38** Ele disse: "Meu filho não descerá convosco, pois seu irmão morreu e ele ficou só; se lhe suceder algum desastre no caminho por onde fordes, fareis descer as minhas cãs com tristeza à sepultura."
 
-## 43
+## 43 {#cap-43}
 
 * **1** A fome era grave na terra.
 * **2** Quando acabaram de comer o mantimento que trouxeram do Egito, seu pai disse-lhes: "Voltai, comprai-nos um pouco de mantimento."
@@ -1458,7 +1469,7 @@
 * **33** Eles sentaram-se diante dele, o primogênito segundo a sua primogenitura e o mais novo segundo a sua mocidade; e os homens olhavam uns para os outros, maravilhados.
 * **34** Ele lhes enviou porções da sua mesa, mas a porção de Benjamim era cinco vezes maior que a de todos eles; eles beberam e se alegraram com ele.
 
-## 44
+## 44 {#cap-44}
 
 * **1** Ele ordenou ao que estava sobre a sua casa: "Enche os sacos destes homens de mantimento, quanto puderem levar, e põe o dinheiro de cada um na boca do seu saco."
 * **2** "E o meu copo, o copo de prata, porás na boca do saco do mais novo, com o dinheiro do seu trigo." E ele fez conforme a palavra que José disse.
@@ -1495,7 +1506,7 @@
 * **33** "Agora, pois, deixa o teu servo ficar em lugar do rapaz como escravo do meu senhor, e que o rapaz suba com os seus irmãos."
 * **34** Pois como subirei a meu pai se o jovem não estiver comigo? Para que não veja o mal que sobrevirá a meu pai.
 
-## 45
+## 45 {#cap-45}
 
 * **1** E José não pôde mais conter-se diante de todos os que estavam com ele, e clamou: Fazei sair daqui a todo homem! E ninguém permaneceu com ele quando José se deu a conhecer a seus irmãos.
 * **2** E levantou a sua voz em choro, e os egípcios ouviram, e a casa de Faraó ouviu.
@@ -1526,7 +1537,7 @@
 * **27** E falaram-lhe todas as palavras de José, que ele lhes dissera; e viu os carros que José enviara para levá-lo, e o espírito de Jacó, seu pai, reviveu.
 * **28** E disse Israel: Basta! José, meu filho, ainda vive; irei e vê-lo-ei antes que morra.
 
-## 46
+## 46 {#cap-46}
 
 * **1** E partiu Israel com tudo o que tinha, e veio a Berseba, e ofereceu sacrifícios ao Elohim de seu pai Isaque.
 * **2** E disse Elohim a Israel em visões de noite, e disse: Jacó, Jacó! E ele disse: Eis-me aqui.
@@ -1563,7 +1574,7 @@
 * **33** E será que, quando Faraó vos chamar e disser: Qual é a vossa ocupação?
 * **34** Direis: Teus servos foram homens de gado desde a nossa mocidade até agora, tanto nós como nossos pais; para que habiteis na terra de Gósen, porque todo pastor de ovelhas é abominação para os egípcios.
 
-## 47
+## 47 {#cap-47}
 
 * **1** E veio José e anunciou a Faraó, e disse: Meu pai e meus irmãos, e seus rebanhos, e seu gado, e tudo o que têm, vieram da terra de Canaã; e eis que estão na terra de Gósen.
 * **2** E da extremidade de seus irmãos tomou cinco homens e apresentou-os diante de Faraó.
@@ -1597,7 +1608,7 @@
 * **30** Mas quando eu jazer com meus pais, levar-me-ás do Egito e sepultar-me-ás na sepultura deles. E ele disse: Eu farei conforme a tua palavra.
 * **31** E disse: Jura-mo. E ele jurou-lhe. E Israel inclinou-se sobre a cabeceira da cama.
 
-## 48
+## 48 {#cap-48}
 
 * **1** E aconteceu, depois destas coisas, que disseram a José: Eis que teu pai está doente. E ele tomou consigo seus dois filhos, Manassés e Efraim.
 * **2** E anunciaram a Jacó, e disseram: Eis que teu filho José vem a ti. E Israel esforçou-se e assentou-se sobre a cama.
@@ -1622,7 +1633,7 @@
 * **21** E disse Israel a José: Eis que eu morro, mas Elohim será convosco e vos fará tornar à terra de vossos pais.
 * **22** E eu te dei a ti uma parte a mais do que a teus irmãos, a qual tomei da mão dos amorreus com a minha espada e com o meu arco.
 
-## 49
+## 49 {#cap-49}
 
 * **1** E chamou Jacó a seus filhos e disse: Ajuntai-vos, e anunciar-vos-ei o que vos há de acontecer nos últimos dias.
 * **2** Ajuntai-vos e ouvi, filhos de Jacó; e ouvi a Israel, vosso pai.
@@ -1658,7 +1669,7 @@
 * **32** A compra do campo e da caverna que nele está foi feita aos filhos de Hete.
 * **33** E, acabando Jacó de dar estas ordens a seus filhos, recolheu os seus pés na cama, e expirou, e foi recolhido ao seu povo.
 
-## 50
+## 50 {#cap-50}
 
 * **1** Então José lançou-se sobre o rosto de seu pai, e chorou sobre ele, e beijou-o.
 * **2** José ordenou aos seus servos, os médicos, que embalsamassem seu pai, e os médicos embalsamaram a Israel.

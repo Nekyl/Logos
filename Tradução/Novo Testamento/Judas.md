@@ -1,11 +1,18 @@
+<!-- topo -->
 # Judas
 
 <!-- INDICE -->
-**Índice:** [1](1)
+## 📜 Índice
+
+**1 capítulos**
+[1](#cap-1)
+
+<div align="right"><a href="#topo"><strong>▲ Voltar ao topo</strong></a></div>
 
 <!-- FIM_INDICE -->
 
-## 1
+
+## 1 {#cap-1}
 
 * **1** Judas, servo de Iēsous Christos (Jesus Messias), e irmão de Tiago, aos que em Theos Patēr (Deus Pai) são amados e em Jesus Messias preservados, chamados:
 * **2** Misericórdia, paz e amor vos sejam multiplicados.

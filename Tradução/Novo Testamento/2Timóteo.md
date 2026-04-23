@@ -1,11 +1,18 @@
+<!-- topo -->
 # 2 Timóteo
 
 <!-- INDICE -->
-**Índice:** [1](1) · [2](2) · [3](3) · [4](4)
+## 📜 Índice
+
+**4 capítulos**
+[1](#cap-1) · [2](#cap-2) · [3](#cap-3) · [4](#cap-4)
+
+<div align="right"><a href="#topo"><strong>▲ Voltar ao topo</strong></a></div>
 
 <!-- FIM_INDICE -->
 
-## 1
+
+## 1 {#cap-1}
 
 * **1** Paulo, apóstolo de Christos Iēsous (Messias Jesus), pela vontade de Theos (Deus), conforme a promessa da vida que está em Christo Iēsou,
 * **2** a Timóteo, amado filho: graça, misericórdia e paz da parte de Theos Patēr (Deus Pai) e de Christou Iēsou, do Kyrios (Senhor) nosso.
@@ -26,7 +33,7 @@
 * **17** antes, quando chegou a Roma, procurou-me diligentemente e me encontrou.
 * **18** Que o Kyrios lhe conceda encontrar misericórdia da parte do Kyrios naquele dia; e quanto ao serviço que ele prestou em Éfeso, tu bem o sabes.
 
-## 2
+## 2 {#cap-2}
 
 * **1** Tu, pois, meu filho, fortalece-te na graça que está em Christo Iēsou,
 * **2** e o que de mim ouviste diante de muitas testemunhas, transmite-o a homens fiéis, que sejam capazes de ensinar também a outros.
@@ -55,7 +62,7 @@
 * **25** corrigindo com mansidão os que se opõem, na esperança de que Theos lhes conceda o arrependimento para conhecerem a verdade,
 * **26** e que se libertem do laço do diabo, tendo sido feitos prisioneiros por ele para fazerem a sua vontade.
 
-## 3
+## 3 {#cap-3}
 
 * **1** Sabe, porém, isto: que nos últimos dias sobrevirão tempos difíceis;
 * **2** pois os homens serão egoístas, avarentos, jactanciosos, arrogantes, blasfemadores, desobedientes aos pais, ingratos, ímpios,
@@ -75,7 +82,7 @@
 * **16** Toda a Escritura é inspirada por Theos e útil para o ensino, para a repreensão, para a correção, para a educação na justiça,
 * **17** a fim de que o homem de Theos seja perfeito e perfeitamente habilitado para toda boa obra.
 
-## 4
+## 4 {#cap-4}
 
 * **1** Conjuro-te diante de Theos e de Christou Iēsou, que há de julgar os vivos e os mortos, pela sua aparição e pelo seu reino:
 * **2** prega a palavra, insiste a tempo e fora de tempo, repreende, censura, exorta com toda longanimidade e doutrina.

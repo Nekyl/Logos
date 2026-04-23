@@ -1,11 +1,19 @@
+<!-- topo -->
 # Zacarias
 
 <!-- INDICE -->
-**Índice:** [1](1) · [2](2) · [3](3) · [4](4) · [5](5) · [6](6) · [7](7) · [8](8) · [9](9) · [10](10) · [11](11) · [12](12) · [13](13) · [14](14)
+## 📜 Índice
+
+**14 capítulos**
+[1](#cap-1) · [2](#cap-2) · [3](#cap-3) · [4](#cap-4) · [5](#cap-5) · [6](#cap-6) · [7](#cap-7) · [8](#cap-8) · [9](#cap-9) · [10](#cap-10)
+[11](#cap-11) · [12](#cap-12) · [13](#cap-13) · [14](#cap-14)
+
+<div align="right"><a href="#topo"><strong>▲ Voltar ao topo</strong></a></div>
 
 <!-- FIM_INDICE -->
 
-## 1
+
+## 1 {#cap-1}
 
 * **1** No oitavo mês, no segundo ano de Dario, a palavra de YHWH (SENHOR) veio ao profeta Zacarias, filho de Berequias, filho de Ido, dizendo:
 * **2** O SENHOR indignou-se fortemente contra os vossos pais.
@@ -29,7 +37,7 @@
 * **20** E o SENHOR me mostrou quatro artífices.
 * **21** E eu disse: Que vêm estes fazer? E ele falou, dizendo: Estes são os chifres que dispersaram a Judá, de modo que ninguém pôde levantar a cabeça; mas estes vieram para os assustar, para derrubar os chifres das nações que levantaram o seu chifre contra a terra de Judá para a dispersar.
 
-## 2
+## 2 {#cap-2}
 
 * **1** Levantei os meus olhos e vi, e eis um homem com um cordel de medir na mão.
 * **2** E eu disse: Aonde vais tu? E ele me disse: Medir Jerusalém, para ver qual é a sua largura e qual é o seu comprimento.
@@ -45,7 +53,7 @@
 * **12** E o SENHOR herdará a Judá como sua porção na terra santa, e escolherá ainda a Jerusalém.
 * **13** Cala-te, toda a carne, diante do SENHOR, porque ele se levantou da sua santa habitação.
 
-## 3
+## 3 {#cap-3}
 
 * **1** E ele mostrou-me o sumo sacerdote Josué, que estava diante do anjo do SENHOR, e o adversário estava à sua direita, para se lhe opor.
 * **2** E YHWH (SENHOR) disse ao adversário: O SENHOR te repreenda, ó adversário; sim, o SENHOR, que escolheu a Jerusalém, te repreenda; não é este um tição tirado do fogo?
@@ -58,7 +66,7 @@
 * **9** Pois eis que a pedra que pus diante de Josué; sobre uma pedra única estão sete olhos; eis que eu gravarei a sua gravura, diz o SENHOR dos Exércitos, e tirarei a iniquidade daquela terra num só dia.
 * **10** Naquele dia, diz o SENHOR dos Exércitos, chamareis cada um ao seu próximo, debaixo da videira e debaixo da figueira.
 
-## 4
+## 4 {#cap-4}
 
 * **1** E o anjo que falava comigo voltou e despertou-me, como um homem que é despertado do seu sono.
 * **2** E disse-me: Que vês tu? E eu disse: Olhei, e eis um candelabro de ouro, todo ele, e um vaso no seu topo, e as suas sete lâmpadas sobre ele, sete e sete tubos para as lâmpadas que estavam no seu topo.
@@ -75,7 +83,7 @@
 * **13** E ele disse-me: Não sabes tu o que são estas? E eu disse: Não, Adonai (Senhor).
 * **14** E ele disse: Estes são os dois ungidos que estão diante do Senhor de toda a terra.
 
-## 5
+## 5 {#cap-5}
 
 * **1** Tornei a levantar os meus olhos e vi, e eis um rolo que voava.
 * **2** E ele disse-me: Que vês tu? E eu disse: Vejo um rolo que voa; o seu comprimento é de vinte côvados, e a sua largura de dez côvados.
@@ -89,7 +97,7 @@
 * **10** E eu disse ao anjo que falava comigo: Para onde levam elas o efa?
 * **11** E ele disse-me: Para lhe edificar uma casa na terra de Sinar; e, estando preparada, será posta ali na sua base.
 
-## 6
+## 6 {#cap-6}
 
 * **1** Tornei a levantar os meus olhos e vi, e eis quatro carros que saíam de entre dois montes, e os montes eram montes de bronze.
 * **2** No primeiro carro havia cavalos vermelhos, e no segundo carro cavalos pretos.
@@ -107,7 +115,7 @@
 * **14** E as coroas serão para Helém, para Tobias, para Jedaías e para Hen, filho de Sofonias, como memorial no templo do SENHOR.
 * **15** E os que estão longe virão e edificarão no templo do SENHOR, e sabereis que o SENHOR dos Exércitos me enviou a vós. E isto acontecerá se diligentemente ouvirdes a voz do SENHOR, vosso Elohim (Deus).
 
-## 7
+## 7 {#cap-7}
 
 * **1** E aconteceu no quarto ano do rei Dario, que a palavra do SENHOR veio a Zacarias, no quarto dia do nono mês, em Quisleu.
 * **2** E enviaram a Betel, Sarezer e Regém-Meleque, e os seus homens, para suplicarem o favor do SENHOR.
@@ -124,7 +132,7 @@
 * **13** E aconteceu que, assim como Ele clamou e eles não ouviram, assim eles clamaram e eu não ouvi, diz YHWH צבאות.
 * **14** Eu os espalhei por entre todas as nações que eles não conheciam, e a terra ficou desolada atrás deles, sem que ninguém passasse ou voltasse; transformaram a terra desejável em um deserto.
 
-## 8
+## 8 {#cap-8}
 
 * **1** Veio a palavra de YHWH צבאות, dizendo:
 * **2** Assim diz YHWH צבאות: Tenho zelo por Sião com grande zelo, e com grande furor tenho zelo por ela.
@@ -150,7 +158,7 @@
 * **22** Muitos povos e nações poderosas virão buscar a YHWH צבאות em Jerusalém e suplicar o favor de YHWH.
 * **23** Assim diz YHWH צבאות: Naqueles dias, dez homens de todas as línguas das nações pegarão, sim, pegarão na orla da veste de um judeu, dizendo: Iremos com vocês, porque ouvimos que Elohim está com vocês.
 
-## 9
+## 9 {#cap-9}
 
 * **1** Sentença da palavra de YHWH sobre a terra de Hadrach, e Damasco será o seu lugar de repouso; pois a YHWH pertencem os olhos dos homens e todas as tribos de Israel.
 * **2** Também Hamate fará fronteira com ela, Tiro e Sidom, pois são muito sábias.
@@ -170,7 +178,7 @@
 * **16** YHWH seu Elohim os salvará naquele dia, como o rebanho do seu povo; pois pedras de coroa serão exaltadas sobre a sua terra.
 * **17** Pois quão grande é a sua bondade e quão grande é a sua formosura! O trigo fará florescer os jovens, e o vinho novo, as donzelas.
 
-## 10
+## 10 {#cap-10}
 
 * **1** Peçam a YHWH chuva no tempo da chuva serôdia; YHWH fará relâmpagos e lhes dará chuvas abundantes, e a cada um, erva no campo.
 * **2** Pois os ídolos falaram vaidade, os adivinhos viram mentira e contaram sonhos falsos; consolam em vão; por isso, o povo vagueia como ovelhas, aflitos porque não há pastor.
@@ -185,7 +193,7 @@
 * **11** Ele passará pelo mar da angústia, ferirá as ondas do mar, e todas as profundezas do Nilo secarão; o orgulho da Assíria será derrubado, e o cetro do Egito se afastará.
 * **12** Eu os fortalecerei em YHWH, e andarão no seu nome, diz YHWH.
 
-## 11
+## 11 {#cap-11}
 
 * **1** Abre, ó Líbano, as tuas portas, para que o fogo consuma os teus cedros.
 * **2** Uiva, ó cipreste, porque o cedro caiu, porque os majestosos foram destruídos; uivem, ó carvalhos de Basã, porque o bosque impenetrável foi derrubado.
@@ -205,7 +213,7 @@
 * **16** Pois eis que suscitarei um pastor na terra que não cuidará das que estão perecendo, não buscará a jovem, não curará a ferida, não alimentará a que está em pé, mas comerá a carne da gorda e despedaçará os seus cascos.
 * **17** Ai do pastor inútil que abandona o rebanho! A espada cairá sobre o seu braço e sobre o seu olho direito; o seu braço secará totalmente, e o seu olho direito ficará completamente cego.
 
-## 12
+## 12 {#cap-12}
 
 * **1** Sentença da palavra de YHWH sobre Israel, diz YHWH, que estende os céus, funda a terra e forma o espírito do homem dentro dele.
 * **2** Eis que farei de Jerusalém uma taça de tonteira para todos os povos ao redor, e também para Judá, no cerco contra Jerusalém.
@@ -222,7 +230,7 @@
 * **13** A família da casa de Levi à parte, e suas mulheres à parte; a família de Simei à parte, e suas mulheres à parte;
 * **14** Todas as famílias que restarem, cada família à parte, e suas mulheres à parte.
 
-## 13
+## 13 {#cap-13}
 
 * **1** Naquele dia, haverá uma fonte aberta para a casa de Davi e para os habitantes de Jerusalém, para o pecado e para a impureza.
 * **2** Acontecerá naquele dia, diz YHWH צבאות, que eliminarei os nomes dos ídolos da terra, e não serão mais lembrados; também farei passar da terra os profetas e o espírito de impureza.
@@ -234,7 +242,7 @@
 * **8** Acontecerá em toda a terra, diz YHWH, que duas partes dela serão eliminadas e expirarão, mas a terceira parte restará nela.
 * **9** Farei passar a terceira parte pelo fogo, e a purificarei como se purifica a prata, e a provarei como se prova o ouro; ela invocará o meu nome, e eu a ouvirei; direi: É o meu povo, e ela dirá: YHWH é o meu Elohim.
 
-## 14
+## 14 {#cap-14}
 
 * **1** Eis que vem o dia de YHWH, em que os teus despojos serão repartidos no meio de ti.
 * **2** Ajuntarei todas as nações para a guerra contra Jerusalém; a cidade será tomada, as casas serão saqueadas, as mulheres serão violadas; metade da cidade sairá para o cativeiro, mas o restante do povo não será eliminado da cidade.

@@ -1,11 +1,18 @@
+<!-- topo -->
 # Sofonias
 
 <!-- INDICE -->
-**Índice:** [1](1) · [2](2) · [3](3)
+## 📜 Índice
+
+**3 capítulos**
+[1](#cap-1) · [2](#cap-2) · [3](#cap-3)
+
+<div align="right"><a href="#topo"><strong>▲ Voltar ao topo</strong></a></div>
 
 <!-- FIM_INDICE -->
 
-## 1
+
+## 1 {#cap-1}
 
 * **1** Esta é a palavra de YHWH (SENHOR) que veio a Sofonias, filho de Cushi, filho de Gedalias, filho de Amarias, filho de Ezequias, nos dias de Josias, filho de Amom, rei de Judá.
 * **2** Consumirei, consumirei tudo de sobre a face da terra, diz YHWH (SENHOR).
@@ -26,7 +33,7 @@
 * **17** E angustiarei os homens, e eles andarão como cegos, porque pecaram contra YHWH (SENHOR); e o seu sangue será derramado como pó, e a sua carne como esterco.
 * **18** Nem a sua prata nem o seu ouro os poderá livrar no dia da indignação de YHWH (SENHOR), mas pelo fogo do seu zelo será consumida toda a terra; porque ele fará uma destruição total e repentina de todos os habitantes da terra.
 
-## 2
+## 2 {#cap-2}
 
 * **1** Ajuntai-vos, sim, ajuntai-vos, ó nação sem vergonha.
 * **2** Antes que o decreto produza o seu efeito, e o dia passe como a pragana, antes que venha sobre vós o furor da ira de YHWH (SENHOR), antes que venha sobre vós o dia da ira de YHWH (SENHOR).
@@ -44,7 +51,7 @@
 * **14** E rebanhos se deitarão no meio dela, todos os animais das nações; tanto o pelicano como o ouriço alojar-se-ão nos seus capitéis; uma voz cantará nas janelas, a desolação estará no limiar, porque ele descobriu a sua obra de cedro.
 * **15** Esta é a cidade alegre, que vivia em segurança, que dizia no seu coração: Eu sou, e não há outra além de mim! Como se tornou em desolação, em lugar de repouso para os animais! Todo o que passar por ela assobiará e moverá a sua mão.
 
-## 3
+## 3 {#cap-3}
 
 * **1** Ai da cidade rebelde e contaminada, a cidade opressora!
 * **2** Não obedeceu à voz, não aceitou a correção; não confiou em YHWH (SENHOR), não se aproximou do seu Elohim (Deus).

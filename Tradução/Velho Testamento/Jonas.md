@@ -1,11 +1,18 @@
+<!-- topo -->
 # Jonas
 
 <!-- INDICE -->
-**Índice:** [1](1) · [2](2) · [3](3) · [4](4)
+## 📜 Índice
+
+**4 capítulos**
+[1](#cap-1) · [2](#cap-2) · [3](#cap-3) · [4](#cap-4)
+
+<div align="right"><a href="#topo"><strong>▲ Voltar ao topo</strong></a></div>
 
 <!-- FIM_INDICE -->
 
-## 1
+
+## 1 {#cap-1}
 
 * **1** Veio a palavra de YHWH (SENHOR) a Jonas, filho de Amitai, dizendo:
 * **2** Levanta-te, vai à grande cidade de Nínive e clama contra ela, porque a sua maldade subiu diante de mim.
@@ -25,7 +32,7 @@
 * **16** Os homens temeram grandemente a YHWH, ofereceram sacrifícios a YHWH e fizeram votos.
 * **17** YHWH preparou um grande peixe para engolir Jonas; e Jonas esteve nas entranhas do peixe por três dias e três noites.
 
-## 2
+## 2 {#cap-2}
 
 * **1** Jonas orou a YHWH, seu Elohim, das entranhas do peixe.
 * **2** E disse: "Na minha angústia, clamei a YHWH, e ele me respondeu; do ventre do Sheol, gritei, e tu ouviste a minha voz."
@@ -38,7 +45,7 @@
 * **9** "Mas eu, com voz de gratidão, te oferecerei sacrifício; o que votei, pagarei. A salvação vem de YHWH."
 * **10** YHWH deu ordens ao peixe, e este vomitou Jonas na terra seca.
 
-## 3
+## 3 {#cap-3}
 
 * **1** Veio a palavra de YHWH a Jonas pela segunda vez, dizendo:
 * **2** "Levanta-te, vai à grande cidade de Nínive e proclama nela a mensagem que eu te direi."
@@ -51,7 +58,7 @@
 * **9** "Quem sabe se Elohim se voltará e se arrependerá, e se apartará do furor da sua ira, para que não pereçamos?"
 * **10** Viu Elohim as suas obras, como se converteram do seu mau caminho; e Elohim se arrependeu do mal que tinha dito que lhes faria, e não o fez.
 
-## 4
+## 4 {#cap-4}
 
 * **1** Mas isso desagradou profundamente a Jonas, e ele ficou irado.
 * **2** Orou a YHWH e disse: "Ah, YHWH, não foi isto o que eu disse, estando ainda na minha terra? Por isso, me apressei a fugir para Társis, pois sabia que tu és um El (Deus) clemente e misericordioso, tardio em irar-se e grande em benignidade, e que te arrependes do mal."

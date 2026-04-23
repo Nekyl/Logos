@@ -1,11 +1,18 @@
+<!-- topo -->
 # Cântico dos Cânticos
 
 <!-- INDICE -->
-**Índice:** [1](1) · [2](2) · [3](3) · [4](4) · [5](5) · [6](6) · [7](7) · [8](8)
+## 📜 Índice
+
+**8 capítulos**
+[1](#cap-1) · [2](#cap-2) · [3](#cap-3) · [4](#cap-4) · [5](#cap-5) · [6](#cap-6) · [7](#cap-7) · [8](#cap-8)
+
+<div align="right"><a href="#topo"><strong>▲ Voltar ao topo</strong></a></div>
 
 <!-- FIM_INDICE -->
 
-## 1
+
+## 1 {#cap-1}
 
 * **1** Cântico dos Cânticos, que é de Salomão.
 * **2** Que ele me beije com os beijos da sua boca, porque o teu amor é melhor do que o vinho.
@@ -25,7 +32,7 @@
 * **16** Eis que és formoso, meu amado, e também amável; o nosso leito é viçoso.
 * **17** As traves da nossa casa são de cedro, e as nossas vergas de cipreste.
 
-## 2
+## 2 {#cap-2}
 
 * **1** Eu sou a rosa de Sarom, o lírio dos vales.
 * **2** Como o lírio entre os espinhos, assim é a minha amada entre as filhas.
@@ -45,7 +52,7 @@
 * **16** O meu amado é meu, e eu sou dele; ele apascenta entre os lírios.
 * **17** Até que refresque o dia e as sombras fujam, volta, meu amado, faze-te semelhante ao gamo ou ao filho da gazela sobre os montes de Beter.
 
-## 3
+## 3 {#cap-3}
 
 * **1** De noite, na minha cama, busquei aquele a quem ama a minha alma; busquei-o e não o achei.
 * **2** Levantar-me-ei, pois, e rodearei a cidade; pelas ruas e pelas praças buscarei aquele a quem ama a minha alma; busquei-o e não o achei.
@@ -59,7 +66,7 @@
 * **10** As suas colunas fez de prata, o seu estrado de ouro, o seu assento de púrpura, o seu interior foi revestido com amor pelas filhas de Jerusalém.
 * **11** Saí, ó filhas de Sião, e vede o rei Salomão com a coroa com que sua mãe o coroou no dia do seu desposório e no dia do prazer do seu coração.
 
-## 4
+## 4 {#cap-4}
 
 * **1** Eis que és formosa, minha amada, eis que és formosa; os teus olhos são como os das pombas por detrás do teu véu; o teu cabelo é como o rebanho de cabras que descem do monte Gileade.
 * **2** Os teus dentes são como o rebanho das ovelhas tosquiadas que sobem do lavadouro, e das quais todas produzem gêmeos, e nenhuma há estéril entre elas.
@@ -78,7 +85,7 @@
 * **15** Tu és a fonte dos jardins, poço de águas vivas, que correm do Líbano.
 * **16** Levanta-te, ó vento norte, e vem, tu, vento sul; sopra no meu jardim, para que os seus aromas se espalhem; venha o meu amado ao seu jardim e coma os seus frutos excelentes.
 
-## 5
+## 5 {#cap-5}
 
 * **1** Já vim ao meu jardim, minha irmã, minha esposa; colhi a minha mirra com as minhas especiarias, comi o meu favo com o meu mel, bebi o meu vinho com o meu leite; comei, amigos, bebei abundantemente, ó amados.
 * **2** Eu dormia, mas o meu coração velava; eis a voz do meu amado que bate: Abre-me, minha irmã, minha amada, minha pomba, minha imaculada, porque a minha cabeça está cheia de orvalho, os meus cabelos das gotas da noite.
@@ -97,7 +104,7 @@
 * **15** As suas pernas, como colunas de mármore branco, fundadas sobre bases de ouro puro; o seu aspecto é como o Líbano, excelente como os cedros.
 * **16** O seu paladar é dulcíssimo, e ele é totalmente desejável; este é o meu amado, e este é o meu amigo, ó filhas de Jerusalém.
 
-## 6
+## 6 {#cap-6}
 
 * **1** Para onde foi o teu amado, ó mais bela entre as mulheres? Para onde se virou o teu amado, para que o busquemos contigo?
 * **2** O meu amado desceu ao seu jardim, aos canteiros de bálsamo, para pastar nos jardins e colher os lírios.
@@ -113,7 +120,7 @@
 * **12** Não sei como, a minha alma me pôs entre os carros do meu povo nobre.
 * **13** Volta, volta, ó Sulamita, volta, volta, para que nós te vejamos; que vereis na Sulamita? Como a dança de Maanaim.
 
-## 7
+## 7 {#cap-7}
 
 * **1** Quão formosos são os teus pés nas sandálias, ó filha de príncipe! As curvas das tuas coxas são como joias, obra de mãos de artífice.
 * **2** O teu umbigo é como taça redonda, a que não falta bebida; o teu ventre é como monte de trigo, cercado de lírios.
@@ -129,7 +136,7 @@
 * **12** Levantemo-nos de manhã para ir às vinhas, vejamos se florescem as vides, se se abre a flor, se já dão fruto as romãzeiras; ali te darei o meu amor.
 * **13** As mandrágoras exalam o seu perfume, e às nossas portas há toda sorte de frutos excelentes, novos e velhos; eu os guardei para ti, meu amado.
 
-## 8
+## 8 {#cap-8}
 
 * **1** Ah, se fosses como meu irmão, que mamou aos seios de minha mãe! Quando eu te achasse fora, beijar-te-ia, e não me desprezariam.
 * **2** Eu te levaria e te introduziria na casa de minha mãe; tu me ensinarias, e eu te daria a beber do vinho aromático e do mosto das minhas romãs.

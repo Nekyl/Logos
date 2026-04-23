@@ -1,11 +1,18 @@
+<!-- topo -->
 # Lamentações
 
 <!-- INDICE -->
-**Índice:** [1](1) · [2](2) · [3](3) · [4](4) · [5](5)
+## 📜 Índice
+
+**5 capítulos**
+[1](#cap-1) · [2](#cap-2) · [3](#cap-3) · [4](#cap-4) · [5](#cap-5)
+
+<div align="right"><a href="#topo"><strong>▲ Voltar ao topo</strong></a></div>
 
 <!-- FIM_INDICE -->
 
-## 1
+
+## 1 {#cap-1}
 
 * **1** Como a cidade, outrora cheia de gente, ficou solitária! Tornou-se como uma viúva, a grande entre as nações; a princesa entre as províncias tornou-se tributária.
 * **2** Chora amargamente de noite, e as lágrimas correm pelas suas faces; não tem quem a console entre todos os seus amantes; todos os seus amigos a traíram, tornaram-se seus inimigos.
@@ -30,7 +37,7 @@
 * **21** Ouvem que eu suspiro, mas não há quem me console; todos os meus inimigos souberam da minha desgraça e alegraram-se, porque tu o fizeste; tu trouxeste o dia que proclamaste, e eles se tornaram como eu.
 * **22** Venha toda a sua maldade perante ti, e faze-lhes como fizeste a mim por causa de todas as minhas transgressões; porque os meus suspiros são muitos e o meu coração está enfermo.
 
-## 2
+## 2 {#cap-2}
 
 * **1** Como Adonai (Senhor) cobriu de nuvens a filha de Sião na sua ira! Lançou do céu para a terra a glória de Israel e não se lembrou do estrado dos seus pés no dia da sua ira.
 * **2** Adonai (Senhor) devorou sem piedade todas as habitações de Jacó; derrubou no seu furor as fortalezas da filha de Judá; abateu até ao chão o reino e os seus príncipes.
@@ -55,7 +62,7 @@
 * **21** Jazem por terra nas ruas o jovem e o velho; as minhas virgens e os meus jovens caíram à espada; tu os mataste no dia da tua ira; degolaste e não tiveste piedade.
 * **22** Convocaste como em dia de festa solene os meus terrores de toda a parte; e não houve, no dia da ira de YHWH (SENHOR), quem escapasse ou ficasse; aqueles que eu trouxe ao colo e criei, o meu inimigo os consumiu.
 
-## 3
+## 3 {#cap-3}
 
 * **1** Eu sou o homem que viu a aflição pela vara do seu furor.
 * **2** Ele me guiou e me fez andar em trevas e não na luz.
@@ -124,7 +131,7 @@
 * **65** Dar-lhes-ás dureza de coração, a tua maldição sobre eles.
 * **66** Persegui-los-ás na ira e os destruirás de debaixo dos céus de YHWH (SENHOR).
 
-## 4
+## 4 {#cap-4}
 
 * **1** Como se escureceu o ouro! Como se mudou o ouro puro! As pedras do santuário estão espalhadas nas esquinas de todas as ruas.
 * **2** Os preciosos filhos de Sião, comparáveis ao ouro puro, como são agora reputados por vasos de barro, obra das mãos do oleiro!
@@ -149,7 +156,7 @@
 * **21** Regozija-te e alegra-te, ó filha de Edom, que habitas na terra de Uz; também a ti passará o cálice; embebedar-te-ás e te descobrirás.
 * **22** A tua iniquidade está punida, ó filha de Sião; ele não te levará mais ao cativeiro; ele visitará a tua iniquidade, ó filha de Edom, e descobrirá os teus pecados.
 
-## 5
+## 5 {#cap-5}
 
 * **1** Lembra-te, YHWH (SENHOR), do que nos tem sucedido; olha e vê a nossa afronta.
 * **2** A nossa herança passou a estranhos, as nossas casas a estrangeiros.

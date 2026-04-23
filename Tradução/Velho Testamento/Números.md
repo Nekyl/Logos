@@ -1,11 +1,21 @@
+<!-- topo -->
 # Números
 
 <!-- INDICE -->
-**Índice:** [1](1) · [2](2) · [3](3) · [4](4) · [5](5) · [6](6) · [7](7) · [8](8) · [9](9) · [10](10) · [11](11) · [12](12) · [13](13) · [14](14) · [15](15) · [16](16) · [17](17) · [18](18) · [19](19) · [20](20) · [21](21) · [22](22) · [23](23) · [24](24) · [25](25) · [26](26) · [27](27) · [28](28) · [29](29) · [30](30) · [31](31) · [32](32) · [33](33) · [34](34) · [35](35) · [36](36)
+## 📜 Índice
+
+**36 capítulos**
+[1](#cap-1) · [2](#cap-2) · [3](#cap-3) · [4](#cap-4) · [5](#cap-5) · [6](#cap-6) · [7](#cap-7) · [8](#cap-8) · [9](#cap-9) · [10](#cap-10)
+[11](#cap-11) · [12](#cap-12) · [13](#cap-13) · [14](#cap-14) · [15](#cap-15) · [16](#cap-16) · [17](#cap-17) · [18](#cap-18) · [19](#cap-19) · [20](#cap-20)
+[21](#cap-21) · [22](#cap-22) · [23](#cap-23) · [24](#cap-24) · [25](#cap-25) · [26](#cap-26) · [27](#cap-27) · [28](#cap-28) · [29](#cap-29) · [30](#cap-30)
+[31](#cap-31) · [32](#cap-32) · [33](#cap-33) · [34](#cap-34) · [35](#cap-35) · [36](#cap-36)
+
+<div align="right"><a href="#topo"><strong>▲ Voltar ao topo</strong></a></div>
 
 <!-- FIM_INDICE -->
 
-## 1
+
+## 1 {#cap-1}
 
 * **1** YHWH (SENHOR) falou a Moisés no deserto do Sinai, na tenda da congregação, no primeiro dia do segundo mês, no segundo ano após a saída da terra do Egito, dizendo:
 * **2** Fazei um levantamento de toda a congregação dos filhos de Israel, segundo as suas famílias, segundo a casa de seus pais, pelo número dos nomes, todo homem, cabeça por cabeça;
@@ -62,7 +72,7 @@
 * **53** Mas os levitas acamparão ao redor do tabernáculo do testemunho, para que não haja indignação sobre a congregação dos filhos de Israel; e os levitas guardarão o encargo do tabernáculo do testemunho.
 * **54** Os filhos de Israel fizeram conforme tudo o que YHWH (SENHOR) ordenou a Moisés; assim o fizeram.
 
-## 2
+## 2 {#cap-2}
 
 * **1** YHWH (SENHOR) falou a Moisés e a Arão, dizendo:
 * **2** Cada um acampará junto à sua bandeira, sob os sinais da casa de seus pais; os filhos de Israel acamparão defronte, ao redor da tenda da congregação.
@@ -99,7 +109,7 @@
 * **33** Mas os levitas não foram contados entre os filhos de Israel, como YHWH (SENHOR) ordenou a Moisés.
 * **34** Os filhos de Israel fizeram conforme tudo o que YHWH (SENHOR) ordenou a Moisés; assim acamparam segundo as suas bandeiras, e assim partiram, cada um segundo a sua família, segundo a casa de seus pais.
 
-## 3
+## 3 {#cap-3}
 
 * **1** Estas são as gerações de Arão e Moisés, no dia em que YHWH (SENHOR) falou a Moisés no monte Sinai.
 * **2** Estes são os nomes dos filhos de Arão: o primogênito Nadabe, e Abiú, Eleazar e Itamar.
@@ -153,7 +163,7 @@
 * **50** Do primogênito dos filhos de Israel tomou o dinheiro, mil trezentos e sessenta e cinco siclos, segundo o siclo do santuário.
 * **51** Moisés deu o dinheiro do resgate a Arão e aos seus filhos, conforme a ordem de YHWH (SENHOR), como YHWH (SENHOR) ordenou a Moisés.
 
-## 4
+## 4 {#cap-4}
 
 * **1** YHWH (SENHOR) falou a Moisés e a Arão, dizendo:
 * **2** Fazei o levantamento dos filhos de Coate, dentre os filhos de Levi, segundo as suas famílias, segundo a casa de seus pais;
@@ -205,7 +215,7 @@
 * **48** Os seus contados foram oito mil quinhentos e oitenta.
 * **49** Segundo a ordem de YHWH (SENHOR) os contou, por intermédio de Moisés, a cada um segundo o seu serviço e segundo a sua carga; assim foram contados, como YHWH (SENHOR) ordenou a Moisés.
 
-## 5
+## 5 {#cap-5}
 
 * **1** YHWH (SENHOR) falou a Moisés, dizendo:
 * **2** Ordena aos filhos de Israel que enviem para fora do acampamento todo leproso, todo o que tem fluxo e todo o que está impuro por causa de um morto.
@@ -239,7 +249,7 @@
 * **30** ou quando sobre um homem vier um espírito de ciúme, e ele tiver ciúmes da sua mulher, ele colocará a mulher perante YHWH (SENHOR), e o sacerdote fará para ela toda esta lei.
 * **31** O homem será livre da iniquidade, e a mulher levará a sua iniquidade.
 
-## 6
+## 6 {#cap-6}
 
 * **1** YHWH (SENHOR) falou a Moisés, dizendo:
 * **2** Fala aos filhos de Israel e dize-lhes: Quando um homem ou uma mulher fizer um voto especial de nazireu, para se separar para YHWH (SENHOR),
@@ -269,7 +279,7 @@
 * **26** YHWH (SENHOR) sobre ti levante o seu rosto e te dê a paz.
 * **27** Assim porão o meu nome sobre os filhos de Israel, e eu os abençoarei.
 
-## 7
+## 7 {#cap-7}
 
 * **1** Sucedeu que, no dia em que Moisés acabou de levantar o tabernáculo, ungiu-o, santificou-o, a todos os seus utensílios, ao altar e a todos os seus utensílios, ungiu-os e santificou-os.
 * **2** Os príncipes de Israel, os chefes das suas casas paternas, ofereceram; eles eram os príncipes das tribos, eles eram os que estavam sobre os contados.
@@ -361,7 +371,7 @@
 * **88** E todos os bois para o sacrifício de ofertas de paz foram vinte e quatro novilhos, sessenta carneiros, sessenta bodes e sessenta cordeiros de um ano; esta foi a dedicação do altar, depois de ungido.
 * **89** Quando Moisés entrava na tenda da congregação para falar com Ele, ouvia a voz que lhe falava de cima do propiciatório, que está sobre a arca do testemunho, de entre os dois querubins; assim Ele lhe falava.
 
-## 8
+## 8 {#cap-8}
 
 * **1** E falou YHWH (SENHOR) a Moisés, dizendo:
 * **2** Fala a Arão e dize-lhe: Quando acenderes as lâmpadas, as sete lâmpadas iluminarão a parte da frente do candelabro.
@@ -390,7 +400,7 @@
 * **25** E, da idade de cinquenta anos, sairão do serviço do trabalho e não servirão mais.
 * **26** Servirão com os seus irmãos na tenda da congregação, para guardar o encargo, mas não farão serviço algum; assim farás aos levitas nos seus encargos.
 
-## 9
+## 9 {#cap-9}
 
 * **1** E falou YHWH (SENHOR) a Moisés no deserto do Sinai, no segundo ano da sua saída da terra do Egito, no primeiro mês, dizendo:
 * **2** Que os filhos de Israel celebrem a Páscoa a seu tempo determinado.
@@ -416,7 +426,7 @@
 * **22** Fosse por dois dias, ou um mês, ou um ano, quando a nuvem se detinha sobre o tabernáculo, permanecendo sobre ele, os filhos de Israel acampavam e não partiam; mas, quando ela se elevava, partiam.
 * **23** Segundo o mandado de YHWH (SENHOR), acampavam, e segundo o mandado de YHWH (SENHOR), partiam; guardavam o encargo de YHWH (SENHOR), segundo o mandado de YHWH (SENHOR) pela mão de Moisés.
 
-## 10
+## 10 {#cap-10}
 
 * **1** E falou YHWH (SENHOR) a Moisés, dizendo:
 * **2** Faze para ti duas trombetas de prata; de obra batida as farás, e elas te servirão para a convocação da congregação e para a partida dos acampamentos.
@@ -455,7 +465,7 @@
 * **35** Quando a arca partia, Moisés dizia: Levanta-te, YHWH (SENHOR), e dissipados sejam os teus inimigos, e fujam de diante de ti os que te odeiam.
 * **36** E quando ela parava, dizia: Volta, YHWH (SENHOR), para os milhares de milhares de Israel.
 
-## 11
+## 11 {#cap-11}
 
 * **1** O povo queixava-se amargamente aos ouvidos de YHWH (SENHOR); YHWH (SENHOR) ouviu, a sua ira se acendeu, e o fogo de YHWH (SENHOR) ardeu entre eles e consumiu as extremidades do acampamento.
 * **2** O povo clamou a Moisés, Moisés orou a YHWH (SENHOR), e o fogo se apagou.
@@ -493,7 +503,7 @@
 * **34** Por isso, chamou-se aquele lugar de Quibrote-Hataavá, porque ali enterraram o povo que teve o desejo ardente.
 * **35** De Quibrote-Hataavá, o povo partiu para Hazerote, e lá permaneceram.
 
-## 12
+## 12 {#cap-12}
 
 * **1** Miriã e Arão falaram contra Moisés por causa da mulher cuxita que ele havia tomado, pois ele tinha se casado com uma mulher cuxita.
 * **2** E disseram: "Será que YHWH falou somente por meio de Moisés? Não falou também por meio de nós?" E YHWH ouviu.
@@ -512,7 +522,7 @@
 * **15** Miriã foi isolada fora do acampamento por sete dias, e o povo não partiu até que Miriã fosse readmitida.
 * **16** Depois, o povo partiu de Hazerote e acampou no deserto de Parã.
 
-## 13
+## 13 {#cap-13}
 
 * **1** YHWH falou a Moisés, dizendo:
 * **2** "Envia homens para espiar a terra de Canaã, que eu darei aos filhos de Israel; enviarás um homem de cada tribo de seus pais, sendo cada um deles um líder entre eles".
@@ -548,7 +558,7 @@
 * **32** Espalharam entre os filhos de Israel um relatório negativo da terra que espiaram, dizendo: "A terra pela qual passamos para espiar é uma terra que consome os seus moradores, e todo o povo que vimos nela são homens de grande estatura".
 * **33** "Vimos ali os nefilins, filhos de Anaque, descendentes dos nefilins; éramos aos nossos próprios olhos como gafanhotos, e assim éramos aos olhos deles."
 
-## 14
+## 14 {#cap-14}
 
 * **1** Toda a congregação levantou a voz, e o povo chorou naquela noite.
 * **2** Todos os filhos de Israel murmuraram contra Moisés e contra Arão, e toda a congregação lhes disse: "Quem dera tivéssemos morrido na terra do Egito ou neste deserto! Quem dera tivéssemos morrido!"
@@ -596,7 +606,7 @@
 * **44** Contudo, eles se obstinaram em subir ao topo da montanha, mas a arca da aliança de YHWH e Moisés não se moveram do meio do acampamento.
 * **45** Então os amalequitas e os cananeus que habitavam naquela montanha desceram, feriram-nos e os derrotaram até Hormá.
 
-## 15
+## 15 {#cap-15}
 
 * **1** YHWH falou a Moisés, dizendo:
 * **2** "Fala aos filhos de Israel e dize-lhes: Quando entrarem na terra das suas habitações, que eu lhes darei,"
@@ -640,7 +650,7 @@
 * **40** "Para que se lembrem e cumpram todos os meus mandamentos, e sejam santos para o seu Elohim (Deus)."
 * **41** "Eu sou YHWH, o seu Elohim (Deus), que os tirei da terra do Egito para ser o seu Elohim (Deus); eu sou YHWH, o seu Elohim (Deus)."
 
-## 16
+## 16 {#cap-16}
 
 * **1** Corá, filho de Isar, filho de Coate, filho de Levi, tomou consigo Datã e Abirão, filhos de Eliabe, e Om, filho de Pelete, filhos de Rúben.
 * **2** Levantaram-se diante de Moisés, com duzentos e cinquenta homens dos filhos de Israel, líderes da congregação, convocados para a assembleia, homens de renome.
@@ -693,7 +703,7 @@
 * **49** Os que morreram na praga foram catorze mil e setecentos, além dos que morreram por causa de Corá.
 * **50** Aarão voltou a Moisés, à porta da tenda da congregação, e a praga estava contida.
 
-## 17
+## 17 {#cap-17}
 
 * **1** YHWH falou a Moisés, dizendo:
 * **2** "Fala aos filhos de Israel e toma deles um bordão para cada casa paterna, de todos os seus príncipes, segundo as suas casas paternas, doze bordões; escreverás o nome de cada um sobre o seu bordão".
@@ -709,7 +719,7 @@
 * **12** Os filhos de Israel disseram a Moisés: "Eis que expiramos, perecemos, todos nós perecemos".
 * **13** "Todo aquele que se aproxima da habitação de YHWH morre; acaso acabaremos todos por expirar?"
 
-## 18
+## 18 {#cap-18}
 
 * **1** YHWH disse a Aarão: "Tu, os teus filhos e a casa de teu pai contigo levareis a iniquidade do santuário; e tu e teus filhos contigo levareis a iniquidade do vosso sacerdócio".
 * **2** "Também teus irmãos, a tribo de Levi, a tribo de teu pai, farás chegar contigo, para que se juntem a ti e te sirvam, enquanto tu e teus filhos contigo estareis perante a tenda do Testemunho".
@@ -744,7 +754,7 @@
 * **31** "Comê-la-eis em todo lugar, vós e as vossas casas, pois é a vossa recompensa pelo vosso serviço na tenda da congregação".
 * **32** "Não levareis sobre vós pecado por causa disso, quando oferecerdes a sua gordura; não profanareis as coisas santas dos filhos de Israel, para que não morrais".
 
-## 19
+## 19 {#cap-19}
 
 * **1** YHWH falou a Moisés e a Aarão, dizendo:
 * **2** "Este é o estatuto da lei que YHWH ordenou, dizendo: Fala aos filhos de Israel que te tragam uma novilha ruiva, sem defeito, na qual não haja mancha e sobre a qual não tenha passado o jugo".
@@ -769,7 +779,7 @@
 * **21** "Isto lhes será por estatuto perpétuo; aquele que aspergir a água da purificação lavará as suas vestes, e aquele que tocar na água da purificação será imundo até à tarde".
 * **22** "Tudo o que o imundo tocar será imundo, e a pessoa que tocar nele será imunda até à tarde".
 
-## 20
+## 20 {#cap-20}
 
 * **1** Os filhos de Israel, toda a congregação, chegaram ao deserto de Zim no primeiro mês, e o povo ficou em Cades; ali morreu Miriã e ali foi sepultada.
 * **2** Não havia água para a congregação, e ajuntaram-se contra Moisés e contra Aarão.
@@ -801,7 +811,7 @@
 * **28** Moisés despiu Aarão das suas vestes e vestiu-as em Eleazar, seu filho; Aarão morreu ali no cume do monte, e Moisés e Eleazar desceram do monte.
 * **29** Toda a congregação viu que Aarão expirara, e choraram por Aarão trinta dias, toda a casa de Israel.
 
-## 21
+## 21 {#cap-21}
 
 * **1** O cananeu, rei de Arade, que habitava no Neguebe, ouviu que Israel vinha pelo caminho dos espias, pelejou contra Israel e levou dele alguns prisioneiros.
 * **2** Israel fez um voto a YHWH e disse: "Se entregares este povo na minha mão, destruirei totalmente as suas cidades".
@@ -839,7 +849,7 @@
 * **34** E disse YHWH (SENHOR) a Moisés: Não o temas, porque na tua mão o entreguei, a ele e a todo o seu povo, e a sua terra; e far-lhe-ás como fizeste a Seom, rei dos amorreus, que habitava em Hesbom.
 * **35** E o feriram, a ele e a seus filhos, e a todo o seu povo, até que não lhe restou sobrevivente; e tomaram posse da sua terra.
 
-## 22
+## 22 {#cap-22}
 
 * **1** E partiram os filhos de Israel, e acamparam nas campinas de Moabe, além do Jordão, na altura de Jericó.
 * **2** E viu Balaque, filho de Zipor, tudo o que Israel fizera aos amorreus.
@@ -883,7 +893,7 @@
 * **40** E Balaque sacrificou bois e ovelhas, e enviou a Balaão e aos príncipes que estavam com ele.
 * **41** E sucedeu que, pela manhã, Balaque tomou a Balaão, e o fez subir aos altos de Baal, e de lá viu a extremidade do povo.
 
-## 23
+## 23 {#cap-23}
 
 * **1** E disse Balaão a Balaque: Edifica-me aqui sete altares, e prepara-me aqui sete novilhos e sete carneiros.
 * **2** E Balaque fez como Balaão dissera; e Balaque e Balaão ofereceram um novilho e um carneiro em cada altar.
@@ -916,7 +926,7 @@
 * **29** E disse Balaão a Balaque: Edifica-me aqui sete altares, e prepara-me aqui sete novilhos e sete carneiros.
 * **30** E Balaque fez como Balaão dissera; e ofereceu um novilho e um carneiro em cada altar.
 
-## 24
+## 24 {#cap-24}
 
 * **1** Vendo, pois, Balaão que era bom aos olhos de YHWH (SENHOR) abençoar a Israel, não foi desta vez como as outras, a procurar encantamentos; mas voltou o seu rosto para o deserto.
 * **2** E levantou Balaão os seus olhos, e viu Israel, que habitava segundo as suas tribos; e o ruach (Espírito) de Elohim (Deus) veio sobre ele.
@@ -944,7 +954,7 @@
 * **24** E navios virão das bandas de Quitim, e afligirão a Assur e a Éber; e também ele será para perdição.
 * **25** Então levantou-se Balaão, e foi-se, e voltou ao seu lugar; e também Balaque foi pelo seu caminho.
 
-## 25
+## 25 {#cap-25}
 
 * **1** E habitava Israel em Sitim, e começou o povo a prostituir-se com as filhas de Moabe.
 * **2** E elas convidaram o povo aos sacrifícios dos seus deuses; e o povo comeu, e inclinou-se aos seus deuses.
@@ -965,7 +975,7 @@
 * **17** Afligi os midianitas, e feri-os;
 * **18** Porque eles vos afligiram a vós com as suas astúcias, com que vos enganaram no caso de Peor, e no caso de Cozbi, filha do príncipe de Midiã, sua irmã, que foi morta no dia da praga por causa de Peor.
 
-## 26
+## 26 {#cap-26}
 
 * **1** E sucedeu depois daquela praga,
 * **2** Tomai a soma de toda a congregação dos filhos de Israel, de vinte anos para cima, segundo as casas de seus pais, todos os que podem sair à guerra em Israel.
@@ -1033,7 +1043,7 @@
 * **64** E entre estes não houve nenhum dos recenseados por Moisés e Arão, o sacerdote, que recensearam os filhos de Israel no deserto do Sinai.
 * **65** Porque YHWH dissera deles: Certamente morrerão no deserto; e não ficou deles nenhum, senão Calebe, filho de Jefoné, e Josué, filho de Num.
 
-## 27
+## 27 {#cap-27}
 
 * **1** E chegaram as filhas de Zelofeade, filho de Héfer, filho de Gileade, filho de Maquir, filho de Manassés, das famílias de Manassés, filho de José; e estes são os nomes das suas filhas: Maalá, Noa, Hogla, Milca e Tirza.
 * **2** E apresentaram-se perante Moisés, e perante Eleazar, o sacerdote, e perante os príncipes e toda a congregação, à porta da tenda da congregação, dizendo:
@@ -1059,7 +1069,7 @@
 * **22** E fez Moisés como YHWH lhe ordenou; e tomou a Josué, e apresentou-o perante Eleazar, o sacerdote, e perante toda a congregação.
 * **23** E pôs as suas mãos sobre ele, e deu-lhe as suas ordens, como YHWH falara pela mão de Moisés.
 
-## 28
+## 28 {#cap-28}
 
 * **1** E falou YHWH a Moisés, dizendo:
 * **2** Ordena aos filhos de Israel, e dize-lhes: A minha oferta, o meu pão para as minhas ofertas queimadas, de cheiro suave para mim, guardareis para oferecer a mim a seu tempo.
@@ -1093,7 +1103,7 @@
 * **30** Um bode para fazer expiação por vós.
 * **31** Além do holocausto contínuo e a sua oferta de manjares, os fareis; sem defeito serão para vós, com as suas libações.
 
-## 29
+## 29 {#cap-29}
 
 * **1** E no sétimo mês, no primeiro dia do mês, tereis santa convocação; nenhuma obra servil fareis; será para vós dia de soar as trombetas.
 * **2** E oferecereis holocausto de cheiro suave a YHWH: um novilho, um carneiro e sete cordeiros de um ano, sem defeito.
@@ -1136,7 +1146,7 @@
 * **39** Estas coisas fareis a YHWH nas vossas festas fixas, além dos vossos votos e das vossas ofertas voluntárias, para os vossos holocaustos, para as vossas ofertas de manjares, para as vossas libações e para as vossas ofertas pacíficas.
 * **40** E falou Moisés aos filhos de Israel, conforme tudo o que YHWH ordenara a Moisés.
 
-## 30
+## 30 {#cap-30}
 
 * **1** E falou Moisés aos cabeças das tribos dos filhos de Israel, dizendo: Esta é a palavra que YHWH ordenou.
 * **2** Quando um homem fizer voto a YHWH, ou jurar juramento para obrigar-se com obrigação, não violará a sua palavra; segundo tudo o que sair da sua boca fará.
@@ -1155,7 +1165,7 @@
 * **15** Mas se ele os anular depois de ter ouvido, ele levará sobre si a culpa dela.
 * **16** Estes são os estatutos que YHWH ordenou a Moisés entre o marido e a sua esposa, entre o pai e a sua filha, enquanto ela for jovem e estiver na casa do seu pai.
 
-## 31
+## 31 {#cap-31}
 
 * **1** E falou YHWH a Moisés, dizendo:
 * **2** Vinga os filhos de Israel dos midianitas; depois disso, serás recolhido ao teu povo.
@@ -1212,7 +1222,7 @@
 * **53** Os homens de guerra haviam tomado despojo, cada um para si.
 * **54** Moisés e Eleazar, o sacerdote, tomaram o ouro dos chefes de mil e de cem e trouxeram-no à tenda da congregação, por memorial para os filhos de Israel perante YHWH.
 
-## 32
+## 32 {#cap-32}
 
 * **1** Os filhos de Rúben e os filhos de Gade tinham uma quantidade muito grande de gado; e, vendo a terra de Jazer e a terra de Gileade, viram que o lugar era próprio para gado.
 * **2** Vieram os filhos de Gade e os filhos de Rúben e falaram a Moisés, a Eleazar, o sacerdote, e aos príncipes da congregação, dizendo:
@@ -1257,7 +1267,7 @@
 * **41** Jair, filho de Manassés, foi e tomou as suas aldeias, e chamou-lhes Havote-Jair.
 * **42** Noba foi e tomou Quenate e as suas aldeias, e chamou-lhe Noba, segundo o seu próprio nome.
 
-## 33
+## 33 {#cap-33}
 
 * **1** Estas são as jornadas dos filhos de Israel, que saíram da terra do Egito segundo os seus exércitos, sob a direção de Moisés e Arão.
 * **2** Moisés escreveu as suas partidas segundo as suas jornadas, conforme o mandado de YHWH; e estas são as suas jornadas segundo as suas partidas:
@@ -1316,7 +1326,7 @@
 * **55** Mas, se não expulsardes os moradores da terra de diante de vós, os que deixardes ficar serão como espinhos em vossos olhos e como aguilhões em vossos lados, e vos apertarão na terra em que habitardes.
 * **56** E acontecerá que, como pensei fazer-lhes, farei a vós.
 
-## 34
+## 34 {#cap-34}
 
 * **1** YHWH falou a Moisés, dizendo:
 * **2** Dá ordens aos filhos de Israel e dize-lhes: Quando entrardes na terra de Canaã, esta é a terra que vos cairá por herança, a terra de Canaã segundo os seus limites.
@@ -1348,7 +1358,7 @@
 * **28** Da tribo dos filhos de Naftali, o príncipe Pedael, filho de Amiúde.
 * **29** Estes são aqueles a quem YHWH ordenou que repartissem a herança aos filhos de Israel na terra de Canaã.
 
-## 35
+## 35 {#cap-35}
 
 * **1** YHWH falou a Moisés nas planícies de Moabe, junto ao Jordão, na altura de Jericó, dizendo:
 * **2** Dá ordens aos filhos de Israel que, da herança da sua possessão, deem cidades aos levitas para habitarem e arrabaldes ao redor das cidades para os seus gados.
@@ -1385,7 +1395,7 @@
 * **33** Não profanareis a terra em que estais, pois o sangue profana a terra; e a terra não pode ser purificada do sangue que nela foi derramado, senão pelo sangue daquele que o derramou.
 * **34** Não contaminareis a terra em que habitais, na qual eu habito, pois eu, YHWH, habito no meio dos filhos de Israel.
 
-## 36
+## 36 {#cap-36}
 
 * **1** Os chefes das famílias da tribo dos filhos de Gileade, filho de Maquir, filho de Manassés, das famílias dos filhos de José, chegaram-se e falaram diante de Moisés e diante dos príncipes, chefes das famílias dos filhos de Israel.
 * **2** Disseram: Adonai (Senhor) ordenou a YHWH que desse a terra em herança por sorte aos filhos de Israel, e Adonai ordenou por YHWH que a herança de Zelofeade, nosso irmão, fosse dada às suas filhas.

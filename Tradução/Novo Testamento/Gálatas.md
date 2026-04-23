@@ -1,11 +1,18 @@
+<!-- topo -->
 # Gálatas
 
 <!-- INDICE -->
-**Índice:** [1](1) · [2](2) · [3](3) · [4](4) · [5](5) · [6](6)
+## 📜 Índice
+
+**6 capítulos**
+[1](#cap-1) · [2](#cap-2) · [3](#cap-3) · [4](#cap-4) · [5](#cap-5) · [6](#cap-6)
+
+<div align="right"><a href="#topo"><strong>▲ Voltar ao topo</strong></a></div>
 
 <!-- FIM_INDICE -->
 
-## 1
+
+## 1 {#cap-1}
 
 * **1** Paulo, apóstolo, não enviado por homens nem por meio de homem, mas por meio de Iēsous Christos (Jesus Messias) e de Theos (Deus) Patēr (Pai), que o ressuscitou dentre os mortos,
 * **2** e todos os irmãos que estão comigo, às igrejas da Galácia:
@@ -32,7 +39,7 @@
 * **23** mas apenas ouviam dizer: Aquele que nos perseguia outrora, agora anuncia a fé que antes devastava,
 * **24** e glorificavam a Theos por minha causa.
 
-## 2
+## 2 {#cap-2}
 
 * **1** Depois, passados catorze anos, subi novamente a Jerusalém com Barnabé, levando também Tito comigo;
 * **2** subi por revelação e lhes expus o evangelho que prego entre os gentios, mas em particular aos que pareciam ser algo, para não correr ou ter corrido em vão.
@@ -56,7 +63,7 @@
 * **20** e já não sou eu quem vive, mas Christos vive em mim; e a vida que agora vivo na carne, vivo-a na fé do Filho de Theos, que me amou e se entregou a si mesmo por mim.
 * **21** Não anulo a graça de Theos; pois, se a justiça vem pela lei, então Christos morreu em vão.
 
-## 3
+## 3 {#cap-3}
 
 * **1** Ó insensatos gálatas, quem vos fascinou, a vós, diante de cujos olhos Iēsous Christos foi representado como crucificado?
 * **2** Só isto quero saber de vós: recebestes o pneuma (espírito) pelas obras da lei ou pela pregação da fé?
@@ -88,7 +95,7 @@
 * **28** Não há judeu nem grego; não há escravo nem livre; não há homem nem mulher; pois todos vós sois um em Christos Iēsous.
 * **29** E, se sois de Christos, então sois descendência de Abraão e herdeiros segundo a promessa.
 
-## 4
+## 4 {#cap-4}
 
 * **1** Digo, porém, que, durante o tempo em que o herdeiro é menor, em nada difere de um escravo, embora seja senhor de tudo,
 * **2** mas está sob tutores e curadores até ao tempo determinado pelo Patēr.
@@ -122,7 +129,7 @@
 * **30** Mas o que diz a Escritura? Lança fora a escrava e seu filho, porque o filho da escrava não herdará com o filho da livre.
 * **31** Portanto, irmãos, não somos filhos da escrava, mas da livre.
 
-## 5
+## 5 {#cap-5}
 
 * **1** Foi para a liberdade que Christos nos libertou; permanecei, pois, firmes e não vos submetais de novo a um jugo de escravidão.
 * **2** Eis que eu, Paulo, vos digo que, se vos circuncidardes, Christos de nada vos aproveitará.
@@ -151,7 +158,7 @@
 * **25** Se vivemos pelo Pneuma, andemos também pelo Pneuma.
 * **26** Não sejamos cobiçosos de vanglória, provocando-nos uns aos outros, invejando-nos uns aos outros.
 
-## 6
+## 6 {#cap-6}
 
 * **1** Irmãos, se um homem for surpreendido em alguma falta, vós, que sois espirituais, restaurai o tal com espírito de mansidão, olhando por ti mesmo, para que não sejas também tentado.
 * **2** Levai as cargas uns dos outros e assim cumprireis a lei de Christos.

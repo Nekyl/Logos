@@ -1,11 +1,19 @@
+<!-- topo -->
 # 2 Coríntios
 
 <!-- INDICE -->
-**Índice:** [1](1) · [2](2) · [3](3) · [4](4) · [5](5) · [6](6) · [7](7) · [8](8) · [9](9) · [10](10) · [11](11) · [12](12) · [13](13)
+## 📜 Índice
+
+**13 capítulos**
+[1](#cap-1) · [2](#cap-2) · [3](#cap-3) · [4](#cap-4) · [5](#cap-5) · [6](#cap-6) · [7](#cap-7) · [8](#cap-8) · [9](#cap-9) · [10](#cap-10)
+[11](#cap-11) · [12](#cap-12) · [13](#cap-13)
+
+<div align="right"><a href="#topo"><strong>▲ Voltar ao topo</strong></a></div>
 
 <!-- FIM_INDICE -->
 
-## 1
+
+## 1 {#cap-1}
 
 * **1** Paulo, apóstolo de Christos Iēsous (Messias Jesus) pela vontade de Theos (Deus), e o irmão Timóteo, à igreja de Deus que está em Corinto, com todos os santos que estão em toda a Acaia:
 * **2** Graça a vós e paz da parte de Deus, nosso Pai, e do Kyrios Iēsous Christos (Senhor Jesus Messias).
@@ -32,7 +40,7 @@
 * **23** Invoco a Deus como testemunha sobre a minha alma, de que, para vos poupar, não voltei a Corinto.
 * **24** Não que tenhamos domínio sobre a vossa fé, mas somos cooperadores da vossa alegria; pois pela fé estais firmes.
 
-## 2
+## 2 {#cap-2}
 
 * **1** Pois decidi por mim mesmo isto: não ir novamente a vós em tristeza.
 * **2** Porque, se eu vos entristeço, quem é o que me alegra senão aquele que é entristecido por mim?
@@ -52,7 +60,7 @@
 * **16** para uns, aroma de morte para morte; para outros, aroma de vida para vida. E para estas coisas quem é suficiente?
 * **17** Porque não somos, como muitos, mercenários da palavra de Deus, mas falamos com sinceridade, como de Deus, na presença de Deus, em Messias.
 
-## 3
+## 3 {#cap-3}
 
 * **1** Começamos novamente a recomendar-nos a nós mesmos? Ou precisamos, como alguns, de cartas de recomendação para vós ou de vós?
 * **2** Vós sois a nossa carta, escrita em nossos corações, conhecida e lida por todos os homens;
@@ -73,7 +81,7 @@
 * **17** Ora, o Senhor é o Espírito; e onde está o Espírito do Senhor, aí há liberdade.
 * **18** E todos nós, com o rosto descoberto, refletindo como um espelho a glória do Senhor, somos transformados na mesma imagem, de glória em glória, como pelo Senhor, o Espírito.
 
-## 4
+## 4 {#cap-4}
 
 * **1** Por isso, tendo este ministério, conforme a misericórdia que nos foi dada, não desanimamos;
 * **2** pelo contrário, rejeitamos as coisas ocultas que são vergonhosas, não andando com astúcia nem adulterando a palavra de Deus, mas, pela manifestação da verdade, recomendando-nos à consciência de todo homem diante de Deus.
@@ -94,7 +102,7 @@
 * **17** Porque a nossa leve tribulação, que é momentânea, produz para nós um peso eterno de glória, acima de toda comparação,
 * **18** não atentando nós nas coisas que se veem, mas nas que não se veem; porque as que se veem são temporais, mas as que não se veem são eternas.
 
-## 5
+## 5 {#cap-5}
 
 * **1** Porque sabemos que, se a nossa casa terrestre deste tabernáculo for desfeita, temos um edifício de Deus, uma casa não feita por mãos, eterna, nos céus.
 * **2** E, por isso, gememos, desejando ser revestidos da nossa habitação que é do céu,
@@ -118,7 +126,7 @@
 * **20** De sorte que somos embaixadores em nome do Messias, como se Deus exortasse por nosso intermédio; rogamo-vos, pois, em nome do Messias, que vos reconcilieis com Deus.
 * **21** Aquele que não conheceu pecado, ele o fez pecado por nós, para que nele fôssemos feitos justiça de Deus.
 
-## 6
+## 6 {#cap-6}
 
 * **1** E nós, cooperando com ele, também vos rogamos que não recebais a graça de Deus em vão;
 * **2** porque ele diz: No tempo aceitável te escutei e no dia da salvação te socorri; eis aqui agora o tempo aceitável, eis aqui agora o dia da salvação.
@@ -139,7 +147,7 @@
 * **17** Por isso, saí do meio deles e separai-vos, diz o Senhor, e não toqueis em coisa imunda; e eu vos receberei;
 * **18** e serei para vós Pai, e vós sereis para mim filhos e filhas, diz o Senhor Todo-Poderoso.
 
-## 7
+## 7 {#cap-7}
 
 * **1** Tendo, pois, estas promessas, amados, purifiquemo-nos de toda imundícia da carne e do espírito, aperfeiçoando a santidade no temor de Deus.
 * **2** Recebei-nos; a ninguém fizemos injustiça, a ninguém corrompemos, a ninguém defraudamos.
@@ -158,7 +166,7 @@
 * **15** E o seu afeto é mais abundante para convosco, lembrando-se da obediência de todos vós, de como o recebestes com temor e tremor.
 * **16** Alegro-me por em tudo ter confiança em vós.
 
-## 8
+## 8 {#cap-8}
 
 * **1** Também vos fazemos saber, irmãos, a graça de Deus dada às igrejas da Macedônia,
 * **2** como, em muita prova de tribulação, a abundância da sua alegria e a sua profunda pobreza abundaram em riqueza da sua generosidade.
@@ -185,7 +193,7 @@
 * **23** Quanto a Tito, ele é meu companheiro e cooperador junto a vocês; quanto aos nossos irmãos, são mensageiros das igrejas, glória de Christos (Messias).
 * **24** Portanto, demonstrem a eles, diante das igrejas, a prova do seu amor e da nossa glória a respeito de vocês.
 
-## 9
+## 9 {#cap-9}
 
 * **1** Sobre o serviço aos santos, é desnecessário que eu lhes escreva,
 * **2** pois conheço a prontidão de vocês, da qual me orgulho perante os macedônios, dizendo que a Acaia está preparada desde o ano passado, e o zelo de vocês estimulou a maioria.
@@ -203,7 +211,7 @@
 * **14** e pela oração deles por vocês, desejando-os por causa da superabundante graça de Theos sobre vocês.
 * **15** Graças a Theos pelo seu dom inefável.
 
-## 10
+## 10 {#cap-10}
 
 * **1** Eu mesmo, Paulo, rogo a vocês pela mansidão e bondade de Christos, que, quando presente, sou humilde entre vocês, mas, quando ausente, sou corajoso para com vocês;
 * **2** peço que, ao estar presente, não precise ser corajoso com a confiança com que penso ousar contra alguns que nos consideram como se andássemos segundo a carne.
@@ -224,7 +232,7 @@
 * **17** Aquele que se orgulha, orgulhe-se no Kyrios;
 * **18** pois não é aprovado quem se recomenda a si mesmo, mas aquele a quem o Kyrios recomenda.
 
-## 11
+## 11 {#cap-11}
 
 * **1** Oxalá vocês suportassem um pouco da minha insensatez; mas, na verdade, suportem-me.
 * **2** Pois tenho zelo por vocês com zelo de Theos, porque os desposei a um só marido, para apresentar-lhes como virgem pura a Christos;
@@ -260,7 +268,7 @@
 * **32** Em Damasco, o governador do rei Aretas guardava a cidade dos damascenos para me prender,
 * **33** e por uma janela fui descido num cesto pelo muro e escapei das suas mãos.
 
-## 12
+## 12 {#cap-12}
 
 * **1** É preciso orgulhar-se; não é proveitoso, mas passarei às visões e revelações do Kyrios.
 * **2** Conheço um homem em Christos que há catorze anos — se no corpo não sei, se fora do corpo não sei, Theos sabe — foi arrebatado até o terceiro céu.
@@ -284,7 +292,7 @@
 * **20** pois temo que, ao chegar, não os encontre como quero, e eu seja encontrado por vocês como não querem, que haja contenda, zelo, iras, rivalidades, calúnias, cochichos, soberbas, desordens;
 * **21** que, ao chegar novamente, meu Theos me humilhe diante de vocês, e eu lamente por muitos dos que pecaram anteriormente e não se arrependeram da impureza, da prostituição e da libertinagem que praticaram.
 
-## 13
+## 13 {#cap-13}
 
 * **1** Esta é a terceira vez que vou até vocês; pela boca de duas ou três testemunhas toda palavra será confirmada.
 * **2** Já disse antes e digo agora, como se estivesse presente pela segunda vez e ausente agora, aos que pecaram anteriormente e a todos os outros, que, se eu for novamente, não pouparei,

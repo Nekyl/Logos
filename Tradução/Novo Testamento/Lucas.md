@@ -1,11 +1,20 @@
+<!-- topo -->
 # Lucas
 
 <!-- INDICE -->
-**Índice:** [1](1) · [2](2) · [3](3) · [4](4) · [5](5) · [6](6) · [7](7) · [8](8) · [9](9) · [10](10) · [11](11) · [12](12) · [13](13) · [14](14) · [15](15) · [16](16) · [17](17) · [18](18) · [19](19) · [20](20) · [21](21) · [22](22) · [23](23) · [24](24)
+## 📜 Índice
+
+**24 capítulos**
+[1](#cap-1) · [2](#cap-2) · [3](#cap-3) · [4](#cap-4) · [5](#cap-5) · [6](#cap-6) · [7](#cap-7) · [8](#cap-8) · [9](#cap-9) · [10](#cap-10)
+[11](#cap-11) · [12](#cap-12) · [13](#cap-13) · [14](#cap-14) · [15](#cap-15) · [16](#cap-16) · [17](#cap-17) · [18](#cap-18) · [19](#cap-19) · [20](#cap-20)
+[21](#cap-21) · [22](#cap-22) · [23](#cap-23) · [24](#cap-24)
+
+<div align="right"><a href="#topo"><strong>▲ Voltar ao topo</strong></a></div>
 
 <!-- FIM_INDICE -->
 
-## 1
+
+## 1 {#cap-1}
 
 * **1** Visto que muitos empreenderam organizar uma narrativa sobre os fatos que se cumpriram entre nós,
 * **2** conforme nos transmitiram aqueles que, desde o princípio, foram testemunhas oculares e servos da palavra,
@@ -88,7 +97,7 @@
 * **79** para iluminar os que estão sentados nas trevas e na sombra da morte, para guiar os nossos pés no caminho da paz.
 * **80** O menino crescia e se fortalecia em espírito, e estava nos desertos até o dia da sua manifestação a Israel.
 
-## 2
+## 2 {#cap-2}
 
 * **1** Aconteceu naqueles dias que saiu um decreto de César Augusto, para que todo o mundo fosse recenseado.
 * **2** (Este primeiro recenseamento foi feito sendo Quirino governador da Síria.)
@@ -143,7 +152,7 @@
 * **51** Desceu com eles e foi para Nazaré, e era-lhes submisso. Sua mãe guardava todas estas palavras em seu coração.
 * **52** E Jesus crescia em sabedoria, estatura e graça diante de Deus e dos homens.
 
-## 3
+## 3 {#cap-3}
 
 * **1** No décimo quinto ano do governo de Tibério César, sendo Pôncio Pilatos governador da Judeia, Herodes tetrarca da Galileia, seu irmão Filipe tetrarca da região da Itureia e Traconítides, e Lisânias tetrarca de Abilene,
 * **2** sendo sumos sacerdotes Anás e Caifás, veio a palavra de Deus a João, filho de Zacarias, no deserto.
@@ -184,7 +193,7 @@
 * **37** de Matusalém, de Enoque, de Jarede, de Maleleel, de Cainã,
 * **38** de Enos, de Sete, de Adão, de Theos (Deus).
 
-## 4
+## 4 {#cap-4}
 
 * **1** Iēsous (Jesus), porém, cheio do Pneuma Hagion (Espírito Santo), voltou do Jordão e era guiado pelo Pneuma (Espírito) no deserto,
 * **2** durante quarenta dias, sendo tentado pelo diabo. Não comeu nada naqueles dias e, terminados eles, teve fome.
@@ -231,7 +240,7 @@
 * **43** Ele, porém, disse-lhes: Também às outras cidades me é necessário evangelizar o reino de Theos (Deus), pois para isso fui enviado.
 * **44** E pregava nas sinagogas da Judeia.
 
-## 5
+## 5 {#cap-5}
 
 * **1** Aconteceu que, apertando-o a multidão para ouvir a palavra de Theos (Deus), estava ele junto ao lago de Genesaré,
 * **2** e viu dois barcos parados junto ao lago; os pescadores, tendo descido deles, lavavam as redes.
@@ -273,7 +282,7 @@
 * **38** mas vinho novo deve ser deitado em odres novos.
 * **39** E ninguém, tendo bebido o velho, quer o novo; pois diz: O velho é melhor.
 
-## 6
+## 6 {#cap-6}
 
 * **1** Aconteceu que, num sábado, passava ele pelas searas, e os seus discípulos colhiam e comiam as espigas, debulhando-as com as mãos.
 * **2** Alguns dos fariseus disseram: Por que fazeis o que não é lícito nos sábados?
@@ -325,7 +334,7 @@
 * **48** É semelhante ao homem que constrói uma casa, que cavou fundo e lançou o alicerce sobre a rocha; e, vindo a enchente, o rio bateu com força contra aquela casa, mas não conseguiu abalá-la, pois estava bem construída.
 * **49** Mas aquele que ouve e não pratica é semelhante ao homem que construiu uma casa sobre a terra sem alicerce, contra a qual o rio bateu com força, e logo desmoronou, e a ruína daquela casa foi grande.
 
-## 7
+## 7 {#cap-7}
 
 * **1** Depois que terminou todas as suas palavras aos ouvidos do povo, entrou em Cafarnaum.
 * **2** O servo de um certo centurião, que estava muito doente, estava prestes a morrer, e era muito estimado por ele.
@@ -378,7 +387,7 @@
 * **49** E os que estavam à mesa começaram a dizer entre si: Quem é este que até perdoa pecados?
 * **50** E disse à mulher: A tua fé te salvou; vai-te em paz.
 
-## 8
+## 8 {#cap-8}
 
 * **1** Aconteceu, depois disso, que ele percorria cidades e aldeias, pregando e anunciando o evangelho do reino de Theos, e os doze com ele,
 * **2** e algumas mulheres que haviam sido curadas de espíritos malignos e de enfermidades: Maria, chamada Madalena, da qual haviam saído sete demônios,
@@ -437,7 +446,7 @@
 * **55** O seu espírito voltou, e ela levantou-se imediatamente, e ele mandou que lhe dessem de comer.
 * **56** Os seus pais ficaram maravilhados; ele, porém, ordenou-lhes que a ninguém contassem o que acontecera.
 
-## 9
+## 9 {#cap-9}
 
 * **1** Convocando os doze, deu-lhes poder e autoridade sobre todos os demônios e para curar doenças,
 * **2** e enviou-os a pregar o reino de Theos e a curar os enfermos,
@@ -502,7 +511,7 @@
 * **61** Outro disse: Seguir-te-ei, senhor; mas permite-me primeiro despedir-me dos que estão em minha casa.
 * **62** Disse-lhe Iēsous: Ninguém que põe a mão no arado e olha para trás é apto para o reino de Theos.
 
-## 10
+## 10 {#cap-10}
 
 * **1** Depois disso, o Kyrios designou outros setenta e dois e enviou-os de dois em dois à sua frente a toda cidade e lugar aonde ele estava para ir.
 * **2** Dizia-lhes: A colheita é grande, mas os trabalhadores são poucos; rogai, pois, ao Kyrios da colheita que envie trabalhadores para a sua colheita.
@@ -547,7 +556,7 @@
 * **41** Respondendo, o Kyrios disse-lhe: Marta, Marta, estás ansiosa e perturbada com muitas coisas;
 * **42** mas poucas são necessárias, ou apenas uma; Mariam, pois, escolheu a boa parte, a qual não lhe será tirada.
 
-## 11
+## 11 {#cap-11}
 
 * **1** Aconteceu que, estando ele em certo lugar orando, quando terminou, um dos seus discípulos disse-lhe: Kyrie, ensina-nos a orar, como também Iōannēs ensinou aos seus discípulos.
 * **2** Disse-lhes: Quando orardes, dizei: Pater, santificado seja o teu nome; venha o teu reino;
@@ -604,7 +613,7 @@
 * **53** Saindo ele dali, os escribas e os fariseus começaram a pressioná-lo fortemente e a interrogá-lo sobre muitas coisas,
 * **54** armando-lhe ciladas para apanhar algo da sua boca.
 
-## 12
+## 12 {#cap-12}
 
 * **1** Ajuntando-se milhares de pessoas, a ponto de se atropelarem umas às outras, começou a dizer aos seus discípulos, primeiramente: Acautelai-vos do fermento dos fariseus, que é a hipocrisia.
 * **2** Não há nada oculto que não venha a ser revelado, nem secreto que não venha a ser conhecido.
@@ -666,7 +675,7 @@
 * **58** Quando fores com o teu adversário ao magistrado, faze o possível para te livrares dele no caminho, para que não suceda que ele te arraste ao juiz, e o juiz te entregue ao oficial, e o oficial te lance na prisão.
 * **59** Digo-te que não sairás dali enquanto não pagares até o último centavo.
 
-## 13
+## 13 {#cap-13}
 
 * **1** Naquele mesmo tempo, chegaram alguns que lhe falavam dos galileus cujo sangue Pilatos misturara com os seus sacrifícios.
 * **2** E, respondendo, disse-lhes: Cuidais vós que esses galileus foram mais pecadores do que todos os galileus, por terem sofrido tais coisas?
@@ -704,7 +713,7 @@
 * **34** Jerusalém, Jerusalém, que matas os profetas e apedrejas os que te são enviados! Quantas vezes quis eu ajuntar os teus filhos, como a galinha o seu ninho debaixo das asas, e não quisestes!
 * **35** Eis que a vossa casa vos ficará deserta. E digo-vos que não me vereis até que venha o tempo em que digais: Bendito o que vem em nome do Senhor.
 
-## 14
+## 14 {#cap-14}
 
 * **1** E aconteceu que, entrando ele em casa de um dos principais dos fariseus para comer pão num sábado, eles o observavam.
 * **2** E eis que estava ali diante dele um homem hidrópico.
@@ -742,7 +751,7 @@
 * **34** Bom é o sal; mas, se o sal se tornar insípido, com que se há de temperar?
 * **35** Não presta nem para a terra nem para o monturo; lançam-no fora. Quem tem ouvidos para ouvir, ouça.
 
-## 15
+## 15 {#cap-15}
 
 * **1** E chegavam-se a ele todos os publicanos e pecadores para o ouvir.
 * **2** E os fariseus e os escribas murmuravam, dizendo: Este recebe pecadores e come com eles.
@@ -777,7 +786,7 @@
 * **31** E ele lhe disse: Filho, tu sempre estás comigo, e todas as minhas coisas são tuas;
 * **32** mas era justo alegrarmo-nos e regozijarmo-nos, porque este teu irmão estava morto e reviveu; tinha-se perdido e foi achado.
 
-## 16
+## 16 {#cap-16}
 
 * **1** Dizia também aos discípulos: Havia um homem rico que tinha um administrador, e este foi acusado perante ele de dissipar os seus bens.
 * **2** E, chamando-o, disse-lhe: Que é isto que ouço de ti? Presta contas da tua administração, porque já não poderás ser administrador.
@@ -811,7 +820,7 @@
 * **30** Ele disse: Não, pai Abraão, mas se alguém dentre os mortos for até eles, arrepender-se-ão.
 * **31** Disse-lhe: Se não ouvem a Moisés e aos profetas, tampouco se deixarão convencer, ainda que alguém ressuscite dentre os mortos.
 
-## 17
+## 17 {#cap-17}
 
 * **1** Disse aos seus discípulos: É impossível que não venham escândalos, mas ai daquele por quem eles vêm;
 * **2** melhor lhe seria que uma pedra de moinho lhe fosse pendurada ao pescoço e fosse lançado ao mar, do que escandalizar um destes pequeninos.
@@ -850,7 +859,7 @@
 * **35** estarão duas moendo juntas; uma será tomada e a outra deixada.
 * **37** E, respondendo, disseram-lhe: Onde, Senhor? Ele disse-lhes: Onde estiver o corpo, ali também se ajuntarão as águias.
 
-## 18
+## 18 {#cap-18}
 
 * **1** Contava-lhes também uma parábola sobre o dever de orarem sempre e não desfalecerem,
 * **2** dizendo: Havia um juiz em certa cidade que não temia a Deus nem respeitava homem algum.
@@ -896,7 +905,7 @@
 * **42** E Jesus disse-lhe: Vê; a tua fé te salvou.
 * **43** E imediatamente viu, e seguia-o glorificando a Deus. E todo o povo, vendo isso, deu louvor a Deus.
 
-## 19
+## 19 {#cap-19}
 
 * **1** E, entrando, atravessava Jericó.
 * **2** E eis um homem chamado Zaqueu, e este era chefe dos publicanos e rico;
@@ -947,7 +956,7 @@
 * **47** E ensinava todos os dias no templo; os principais sacerdotes, os escribas e os principais do povo procuravam matá-lo,
 * **48** e não achavam o que fazer, pois todo o povo ficava pendente dele, ouvindo-o.
 
-## 20
+## 20 {#cap-20}
 
 * **1** E aconteceu que, num daqueles dias, enquanto ele ensinava o povo no templo e anunciava o evangelho, sobrevieram os principais sacerdotes e os escribas com os anciãos,
 * **2** e disseram, falando-lhe: Dize-nos com que autoridade fazes estas coisas, ou quem é o que te deu esta autoridade?
@@ -997,7 +1006,7 @@
 * **46** Guardai-vos dos escribas, que gostam de andar com vestes longas e apreciam saudações nas praças, os primeiros assentos nas sinagogas e os primeiros lugares nos banquetes;
 * **47** que devoram as casas das viúvas e, por pretexto, fazem longas orações; estes receberão condenação mais severa.
 
-## 21
+## 21 {#cap-21}
 
 * **1** Olhando para cima, viu os ricos lançando as suas ofertas no gazofilácio.
 * **2** Viu também uma viúva pobre lançando ali duas moedas pequenas,
@@ -1038,7 +1047,7 @@
 * **37** Ele passava os dias ensinando no templo, mas, ao sair, passava as noites no monte chamado das Oliveiras;
 * **38** e todo o povo ia de manhã cedo ter com Ele no templo para ouvi-lo.
 
-## 22
+## 22 {#cap-22}
 
 * **1** Aproximava-se a festa dos pães ázimos, chamada Páscoa.
 * **2** Os principais sacerdotes e os escribas procuravam como matá-lo, pois temiam o povo.
@@ -1112,7 +1121,7 @@
 * **70** Disseram todos: Tu és, pois, o Filho de Theos? Ele disse-lhes: Vós dizeis que eu sou.
 * **71** Eles disseram: Que necessidade temos ainda de testemunho? Pois nós mesmos ouvimos da sua própria boca.
 
-## 23
+## 23 {#cap-23}
 
 * **1** Levantando-se toda a multidão deles, levaram-no a Pilatos.
 * **2** Começaram a acusá-lo, dizendo: Encontramos este homem pervertendo a nossa nação, proibindo pagar impostos a César e dizendo que Ele mesmo é Christos, rei.
@@ -1170,7 +1179,7 @@
 * **55** As mulheres que tinham vindo com ele desde a Galileia seguiram-no, viram o túmulo e como o seu corpo fora colocado,
 * **56** e, voltando, prepararam especiarias e perfumes. E no sábado descansaram, conforme o mandamento.
 
-## 24
+## 24 {#cap-24}
 
 * **1** Mas, no primeiro dia da semana, bem cedo, foram ao túmulo levando as especiarias que haviam preparado.
 * **2** Encontraram a pedra removida do túmulo,

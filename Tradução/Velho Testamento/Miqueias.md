@@ -1,11 +1,18 @@
+<!-- topo -->
 # Miqueias
 
 <!-- INDICE -->
-**Índice:** [1](1) · [2](2) · [3](3) · [4](4) · [5](5) · [6](6) · [7](7)
+## 📜 Índice
+
+**7 capítulos**
+[1](#cap-1) · [2](#cap-2) · [3](#cap-3) · [4](#cap-4) · [5](#cap-5) · [6](#cap-6) · [7](#cap-7)
+
+<div align="right"><a href="#topo"><strong>▲ Voltar ao topo</strong></a></div>
 
 <!-- FIM_INDICE -->
 
-## 1
+
+## 1 {#cap-1}
 
 * **1** Palavra de YHWH (SENHOR) que veio a Miqueias, o morastita, nos dias de Jotão, Acaz e Ezequias, reis de Judá, a qual ele viu sobre Samaria e Jerusalém.
 * **2** Ouvi, ó povos todos; escuta, ó terra, e tudo o que nela há; e seja Adonai (Senhor) YHWH (SENHOR) testemunha contra vós, Adonai (Senhor) desde o seu santo templo.
@@ -24,7 +31,7 @@
 * **15** Ainda trarei a ti, ó habitante de Maressa, aquele que te há de possuir; até Adulão virá a glória de Israel.
 * **16** Rapas a tua cabeça, e tosquia-te por causa dos filhos das tuas delícias; alarga a tua calvície como a águia, porque foram levados cativos de ti.
 
-## 2
+## 2 {#cap-2}
 
 * **1** Ai daqueles que planejam a iniquidade e praticam o mal em suas camas; na luz da manhã o executam, porque têm poder em suas mãos.
 * **2** Cobiçam campos, e roubam-nos, e casas, e tomam-nas; assim oprimem um homem e a sua casa, uma pessoa e a sua herança.
@@ -40,7 +47,7 @@
 * **12** Certamente ajuntarei todo o Jacó, certamente congregarei o restante de Israel; pô-los-ei juntos como ovelhas de Bozra, como rebanho no meio do seu pasto; farão ruído por causa da multidão dos homens.
 * **13** O que abre o caminho subirá diante deles; eles romperão, e passarão a porta, e sairão por ela; e o seu rei passará adiante deles, e YHWH (SENHOR) à frente deles.
 
-## 3
+## 3 {#cap-3}
 
 * **1** E disse: Ouvi agora, ó cabeças de Jacó, e vós, chefes da casa de Israel: Não é a vós que pertence saber o juízo?
 * **2** Vós que aborreceis o bem e amais o mal, que arrancais a pele de cima deles e a carne de cima dos seus ossos;
@@ -55,7 +62,7 @@
 * **11** As suas cabeças julgam por suborno, e os seus sacerdotes ensinam por preço, e os seus profetas adivinham por dinheiro; e ainda se encostam a YHWH (SENHOR), dizendo: Não está YHWH (SENHOR) no meio de nós? Nenhum mal virá sobre nós.
 * **12** Portanto, por causa de vós, Sião será lavrada como um campo, e Jerusalém se tornará em montões de pedras, e o monte do templo em lugares altos de um bosque.
 
-## 4
+## 4 {#cap-4}
 
 * **1** Mas nos últimos dias acontecerá que o monte da casa de YHWH (SENHOR) será estabelecido no cume dos montes, e se elevará sobre os outeiros, e povos a ele afluirão.
 * **2** E irão muitas nações, e dirão: Vinde, e subamos ao monte de YHWH (SENHOR), e à casa do Elohim (Deus) de Jacó, para que nos ensine os seus caminhos, e nós andemos nas suas veredas; porque de Sião sairá a lei, e a palavra de YHWH (SENHOR) de Jerusalém.
@@ -71,7 +78,7 @@
 * **12** Mas elas não conhecem os pensamentos de YHWH, nem compreendem o Seu conselho, pois Ele as ajuntou como feixes na eira.
 * **13** Levanta-te e debulha, ó filha de Sião, porque farei o teu chifre de ferro e as tuas unhas de bronze; e esmiuçarás a muitos povos, e o seu ganho será consagrado a YHWH, e os seus bens ao Adon (Senhor) de toda a terra.
 
-## 5
+## 5 {#cap-5}
 
 * **1** Agora ajunta as tuas tropas, ó filha de tropas; puseram cerco contra nós; com uma vara ferirão na face o juiz de Israel.
 * **2** E tu, Belém Efrata, sendo pequena demais para estar entre os milhares de Judá, de ti sairá para Mim Aquele que há de reinar em Israel, e cujas origens são desde os tempos antigos, desde os dias da eternidade.
@@ -89,7 +96,7 @@
 * **14** E arrancarei os teus postes ídolos do meio de ti, e destruirei as tuas cidades.
 * **15** E com ira e furor executarei vingança sobre as nações que não obedeceram.
 
-## 6
+## 6 {#cap-6}
 
 * **1** Ouvi, pois, o que YHWH diz: Levanta-te, contende perante os montes, e que os outeiros ouçam a tua voz.
 * **2** Ouvi, ó montes, a contenda de YHWH, e vós, fundamentos firmes da terra; porque YHWH tem uma contenda com o Seu povo, e com Israel entrará em juízo.
@@ -108,7 +115,7 @@
 * **15** Tu semearás, mas não segarás; tu pisarás a azeitona, mas não te ungirás com azeite; e pisarás a uva, mas não beberás o vinho.
 * **16** Porque observas os estatutos de Onri, e todas as obras da casa de Acabe, e andas nos conselhos deles; para que Eu te faça uma desolação, e os seus habitantes um objeto de escárnio; e carregareis o opróbrio do Meu povo.
 
-## 7
+## 7 {#cap-7}
 
 * **1** Ai de mim! Porque sou como quando se colhem as frutas do verão, como os rabiscos da vindima; não há cacho para comer; a minha alma deseja a fruta temporã.
 * **2** Pereceu o piedoso da terra, e não há entre os homens um que seja reto; todos armam ciladas para sangue; cada um caça a seu irmão com uma rede.

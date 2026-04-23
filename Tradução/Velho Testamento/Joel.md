@@ -1,11 +1,18 @@
+<!-- topo -->
 # Joel
 
 <!-- INDICE -->
-**Índice:** [1](1) · [2](2) · [3](3)
+## 📜 Índice
+
+**3 capítulos**
+[1](#cap-1) · [2](#cap-2) · [3](#cap-3)
+
+<div align="right"><a href="#topo"><strong>▲ Voltar ao topo</strong></a></div>
 
 <!-- FIM_INDICE -->
 
-## 1
+
+## 1 {#cap-1}
 
 * **1** A palavra de YHWH (SENHOR) que veio a Joel, filho de Petuel.
 * **2** Ouçam isto, anciãos, e escutem, todos os moradores da terra. Acaso aconteceu isto nos seus dias, ou nos dias de seus pais?
@@ -28,7 +35,7 @@
 * **19** A ti, YHWH (SENHOR), clamo, porque o fogo consumiu as pastagens do deserto, e a chama abrasou todas as árvores do campo.
 * **20** Também os animais do campo suspiram por ti, porque as correntes de água secaram, e o fogo consumiu as pastagens do deserto.
 
-## 2
+## 2 {#cap-2}
 
 * **1** Toquem a trombeta em Sião e deem o alarme no meu monte santo; tremam todos os moradores da terra, porque o dia de YHWH (SENHOR) vem, porque está perto.
 * **2** Dia de trevas e escuridão, dia de nuvens e densas trevas; como a alva espalhada sobre os montes, um povo grande e poderoso, como nunca houve desde a antiguidade, nem depois dele haverá pelos anos de geração em geração.
@@ -63,7 +70,7 @@
 * **31** O sol se converterá em trevas, e a lua em sangue, antes que venha o grande e terrível dia de YHWH (SENHOR).
 * **32** E acontecerá que todo aquele que invocar o nome de YHWH (SENHOR) será salvo; porque no monte Sião e em Jerusalém haverá livramento, como YHWH (SENHOR) disse, e entre os sobreviventes que YHWH (SENHOR) chamar.
 
-## 3
+## 3 {#cap-3}
 
 * **1** Pois eis que, naqueles dias e naquele tempo, quando eu restaurar o cativeiro de Judá e de Jerusalém,
 * **2** Ajuntarei todas as nações e as farei descer ao vale de Josafá; e ali entrarei em juízo com elas por causa do meu povo e da minha herança, Israel, a quem elas espalharam entre as nações, e repartiram a minha terra.

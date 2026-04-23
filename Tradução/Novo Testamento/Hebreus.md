@@ -1,11 +1,19 @@
+<!-- topo -->
 # Hebreus
 
 <!-- INDICE -->
-**Índice:** [1](1) · [2](2) · [3](3) · [4](4) · [5](5) · [6](6) · [7](7) · [8](8) · [9](9) · [10](10) · [11](11) · [12](12) · [13](13)
+## 📜 Índice
+
+**13 capítulos**
+[1](#cap-1) · [2](#cap-2) · [3](#cap-3) · [4](#cap-4) · [5](#cap-5) · [6](#cap-6) · [7](#cap-7) · [8](#cap-8) · [9](#cap-9) · [10](#cap-10)
+[11](#cap-11) · [12](#cap-12) · [13](#cap-13)
+
+<div align="right"><a href="#topo"><strong>▲ Voltar ao topo</strong></a></div>
 
 <!-- FIM_INDICE -->
 
-## 1
+
+## 1 {#cap-1}
 
 * **1** De muitas maneiras e de diversos modos, outrora o Theos (Deus) falou aos pais pelos profetas,
 * **2** nestes últimos dias falou-nos pelo Filho, a quem constituiu herdeiro de todas as coisas, por meio de quem também criou o universo;
@@ -22,7 +30,7 @@
 * **13** E a qual dos anjos disse Ele alguma vez: Assenta-te à minha direita, até que eu ponha os teus inimigos por escabelo dos teus pés?
 * **14** Não são todos eles espíritos ministradores, enviados para serviço a favor dos que hão de herdar a salvação?
 
-## 2
+## 2 {#cap-2}
 
 * **1** Por isso, é necessário que nos apeguemos mais firmemente às coisas que ouvimos, para que não nos desviemos delas.
 * **2** Pois, se a palavra falada por meio de anjos se tornou firme, e toda transgressão e desobediência recebeu justa retribuição,
@@ -43,7 +51,7 @@
 * **17** Por isso, convinha que em tudo se tornasse semelhante aos irmãos, para ser um misericordioso e fiel sumo sacerdote nas coisas referentes a Deus, para fazer propiciação pelos pecados do povo;
 * **18** pois, naquilo que ele mesmo sofreu, sendo tentado, é poderoso para socorrer os que são tentados.
 
-## 3
+## 3 {#cap-3}
 
 * **1** Portanto, irmãos santos, participantes da vocação celestial, considerai o apóstolo e sumo sacerdote da nossa confissão, Jesus,
 * **2** sendo fiel àquele que o constituiu, como também Moisés o foi em toda a sua casa.
@@ -65,7 +73,7 @@
 * **18** E a quem jurou que não entrariam no seu descanso, senão aos que foram desobedientes?
 * **19** E vemos que não puderam entrar por causa da incredulidade.
 
-## 4
+## 4 {#cap-4}
 
 * **1** Temamos, pois, que, permanecendo ainda a promessa de entrar no seu descanso, pareça que algum de vós tenha falhado.
 * **2** Pois também a nós foram anunciadas as boas-novas, assim como a eles; mas a palavra da pregação não lhes aproveitou, por não estar unida com a fé naqueles que a ouviram.
@@ -84,7 +92,7 @@
 * **15** Pois não temos um sumo sacerdote que não possa compadecer-se das nossas fraquezas, mas um que, como nós, foi tentado em todas as coisas, sem pecado.
 * **16** Cheguemos, pois, com confiança ao trono da graça, para que recebamos misericórdia e achemos graça para socorro em tempo oportuno.
 
-## 5
+## 5 {#cap-5}
 
 * **1** Pois todo sumo sacerdote, tomado dentre os homens, é constituído a favor dos homens nas coisas referentes a Deus, para oferecer dons e sacrifícios pelos pecados,
 * **2** podendo compadecer-se dos ignorantes e dos que erram, visto que ele mesmo está rodeado de fraqueza,
@@ -101,7 +109,7 @@
 * **13** Pois todo aquele que se alimenta de leite é inexperiente na palavra da justiça, pois é criança;
 * **14** mas o alimento sólido é para os adultos, para aqueles que, pelo uso, têm as faculdades exercitadas para discernir tanto o bem quanto o mal.
 
-## 6
+## 6 {#cap-6}
 
 * **1** Por isso, deixando os princípios elementares da doutrina do Messias, avancemos para a perfeição, não lançando de novo o fundamento do arrependimento de obras mortas, e da fé em Deus,
 * **2** da doutrina de batismos, da imposição de mãos, da ressurreição dos mortos e do juízo eterno.
@@ -124,7 +132,7 @@
 * **19** a qual temos como âncora da alma, segura e firme, e que penetra até o interior do véu,
 * **20** onde Jesus, como precursor, entrou por nós, feito sumo sacerdote para sempre, segundo a ordem de Melquisedeque.
 
-## 7
+## 7 {#cap-7}
 
 * **1** Pois este Melquisedeque, rei de Salém, sacerdote do Deus Altíssimo, que saiu ao encontro de Abraão quando este voltava da derrota dos reis e o abençoou,
 * **2** a quem também Abraão deu o dízimo de tudo, sendo primeiramente, por interpretação, rei de justiça, e depois também rei de Salém, que é rei de paz,
@@ -155,7 +163,7 @@
 * **27** que não tem necessidade, como os sumos sacerdotes, de oferecer diariamente sacrifícios, primeiro pelos seus próprios pecados, depois pelos do povo (pois isto ele fez uma vez por todas, oferecendo-se a si mesmo);
 * **28** pois a lei constitui sumos sacerdotes a homens que têm fraqueza, mas a palavra do juramento, que veio depois da lei, constitui o Filho, aperfeiçoado para sempre.
 
-## 8
+## 8 {#cap-8}
 
 * **1** Ora, o ponto principal do que estamos dizendo é que temos um sumo sacerdote tal, que se assentou à direita do trono da Majestade nos céus,
 * **2** ministro do santuário e do verdadeiro tabernáculo, que o Senhor fundou, e não o homem.
@@ -171,7 +179,7 @@
 * **12** Porque serei misericordioso para com as suas injustiças, e dos seus pecados não me lembrarei mais.
 * **13** Ao dizer Nova, tornou antiquada a primeira; e o que se torna antiquado e envelhece, perto está de desaparecer.
 
-## 9
+## 9 {#cap-9}
 
 * **1** Tinha, pois, na verdade, a primeira aliança ordenanças de culto e o santuário terrestre.
 * **2** Pois foi preparado o primeiro tabernáculo, em que havia o candelabro, a mesa e a exposição dos pães, que se chama o Santo;
@@ -202,7 +210,7 @@
 * **27** E, assim como está ordenado aos homens morrerem uma vez, e depois disso o juízo,
 * **28** assim também o Christos, tendo sido oferecido uma vez para levar os pecados de muitos, aparecerá uma segunda vez, sem pecado, aos que o aguardam para a salvação.
 
-## 10
+## 10 {#cap-10}
 
 * **1** Pois a lei, tendo a sombra dos bens futuros, não a própria imagem das coisas, nunca pode, com os mesmos sacrifícios que oferecem continuamente a cada ano, aperfeiçoar os que se aproximam;
 * **2** pois não teriam deixado de ser oferecidos, visto que os que prestam culto, uma vez purificados, não teriam mais consciência de pecados?
@@ -244,7 +252,7 @@
 * **38** mas o meu justo viverá da fé, e se ele recuar, a minha alma não se agrada nele.
 * **39** Nós, porém, não somos dos que recuam para a perdição, mas da fé para a preservação da alma.
 
-## 11
+## 11 {#cap-11}
 
 * **1** Ora, a fé é a firmeza das coisas que se esperam, a prova de coisas que não se veem;
 * **2** pois nela os antigos receberam testemunho.
@@ -287,7 +295,7 @@
 * **39** E todos, tendo recebido testemunho pela fé, não alcançaram a promessa,
 * **40** provendo o Theos algo melhor a nosso respeito, para que não fossem aperfeiçoados sem nós.
 
-## 12
+## 12 {#cap-12}
 
 * **1** Portanto, também nós, tendo uma tão grande nuvem de testemunhas ao nosso redor, deixando todo embaraço e o pecado que tão de perto nos rodeia, corramos com perseverança a carreira que nos está proposta,
 * **2** olhando para Iēsous, o autor e consumador da fé, o qual, pela alegria que lhe estava proposta, suportou a cruz, desprezando a vergonha, e assentou-se à direita do trono do Theos.
@@ -319,7 +327,7 @@
 * **28** Por isso, recebendo um reino inabalável, tenhamos graça, pela qual prestemos culto de modo agradável a Theos com reverência e temor,
 * **29** pois também o nosso Theos é um fogo consumidor.
 
-## 13
+## 13 {#cap-13}
 
 * **1** Permaneça o amor fraternal.
 * **2** Não vos esqueçais da hospitalidade, pois por meio dela alguns, sem saber, hospedaram anjos.

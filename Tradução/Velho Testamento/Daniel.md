@@ -1,11 +1,19 @@
+<!-- topo -->
 # Daniel
 
 <!-- INDICE -->
-**Índice:** [1](1) · [2](2) · [3](3) · [4](4) · [5](5) · [6](6) · [7](7) · [8](8) · [9](9) · [10](10) · [11](11) · [12](12)
+## 📜 Índice
+
+**12 capítulos**
+[1](#cap-1) · [2](#cap-2) · [3](#cap-3) · [4](#cap-4) · [5](#cap-5) · [6](#cap-6) · [7](#cap-7) · [8](#cap-8) · [9](#cap-9) · [10](#cap-10)
+[11](#cap-11) · [12](#cap-12)
+
+<div align="right"><a href="#topo"><strong>▲ Voltar ao topo</strong></a></div>
 
 <!-- FIM_INDICE -->
 
-## 1
+
+## 1 {#cap-1}
 
 * **1** No terceiro ano do reinado de Jeoaquim, rei de Judá, Nabucodonosor, rei da Babilônia, veio a Jerusalém e a sitiou.
 * **2** E Adonai (Senhor) entregou em suas mãos a Jeoaquim, rei de Judá, e parte dos utensílios da casa de Elohim (Deus); e ele os levou para a terra de Sinar, para a casa de seu deus, e colocou os utensílios na casa do tesouro de seu deus.
@@ -29,7 +37,7 @@
 * **20** Em toda matéria de sabedoria e entendimento sobre a qual o rei os interrogou, achou-os dez vezes mais doutos do que todos os magos e encantadores que havia em todo o seu reino.
 * **21** E Daniel permaneceu ali até o primeiro ano do rei Ciro.
 
-## 2
+## 2 {#cap-2}
 
 * **1** No segundo ano do reinado de Nabucodonosor, Nabucodonosor teve sonhos; o seu espírito ficou perturbado e o seu sono fugiu dele.
 * **2** O rei ordenou que chamassem os magos, os encantadores, os feiticeiros e os caldeus, para que declarassem ao rei os seus sonhos; eles vieram e se apresentaram diante do rei.
@@ -81,7 +89,7 @@
 * **48** Então o rei engrandeceu a Daniel, deu-lhe muitas e grandes dádivas e o pôs por governador sobre toda a província de Babilônia, e como chefe supremo sobre todos os sábios de Babilônia.
 * **49** E Daniel pediu ao rei, e ele constituiu sobre os negócios da província de Babilônia a Sadraque, Mesaque e Abede-Nego; mas Daniel permaneceu na corte do rei.
 
-## 3
+## 3 {#cap-3}
 
 * **1** O rei Nabucodonosor fez uma imagem de ouro, cuja altura era de sessenta côvados e a sua largura de seis côvados; levantou-a no vale de Dura, na província de Babilônia.
 * **2** Então o rei Nabucodonosor enviou a reunir os sátrapas, os prefeitos, os governadores, os conselheiros, os tesoureiros, os juízes, os magistrados e todos os governadores das províncias, para a dedicação da imagem que o rei Nabucodonosor tinha levantado.
@@ -114,7 +122,7 @@
 * **29** "Por isso, faço um decreto de que todo povo, nação e língua que disser blasfêmia contra o Eloah (Deus) de Sadraque, Mesaque e Abede-Nego, seja despedaçado e as suas casas sejam feitas monturos; porquanto não há outro deus que possa livrar desta maneira".
 * **30** Então o rei fez prosperar a Sadraque, Mesaque e Abede-Nego na província de Babilônia.
 
-## 4
+## 4 {#cap-4}
 
 * **1** O rei Nabucodonosor, a todos os povos, nações e línguas que habitam em toda a terra: "A vossa paz seja multiplicada".
 * **2** "Sinais e maravilhas que o Eloah (Deus) Altíssimo tem feito comigo, pareceu-me bem declará-los".
@@ -154,7 +162,7 @@
 * **36** Naquele tempo, o meu entendimento voltou a mim, e para a glória do meu reino, a minha majestade e o meu resplendor voltaram a mim; e os meus conselheiros e os meus grandes me buscaram, e fui restabelecido no meu reino, e a mim foi acrescentada uma grandeza ainda maior.
 * **37** Agora, pois, eu, Nabucodonosor, louvo, exalto e glorifico ao Rei do céu, cujas obras são todas verdade, e os seus caminhos juízo, e que pode humilhar aos que andam na soberba.
 
-## 5
+## 5 {#cap-5}
 
 * **1** O rei Belsazar deu um grande banquete aos seus mil grandes, e bebeu vinho perante os mil.
 * **2** Belsazar, provando o vinho, mandou trazer os utensílios de ouro e de prata que Nabucodonosor, seu pai, tinha tirado do templo que estava em Jerusalém, para que neles bebessem o rei e os seus grandes, as suas mulheres e as suas concubinas.
@@ -188,7 +196,7 @@
 * **30** Naquela mesma noite, Belsazar, o rei dos caldeus, foi morto.
 * **31** E Dario, o medo, recebeu o reino, sendo ele da idade de sessenta e dois anos.
 
-## 6
+## 6 {#cap-6}
 
 * **1** Pareceu bem a Dario constituir sobre o reino cento e vinte sátrapas, que estivessem sobre todo o reino.
 * **2** E sobre eles, três presidentes, dos quais Daniel era um, aos quais estes sátrapas prestavam contas, para que o rei não sofresse dano.
@@ -219,7 +227,7 @@
 * **27** Ele livra e salva, e faz sinais e maravilhas no céu e na terra, Ele que livrou Daniel do poder dos leões.
 * **28** E este Daniel prosperou no reino de Dario e no reino de Ciro, o persa.
 
-## 7
+## 7 {#cap-7}
 
 * **1** No primeiro ano de Belsazar, rei de Babilônia, Daniel teve um sonho e visões na sua cabeça, na sua cama; então escreveu o sonho e relatou o princípio das coisas.
 * **2** Daniel respondeu e disse: "Eu estava olhando na minha visão durante a noite, e eis que os quatro ventos do céu agitavam o grande mar."
@@ -250,7 +258,7 @@
 * **27** "E o reino, o domínio e a grandeza dos reinos debaixo de todo o céu serão dados ao povo dos santos do Elyon (Altíssimo); o Seu reino é um reino eterno, e todos os domínios O servirão e Lhe obedecerão."
 * **28** Até aqui é o fim da palavra. Quanto a mim, Daniel, os meus pensamentos muito me perturbaram, e o meu semblante mudou-se em mim; mas guardei a palavra no meu coração.
 
-## 8
+## 8 {#cap-8}
 
 * **1** No terceiro ano do reinado do rei Belsazar, apareceu-me uma visão, a mim, Daniel, depois daquela que me apareceu no princípio.
 * **2** E vi na visão; e aconteceu, quando vi, que eu estava em Susã, a fortaleza, que está na província de Elão; e vi na visão, e eu estava junto ao rio Ulai.
@@ -280,7 +288,7 @@
 * **26** E a visão da tarde e da manhã, que foi dita, é verdadeira; tu, porém, sela a visão, porque se refere a muitos dias.
 * **27** Eu, Daniel, desfaleci e estive enfermo alguns dias; depois me levantei e tratei dos negócios do rei; e espantei-me com a visão, e não havia quem a entendesse.
 
-## 9
+## 9 {#cap-9}
 
 * **1** No primeiro ano de Dario, filho de Assuero, da linhagem dos medos, o qual foi constituído rei sobre o reino dos caldeus.
 * **2** No primeiro ano do seu reinado, eu, Daniel, entendi pelos livros o número dos anos de que falou YHWH (SENHOR) ao profeta Jeremias, que haviam de cumprir-se as desolações de Jerusalém: setenta anos.
@@ -310,7 +318,7 @@
 * **26** "E depois das sessenta e duas semanas será cortado o Messias, mas não para si mesmo; e o povo de um príncipe que há de vir destruirá a cidade e o santuário, e o seu fim será com uma inundação; e até ao fim haverá guerra; estão determinadas assolações."
 * **27** "E ele firmará aliança com muitos por uma semana; e na metade da semana fará cessar o sacrifício e a oferta de manjares; e sobre a asa das abominações virá o assolador, e isso até que a destruição, que está determinada, se derrame sobre o assolado."
 
-## 10
+## 10 {#cap-10}
 
 * **1** No terceiro ano de Ciro, rei da Pérsia, foi revelada uma palavra a Daniel, cujo nome era chamado Beltessazar; a palavra era verdadeira e de grande esforço; ele entendeu a palavra e teve inteligência da visão.
 * **2** Naqueles dias, eu, Daniel, estive triste por três semanas inteiras.
@@ -334,7 +342,7 @@
 * **20** E disse: "Sabes por que vim a ti? Agora, pois, tornarei a pelejar contra o príncipe da Pérsia; e, saindo eu, eis que virá o príncipe da Grécia."
 * **21** "Mas eu te declararei o que está registrado na escritura da verdade; e ninguém há que se esforce comigo nestas coisas, senão Miguel, vosso príncipe."
 
-## 11
+## 11 {#cap-11}
 
 * **1** "E eu, no primeiro ano de Dario, o medo, me levantei para o fortalecer e para o amparar."
 * **2** Agora, direi a você a verdade: ainda três reis se levantarão na Pérsia, e o quarto será muito mais rico que todos; e, ao tornar-se forte por suas riquezas, ele incitará a todos contra o reino da Grécia.
@@ -382,7 +390,7 @@
 * **44** Mas notícias do oriente e do norte o espantarão, e ele sairá com grande furor para destruir e exterminar a muitos.
 * **45** Armará as suas tendas palacianas entre os mares e o monte glorioso e santo; chegará ao seu fim, e não haverá quem o ajude.
 
-## 12
+## 12 {#cap-12}
 
 * **1** Naquele tempo, levantar-se-á Miguel, o grande príncipe que se levanta pelos filhos do teu povo, e haverá um tempo de angústia, qual nunca houve desde que existiu nação até aquele tempo; mas, naquele tempo, o teu povo será salvo, todo aquele que for achado escrito no livro.
 * **2** Muitos dos que dormem no pó da terra despertarão, uns para a vida eterna e outros para vergonha e desprezo eterno.

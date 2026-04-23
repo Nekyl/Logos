@@ -1,11 +1,20 @@
+<!-- topo -->
 # Atos dos Apóstolos
 
 <!-- INDICE -->
-**Índice:** [1](1) · [2](2) · [3](3) · [4](4) · [5](5) · [6](6) · [7](7) · [8](8) · [9](9) · [10](10) · [11](11) · [12](12) · [13](13) · [14](14) · [15](15) · [16](16) · [17](17) · [18](18) · [19](19) · [20](20) · [21](21) · [22](22) · [23](23) · [24](24) · [25](25) · [26](26) · [27](27) · [28](28)
+## 📜 Índice
+
+**28 capítulos**
+[1](#cap-1) · [2](#cap-2) · [3](#cap-3) · [4](#cap-4) · [5](#cap-5) · [6](#cap-6) · [7](#cap-7) · [8](#cap-8) · [9](#cap-9) · [10](#cap-10)
+[11](#cap-11) · [12](#cap-12) · [13](#cap-13) · [14](#cap-14) · [15](#cap-15) · [16](#cap-16) · [17](#cap-17) · [18](#cap-18) · [19](#cap-19) · [20](#cap-20)
+[21](#cap-21) · [22](#cap-22) · [23](#cap-23) · [24](#cap-24) · [25](#cap-25) · [26](#cap-26) · [27](#cap-27) · [28](#cap-28)
+
+<div align="right"><a href="#topo"><strong>▲ Voltar ao topo</strong></a></div>
 
 <!-- FIM_INDICE -->
 
-## 1
+
+## 1 {#cap-1}
 
 * **1** No primeiro livro, escrevi sobre tudo o que Iēsous (Jesus) começou a fazer e a ensinar, ó Teófilo,
 * **2** até o dia em que, depois de ter dado instruções por meio do Pneuma Hagion (Espírito Santo) aos apóstolos que escolhera, foi elevado ao céu.
@@ -34,7 +43,7 @@
 * **25** para tomar o lugar deste ministério e apostolado, do qual Judas se desviou para ir para o seu próprio lugar.
 * **26** Lançaram sortes sobre eles, e a sorte caiu sobre Matias, e ele foi contado com os onze apóstolos.
 
-## 2
+## 2 {#cap-2}
 
 * **1** Ao cumprir-se o dia de Pentecostes, estavam todos reunidos no mesmo lugar.
 * **2** De repente, veio do céu um som, como de um vento impetuoso, e encheu toda a casa onde estavam sentados.
@@ -84,7 +93,7 @@
 * **46** Perseverando diariamente e unanimemente no templo, partindo o pão de casa em casa, comiam com alegria e singeleza de coração,
 * **47** louvando a Deus e tendo a simpatia de todo o povo. E o Senhor acrescentava diariamente ao grupo os que iam sendo salvos.
 
-## 3
+## 3 {#cap-3}
 
 * **1** Pedro e João subiam ao templo para a oração da nona hora.
 * **2** E um homem, coxo de nascença, era carregado, o qual punham diariamente à porta do templo chamada Formosa, para pedir esmola aos que entravam no templo.
@@ -113,7 +122,7 @@
 * **25** Vós sois os filhos dos profetas e da aliança que Deus fez com vossos pais, dizendo a Abraão: Na tua descendência serão abençoadas todas as famílias da terra.
 * **26** Deus, tendo ressuscitado o seu servo, enviou-o primeiro a vós, para vos abençoar, no sentido de que cada um se converta das suas maldades.
 
-## 4
+## 4 {#cap-4}
 
 * **1** Enquanto eles falavam ao povo, sobrevieram-lhes os sacerdotes, o capitão do templo e os saduceus,
 * **2** ressentidos por ensinarem o povo e anunciarem em Jesus a ressurreição dos mortos.
@@ -153,7 +162,7 @@
 * **36** José, chamado pelos apóstolos de Barnabé (que significa filho de consolação), levita, natural de Chipre,
 * **37** possuindo um campo, vendeu-o, trouxe o dinheiro e depositou-o aos pés dos apóstolos.
 
-## 5
+## 5 {#cap-5}
 
 * **1** Um homem chamado Ananias, com Safira, sua mulher, vendeu uma propriedade
 * **2** e reteve parte do preço, sabendo-o também a sua mulher; e, levando uma parte, depositou-a aos pés dos apóstolos.
@@ -198,7 +207,7 @@
 * **41** Eles, pois, retiraram-se da presença do sinédrio, alegrando-se por terem sido considerados dignos de sofrer afronta por causa do nome.
 * **42** E todos os dias, no templo e nas casas, não cessavam de ensinar e de anunciar o Christos (Messias) Iēsous.
 
-## 6
+## 6 {#cap-6}
 
 * **1** Naqueles dias, multiplicando-se os discípulos, houve uma murmuração dos helenistas contra os hebreus, porque as suas viúvas estavam sendo esquecidas na assistência diária.
 * **2** Os doze, convocando a multidão dos discípulos, disseram: Não é razoável que nós, deixando a palavra de Theos, sirvamos às mesas.
@@ -216,7 +225,7 @@
 * **14** Porque ouvimo-lo dizer que este Iēsous, o nazareno, destruirá este lugar e mudará os costumes que Moisés nos deu.
 * **15** E todos os que estavam assentados no sinédrio, fixando os olhos nele, viram o seu rosto como o rosto de um anjo.
 
-## 7
+## 7 {#cap-7}
 
 * **1** Disse o sumo sacerdote: É assim isto?
 * **2** Ele respondeu: Homens, irmãos e pais, ouvi: O Theos da glória apareceu ao nosso pai Abraão, estando ele na Mesopotâmia, antes de habitar em Harã,
@@ -279,7 +288,7 @@
 * **59** E apedrejavam Estêvão, que invocava e dizia: Kyrie Iēsou (Senhor Jesus), recebe o meu espírito.
 * **60** E, pondo-se de joelhos, clamou com grande voz: Kyrie, não lhes imputes este pecado. E, tendo dito isto, adormeceu.
 
-## 8
+## 8 {#cap-8}
 
 * **1** Saulo consentia na sua morte. Naquele dia, houve uma grande perseguição contra a congregação que estava em Jerusalém; e todos foram dispersos pelas regiões da Judeia e Samaria, exceto os apóstolos.
 * **2** Homens piedosos sepultaram Estêvão e fizeram grande pranto sobre ele.
@@ -321,7 +330,7 @@
 * **39** Quando saíram da água, o Pneuma do Kyrios arrebatou a Filipe, e o eunuco não o viu mais; e, jubiloso, continuou o seu caminho.
 * **40** Filipe, porém, achou-se em Azoto e, passando, anunciava o evangelho em todas as cidades, até chegar a Cesareia.
 
-## 9
+## 9 {#cap-9}
 
 * **1** Saulo, respirando ainda ameaças e morte contra os discípulos do Kyrios, dirigiu-se ao sumo sacerdote,
 * **2** E pediu-lhe cartas para Damasco, para as sinagogas, a fim de que, se encontrasse alguns que fossem do Caminho, tanto homens como mulheres, os trouxesse presos a Jerusalém.
@@ -367,7 +376,7 @@
 * **42** Isso tornou-se conhecido por toda Jope, e muitos creram no Senhor.
 * **43** E aconteceu que ele permaneceu muitos dias em Jope com um certo Simão, curtidor.
 
-## 10
+## 10 {#cap-10}
 
 * **1** Um homem em Cesareia, chamado Cornélio, centurião da coorte chamada Italiana,
 * **2** piedoso e temente a Deus com toda a sua casa, que fazia muitas esmolas ao povo e orava a Deus continuamente,
@@ -418,7 +427,7 @@
 * **47** Pode alguém impedir a água, para que não sejam batizados estes que receberam o Espírito Santo assim como nós?
 * **48** E ordenou que fossem batizados em nome de Jesus Messias. Então pediram-lhe que ficasse por alguns dias.
 
-## 11
+## 11 {#cap-11}
 
 * **1** Os apóstolos e os irmãos que estavam na Judeia ouviram que também as nações tinham recebido a palavra de Deus.
 * **2** Quando Pedro subiu a Jerusalém, os que eram da circuncisão discutiam com ele,
@@ -451,7 +460,7 @@
 * **29** E os discípulos, conforme cada um tinha prosperado, determinaram enviar socorro aos irmãos que habitavam na Judeia;
 * **30** o que também fizeram, enviando-o aos presbíteros por intermédio de Barnabé e Saulo.
 
-## 12
+## 12 {#cap-12}
 
 * **1** Naquele tempo, o rei Herodes estendeu as mãos para maltratar alguns da igreja.
 * **2** Matou à espada Tiago, irmão de João.
@@ -479,7 +488,7 @@
 * **24** A palavra de Deus crescia e se multiplicava.
 * **25** Barnabé e Saulo voltaram de Jerusalém, tendo cumprido o serviço, levando consigo João, chamado Marcos.
 
-## 13
+## 13 {#cap-13}
 
 * **1** Havia em Antioquia, na igreja que lá estava, profetas e mestres: Barnabé, Simeão, chamado Níger, Lúcio, o cireneu, Manaém, companheiro de infância de Herodes, o tetrarca, e Saulo.
 * **2** Enquanto eles serviam ao Senhor e jejuavam, disse o Pneuma Hagion: Separai-me agora Barnabé e Saulo para a obra a que os chamei.
@@ -534,7 +543,7 @@
 * **51** Eles, porém, sacudindo contra eles o pó dos pés, foram para Icônio.
 * **52** E os discípulos enchiam-se de alegria e do Pneuma Hagion (Espírito Santo).
 
-## 14
+## 14 {#cap-14}
 
 * **1** Aconteceu que, em Icônio, entraram juntos na sinagoga dos judeus e falaram de tal modo que creu uma grande multidão de judeus e gregos.
 * **2** Mas os judeus que não creram incitaram e irritaram as almas dos gentios contra os irmãos.
@@ -565,7 +574,7 @@
 * **27** Chegando ali e reunindo a igreja, relataram tudo o que Deus fizera com eles e como abrira aos gentios a porta da fé.
 * **28** E passaram não pouco tempo com os discípulos.
 
-## 15
+## 15 {#cap-15}
 
 * **1** E alguns, descendo da Judeia, ensinavam os irmãos: Se não vos circuncidardes segundo o costume de Moisés, não podeis ser salvos.
 * **2** Tendo Paulo e Barnabé tido não pequena contenda e discussão com eles, decidiram que Paulo, Barnabé e alguns outros dentre eles subissem a Jerusalém aos apóstolos e presbíteros por causa desta questão.
@@ -608,7 +617,7 @@
 * **40** Paulo, escolhendo Silas, partiu, sendo entregue pelos irmãos à graça do Kyrios.
 * **41** E percorria a Síria e a Cilícia, confirmando as igrejas.
 
-## 16
+## 16 {#cap-16}
 
 * **1** Chegou também a Derbe e a Listra. E eis que estava ali um discípulo chamado Timóteo, filho de uma mulher judia crente, mas de pai grego,
 * **2** do qual davam bom testemunho os irmãos em Listra e Icônio.
@@ -651,7 +660,7 @@
 * **39** E, vindo, rogaram-lhes e, tirando-os para fora, pediram que se retirassem da cidade.
 * **40** Saindo da prisão, entraram na casa de Lídia e, vendo os irmãos, exortaram-nos e partiram.
 
-## 17
+## 17 {#cap-17}
 
 * **1** Passando por Anfípolis e Apolônia, chegaram a Tessalônica, onde havia uma sinagoga dos judeus.
 * **2** Paulo, segundo o seu costume, entrou onde eles estavam e, por três sábados, discutiu com eles a partir das Escrituras,
@@ -688,7 +697,7 @@
 * **33** Assim, Paulo saiu do meio deles.
 * **34** Contudo, alguns homens, unindo-se a ele, creram, entre os quais Dionísio, o areopagita, uma mulher chamada Dâmaris e outros com eles.
 
-## 18
+## 18 {#cap-18}
 
 * **1** Depois disto, partindo de Atenas, foi para Corinto.
 * **2** E, encontrando um judeu chamado Áquila, natural do Ponto, que tinha chegado recentemente da Itália, e Priscila, sua mulher, por causa de Cláudio ter ordenado que todos os judeus se retirassem de Roma, aproximou-se deles,
@@ -719,7 +728,7 @@
 * **27** Querendo ele passar para a Acaia, os irmãos encorajaram-no e escreveram aos discípulos que o recebessem; o qual, chegando, ajudou muito aos que tinham crido pela graça;
 * **28** pois refutava vigorosamente os judeus em público, demonstrando pelas Escrituras que o Christos era Iēsous.
 
-## 19
+## 19 {#cap-19}
 
 * **1** Aconteceu que, estando Apolo em Corinto, Paulo, tendo passado pelas regiões superiores, chegou a Éfeso e encontrou alguns discípulos,
 * **2** e disse-lhes: Recebestes o Pneuma Hagion quando crestes? Eles disseram-lhe: Nem sequer ouvimos que existe o Pneuma Hagion.
@@ -762,7 +771,7 @@
 * **39** Mas, se buscais algo mais, será resolvido em assembleia legítima.
 * **40** Pois corremos o risco de sermos acusados de sedição por causa do dia de hoje, não havendo causa alguma pela qual possamos justificar este ajuntamento. E, dizendo isto, despediu a assembleia.
 
-## 20
+## 20 {#cap-20}
 
 * **1** Depois de cessar o tumulto, Paulo chamou os discípulos e, tendo-os exortado, despediu-se e partiu para a Macedônia.
 * **2** E, percorrendo aquelas regiões e exortando-os com muitas palavras, chegou à Grécia,
@@ -803,7 +812,7 @@
 * **37** Houve grande choro de todos e, lançando-se ao pescoço de Paulo, beijavam-no,
 * **38** entristecidos principalmente pela palavra que ele tinha dito, que não veriam mais o seu rosto. E acompanharam-no até ao navio.
 
-## 21
+## 21 {#cap-21}
 
 * **1** Quando partimos, tendo-nos separado deles, navegamos diretamente e chegamos a Cós, no dia seguinte a Rodes, e dali a Pátara;
 * **2** e, encontrando um navio que passava para a Fenícia, embarcamos e partimos.
@@ -846,7 +855,7 @@
 * **39** Paulo disse: "Eu sou um homem judeu, de Tarso da Cilícia, cidadão de uma cidade não insignificante; rogo-te, permite-me falar ao povo."
 * **40** Tendo ele permitido, Paulo, em pé nas escadas, fez sinal com a mão ao povo; e, havendo grande silêncio, falou na língua hebraica, dizendo:
 
-## 22
+## 22 {#cap-22}
 
 * **1** "Homens, irmãos e pais, ouvi agora a minha defesa perante vós."
 * **2** Ao ouvirem que lhes falava na língua hebraica, ficaram ainda mais silenciosos. E ele diz:
@@ -879,7 +888,7 @@
 * **29** Imediatamente, pois, afastaram-se dele os que iam interrogá-lo; e o comandante também ficou com medo, ao saber que era romano e que o tinha acorrentado.
 * **30** No dia seguinte, querendo saber a verdade sobre o porquê de ele ser acusado pelos judeus, soltou-o e ordenou que os sumos sacerdotes e todo o sinédrio se reunissem, e, fazendo descer Paulo, apresentou-o a eles.
 
-## 23
+## 23 {#cap-23}
 
 * **1** Fixando os olhos no sinédrio, Paulo disse: "Homens, irmãos, eu tenho vivido com toda a boa consciência diante do Theos até o dia de hoje."
 * **2** O sumo sacerdote Ananias ordenou aos que estavam perto dele que lhe batessem na boca.
@@ -917,7 +926,7 @@
 * **34** Tendo lido e perguntado de qual província ele era, e sabendo que era da Cilícia,
 * **35** "Eu te ouvirei", disse, "quando também os teus acusadores chegarem"; e ordenou que fosse guardado no pretório de Herodes.
 
-## 24
+## 24 {#cap-24}
 
 * **1** Depois de cinco dias, desceu o sumo sacerdote Ananias com alguns presbíteros e um certo orador, Tértulo, os quais apresentaram ao governador a acusação contra Paulo.
 * **2** Tendo sido ele chamado, Tértulo começou a acusar, dizendo: "Desfrutando de muita paz por teu intermédio e de reformas feitas a esta nação pela tua providência,
@@ -946,7 +955,7 @@
 * **26** Ao mesmo tempo, esperava que dinheiro lhe fosse dado por Paulo; por isso, chamando-o mais frequentemente, conversava com ele.
 * **27** Passados dois anos, Félix teve como sucessor Pórcio Festo; e, querendo Félix agradar aos judeus, deixou Paulo preso.
 
-## 25
+## 25 {#cap-25}
 
 * **1** Festo, pois, tendo assumido a província, depois de três dias subiu de Cesareia para Jerusalém,
 * **2** e os sumos sacerdotes e os principais dos judeus apresentaram-lhe a acusação contra Paulo, e rogavam-lhe,
@@ -976,7 +985,7 @@
 * **26** Sobre ele não tenho nada de seguro para escrever ao Kyrios (Senhor); por isso, trouxe-o diante de vós, e especialmente diante de ti, rei Agripa, para que, feita a investigação, eu tenha o que escrever;
 * **27** pois parece-me irracional enviar um prisioneiro e não indicar as acusações contra ele."
 
-## 26
+## 26 {#cap-26}
 
 * **1** Agripa disse a Paulo: "É-te permitido falar por ti mesmo." Então Paulo, estendendo a mão, fazia a sua defesa:
 * **2** "Sobre todas as coisas de que sou acusado pelos judeus, rei Agripa, considero-me feliz por estar hoje diante de ti para me defender,
@@ -1011,7 +1020,7 @@
 * **31** e, retirando-se, falavam uns aos outros, dizendo: Este homem não faz nada digno de morte ou de prisões.
 * **32** E Agripa disse a Festo: Este homem poderia ser solto, se não tivesse apelado para César.
 
-## 27
+## 27 {#cap-27}
 
 * **1** Quando foi decidido que navegássemos para a Itália, entregaram Paulo e alguns outros prisioneiros a um centurião chamado Júlio, do regimento imperial.
 * **2** Embarcando em um navio adramitino que ia navegar para os lugares da Ásia, partimos, estando conosco Aristarco, macedônio de Tessalônica.
@@ -1058,7 +1067,7 @@
 * **43** mas o centurião, querendo salvar Paulo, impediu-os do seu propósito e ordenou que os que soubessem nadar fossem os primeiros a lançar-se ao mar e sair para terra,
 * **44** e os demais, uns em tábuas e outros em destroços do navio; e assim aconteceu que todos se salvaram em terra.
 
-## 28
+## 28 {#cap-28}
 
 * **1** E, salvos, soubemos então que a ilha se chamava Malta.
 * **2** Os bárbaros mostraram-nos uma humanidade não comum, pois, acendendo uma fogueira, acolheram-nos a todos por causa da chuva que caía e do frio.

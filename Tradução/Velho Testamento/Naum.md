@@ -1,11 +1,18 @@
+<!-- topo -->
 # Naum
 
 <!-- INDICE -->
-**Índice:** [1](1) · [2](2) · [3](3)
+## 📜 Índice
+
+**3 capítulos**
+[1](#cap-1) · [2](#cap-2) · [3](#cap-3)
+
+<div align="right"><a href="#topo"><strong>▲ Voltar ao topo</strong></a></div>
 
 <!-- FIM_INDICE -->
 
-## 1
+
+## 1 {#cap-1}
 
 * **1** Sentença sobre Nínive. Livro da visão de Naum, o elcosita.
 * **2** YHWH (SENHOR) é um Deus zeloso e vingador; o SENHOR é vingador e cheio de furor; o SENHOR toma vingança contra os seus adversários e guarda a ira para os seus inimigos.
@@ -23,7 +30,7 @@
 * **14** Mas contra ti o SENHOR deu ordem: Do teu nome não se gerará mais descendência; da casa do teu Elohim (Deus) exterminarei as imagens de escultura e de fundição; prepararei o teu sepulcro, porque és vil.
 * **15** Eis sobre os montes os pés do que traz boas novas, do que anuncia a paz! Celebra as tuas festas, Judá, cumpre os teus votos, porque o perverso nunca mais passará por ti; ele é totalmente exterminado.
 
-## 2
+## 2 {#cap-2}
 
 * **1** O destruidor subiu contra ti; guarda a fortaleza, vigia o caminho, fortalece os lombos, reforça muito o teu poder.
 * **2** Porque o SENHOR restaura a glória de Jacó, como a glória de Israel; porque os saqueadores os saquearam e destruíram os seus ramos.
@@ -39,7 +46,7 @@
 * **12** O leão arrebatava o suficiente para os seus filhotes e estrangulava para as suas leoas; enchia as suas cavernas de presas e as suas covas de rapina.
 * **13** Eis que eu estou contra ti, diz YHWH Tzevaot (SENHOR dos Exércitos), e queimarei na fumaça os teus carros, e a espada devorará os teus leõezinhos; exterminarei da terra a tua presa, e a voz dos teus mensageiros não será mais ouvida.
 
-## 3
+## 3 {#cap-3}
 
 * **1** Ai da cidade sanguinária! Ela está toda cheia de mentiras e de roubos; não se aparta a presa.
 * **2** O ruído do açoite, o ruído do estrondo das rodas, o galope dos cavalos e o salto dos carros!

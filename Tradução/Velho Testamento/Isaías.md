@@ -1,11 +1,24 @@
+<!-- topo -->
 # Isaías
 
 <!-- INDICE -->
-**Índice:** [1](1) · [2](2) · [3](3) · [4](4) · [5](5) · [6](6) · [7](7) · [8](8) · [9](9) · [10](10) · [11](11) · [12](12) · [13](13) · [14](14) · [15](15) · [16](16) · [17](17) · [18](18) · [19](19) · [20](20) · [21](21) · [22](22) · [23](23) · [24](24) · [25](25) · [26](26) · [27](27) · [28](28) · [29](29) · [30](30) · [31](31) · [32](32) · [33](33) · [34](34) · [35](35) · [36](36) · [37](37) · [38](38) · [39](39) · [40](40) · [41](41) · [42](42) · [43](43) · [44](44) · [45](45) · [46](46) · [47](47) · [48](48) · [49](49) · [50](50) · [51](51) · [52](52) · [53](53) · [54](54) · [55](55) · [56](56) · [57](57) · [58](58) · [59](59) · [60](60) · [61](61) · [62](62) · [63](63) · [64](64) · [65](65) · [66](66)
+## 📜 Índice
+
+**66 capítulos**
+[1](#cap-1) · [2](#cap-2) · [3](#cap-3) · [4](#cap-4) · [5](#cap-5) · [6](#cap-6) · [7](#cap-7) · [8](#cap-8) · [9](#cap-9) · [10](#cap-10)
+[11](#cap-11) · [12](#cap-12) · [13](#cap-13) · [14](#cap-14) · [15](#cap-15) · [16](#cap-16) · [17](#cap-17) · [18](#cap-18) · [19](#cap-19) · [20](#cap-20)
+[21](#cap-21) · [22](#cap-22) · [23](#cap-23) · [24](#cap-24) · [25](#cap-25) · [26](#cap-26) · [27](#cap-27) · [28](#cap-28) · [29](#cap-29) · [30](#cap-30)
+[31](#cap-31) · [32](#cap-32) · [33](#cap-33) · [34](#cap-34) · [35](#cap-35) · [36](#cap-36) · [37](#cap-37) · [38](#cap-38) · [39](#cap-39) · [40](#cap-40)
+[41](#cap-41) · [42](#cap-42) · [43](#cap-43) · [44](#cap-44) · [45](#cap-45) · [46](#cap-46) · [47](#cap-47) · [48](#cap-48) · [49](#cap-49) · [50](#cap-50)
+[51](#cap-51) · [52](#cap-52) · [53](#cap-53) · [54](#cap-54) · [55](#cap-55) · [56](#cap-56) · [57](#cap-57) · [58](#cap-58) · [59](#cap-59) · [60](#cap-60)
+[61](#cap-61) · [62](#cap-62) · [63](#cap-63) · [64](#cap-64) · [65](#cap-65) · [66](#cap-66)
+
+<div align="right"><a href="#topo"><strong>▲ Voltar ao topo</strong></a></div>
 
 <!-- FIM_INDICE -->
 
-## 1
+
+## 1 {#cap-1}
 
 * **1** Visão de Isaías, filho de Amoz, que ele teve a respeito de Judá e Jerusalém, nos dias de Uzias, Jotão, Acaz e Ezequias, reis de Judá.
 * **2** Ouvi, ó céus, e inclina os ouvidos, ó terra, porque YHWH (SENHOR) falou: Criei filhos e os exaltei, mas eles se rebelaram contra mim.
@@ -39,7 +52,7 @@
 * **30** Porque sereis como um carvalho cujas folhas caem e como um jardim que não tem água.
 * **31** O forte se tornará em estopa, e a sua obra, em faísca; ambos arderão juntos, e não haverá quem os apague.
 
-## 2
+## 2 {#cap-2}
 
 * **1** A palavra que Isaías, filho de Amoz, viu a respeito de Judá e Jerusalém.
 * **2** Acontecerá nos últimos dias que o monte da casa de YHWH será estabelecido no cume dos montes e se elevará acima dos outeiros, e todas as nações afluirão para ele.
@@ -64,7 +77,7 @@
 * **21** Entrarão nas fendas das rochas e nas cavernas das penhas, por causa do terror de YHWH e da glória da sua majestade, quando ele se levantar para assombrar a terra.
 * **22** Deixai-vos do homem, cujo fôlego está nas suas narinas; pois em que é ele estimado?
 
-## 3
+## 3 {#cap-3}
 
 * **1** Porque eis que o Adonai YHWH Tzevaot retira de Jerusalém e de Judá todo o sustento, todo o apoio de pão e todo o apoio de água.
 * **2** O valente e o homem de guerra, o juiz e o profeta, o adivinho e o ancião.
@@ -93,7 +106,7 @@
 * **25** Os teus homens cairão à espada, e os teus valentes, na guerra.
 * **26** As suas portas lamentarão e estarão de luto; ela, desolada, sentar-se-á no chão.
 
-## 4
+## 4 {#cap-4}
 
 * **1** Naquele dia, sete mulheres agarrarão um só homem, dizendo: Nós comeremos do nosso pão e nos vestiremos com as nossas roupas; tão somente queremos que nos chames pelo teu nome; tira a nossa vergonha.
 * **2** Naquele dia, o Renovo de YHWH será formosura e glória, e o fruto da terra, orgulho e adorno para os que escaparem de Israel.
@@ -102,7 +115,7 @@
 * **5** YHWH criará sobre todo o lugar do monte Sião e sobre as suas assembleias uma nuvem de dia e fumaça, e o resplendor de uma chama de fogo de noite; porque sobre toda a glória haverá um dossel.
 * **6** Haverá uma cabana para sombra contra o calor do dia, e para refúgio e esconderijo contra a tempestade e a chuva.
 
-## 5
+## 5 {#cap-5}
 
 * **1** Cantarei ao meu amado o cântico do meu querido a respeito da sua vinha. O meu amado teve uma vinha em um outeiro fértil.
 * **2** Cercou-a, limpou-a das pedras, plantou-a de videiras escolhidas, edificou no meio dela uma torre e também construiu nela um lagar; esperava que desse uvas boas, mas deu uvas bravas.
@@ -135,7 +148,7 @@
 * **29** O seu rugido é como o do leão; rugem como filhotes de leão; bramam, arrebatam a presa e a levam, e não há quem a livre.
 * **30** Naquele dia, bramarão contra ele, como o bramido do mar; se alguém olhar para a terra, eis que haverá trevas e angústia, e a luz se escurecerá em suas nuvens.
 
-## 6
+## 6 {#cap-6}
 
 * **1** No ano em que morreu o rei Uzias, eu vi o Adonai assentado sobre um alto e sublime trono, e as abas do seu manto enchiam o templo.
 * **2** Serafins estavam acima dele; cada um tinha seis asas; com duas cobria o rosto, com duas cobria os pés e com duas voava.
@@ -151,7 +164,7 @@
 * **12** YHWH afastará os homens, e será grande a desolação no meio da terra.
 * **13** Mas ainda restará nela a décima parte, e ela voltará a ser consumida, como o carvalho e como a azinheira, que, depois de derrubados, ainda conservam o seu tronco; a semente santa será o seu tronco.
 
-## 7
+## 7 {#cap-7}
 
 * **1** Sucedeu, nos dias de Acaz, filho de Jotão, filho de Uzias, rei de Judá, que Rezim, rei da Síria, e Peca, filho de Remalias, rei de Israel, subiram a Jerusalém para guerrear contra ela, mas não puderam prevalecer.
 * **2** Foi dito à casa de Davi: A Síria está aliada com Efraim. Então o coração de Acaz e o coração do seu povo se moveram, como se movem as árvores do bosque com o vento.
@@ -179,7 +192,7 @@
 * **24** Com flechas e arcos se entrará ali, pois toda a terra será coberta de espinheiros e cardos.
 * **25** E quanto a todos os montes que eram cultivados com enxada, não se irá lá por medo dos espinheiros e cardos; serão pasto de bois e pisoteados por ovelhas.
 
-## 8
+## 8 {#cap-8}
 
 * **1** E disse YHWH (SENHOR) para mim: Toma uma tábua grande e escreve nela com estilete comum: "Rápido é o despojo, veloz é a presa".
 * **2** E tomei para mim testemunhas fiéis: Urias, o sacerdote, e Zacarias, filho de Jeberequias.
@@ -204,7 +217,7 @@
 * **21** Passarão pela terra angustiados e famintos; e, quando tiverem fome, irritar-se-ão, amaldiçoarão o seu rei e o seu Elohim (Deus), e olharão para o alto.
 * **22** Olharão para a terra e verão apenas tribulação, escuridão, angústia e trevas, e serão lançados nas trevas.
 
-## 9
+## 9 {#cap-9}
 
 * **1** Mas para a terra que estava aflita não haverá escuridão; como no passado, Ele humilhou a terra de Zebulom e a terra de Naftali, mas no futuro honrará o caminho do mar, além do Jordão, a Galileia das nações.
 * **2** O povo que caminhava nas trevas viu uma grande luz; sobre os que habitavam na terra da sombra da morte, resplandeceu a luz.
@@ -228,7 +241,7 @@
 * **20** Devoram à direita, mas continuam com fome; comem à esquerda, mas não se fartam; cada um come a carne do seu próprio braço.
 * **21** Manassés devora Efraim, e Efraim devora Manassés; juntos, eles estão contra Judá. Com tudo isto, a sua ira não se desviou, e a sua mão continua estendida.
 
-## 10
+## 10 {#cap-10}
 
 * **1** Ai dos que decretam leis injustas e dos que escrevem decretos de opressão,
 * **2** Para desviarem os pobres do seu direito e para roubarem a justiça dos aflitos do meu povo, para fazerem das viúvas a sua presa e despojarem os órfãos!
@@ -265,7 +278,7 @@
 * **33** Eis que o Adonai (Senhor) YHWH dos Exércitos cortará os ramos com violência; os de alta estatura serão derrubados, e os altivos serão humilhados.
 * **34** Derrubará as espessuras da floresta com ferro, e o Líbano cairá pelo Poderoso.
 
-## 11
+## 11 {#cap-11}
 
 * **1** Brotará um rebento do tronco de Jessé, e um renovo das suas raízes frutificará.
 * **2** Repousará sobre ele o ruach (Espírito) de YHWH, espírito de sabedoria e de entendimento, espírito de conselho e de fortaleza, espírito de conhecimento e de temor de YHWH.
@@ -284,7 +297,7 @@
 * **15** YHWH destruirá totalmente a língua do mar do Egito e, com o seu vento impetuoso, levantará a mão contra o rio, dividindo-o em sete canais, para que se possa passar de sandálias.
 * **16** Haverá uma estrada para o resto do seu povo que for deixado da Assíria, como houve para Israel no dia em que subiu da terra do Egito.
 
-## 12
+## 12 {#cap-12}
 
 * **1** Dirás, naquele dia: Graças Te dou, YHWH, porque estavas irado comigo, mas a tua ira se desviou e Tu me consolaste.
 * **2** Eis que Elohim (Deus) é a minha salvação; confiarei e não temerei, porque YHWH é a minha força e o meu cântico, e Ele se tornou a minha salvação.
@@ -293,7 +306,7 @@
 * **5** Cantai a YHWH, porque Ele fez coisas grandiosas; saiba-se isto em toda a terra.
 * **6** Exulta e canta de alegria, ó habitante de Sião, porque grande é o Santo de Israel no meio de ti.
 
-## 13
+## 13 {#cap-13}
 
 * **1** Sentença contra a Babilônia, que viu Isaías, filho de Amoz.
 * **2** Sobre o monte deserto levantai o estandarte, levantai a voz para eles, acenai com a mão, para que entrem pelas portas dos nobres.
@@ -318,7 +331,7 @@
 * **21** Mas as feras do deserto ali repousarão, as suas casas se encherão de animais cruéis; ali habitarão as avestruzes, e os sátiros ali saltarão.
 * **22** As hienas uivarão nos seus castelos, e os chacais nos seus palácios de prazer; o seu tempo está perto de chegar, e os seus dias não serão prolongados.
 
-## 14
+## 14 {#cap-14}
 
 * **1** Porque YHWH se compadecerá de Jacó, escolherá ainda a Israel e os estabelecerá na sua própria terra; o estrangeiro se ajuntará a eles e se unirá à casa de Jacó.
 * **2** Os povos os tomarão e os levarão ao seu lugar; a casa de Israel os possuirá por servos e servas na terra de YHWH; cativarão aqueles que os cativaram e dominarão sobre os seus opressores.
@@ -353,7 +366,7 @@
 * **31** Uiva, ó porta; clama, ó cidade; derrete-te, ó Filisteia, toda tu; pois do norte vem fumaça, e não há ninguém que fique sozinho em suas assembleias.
 * **32** E que se responderá aos mensageiros das nações? Que YHWH (SENHOR) fundou Sião, e nela se refugiam os aflitos do seu povo.
 
-## 15
+## 15 {#cap-15}
 
 * **1** Sentença sobre Moabe: porque numa noite Ar de Moabe foi destruída e silenciada; porque numa noite Quir de Moabe foi destruída e silenciada.
 * **2** Sobe à casa e a Dibom, aos lugares altos, para chorar; sobre Nebo e sobre Medeba, Moabe uiva; em todas as suas cabeças há calvície, toda barba foi cortada.
@@ -365,7 +378,7 @@
 * **8** Pois o clamor rodeou os limites de Moabe; o seu uivo chegou até Eglaim, e o seu lamento até Beer-Elim.
 * **9** Porque as águas de Dimom encheram-se de sangue; pois porei sobre Dimom ainda mais, leões para os que escaparem de Moabe e para o remanescente da terra.
 
-## 16
+## 16 {#cap-16}
 
 * **1** Enviai cordeiros ao governante da terra, desde Sela, pelo deserto, ao monte da filha de Sião.
 * **2** E será como ave errante, expulsa do ninho, assim serão as filhas de Moabe nos vaus do Arnom.
@@ -382,7 +395,7 @@
 * **13** Esta é a palavra que YHWH (SENHOR) falou contra Moabe desde então.
 * **14** E agora fala YHWH (SENHOR), dizendo: Dentro de três anos, como os anos de um jornaleiro, a glória de Moabe será desprezada, com toda a sua grande multidão; e o resto será pouco, pequeno e fraco.
 
-## 17
+## 17 {#cap-17}
 
 * **1** Sentença sobre Damasco: Eis que Damasco deixará de ser cidade, e será um montão de ruínas.
 * **2** As cidades de Aroer estão abandonadas; serão para os rebanhos, que ali se deitarão, e ninguém os espantará.
@@ -399,7 +412,7 @@
 * **13** As nações rugirão como o rugido de muitas águas; mas Ele as repreenderá, e fugirão para longe; serão perseguidas como a pragana dos montes diante do vento, e como a poeira diante da tempestade.
 * **14** Ao tempo da tarde, eis o terror; antes da manhã, já não existem. Esta é a sorte dos que nos despojam, e o destino dos que nos saqueiam.
 
-## 18
+## 18 {#cap-18}
 
 * **1** Ai da terra que faz soar as asas, que está além dos rios da Etiópia;
 * **2** Que envia embaixadores pelo mar, em barcos de junco sobre a face das águas, dizendo: Ide, mensageiros velozes, a uma nação alta e polida, a um povo terrível desde o seu início, uma nação de regras e de opressão, cuja terra os rios dividem.
@@ -409,7 +422,7 @@
 * **6** Serão deixados juntos para as aves de rapina dos montes e para os animais da terra; e as aves de rapina passarão o verão sobre eles, e todos os animais da terra passarão o inverno sobre eles.
 * **7** Naquele tempo será trazido um presente a YHWH (SENHOR) dos Exércitos, de um povo alto e polido, e de um povo terrível desde o seu início, uma nação de regras e de opressão, cuja terra os rios dividem, ao lugar do nome de YHWH (SENHOR) dos Exércitos, o monte Sião.
 
-## 19
+## 19 {#cap-19}
 
 * **1** Sentença sobre o Egito: Eis que YHWH (SENHOR) cavalga sobre uma nuvem ligeira, e virá ao Egito; e os ídolos do Egito tremerão diante dEle, e o coração do Egito se derreterá no seu interior.
 * **2** E incitarei egípcios contra egípcios, e cada um lutará contra o seu irmão, e cada um contra o seu próximo; cidade contra cidade, reino contra reino.
@@ -437,7 +450,7 @@
 * **24** Naquele dia Israel será o terceiro com o Egito e com a Assíria, uma bênção no meio da terra.
 * **25** A qual YHWH (SENHOR) dos Exércitos abençoará, dizendo: Bendito seja o Egito, meu povo, e a Assíria, obra das minhas mãos, e Israel, minha herança.
 
-## 20
+## 20 {#cap-20}
 
 * **1** No ano em que Tartã veio a Asdode, quando o enviou Sargão, rei da Assíria, e lutou contra Asdode e a tomou;
 * **2** Naquele tempo falou YHWH (SENHOR) pelo ministério de Isaías, filho de Amoz, dizendo: Vai, e solta o pano de saco de teus lombos, e tira as sandálias dos teus pés. E ele assim fez, andando nu e descalço.
@@ -446,7 +459,7 @@
 * **5** E assombrar-se-ão e envergonhar-se-ão por causa da Etiópia, sua esperança, e do Egito, sua glória.
 * **6** E o morador desta ilha dirá naquele dia: Eis que tal é a nossa esperança, para onde fugimos em busca de socorro, para nos livrarmos do rei da Assíria; e como escaparemos nós?
 
-## 21
+## 21 {#cap-21}
 
 * **1** Sentença sobre o deserto do mar: Como as tempestades no sul, que passam, vem do deserto, de uma terra terrível.
 * **2** Uma visão dura me foi manifestada: o traidor trai, e o destruidor destrói. Sobe, ó Elão; cerca, ó Média; fiz cessar todo o seu gemido.
@@ -466,7 +479,7 @@
 * **16** Porque assim me disse o Adon (Senhor): Dentro de um ano, como os anos de um jornaleiro, toda a glória de Quedar se esgotará.
 * **17** E o resto do número dos arqueiros, os valentes dos filhos de Quedar, será diminuído; porque YHWH (SENHOR) Elohim (Deus) de Israel o disse.
 
-## 22
+## 22 {#cap-22}
 
 * **1** Sentença sobre o vale da visão: Que tens agora, que todos subistes aos telhados?
 * **2** Cidade cheia de alarido, cidade tumultuosa, cidade alegre; os teus mortos não foram mortos à espada, nem morreram na guerra.
@@ -494,7 +507,7 @@
 * **24** E nele pendurarão toda a glória da casa de seu pai, os descendentes e os ramos, todos os vasos pequenos, desde as taças até todos os vasos de instrumentos musicais.
 * **25** Naquele dia, diz YHWH (SENHOR) dos Exércitos, o prego que foi fixado em lugar firme será removido, e será cortado e cairá, e a carga que nele estava será destruída; porque YHWH (SENHOR) o disse.
 
-## 23
+## 23 {#cap-23}
 
 * **1** Sentença sobre Tiro: Uivai, navios de Társis, porque foi destruída, de modo que não há casa, nem entrada; desde a terra de Quitim lhes foi revelado.
 * **2** Calai-vos, moradores da ilha, mercadores de Sidom, que atravessam o mar, te encheram.
@@ -515,7 +528,7 @@
 * **17** E acontecerá, ao fim de setenta anos, que YHWH (SENHOR) visitará a Tiro, e ela voltará ao seu salário, e prostituir-se-á com todos os reinos da terra sobre a face do mundo.
 * **18** Mas o seu comércio e o seu salário serão consagrados a YHWH (SENHOR); não serão entesourados nem guardados; porque o seu comércio será para os que habitam perante YHWH (SENHOR), para comerem até se fartarem, e para vestuário duradouro.
 
-## 24
+## 24 {#cap-24}
 
 * **1** Eis que YHWH (SENHOR) esvazia a terra, e a desola, e transtorna a sua face, e dispersa os seus moradores.
 * **2** E será como o povo, assim o sacerdote; como o servo, assim o seu senhor; como a serva, assim a sua senhora; como o comprador, assim o vendedor; como o que empresta, assim o que toma emprestado; como o que cobra juros, assim o que os paga.
@@ -541,7 +554,7 @@
 * **22** E serão ajuntados como prisioneiros em uma masmorra, e serão encerrados no cárcere; e depois de muitos dias serão visitados.
 * **23** A lua se envergonhará e o sol se confundirá, porque YHWH Tzevaot (dos Exércitos) reinará no monte Sião e em Jerusalém, e diante dos seus anciãos haverá glória.
 
-## 25
+## 25 {#cap-25}
 
 * **1** YHWH Elohai (meu Deus), tu és; exaltar-te-ei, louvarei o teu nome, porque fizeste maravilhas; os teus conselhos antigos são fidelidade e verdade.
 * **2** Pois transformaste a cidade em um montão de pedras, a cidade fortificada em ruínas; o palácio dos estranhos deixou de ser cidade e nunca mais será edificado.
@@ -556,7 +569,7 @@
 * **11** E ele estenderá as suas mãos no meio dele, como o nadador estende as mãos para nadar, e ele abaterá a sua soberba com a destreza das suas mãos.
 * **12** E a fortaleza das tuas altas muralhas ele derrubará, humilhará e lançará por terra, até ao pó.
 
-## 26
+## 26 {#cap-26}
 
 * **1** Naquele dia, cantar-se-á este cântico na terra de Judá: "Uma cidade forte temos; YHWH nos põe a salvação por muros e antemuros".
 * **2** Abri as portas, para que entre a nação justa, que observa a fidelidade.
@@ -580,7 +593,7 @@
 * **20** Vai, pois, povo meu, entra nos teus quartos e fecha as tuas portas sobre ti; esconde-te por um pequeno momento, até que a indignação passe.
 * **21** Pois eis que YHWH sai do seu lugar para castigar a iniquidade dos habitantes da terra; a terra descobrirá o seu sangue e não encobrirá mais os seus mortos.
 
-## 27
+## 27 {#cap-27}
 
 * **1** Naquele dia, YHWH castigará com a sua espada dura, grande e forte, o leviatã, a serpente veloz, e o leviatã, a serpente tortuosa; e matará o dragão que está no mar.
 * **2** Naquele dia, cantai sobre a vinha de vinho tinto.
@@ -596,7 +609,7 @@
 * **12** E acontecerá naquele dia que YHWH debulhará o seu trigo desde as correntes do rio até ao ribeiro do Egito; e vós, ó filhos de Israel, sereis colhidos um a um.
 * **13** E acontecerá naquele dia que se tocará uma grande trombeta, e os que estavam perdidos na terra da Assíria e os que estavam desterrados na terra do Egito virão e adorarão a YHWH no monte santo, em Jerusalém.
 
-## 28
+## 28 {#cap-28}
 
 * **1** Ai da coroa de orgulho dos bêbados de Efraim, e da flor que cai, a glória do seu ornamento, que está sobre a cabeça do vale fértil dos vencidos pelo vinho!
 * **2** Eis que Adonai tem um forte e poderoso; como tempestade de saraiva, tormenta destruidora, como tempestade de águas impetuosas que transbordam, ele a derrubará por terra com a mão.
@@ -628,7 +641,7 @@
 * **28** O trigo é esmagado; mas não se trilha para sempre, nem se esmaga com a roda do carro, nem se tritura com os seus cavalos.
 * **29** Também isto procede de YHWH Tzevaot, que é maravilhoso em conselho e grande em sabedoria.
 
-## 29
+## 29 {#cap-29}
 
 * **1** Ai de Ariel, Ariel, a cidade onde Davi acampou! Acrescentai ano a ano; que as festas completem o seu ciclo.
 * **2** Contudo, porei Ariel em aperto, e haverá lamentação e pranto; e ela será para mim como Ariel.
@@ -655,7 +668,7 @@
 * **23** Mas, quando ele vir os seus filhos, a obra das minhas mãos, no meio dele, santificarão o meu nome; sim, santificarão o Santo de Jacó e temerão o Elohim de Israel.
 * **24** E os que erram de espírito virão a ter entendimento, e os murmuradores aprenderão a doutrina.
 
-## 30
+## 30 {#cap-30}
 
 * **1** Ai dos filhos rebeldes, diz YHWH, que tomam conselho, mas não de mim; e que se cobrem com uma cobertura, mas não do meu espírito, para acrescentarem pecado sobre pecado.
 * **2** Que descem ao Egito sem me consultar, para se fortalecerem com a força de Faraó e para se abrigarem na sombra do Egito.
@@ -691,7 +704,7 @@
 * **32** E cada golpe do bordão de castigo, que YHWH lançará sobre ela, será com tamboris e harpas; e com batalhas de agitação ele pelejará contra eles.
 * **33** Porque Tofete está preparado desde ontem; sim, está preparado para o rei; ele o fez profundo e largo; a sua fogueira é fogo e muita lenha; o sopro de YHWH, como torrente de enxofre, o acende.
 
-## 31
+## 31 {#cap-31}
 
 * **1** Ai dos que descem ao Egito para pedir ajuda, e se estribam em cavalos, e confiam em carros, porque são muitos, e nos cavaleiros, porque são fortíssimos; mas não atentam para o Santo de Israel, e não buscam a YHWH!
 * **2** Todavia, ele também é sábio, e trará o mal, e não retirará as suas palavras; mas levantar-se-á contra a casa dos malfeitores e contra a ajuda dos que praticam a iniquidade.
@@ -703,7 +716,7 @@
 * **8** A Assíria cairá pela espada, não de um homem; a espada, não de um mortal, a consumirá; ele fugirá da espada, e os seus jovens serão submetidos a trabalhos forçados.
 * **9** A sua rocha passará por causa do pavor, e os seus príncipes ficarão apavorados diante da bandeira, diz YHWH (SENHOR), que tem o seu fogo em Sião e a sua fornalha em Jerusalém.
 
-## 32
+## 32 {#cap-32}
 
 * **1** Eis que um rei reinará com justiça, e os príncipes governarão com retidão.
 * **2** Cada um será como um refúgio contra o vento e um esconderijo contra a tempestade, como correntes de águas em terra seca, como a sombra de uma grande rocha em terra sedenta.
@@ -726,7 +739,7 @@
 * **19** Mas haverá saraiva quando o bosque for derrubado, e a cidade será totalmente humilhada.
 * **20** Bem-aventurados vós, os que semeais junto a todas as águas, que deixais livres os pés do boi e do jumento.
 
-## 33
+## 33 {#cap-33}
 
 * **1** Ai de ti, destruidor que não foste destruído, e traidor a quem não traíram! Quando acabares de destruir, serás destruído; quando terminares de trair, trair-te-ão.
 * **2** YHWH (SENHOR), tem misericórdia de nós; em ti temos esperado; sê tu o nosso braço cada manhã, a nossa salvação no tempo da angústia.
@@ -753,7 +766,7 @@
 * **23** As tuas cordas se afrouxaram; não puderam firmar o mastro, nem estender a vela; então se repartiu a presa de abundantes despojos; até os coxos tomaram a presa.
 * **24** E o morador não dirá: Estou enfermo; o povo que nela habita terá perdoada a sua iniquidade.
 
-## 34
+## 34 {#cap-34}
 
 * **1** Chegai-vos, nações, para ouvir; e vós, povos, escutai; ouça a terra e a sua plenitude, o mundo e tudo o que dele procede.
 * **2** Porque a indignação de YHWH (SENHOR) está sobre todas as nações, e o seu furor sobre todo o exército delas; ele as destruiu totalmente, entregou-as à matança.
@@ -773,7 +786,7 @@
 * **16** Buscai no livro de YHWH (SENHOR) e lede: Nenhuma destas coisas faltará, nem uma nem outra carecerá do seu companheiro; porque a minha boca o ordenou, e o seu ruach (Espírito) as ajuntará.
 * **17** Ele mesmo lançou sortes para elas, e a sua mão lhas repartiu com o cordel; para sempre as possuirão, de geração em geração habitarão nelas.
 
-## 35
+## 35 {#cap-35}
 
 * **1** O deserto e a terra seca se alegrarão; o ermo exultará e florescerá como a rosa.
 * **2** Florescerá abundantemente e exultará com alegria e júbilo; a glória do Líbano lhe será dada, a excelência do Carmelo e do Sarom; eles verão a glória de YHWH (SENHOR), a excelência do nosso Elohim (Deus).
@@ -786,7 +799,7 @@
 * **9** Ali não haverá leão, nem animal feroz subirá a ele, nem se achará nele; mas os remidos andarão por ele.
 * **10** E os resgatados de YHWH (SENHOR) voltarão e virão a Sião com júbilo; alegria eterna haverá sobre as suas cabeças; gozo e alegria alcançarão, e a tristeza e o gemido fugirão.
 
-## 36
+## 36 {#cap-36}
 
 * **1** No décimo quarto ano do rei Ezequias, Senaqueribe, rei da Assíria, subiu contra todas as cidades fortificadas de Judá e as tomou.
 * **2** O rei da Assíria enviou o Rabsaqué de Laquis a Jerusalém, ao rei Ezequias, com um grande exército; e ele parou junto ao aqueduto da piscina superior, no caminho do campo do lavandeiro.
@@ -811,7 +824,7 @@
 * **21** Eles, porém, calaram-se e não lhe responderam palavra; porque o mandamento do rei era: Não lhe respondais.
 * **22** Então Eliaquim, filho de Hilquias, o mordomo, e Sebna, o escrivão, e Joá, filho de Asafe, o cronista, vieram a Ezequias com as vestes rasgadas e referiram-lhe as palavras do Rabsaqué.
 
-## 37
+## 37 {#cap-37}
 
 * **1** Sucedeu que, ouvindo-o o rei Ezequias, rasgou as suas vestes, cobriu-se de pano de saco e entrou na casa de YHWH (SENHOR).
 * **2** Enviou Eliaquim, o mordomo, e Sebna, o escrivão, e os anciãos dos sacerdotes, cobertos de panos de saco, ao profeta Isaías, filho de Amoz.
@@ -852,7 +865,7 @@
 * **37** Senaqueribe, rei da Assíria, partiu, foi-se e voltou, e habitou em Nínive.
 * **38** Sucedeu que, estando ele a adorar na casa de Nisroque, seu deus, Adrameleque e Sarezer, seus filhos, o feriram à espada; e eles escaparam para a terra de Ararate; e Esar-Hadom, seu filho, reinou em seu lugar.
 
-## 38
+## 38 {#cap-38}
 
 * **1** Naqueles dias, Ezequias adoeceu de uma enfermidade mortal; e veio a ele Isaías, filho de Amoz, o profeta, e lhe disse: Assim diz YHWH (SENHOR): Põe em ordem a tua casa, porque morrerás e não viverás.
 * **2** Então Ezequias virou o rosto para a parede e orou a YHWH (SENHOR).
@@ -877,7 +890,7 @@
 * **21** E disse Isaías: Tomem uma pasta de figos e a apliquem sobre a úlcera, e ele viverá.
 * **22** E disse Ezequias: Qual é o sinal de que subirei à casa de YHWH?
 
-## 39
+## 39 {#cap-39}
 
 * **1** Naquele tempo, enviou Merodaque-Baladã, filho de Baladã, rei da Babilônia, cartas e um presente a Ezequias, pois ouviu que ele estivera doente e que havia recuperado as forças.
 * **2** E Ezequias se alegrou com eles e lhes mostrou a casa de seu tesouro, a prata, o ouro, as especiarias, o óleo precioso, todo o seu arsenal e tudo o que se achava nos seus tesouros; não houve coisa alguma em sua casa nem em todo o seu domínio que Ezequias não lhes mostrasse.
@@ -888,7 +901,7 @@
 * **7** E dos teus filhos, que de ti procederem, que tu gerares, tomarão, e serão eunucos no palácio do rei da Babilônia.
 * **8** E disse Ezequias a Isaías: Boa é a palavra de YHWH que disseste. E disse ainda: Pois haverá paz e verdade nos meus dias.
 
-## 40
+## 40 {#cap-40}
 
 * **1** Consolai, consolai o meu povo, diz o vosso Elohim (Deus).
 * **2** Falai ao coração de Jerusalém e proclamai-lhe que a sua guerra terminou, que a sua iniquidade está perdoada, pois já recebeu da mão de YHWH o dobro por todos os seus pecados.
@@ -922,7 +935,7 @@
 * **30** Os jovens se cansarão e se fatigarão, e os moços certamente cairão.
 * **31** Mas os que esperam em YHWH renovarão as forças, subirão com asas como águias; correrão e não se cansarão; caminharão e não se fatigarão.
 
-## 41
+## 41 {#cap-41}
 
 * **1** Calai-vos diante de mim, ó ilhas, e os povos renovem as forças; cheguem-se e então falem; cheguemo-nos juntos a juízo.
 * **2** Quem despertou do oriente o justo, a quem chama para o seu serviço? Quem entregou as nações diante dele e o fez dominar sobre reis? Ele os entregou à sua espada como o pó e ao seu arco como a palha impelida pelo vento.
@@ -954,7 +967,7 @@
 * **28** Quando olhei, não havia ninguém; nem entre eles havia conselheiro a quem eu perguntasse e que me respondesse.
 * **29** Eis que todos são vaidade; as suas obras não são nada; as suas imagens de fundição são vento e confusão.
 
-## 42
+## 42 {#cap-42}
 
 * **1** Eis aqui o meu servo, a quem sustenho, o meu eleito, em quem a minha alma se compraz; pus o meu Espírito sobre ele; ele trará justiça às nações.
 * **2** Não clamará, não se exaltará, nem fará ouvir a sua voz na praça.
@@ -982,7 +995,7 @@
 * **24** Quem entregou Jacó a saque e Israel aos roubadores? Porventura não foi YHWH, aquele contra quem pecamos, e em cujos caminhos não queriam andar, e cuja lei não queriam ouvir?
 * **25** Pelo que derramou sobre ele a indignação da sua ira e a força da guerra; isso lhe ateou fogo ao redor, mas ele não o percebeu; e o queimou, mas ele não o pôs no coração.
 
-## 43
+## 43 {#cap-43}
 
 * **1** Mas agora, assim diz YHWH, que te criou, ó Jacó, e que te formou, ó Israel: Não temas, porque eu te remi; chamei-te pelo teu nome, tu és meu.
 * **2** Quando passares pelas águas estarei contigo, e quando pelos rios, eles não te submergirão; quando passares pelo fogo, não te queimarás, nem a chama arderá em ti.
@@ -1013,7 +1026,7 @@
 * **27** Teu primeiro pai pecou, e os teus intérpretes prevaricaram contra mim.
 * **28** Pelo que profanei os príncipes do santuário e entreguei Jacó ao anátema e Israel ao opróbrio.
 
-## 44
+## 44 {#cap-44}
 
 * **1** Mas agora ouve, ó Jacó, servo meu, e tu, Israel, a quem escolhi.
 * **2** Assim diz YHWH, que te criou e te formou desde o ventre e que te ajudará: Não temas, ó Jacó, servo meu, e tu, Jesurum, a quem escolhi.
@@ -1044,7 +1057,7 @@
 * **27** Que digo à profundeza: Seca-te, e eu secarei os teus rios.
 * **28** Que digo de Ciro: Ele é meu pastor, e cumprirá tudo o que me apraz; e digo a Jerusalém: Serás edificada; e ao templo: Serás fundado.
 
-## 45
+## 45 {#cap-45}
 
 * **1** Assim diz YHWH ao seu ungido, a Ciro, a quem tomo pela mão direita, para abater as nações diante de sua face, e descingir os lombos dos reis, para abrir diante dele as portas, e as portas não se fecharão.
 * **2** Eu irei adiante de ti, e endireitarei os caminhos tortuosos; quebrarei as portas de bronze, e despedaçarei os ferrolhos de ferro.
@@ -1072,7 +1085,7 @@
 * **24** Somente em YHWH, dirá alguém, há justiça e força; até ele virão, e serão envergonhados todos os que se irritarem contra ele.
 * **25** Em YHWH será justificada toda a descendência de Israel, e se gloriará.
 
-## 46
+## 46 {#cap-46}
 
 * **1** Bel se encurva, Nebo se abaixa; os seus ídolos são postos sobre animais e sobre feras; as cargas que leváveis são canseira para o animal já cansado.
 * **2** Eles se abaixam, encurvam-se juntamente; não podem salvar a carga, mas a sua própria alma vai em cativeiro.
@@ -1088,7 +1101,7 @@
 * **12** Ouvi-me, ó duros de coração, os que estais longe da justiça.
 * **13** Faço chegar a minha justiça, e não estará longe, e a minha salvação não tardará; mas estabelecerei a salvação em Sião, para Israel, a minha glória.
 
-## 47
+## 47 {#cap-47}
 
 * **1** Desce, e assenta-te no pó, ó virgem filha de Babilônia; assenta-te na terra, sem trono, ó filha dos caldeus; porque nunca mais serás chamada a delicada e a mimosa.
 * **2** Toma o moinho, e mói a farinha; descobre o teu véu, descalça os pés, descobre as pernas, passa os rios.
@@ -1106,7 +1119,7 @@
 * **14** Eis que serão como restolho, o fogo os queimará; não poderão salvar a sua vida do poder da chama; não haverá brasas para se aquecerem, nem luz para se assentarem diante dela.
 * **15** Assim serão para contigo aqueles com quem te cansaste, os teus mercadores desde a tua mocidade; cada um se desviará para o seu lado, ninguém te salvará.
 
-## 48
+## 48 {#cap-48}
 
 * **1** Ouvi isto, ó casa de Jacó, que vos chamais pelo nome de Israel, e saístes das águas de Judá, os que jurais pelo nome de YHWH, e fazeis menção do Elohim de Israel, mas não em verdade nem em justiça.
 * **2** Pois da cidade santa se chamam, e sobre o Elohim de Israel se firmam; YHWH dos Exércitos é o seu nome.
@@ -1131,7 +1144,7 @@
 * **21** E não tiveram sede, quando os levava pelos desertos; fez-lhes correr água da rocha; fendeu a rocha, e as águas manaram.
 * **22** Não há paz, diz YHWH, para os ímpios.
 
-## 49
+## 49 {#cap-49}
 
 * **1** Ouvi-me, ilhas, e escutai vós, povos de longe: YHWH me chamou desde o ventre, desde as entranhas de minha mãe fez menção do meu nome.
 * **2** E fez a minha boca como uma espada aguda, na sombra da sua mão me escondeu; e me fez como uma flecha polida, e me escondeu na sua aljava.
@@ -1160,7 +1173,7 @@
 * **25** Mas assim diz YHWH: Certamente os presos se tirarão ao valente, e a presa do tirano será libertada; porque eu contenderei com os que contendem contigo, e os teus filhos eu salvarei.
 * **26** E sustentarei os teus opressores com a sua própria carne, e com o seu próprio sangue se embriagarão, como com vinho novo; e toda a carne saberá que eu sou YHWH, o teu Salvador, e o teu Redentor, o Poderoso de Jacó.
 
-## 50
+## 50 {#cap-50}
 
 * **1** Assim diz YHWH: Onde está a carta de divórcio de vossa mãe, a qual eu despedi? Ou quem é o meu credor, a quem eu vos tenha vendido? Eis que por vossas maldades fostes vendidos, e por vossas transgressões vossa mãe foi despedida.
 * **2** Por que razão vim eu, e ninguém apareceu? Chamei, e ninguém respondeu? É, porventura, a minha mão tão curta que não possa remir? Ou não tenho eu força para livrar? Eis que com a minha repreensão faço secar o mar, e torno os rios em deserto, até que cheirem mal os seus peixes, por falta de água, e morram de sede.
@@ -1174,7 +1187,7 @@
 * **10** Quem há entre vós que tema a YHWH, e ouça a voz do seu servo? Aquele que andou em trevas, e não tem luz, confie no nome de YHWH, e firme-se sobre o seu Elohim.
 * **11** Eis que todos vós, que acendeis fogo, e vos cingis com faíscas, andai no meio do fogo do vosso fogo, e das faíscas que acendestes; isto vos virá da minha mão, e em tormento jazereis.
 
-## 51
+## 51 {#cap-51}
 
 * **1** Ouvi-me, vós os que seguis a justiça, os que buscais a YHWH; olhai para a rocha de onde fostes cortados, e para a caverna do poço de onde fostes cavados.
 * **2** Olhai para Abraão, vosso pai, e para Sara, que vos deu à luz; porque eu o chamei, sendo ele um só, e o abençoei, e o multipliquei.
@@ -1200,7 +1213,7 @@
 * **22** Assim diz o teu Adonai, YHWH, e o teu Elohim, que pleiteará a causa do seu povo: Eis que eu tiro da tua mão o cálice do atordoamento, a taça do meu furor; nunca mais dele beberás.
 * **23** Mas pô-lo-ei nas mãos dos que te atormentaram, que disseram à tua alma: Abaixa-te, para que passemos sobre ti; e tu puseste as tuas costas como chão, e como rua para os que passavam.
 
-## 52
+## 52 {#cap-52}
 
 * **1** Desperta, desperta, veste-te da tua fortaleza, ó Sião; veste-te das tuas roupas formosas, ó Jerusalém, cidade santa; porque nunca mais entrará em ti incircunciso nem imundo.
 * **2** Sacode-te do pó, levanta-te, e assenta-te, ó Jerusalém; solta-te das ataduras de teu pescoço, ó cativa filha de Sião.
@@ -1218,7 +1231,7 @@
 * **14** Como muitos se espantaram com ele, pois a sua aparência estava tão desfigurada, mais do que a de qualquer homem, e a sua forma, mais do que a dos filhos dos homens.
 * **15** Assim ele aspergirá muitas nações; os reis fecharão as suas bocas por causa dele, porque verão aquilo que não lhes foi anunciado, e entenderão aquilo que não tinham ouvido.
 
-## 53
+## 53 {#cap-53}
 
 * **1** Quem creu na nossa pregação? E a quem se revelou o braço de YHWH?
 * **2** Porque foi subindo como renovo perante ele, e como raiz de uma terra seca; não tinha aparência nem formosura; e, olhando nós para ele, não havia nele beleza, para que o desejássemos.
@@ -1233,7 +1246,7 @@
 * **11** Do trabalho da sua alma ele verá o fruto e ficará satisfeito; pelo seu conhecimento, o meu servo justo justificará a muitos, e as iniquidades deles ele levará sobre si.
 * **12** Por isso, eu lhe darei uma parte com os grandes, e com os poderosos repartirá ele o despojo; porquanto derramou a sua alma na morte, foi contado com os transgressores, mas ele levou o pecado de muitos e pelos transgressores intercedeu.
 
-## 54
+## 54 {#cap-54}
 
 * **1** Canta alegremente, ó estéril, que não tiveste filhos; rompe em cântico e exclama, tu que não estiveste de parto; porque mais são os filhos da solitária do que os filhos da casada, diz YHWH.
 * **2** Alarga o lugar da tua tenda, e as cortinas das tuas habitações se estendam; não o impeças; alonga as tuas cordas e firma bem as tuas estacas.
@@ -1253,7 +1266,7 @@
 * **16** Eis que eu criei o ferreiro que sopra as brasas no fogo e que produz a ferramenta para a sua obra; também criei o assolador para destruir.
 * **17** Toda ferramenta preparada contra ti não prosperará; e toda língua que se levantar contra ti em juízo, tu a condenarás; esta é a herança dos servos de YHWH, e a sua justiça que de mim procede, diz YHWH.
 
-## 55
+## 55 {#cap-55}
 
 * **1** Ah! Todos vós, os que tendes sede, vinde às águas; e vós, os que não tendes dinheiro, vinde, comprai e comei; sim, vinde e comprai, sem dinheiro e sem preço, vinho e leite.
 * **2** Por que gastais o dinheiro naquilo que não é pão? E o fruto do vosso trabalho naquilo que não satisfaz? Ouvi-me atentamente, comei o que é bom e a vossa alma se deleitará na gordura.
@@ -1269,7 +1282,7 @@
 * **12** Porque com alegria saireis e em paz sereis guiados; os montes e os outeiros romperão em cântico diante de vós, e todas as árvores do campo baterão palmas.
 * **13** Em lugar do espinheiro crescerá a faia, e em lugar da sarça crescerá a murta; e isso será para YHWH por nome, por sinal eterno que nunca se apagará.
 
-## 56
+## 56 {#cap-56}
 
 * **1** Assim diz YHWH: Mantende o juízo e fazei justiça, porque a minha salvação está prestes a vir e a minha justiça a manifestar-se.
 * **2** Bem-aventurado o homem que fizer isto, e o filho do homem que nisto se firmar; que guarda o sábado, para não o profanar, e guarda a sua mão, para não fazer algum mal.
@@ -1284,7 +1297,7 @@
 * **11** E estes cães são gulosos, não se podem fartar; e eles são pastores que nada compreendem; todos eles se tornam para o seu caminho, cada um para a sua ganância, cada um por sua parte.
 * **12** Vinde, trarei vinho, e nos embebedaremos de bebida forte; e o dia de amanhã será como este, e ainda mais grandioso.
 
-## 57
+## 57 {#cap-57}
 
 * **1** O justo perece, e não há quem considere isso em seu coração, e os homens piedosos são recolhidos, sem que alguém compreenda que o justo é recolhido por causa do mal.
 * **2** Entrará na paz; descansarão nos seus leitos, os que andam na retidão.
@@ -1308,7 +1321,7 @@
 * **20** Mas os ímpios são como o mar bravo, que não se pode aquietar, e cujas águas lançam de si lama e lodo.
 * **21** Não há paz, diz o meu Elohim, para os ímpios.
 
-## 58
+## 58 {#cap-58}
 
 * **1** Clama em alta voz, não te detenhas, levanta a tua voz como a trombeta e anuncia ao meu povo a sua transgressão e à casa de Jacó os seus pecados.
 * **2** Todavia me procuram cada dia, tomam prazer em saber os meus caminhos; como um povo que pratica a justiça e não deixa o direito do seu Elohim, perguntam-me pelos juízos da justiça, e tomam prazer em se chegarem a Elohim.
@@ -1325,7 +1338,7 @@
 * **13** Se desviares o teu pé do sábado, de não fazeres a tua vontade no meu santo dia, e se chamares ao sábado deleitoso e santo dia de YHWH, digno de honra, e o honrares, não seguindo os teus caminhos, nem pretendendo fazer a tua própria vontade, nem falar as tuas próprias palavras,
 * **14** Então te deleitarás em YHWH, e eu te farei cavalgar sobre as alturas da terra e te sustentarei com a herança de Jacó, teu pai; porque a boca de YHWH o disse.
 
-## 59
+## 59 {#cap-59}
 
 * **1** Eis que a mão de YHWH não está encolhida, para que não possa salvar; nem agravado o Seu ouvido, para que não possa ouvir.
 * **2** Mas as vossas iniquidades fazem separação entre vós e o vosso Elohim; e os vossos pecados encobrem o Seu rosto de vós, para que não vos ouça.
@@ -1349,7 +1362,7 @@
 * **20** E virá um Redentor a Sião e aos que em Jacó se desviarem da transgressão, diz YHWH.
 * **21** Quanto a mim, esta é a minha aliança com eles, diz YHWH: O meu Espírito, que está sobre ti, e as minhas palavras, que pus na tua boca, não se desviarão da tua boca, nem da boca da tua descendência, nem da boca da descendência da tua descendência, diz YHWH, desde agora e para todo o sempre.
 
-## 60
+## 60 {#cap-60}
 
 * **1** Levanta-te, resplandece, porque vem a tua luz, e a glória de YHWH vai nascendo sobre ti.
 * **2** Porque eis que as trevas cobrirão a terra, e a escuridão os povos; mas sobre ti YHWH virá nascendo, e a Sua glória se verá sobre ti.
@@ -1374,7 +1387,7 @@
 * **21** E todos os do teu povo serão justos, para sempre herdarão a terra; serão renovos por mim plantados, obra das minhas mãos, para que eu seja glorificado.
 * **22** O pequeno virá a ser mil, e o mínimo uma nação forte; eu, YHWH, a seu tempo o farei apressadamente.
 
-## 61
+## 61 {#cap-61}
 
 * **1** O Espírito de Adonai YHWH está sobre mim; porque YHWH me ungiu para pregar boas-novas aos mansos, enviou-me a restaurar os contritos de coração, a proclamar liberdade aos cativos e a abertura de prisão aos presos;
 * **2** A apregoar o ano aceitável de YHWH e o dia da vingança do nosso Elohim; a consolar todos os que choram;
@@ -1388,7 +1401,7 @@
 * **10** Regozijar-me-ei muito em YHWH, a minha alma se alegrará no meu Elohim; porque me vestiu de vestes de salvação, cobriu-me com o manto de justiça, como um noivo que se adorna com uma mitra, e como noiva que se enfeita com as suas joias.
 * **11** Porque, como a terra produz o seu renovo, e como o jardim faz brotar o que nele se semeia, assim Adonai YHWH fará brotar a justiça e o louvor diante de todas as nações.
 
-## 62
+## 62 {#cap-62}
 
 * **1** Por amor a Sião não me calarei, e por amor a Jerusalém não descansarei, até que a sua justiça surja como o resplendor, e a sua salvação como uma tocha que arde.
 * **2** As nações verão a tua justiça, e todos os reis, a tua glória; e serás chamada por um nome novo, que a boca de YHWH (SENHOR) determinará.
@@ -1403,7 +1416,7 @@
 * **11** Eis que YHWH fez ouvir até à extremidade da terra: Dizei à filha de Sião: Eis que a tua salvação vem; eis que com ele vem o seu galardão, e a sua obra, diante dele.
 * **12** E chamar-lhes-ão: Povo santo, remidos de YHWH; e tu serás chamada: Procurada, cidade não desamparada.
 
-## 63
+## 63 {#cap-63}
 
 * **1** Quem é este que vem de Edom, com vestes tintas de Bozra? Este que é glorioso em sua vestidura, que marcha na grandeza da sua força? Eu, que falo em justiça, poderoso para salvar.
 * **2** Por que está vermelha a tua vestidura, e as tuas roupas como as daquele que pisa no lagar?
@@ -1425,7 +1438,7 @@
 * **18** Por pouco tempo o teu povo santo a possuiu; os nossos adversários pisaram o teu santuário.
 * **19** Viemos a ser como aqueles sobre quem tu nunca dominaste, e sobre os quais o teu nome não foi invocado.
 
-## 64
+## 64 {#cap-64}
 
 * **1** Ah, se fendesses os céus e descesses, e os montes se dissolvessem diante da tua face!
 * **2** Como quando o fogo acende o combustível, e o fogo faz ferver as águas, para fazeres notório o teu nome aos teus adversários, e as nações tremessem diante da tua face!
@@ -1440,7 +1453,7 @@
 * **11** A nossa santa e gloriosa casa, em que nossos pais te louvavam, foi queimada a fogo; e todas as nossas coisas preciosas se tornaram em ruínas.
 * **12** Porventura diante destas coisas te conterás, YHWH? Te calarás e nos afligirás sobremaneira?
 
-## 65
+## 65 {#cap-65}
 
 * **1** Fui buscado pelos que não perguntavam por mim; fui achado por aqueles que não me buscavam; a uma nação que não se chamava pelo meu nome, eu disse: Eis-me aqui, eis-me aqui.
 * **2** Estendi as minhas mãos todo o dia a um povo rebelde, que caminha por um caminho não bom, após os seus próprios pensamentos.
@@ -1468,7 +1481,7 @@
 * **24** E será que, antes que clamem, eu responderei; estando eles ainda falando, eu os ouvirei.
 * **25** O lobo e o cordeiro se apascentarão juntos, e o leão comerá palha como o boi; e o pó será a comida da serpente. Não farão mal nem dano algum em todo o meu santo monte, diz YHWH.
 
-## 66
+## 66 {#cap-66}
 
 * **1** Assim diz YHWH: O céu é o meu trono, e a terra o escabelo dos meus pés; que casa me edificaríeis vós? E qual seria o lugar do meu descanso?
 * **2** Porque a minha mão fez todas estas coisas, e todas estas coisas foram feitas, diz YHWH; mas para esse olharei, para o humilde e contrito de espírito, e que treme da minha palavra.

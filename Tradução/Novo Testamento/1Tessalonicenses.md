@@ -1,11 +1,18 @@
+<!-- topo -->
 # 1 Tessalonicenses
 
 <!-- INDICE -->
-**Índice:** [1](1) · [2](2) · [3](3) · [4](4) · [5](5)
+## 📜 Índice
+
+**5 capítulos**
+[1](#cap-1) · [2](#cap-2) · [3](#cap-3) · [4](#cap-4) · [5](#cap-5)
+
+<div align="right"><a href="#topo"><strong>▲ Voltar ao topo</strong></a></div>
 
 <!-- FIM_INDICE -->
 
-## 1
+
+## 1 {#cap-1}
 
 * **1** Paulo, Silvano e Timóteo à igreja dos tessalonicenses em Theos Patēr (Deus Pai) e Kyrios Iēsous Christos (Senhor Jesus Messias): graça e paz a vocês.
 * **2** Sempre damos graças a Deus por todos vocês, mencionando-os em nossas orações, sem cessar,
@@ -18,7 +25,7 @@
 * **9** Pois eles mesmos relatam que tipo de entrada tivemos entre vocês, e como vocês se converteram a Deus, deixando os ídolos para servir ao Deus vivo e verdadeiro,
 * **10** e para aguardar dos céus o seu Filho, a quem ele ressuscitou dos mortos, Jesus, que nos livra da ira que está por vir.
 
-## 2
+## 2 {#cap-2}
 
 * **1** Pois vocês mesmos sabem, irmãos, que a nossa entrada entre vocês não foi inútil,
 * **2** mas, tendo sofrido antes e sido maltratados, como sabem, em Filipos, ousamos em nosso Deus anunciar a vocês o evangelho de Deus em meio a muita luta.
@@ -41,7 +48,7 @@
 * **19** Pois qual é a nossa esperança, ou alegria, ou coroa de glória — não seriam vocês? — diante de nosso Senhor Jesus em sua vinda?
 * **20** Pois vocês são a nossa glória e a nossa alegria.
 
-## 3
+## 3 {#cap-3}
 
 * **1** Por isso, não podendo mais suportar, achamos por bem ficar sozinhos em Atenas,
 * **2** e enviamos Timóteo, nosso irmão e cooperador de Deus no evangelho de Messias, para fortalecê-los e exortá-los quanto à fé de vocês,
@@ -57,7 +64,7 @@
 * **12** e o Senhor faça crescer e transbordar o amor de vocês uns para com os outros e para com todos, assim como nós temos para com vocês,
 * **13** para fortalecer o coração de vocês, irrepreensíveis em santidade diante de nosso Deus e Pai, na vinda de nosso Senhor Jesus com todos os seus santos.
 
-## 4
+## 4 {#cap-4}
 
 * **1** Finalmente, pois, irmãos, pedimos e exortamos no Senhor Jesus, que, assim como aprenderam de nós como devem caminhar e agradar a Deus, como de fato estão caminhando, que progridam ainda mais.
 * **2** Pois vocês sabem quais mandamentos demos a vocês por meio do Senhor Jesus.
@@ -78,7 +85,7 @@
 * **17** depois, nós, os vivos, os que ficarmos, seremos arrebatados juntamente com eles nas nuvens, para o encontro com o Senhor nos ares; e assim estaremos sempre com o Senhor.
 * **18** Portanto, consolem uns aos outros com estas palavras.
 
-## 5
+## 5 {#cap-5}
 
 * **1** Quanto aos tempos e épocas, irmãos, não precisam que lhes escreva,
 * **2** pois vocês mesmos sabem perfeitamente que o dia do Senhor vem como um ladrão à noite.

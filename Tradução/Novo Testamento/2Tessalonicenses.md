@@ -1,11 +1,18 @@
+<!-- topo -->
 # 2 Tessalonicenses
 
 <!-- INDICE -->
-**Índice:** [1](1) · [2](2) · [3](3)
+## 📜 Índice
+
+**3 capítulos**
+[1](#cap-1) · [2](#cap-2) · [3](#cap-3)
+
+<div align="right"><a href="#topo"><strong>▲ Voltar ao topo</strong></a></div>
 
 <!-- FIM_INDICE -->
 
-## 1
+
+## 1 {#cap-1}
 
 * **1** Paulo, Silvano e Timóteo à igreja dos tessalonicenses em Theos Patēr (Deus Pai) nosso e Kyrios Iēsous Christos (Senhor Jesus Messias);
 * **2** Graça a vós e paz da parte de Deus Pai e do Senhor Jesus Messias.
@@ -20,7 +27,7 @@
 * **11** Pelo que também oramos sempre por vós, para que o nosso Deus vos considere dignos da vocação e cumpra todo o bom propósito de bondade e a obra da fé com poder,
 * **12** para que o nome do nosso Senhor Jesus seja glorificado em vós, e vós nele, segundo a graça do nosso Deus e Senhor Jesus Messias.
 
-## 2
+## 2 {#cap-2}
 
 * **1** Ora, rogamo-vos, irmãos, a respeito da vinda do nosso Senhor Jesus Messias e da nossa reunião com ele,
 * **2** que não vos movais facilmente do vosso modo de pensar, nem vos perturbeis, quer por espírito, quer por palavra, quer por epístola como se fosse nossa, como se o dia do Senhor estivesse próximo.
@@ -40,7 +47,7 @@
 * **16** E o próprio nosso Senhor Jesus Messias e Deus o Pai nosso, que nos amou e nos deu eterna consolação e boa esperança na graça,
 * **17** console os vossos corações e vos confirme em toda boa obra e palavra.
 
-## 3
+## 3 {#cap-3}
 
 * **1** Finalmente, irmãos, orai por nós, para que a palavra do Senhor se propague e seja glorificada, como também o é entre vós,
 * **2** e para que sejamos livres de homens perversos e maus; porque a fé não é de todos.

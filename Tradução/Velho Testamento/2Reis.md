@@ -1,11 +1,20 @@
+<!-- topo -->
 # 2 Reis
 
 <!-- INDICE -->
-**Índice:** [1](1) · [2](2) · [3](3) · [4](4) · [5](5) · [6](6) · [7](7) · [8](8) · [9](9) · [10](10) · [11](11) · [12](12) · [13](13) · [14](14) · [15](15) · [16](16) · [17](17) · [18](18) · [19](19) · [20](20) · [21](21) · [22](22) · [23](23) · [24](24) · [25](25)
+## 📜 Índice
+
+**25 capítulos**
+[1](#cap-1) · [2](#cap-2) · [3](#cap-3) · [4](#cap-4) · [5](#cap-5) · [6](#cap-6) · [7](#cap-7) · [8](#cap-8) · [9](#cap-9) · [10](#cap-10)
+[11](#cap-11) · [12](#cap-12) · [13](#cap-13) · [14](#cap-14) · [15](#cap-15) · [16](#cap-16) · [17](#cap-17) · [18](#cap-18) · [19](#cap-19) · [20](#cap-20)
+[21](#cap-21) · [22](#cap-22) · [23](#cap-23) · [24](#cap-24) · [25](#cap-25)
+
+<div align="right"><a href="#topo"><strong>▲ Voltar ao topo</strong></a></div>
 
 <!-- FIM_INDICE -->
 
-## 1
+
+## 1 {#cap-1}
 
 * **1** Moabe rebelou-se contra Israel após a morte de Acabe.
 * **2** Acazias caiu através das grades do seu quarto alto em Samaria e ficou ferido; então enviou mensageiros e disse-lhes: "Ide consultar Baal-Zebube, deus de Ecrom, para saber se me recuperarei desta doença".
@@ -26,7 +35,7 @@
 * **17** Ele morreu, conforme a palavra de YHWH que Elias falara. Jorão passou a reinar em seu lugar, no segundo ano de Jorão, filho de Josafá, rei de Judá, pois Acazias não tinha filho.
 * **18** O restante dos atos de Acazias, que ele fez, não estão porventura escritos no livro das crônicas dos reis de Israel?
 
-## 2
+## 2 {#cap-2}
 
 * **1** Quando YHWH estava para elevar Elias ao céu num redemoinho, Elias e Eliseu partiam de Gilgal.
 * **2** Elias disse a Eliseu: "Fica aqui, pe
@@ -54,7 +63,7 @@
 * **24** Ele olhou para trás, viu-os e amaldiçoou-os em nome de YHWH. Então, duas ursas saíram do bosque e despedaçaram quarenta e dois daqueles jovens.
 * **25** Dali foi para o monte Carmelo e de lá voltou a Samaria.
 
-## 3
+## 3 {#cap-3}
 
 * **1** Jeorão, filho de Acabe, começou a reinar sobre Israel em Samaria, no décimo oitavo ano de Josafá, rei de Judá, e reinou doze anos.
 * **2** Fez o que era mau aos olhos de YHWH, porém não como seu pai e sua mãe; pois removeu a coluna de Baal que seu pai fizera.
@@ -84,7 +93,7 @@
 * **26** Vendo o rei de Moabe que a batalha era demasiado forte para ele, tomou consigo setecentos homens que puxavam espada para romper contra o rei de Edom, mas não puderam.
 * **27** Tomou o seu filho primogênito, que havia de reinar em seu lugar, e ofereceu-o em holocausto sobre o muro. Houve grande indignação contra Israel, e retiraram-se dele e voltaram para a sua terra.
 
-## 4
+## 4 {#cap-4}
 
 * **1** Uma mulher, das esposas dos discípulos dos profetas, clamou a Eliseu: "Meu marido, teu servo, morreu, e tu sabes que o teu servo temia a YHWH; agora veio o credor para levar os meus dois filhos para serem escravos."
 * **2** Eliseu lhe disse: "Que te farei? Dize-me o que tens em casa." Ela respondeu: "Tua serva não tem nada em casa, senão uma botija de azeite."
@@ -131,7 +140,7 @@
 * **43** O seu servo disse: "Como porei isto diante de cem homens?" Ele respondeu: "Dá ao povo para que coma, pois assim diz YHWH: Comerão e sobrará."
 * **44** Ele pôs diante deles, comeram e sobrou, conforme a palavra de YHWH.
 
-## 5
+## 5 {#cap-5}
 
 * **1** Naamã, chefe do exército do rei da Síria, era um homem grande diante do seu senhor e de muita estima, porque por ele YHWH dera vitória à Síria; era este homem um herói valoroso, porém leproso.
 * **2** Os sírios, em suas tropas, tinham levado cativa da terra de Israel uma menina, que ficou servindo à esposa de Naamã.
@@ -161,7 +170,7 @@
 * **26** Ele lhe disse: "Não foi contigo o meu coração, quando aquele homem voltou do seu carro ao teu encontro? É este o tempo de receber prata, de receber roupas, olivais, vinhas, ovelhas, bois, servos e servas?"
 * **27** "Portanto, a lepra de Naamã se pegará a ti e à tua descendência para sempre." Ele saiu da sua presença leproso, branco como a neve.
 
-## 6
+## 6 {#cap-6}
 
 * **1** Os discípulos dos profetas disseram a Eliseu: "Eis que o lugar onde habitamos diante de ti é pequeno demais para nós."
 * **2** "Vamos, pois, até o Jordão, tomemos de lá cada um uma viga e façamos ali um lugar para habitarmos." Ele disse: "Ide."
@@ -197,7 +206,7 @@
 * **32** Eliseu estava sentado em sua casa, e os anciãos estavam sentados com ele. O rei enviou um homem adiante de si; mas, antes que o mensageiro chegasse a ele, disse Eliseu aos anciãos: Vedes como este filho de um assassino enviou alguém para tirar-me a cabeça? Olhai, quando vier o mensageiro, fechai a porta e mantende-a bem fechada contra ele; não se ouve já o ruído dos passos de seu senhor atrás dele?
 * **33** Enquanto ele ainda falava com eles, o mensageiro desceu a ele e disse: Eis que este mal vem de YHWH (SENHOR); que mais esperarei de YHWH?
 
-## 7
+## 7 {#cap-7}
 
 * **1** Então disse Eliseu: Ouvi a palavra de YHWH; assim diz YHWH: Amanhã, a estas horas, uma medida de farinha de flor se venderá por um siclo, e duas medidas de cevada por um siclo, à porta de Samaria.
 * **2** Porém o oficial, em cujo braço o rei se apoiava, respondeu ao homem de Elohim (Deus) e disse: Eis que, ainda que YHWH fizesse janelas no céu, poderia suceder isto? E ele disse: Eis que o verás com os teus olhos, mas não comerás disso.
@@ -220,7 +229,7 @@
 * **19** O oficial respondera ao homem de Elohim e dissera: Eis que, ainda que YHWH fizesse janelas no céu, poderia suceder isto? E ele dissera: Eis que o verás com os teus olhos, mas não comerás disso.
 * **20** E assim lhe sucedeu, porque o povo o atropelou à porta, e ele morreu.
 
-## 8
+## 8 {#cap-8}
 
 * **1** Eliseu falou à mulher cujo filho ele tinha vivificado, dizendo: Levanta-te e vai, tu e a tua casa, e habita onde puderes habitar; porque YHWH chamou a fome, a qual também virá à terra por sete anos.
 * **2** Levantou-se a mulher e fez conforme a palavra do homem de Elohim; e foi ela com a sua casa e habitou na terra dos filisteus sete anos.
@@ -252,7 +261,7 @@
 * **28** Foi com Jorão, filho de Acabe, à guerra contra Hazael, rei da Síria, em Ramote-Gileade; e os sírios feriram a Jorão.
 * **29** O rei Jorão voltou para se curar em Jezreel das feridas que os sírios lhe tinham feito em Ramá, pelejando contra Hazael, rei da Síria; e Acazias, filho de Jeorão, rei de Judá, desceu a ver a Jorão, filho de Acabe, em Jezreel, porquanto estava doente.
 
-## 9
+## 9 {#cap-9}
 
 * **1** O profeta Eliseu chamou a um dos filhos dos profetas e lhe disse: Cinge os teus lombos, toma este vaso de azeite na tua mão e vai a Ramote-Gileade.
 * **2** Quando lá chegares, vê ali a Jeú, filho de Josafá, filho de Ninsi, e entra e faze-o levantar-se do meio de seus irmãos, e leva-o a uma câmara interior.
@@ -292,7 +301,7 @@
 * **36** Voltaram e lho anunciaram; e ele disse: Esta é a palavra de YHWH, a qual falou pelo ministério de seu servo Elias, o tesbita, dizendo: No campo de Jezreel, os cães comerão a carne de Jezabel.
 * **37** O cadáver de Jezabel será como esterco sobre o campo, no campo de Jezreel, de modo que não dirão: Esta é Jezabel.
 
-## 10
+## 10 {#cap-10}
 
 * **1** Tinha Acabe setenta filhos em Samaria; Jeú escreveu cartas e as enviou a Samaria, aos chefes de Jezreel, aos anciãos e aos que criavam os filhos de Acabe, dizendo:
 * **2** Agora, pois, chegando a vós esta carta, visto que os filhos de vosso senhor estão convosco, e convosco estão os carros e os cavalos, e a cidade fortificada e as armas,
@@ -331,7 +340,7 @@
 * **35** Dormiu Jeú com seus pais e foi sepultado em Samaria; e Jeoacaz, seu filho, reinou em seu lugar.
 * **36** Os dias que Jeú reinou sobre Israel foram vinte e oito anos em Samaria.
 
-## 11
+## 11 {#cap-11}
 
 * **1** Atalia, mãe de Acazias, vendo que seu filho era morto, levantou-se e destruiu toda a descendência real.
 * **2** Mas Jeoseba, filha do rei Jorão, irmã de Acazias, tomou a Joás, filho de Acazias, e o furtou do meio dos filhos do rei, aos quais iam matar, a ele e à sua ama, na câmara dos leitos, e o esconderam de Atalia, de modo que não foi morto.
@@ -355,7 +364,7 @@
 * **20** Alegrou-se todo o povo da terra, e a cidade ficou em paz; e mataram a Atalia à espada, na casa do rei.
 * **21** Tinha Joás sete anos quando começou a reinar.
 
-## 12
+## 12 {#cap-12}
 
 * **1** No ano sétimo de Jeú, começou a reinar Joás, e quarenta anos reinou em Jerusalém; e o nome de sua mãe era Zíbia, de Berseba.
 * **2** Fez Joás o que era reto aos olhos de YHWH todos os seus dias, em que Joiada, o sacerdote, o dirigia.
@@ -379,7 +388,7 @@
 * **20** Seus servos levantaram-se, conspiraram e feriram Joás na casa de Milo, que desce a Sila.
 * **21** Jozabade, filho de Simeate, e Jeozabade, filho de Somer, seus servos, feriram-no, e ele morreu; sepultaram-no com seus antepassados na Cidade de Davi, e seu filho Amazias reinou em seu lugar.
 
-## 13
+## 13 {#cap-13}
 
 * **1** No vigésimo terceiro ano de Joás, filho de Acazias, rei de Judá, Jeoacaz, filho de Jeú, começou a reinar sobre Israel em Samaria, por dezessete anos.
 * **2** Ele fez o que era mau aos olhos de YHWH e seguiu os pecados de Jeroboão, filho de Nebate, que levou Israel a pecar; não se desviou deles.
@@ -407,7 +416,7 @@
 * **24** Hazael, rei da Síria, morreu, e seu filho Ben-Hadade reinou em seu lugar.
 * **25** Joás, filho de Jeoacaz, retomou das mãos de Ben-Hadade, filho de Hazael, as cidades que ele havia tomado de seu pai Jeoacaz na guerra. Três vezes Joás o derrotou e recuperou as cidades de Israel.
 
-## 14
+## 14 {#cap-14}
 
 * **1** No segundo ano de Joás, filho de Jeoacaz, rei de Israel, Amazias, filho de Joás, rei de Judá, começou a reinar.
 * **2** Tinha vinte e cinco anos quando começou a reinar e reinou vinte e nove anos em Jerusalém; o nome de sua mãe era Jeoadã, de Jerusalém.
@@ -439,7 +448,7 @@
 * **28** Os demais atos de Jeroboão, tudo o que fez, o seu poder, como lutou e como recuperou Damasco e Hamate para Judá em Israel, não estão porventura escritos no livro das crônicas dos reis de Israel?
 * **29** Jeroboão dormiu com seus antepassados, com os reis de Israel, e seu filho Zacarias reinou em seu lugar.
 
-## 15
+## 15 {#cap-15}
 
 * **1** No vigésimo sétimo ano de Jeroboão, rei de Israel, Azarias, filho de Amazias, rei de Judá, começou a reinar.
 * **2** Tinha dezesseis anos quando começou a reinar e reinou cinquenta e dois anos em Jerusalém; o nome de sua mãe era Jecolias, de Jerusalém.
@@ -480,7 +489,7 @@
 * **37** Naqueles dias, YHWH começou a enviar contra Judá Rezim, rei da Síria, e Peca, filho de Remalias.
 * **38** Jotão dormiu com seus antepassados e foi sepultado com seus antepassados na Cidade de Davi, seu pai; seu filho Acaz reinou em seu lugar.
 
-## 16
+## 16 {#cap-16}
 
 * **1** No décimo sétimo ano de Peca, filho de Remalias, Acaz, filho de Jotão, rei de Judá, começou a reinar.
 * **2** Acaz tinha vinte anos quando começou a reinar e reinou dezesseis anos em Jerusalém; não fez o que era reto aos olhos de YHWH, seu Elohim, como Davi, seu pai.
@@ -503,7 +512,7 @@
 * **19** Os demais atos de Acaz e tudo o que fez, não estão porventura escritos no livro das crônicas dos reis de Judá?
 * **20** Acaz dormiu com seus antepassados e foi sepultado com seus antepassados na Cidade de Davi; seu filho Ezequias reinou em seu lugar.
 
-## 17
+## 17 {#cap-17}
 
 * **1** No décimo segundo ano de Acaz, rei de Judá, Oseias, filho de Elá, começou a reinar em Samaria sobre Israel, por nove anos.
 * **2** Ele fez o que era mau aos olhos de YHWH, contudo não como os reis de Israel que foram antes dele.
@@ -547,7 +556,7 @@
 * **40** Contudo, não ouviram, mas fizeram segundo o seu costume antigo.
 * **41** Estas nações temiam a YHWH, mas serviam também às suas imagens de escultura; e seus filhos e os filhos de seus filhos fazem até o dia de hoje como fizeram seus pais.
 
-## 18
+## 18 {#cap-18}
 
 * **1** No terceiro ano de Oseias, filho de Elá, rei de Israel, começou a reinar Ezequias, filho de Acaz, rei de Judá.
 * **2** Tinha vinte e cinco anos quando começou a reinar e reinou vinte e nove anos em Jerusalém; o nome de sua mãe era Abi, filha de Zacarias.
@@ -587,7 +596,7 @@
 * **36** O povo, porém, calou-se e não lhe respondeu palavra, porque o mandamento do rei era: Não lhe respondais.
 * **37** Então, Eliaquim, filho de Hilquias, o mordomo, Sebna, o escrivão, e Joá, filho de Asafe, o cronista, vieram a Ezequias com as vestes rasgadas e lhe referiram as palavras do Rabsaqué.
 
-## 19
+## 19 {#cap-19}
 
 * **1** Tendo o rei Ezequias ouvido isso, rasgou as suas vestes, cobriu-se de pano de saco e entrou na casa de YHWH.
 * **2** Enviou Eliaquim, o mordomo, Sebna, o escrivão, e os anciãos dos sacerdotes, cobertos de panos de saco, ao profeta Isaías, filho de Amoz.
@@ -627,7 +636,7 @@
 * **36** Então, Senaqueribe, rei da Assíria, partiu, foi-se, voltou e habitou em Nínive.
 * **37** Enquanto ele estava adorando na casa de Nisroque, seu deus, Adrameleque e Sarezer, seus filhos, o feriram à espada; e escaparam para a terra de Ararate. E Esar-Hadom, seu filho, reinou em seu lugar.
 
-## 20
+## 20 {#cap-20}
 
 * **1** Naqueles dias, Ezequias adoeceu de uma enfermidade mortal; veio a ele o profeta Isaías, filho de Amoz, e lhe disse: Assim diz YHWH: Põe em ordem a tua casa, porque morrerás e não viverás.
 * **2** Ele virou o rosto para a parede e orou a YHWH, dizendo:
@@ -651,7 +660,7 @@
 * **20** O restante dos atos de Ezequias, todo o seu poder, como fez a piscina e o aqueduto e como trouxe água para a cidade, porventura não estão escritos no livro das crônicas dos reis de Judá?
 * **21** Ezequias dormiu com seus pais, e Manassés, seu filho, reinou em seu lugar.
 
-## 21
+## 21 {#cap-21}
 
 * **1** Tinha Manassés doze anos quando começou a reinar e reinou cinquenta e cinco anos em Jerusalém; o nome de sua mãe era Hefzibá.
 * **2** Fez o que era mau aos olhos de YHWH, conforme as abominações das nações que YHWH expulsara de diante dos filhos de Israel.
@@ -680,7 +689,7 @@
 * **25** O restante dos atos de Amom, que fez, porventura não estão escritos no livro das crônicas dos reis de Judá?
 * **26** Foi sepultado no seu sepulcro, no jardim de Uzá; e Josias, seu filho, reinou em seu lugar.
 
-## 22
+## 22 {#cap-22}
 
 * **1** Tinha Josias oito anos quando começou a reinar e reinou trinta e um anos em Jerusalém; o nome de sua mãe era Jedida, filha de Adaías, de Bozcate.
 * **2** Fez o que era reto aos olhos de YHWH e andou em todo o caminho de Davi, seu pai, não se desviando nem para a direita nem para a esquerda.
@@ -703,7 +712,7 @@
 * **19** visto que o teu coração se enterneceu e te humilhaste diante de YHWH, ao ouvires o que falei contra este lugar e contra os seus habitantes, para que se tornem em desolação e em maldição, e rasgaste as tuas vestes e choraste diante de mim, também eu te ouvi, diz YHWH.
 * **20** Portanto, eis que te reunirei aos teus pais, e serás recolhido à tua sepultura em paz, e os teus olhos não verão todo o mal que trarei sobre este lugar". E levaram a resposta ao rei.
 
-## 23
+## 23 {#cap-23}
 
 * **1** O rei enviou mensageiros e reuniu a si todos os anciãos de Judá e de Jerusalém.
 * **2** O rei subiu à casa de YHWH, com todos os homens de Judá e todos os habitantes de Jerusalém, os sacerdotes, os profetas e todo o povo, desde o menor até ao maior; e leu aos seus ouvidos todas as palavras do livro da aliança que fora encontrado na casa de YHWH.
@@ -743,7 +752,7 @@
 * **36** Jeoaquim tinha vinte e cinco anos quando começou a reinar e reinou onze anos em Jerusalém; o nome de sua mãe era Zebida, filha de Pedaías, de Ruma.
 * **37** Ele fez o que era mau aos olhos de YHWH, conforme tudo o que seus pais fizeram.
 
-## 24
+## 24 {#cap-24}
 
 * **1** Nos seus dias, subiu Nabucodonosor, rei da Babilônia, e Jeoaquim tornou-se seu servo por três anos; depois, voltou-se e rebelou-se contra ele.
 * **2** YHWH enviou contra ele bandos de caldeus, de arameus, de moabitas e de amonitas; enviou-os contra Judá para destruí-la, conforme a palavra de YHWH que ele falara pelo ministério dos seus servos, os profetas.
@@ -766,7 +775,7 @@
 * **19** Ele fez o que era mau aos olhos de YHWH, conforme tudo o que Jeoaquim fizera.
 * **20** Por causa da ira de YHWH, isso aconteceu em Jerusalém e em Judá, até que os lançou da sua presença; e Zedequias rebelou-se contra o rei da Babilônia.
 
-## 25
+## 25 {#cap-25}
 
 * **1** No nono ano do seu reinado, no décimo mês, aos dez dias do mês, Nabucodonosor, rei da Babilônia, veio com todo o seu exército contra Jerusalém, acampou contra ela e levantaram torres de cerco ao redor.
 * **2** A cidade ficou sitiada até ao décimo primeiro ano do rei Zedequias.
