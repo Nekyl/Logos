@@ -11,8 +11,51 @@ Tradução integral dos 66 livros da Bíblia (31.084 versículos) com consulta d
 - [Textos-fonte](#textos-fonte)
 - [Mais detalhes](#mais-detalhes)
 - [Licença](#licença)
+- [Velho Testamento](#-velho-testamento)
+- [Novo Testamento](#-novo-testamento)
 
-### 📖 Velho Testamento
+---
+
+## Sobre a tradução
+
+Cada versículo foi lido contra o texto-fonte original e validado à mão. O resultado prioriza o sentido original sem sacrificar a fluência em português brasileiro.
+
+Um sistema de redundância preserva termos dos idiomas originais seguidos de seu equivalente em português entre parênteses — por exemplo, `YHWH (SENHOR)`, `Logos (Verbo)`, `Pneuma Hagion (Espírito Santo)`. Quem lê em português acessa o texto fluentemente. Quem estuda os originais enxerga a forma hebraica ou grega sem precisar consultar outra fonte.
+
+## Estrutura
+
+```text
+Logos/
+├── Velho Testamento (Hebraico)/   # Textos-fonte em hebraico
+├── Novo Testamento (Grego)/       # Textos-fonte em grego (SBLGNT)
+└── Tradução/
+    ├── Velho Testamento/          # 39 livros traduzidos
+    ├── Novo Testamento/           # 27 livros traduzidos
+    └── CONFIABILIDADE.md          # Relatório de precisão, amostras comparadas e nota do tradutor
+```
+
+## Textos-fonte
+
+| Testamento | Idioma | Fonte |
+|------------|--------|-------|
+| Velho Testamento | Hebraico | OpenScriptures Hebrew Bible (baseado no Codex Leningradensis, 1008 d.C.) |
+| Novo Testamento | Grego koiné | SBL Greek New Testament (SBLGNT) |
+
+## Mais detalhes
+
+- **[CONFIABILIDADE.md](Tradução/CONFIABILIDADE.md)** — amostras comparadas com os originais, convenções de tradução e veredito sobre a precisão
+- **[Nota do Tradutor](Tradução/CONFIABILIDADE.md#7-nota-do-tradutor)** — método, sistema de redundância e critérios teológicos
+
+## Licença
+
+Este projeto está licenciado sob a [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
+
+Os textos-fonte em grego (SBLGNT) são distribuídos sob [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) pela Society of Biblical Literature. A tradução aqui presente é um trabalho derivado atribuído a **Nekyl**.
+
+---
+
+## 📖 Velho Testamento
+
 - [Gênesis](Tradução/Velho%20Testamento/Gênesis.md)
 - [Êxodo](Tradução/Velho%20Testamento/Êxodo.md)
 - [Levítico](Tradução/Velho%20Testamento/Levítico.md)
@@ -53,7 +96,8 @@ Tradução integral dos 66 livros da Bíblia (31.084 versículos) com consulta d
 - [Zacarias](Tradução/Velho%20Testamento/Zacarias.md)
 - [Malaquias](Tradução/Velho%20Testamento/Malaquias.md)
 
-### 📖 Novo Testamento
+## 📖 Novo Testamento
+
 - [Mateus](Tradução/Novo%20Testamento/Mateus.md)
 - [Marcos](Tradução/Novo%20Testamento/Marcos.md)
 - [Lucas](Tradução/Novo%20Testamento/Lucas.md)
@@ -81,41 +125,3 @@ Tradução integral dos 66 livros da Bíblia (31.084 versículos) com consulta d
 - [3João](Tradução/Novo%20Testamento/3João.md)
 - [Judas](Tradução/Novo%20Testamento/Judas.md)
 - [Apocalipse](Tradução/Novo%20Testamento/Apocalipse.md)
-
----
-
-## Sobre a tradução
-
-Cada versículo foi lido contra o texto-fonte original e validado à mão. O resultado prioriza o sentido original sem sacrificar a fluência em português brasileiro.
-
-Um sistema de redundância preserva termos dos idiomas originais seguidos de seu equivalente em português entre parênteses — por exemplo, `YHWH (SENHOR)`, `Logos (Verbo)`, `Pneuma Hagion (Espírito Santo)`. Quem lê em português acessa o texto fluentemente. Quem estuda os originais enxerga a forma hebraica ou grega sem precisar consultar outra fonte.
-
-## Estrutura
-
-```text
-Logos/
-├── Velho Testamento (Hebraico)/   # Textos-fonte em hebraico
-├── Novo Testamento (Grego)/       # Textos-fonte em grego (SBLGNT)
-└── Tradução/
-    ├── Velho Testamento/          # 39 livros traduzidos
-    ├── Novo Testamento/           # 27 livros traduzidos
-    └── CONFIABILIDADE.md          # Relatório de precisão, amostras comparadas e nota do tradutor
-```
-
-## Textos-fonte
-
-| Testamento | Idioma | Fonte |
-|------------|--------|-------|
-| Velho Testamento | Hebraico | OpenScriptures Hebrew Bible (baseado no Codex Leningradensis, 1008 d.C.) |
-| Novo Testamento | Grego koiné | SBL Greek New Testament (SBLGNT) |
-
-## Mais detalhes
-
-- **[CONFIABILIDADE.md](Tradução/CONFIABILIDADE.md)** — amostras comparadas com os originais, convenções de tradução e veredito sobre a precisão
-- **[Nota do Tradutor](Tradução/CONFIABILIDADE.md#7-nota-do-tradutor)** — método, sistema de redundância e critérios teológicos
-
-## Licença
-
-Este projeto está licenciado sob a [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
-
-Os textos-fonte em grego (SBLGNT) são distribuídos sob [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) pela Society of Biblical Literature. A tradução aqui presente é um trabalho derivado atribuído a **Nekyl**.
