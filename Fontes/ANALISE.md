@@ -4,7 +4,7 @@
 
 ### Velho Testamento (Hebraico)
 
-- **Arquivo**: `VT (Hebraico)/hebrew.json`
+- **Arquivo**: `Fontes/VT (Hebraico)/hebrew.json`
 - **Tamanho**: 13.0 MB
 - **Formato**: JSON com estrutura de palavras individuais
 - **Livros**: 39 (todos presentes)
@@ -14,7 +14,7 @@
 
 ### Novo Testamento (Grego)
 
-- **Arquivo**: `NT (Grego)/*.txt` (27 arquivos)
+- **Arquivo**: `Fontes/NT (Grego)/*.txt` (27 arquivos)
 - **Tamanho total**: 1.69 MB
 - **Formato**: TXT com grego politônico
 - **Livros**: 27 (todos presentes)
