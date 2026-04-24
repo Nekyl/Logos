@@ -1,12 +1,3 @@
-
-
-
-
-Aqui está o seu arquivo `README.md` refeito. Organizei os 66 livros da Bíblia seguindo a **ordem canônica tradicional** para facilitar a navegação de qualquer leitor, apontando cada link diretamente para a sua estrutura de pastas (`Tradução/Velho Testamento/...` e `Tradução/Novo Testamento/...`).
-
-Adicionei também os cabeçalhos das outras seções para funcionar como um índice completo (Table of Contents), bem no estilo padrão do GitHub.
-
-```md
 # Bíblia — Tradução com Consulta aos Originais
 
 Tradução integral dos 66 livros da Bíblia (31.084 versículos) com consulta direta ao texto hebraico massorético (Velho Testamento) e ao SBL Greek New Testament (Novo Testamento).
@@ -126,4 +117,4 @@ Os textos-fonte em grego (SBLGNT) são distribuídos sob [CC BY 4.0](https://cre
 - [3João](Tradução/Novo%20Testamento/3João.md)
 - [Judas](Tradução/Novo%20Testamento/Judas.md)
 - [Apocalipse](Tradução/Novo%20Testamento/Apocalipse.md)
-```
+
