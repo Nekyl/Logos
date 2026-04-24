@@ -13,8 +13,6 @@ Tradução integral dos 66 livros da Bíblia (31.084 versículos) com consulta d
 - [Fontes](#fontes)
 - [Mais detalhes](#mais-detalhes)
 - [Licença](#licença)
-- [Fontes — VT (Hebraico)](Fontes/VT%20(Hebraico)/hebrew.json)
-- [Fontes — NT (Grego)](Fontes/NT%20(Grego)/)
 
 ---
 
@@ -30,11 +28,12 @@ Um sistema de redundância preserva termos dos idiomas originais seguidos de seu
 Logos/
 ├── Fontes/
 │   ├── VT (Hebraico)/               # Textos-fonte em hebraico
-│   └── NT (Grego)/                  # Textos-fonte em grego (SBLGNT)
+│   ├── NT (Grego)/                    # Textos-fonte em grego (SBLGNT)
+│   └── ANALISE.md/                 # Análise das fontes - VT e NT
 └── Tradução/
     ├── Velho Testamento/            # 39 livros traduzidos
     ├── Novo Testamento/             # 27 livros traduzidos
-    └── CONFIABILIDADE.md            # Relatório de precisão, amostras comparadas e nota do tradutor
+    └── CONFIABILIDADE.md/       # Relatório de precisão, amostras comparadas e nota do tradutor
 ```
 
 <div align="right">
@@ -47,6 +46,10 @@ Logos/
 |------------|--------|-------|-----------|
 | Velho Testamento | Hebraico | OpenScriptures Hebrew Bible (baseado no Codex Leningradensis, 1008 d.C.) | [`hebrew.json`](Fontes/VT%20(Hebraico)/hebrew.json) |
 | Novo Testamento | Grego koiné | SBL Greek New Testament (SBLGNT) | [Fontes/NT (Grego)](Fontes/NT%20(Grego)/) |
+
+
+- [Velho Testamento — (Hebraico)](Fontes/VT%20(Hebraico)/hebrew.json)
+- [Novo Testamento — (Grego koiné)](Fontes/NT%20(Grego)/)
 
 Cada fonte passa por uma análise detalhada de confiabilidade, incluindo identificação da procedência real do texto, comparação com manuscritos de referência, mapeamento de variantes textuais e veredito individual: **[Fontes/ANALISE.md](Fontes/ANALISE.md)**.
 
