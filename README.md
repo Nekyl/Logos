@@ -34,6 +34,10 @@ Logos/
     └── CONFIABILIDADE.md          # Relatório de precisão, amostras comparadas e nota do tradutor
 ```
 
+<div align="right">
+  <a href="#-índice"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
+
 ## Textos-fonte
 
 | Testamento | Idioma | Fonte |
@@ -41,16 +45,28 @@ Logos/
 | Velho Testamento | Hebraico | OpenScriptures Hebrew Bible (baseado no Codex Leningradensis, 1008 d.C.) |
 | Novo Testamento | Grego koiné | SBL Greek New Testament (SBLGNT) |
 
+<div align="right">
+  <a href="#-índice"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
+
 ## Mais detalhes
 
 - **[CONFIABILIDADE.md](Tradução/CONFIABILIDADE.md)** — amostras comparadas com os originais, convenções de tradução e veredito sobre a precisão
 - **[Nota do Tradutor](Tradução/CONFIABILIDADE.md#7-nota-do-tradutor)** — método, sistema de redundância e critérios teológicos
+
+<div align="right">
+  <a href="#-índice"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
 
 ## Licença
 
 Este projeto está licenciado sob a [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
 
 Os textos-fonte em grego (SBLGNT) são distribuídos sob [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) pela Society of Biblical Literature. A tradução aqui presente é um trabalho derivado atribuído a **Nekyl**.
+
+<div align="right">
+  <a href="#-índice"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
 
 ---
 
@@ -96,6 +112,10 @@ Os textos-fonte em grego (SBLGNT) são distribuídos sob [CC BY 4.0](https://cre
 - [Zacarias](Tradução/Velho%20Testamento/Zacarias.md)
 - [Malaquias](Tradução/Velho%20Testamento/Malaquias.md)
 
+<div align="right">
+  <a href="#-índice"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
+
 ## 📖 Novo Testamento
 
 - [Mateus](Tradução/Novo%20Testamento/Mateus.md)
@@ -125,3 +145,7 @@ Os textos-fonte em grego (SBLGNT) são distribuídos sob [CC BY 4.0](https://cre
 - [3João](Tradução/Novo%20Testamento/3João.md)
 - [Judas](Tradução/Novo%20Testamento/Judas.md)
 - [Apocalipse](Tradução/Novo%20Testamento/Apocalipse.md)
+
+<div align="right">
+  <a href="#-índice"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
