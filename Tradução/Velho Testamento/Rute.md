@@ -1,5 +1,10 @@
 # Rute
 
+<a id="topo"></a>
+
+[1](#1) [2](#2) [3](#3) [4](#4)
+
+
 ## 1
 
 * **1:1** Aconteceu nos dias em que os juízes julgavam, que houve fome na terra; por isso, um homem de Belém de Judá foi morar nos campos de Moabe, ele, sua esposa e seus dois filhos.
@@ -24,6 +29,11 @@
 * **1:20** Ela, porém, lhes dizia: Não me chameis Noemi; chamai-me Mara, porque o Shaddai (Todo-poderoso) me encheu de amargura.
 * **1:21** Cheia eu parti, mas YHWH me fez voltar vazia. Por que me chamais Noemi, se YHWH testemunhou contra mim e o Shaddai me afligiu?
 * **1:22** Assim voltou Noemi, e com ela Rute, a moabita, sua nora, que voltara dos campos de Moabe; e chegaram a Belém no início da colheita da cevada.
+
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
 
 ## 2
 
@@ -51,6 +61,11 @@
 * **2:22** Noemi disse a Rute, sua nora: É bom, minha filha, que saias com as suas moças, para que não te molestem em outro campo.
 * **2:23** Ela ficou, pois, junto às moças de Boaz, colhendo até que a colheita da cevada e a do trigo terminaram, e morava com sua sogra.
 
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
+
 ## 3
 
 * **3:1** Noemi, sua sogra, disse-lhe: Minha filha, não devo eu buscar descanso para ti, para que te vá bem?
@@ -71,6 +86,11 @@
 * **3:16** Quando ela chegou à sua sogra, esta perguntou: Como foi, minha filha? Ela contou-lhe tudo o que o homem lhe fizera.
 * **3:17** E disse: Estas seis medidas de cevada ele me deu, pois disse: Não voltes vazia para a tua sogra.
 * **3:18** Noemi disse: Espera, minha filha, até que saibas como o caso terminará, pois o homem não descansará até que hoje mesmo conclua este assunto.
+
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
 
 ## 4
 

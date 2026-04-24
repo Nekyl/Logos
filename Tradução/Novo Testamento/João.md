@@ -1,5 +1,10 @@
 # João
 
+<a id="topo"></a>
+
+[1](#1) [2](#2) [3](#3) [4](#4) [5](#5) [6](#6) [7](#7) [8](#8) [9](#9) [10](#10) [11](#11) [12](#12) [13](#13) [14](#14) [15](#15) [16](#16) [17](#17) [18](#18) [19](#19) [20](#20) [21](#21)
+
+
 ## 1
 
 * **1:1** No princípio era o Logos (Verbo), e o Logos estava com o Theos (Deus), e o Logos era Theos.
@@ -54,6 +59,11 @@
 * **1:50** Jesus respondeu e lhe disse: Porque te disse que te vi debaixo da figueira, crês? Coisas maiores do que estas verás.
 * **1:51** E diz-lhe: Em verdade, em verdade vos digo, vereis o céu aberto e os anjos de Deus subindo e descendo sobre o Filho do homem.
 
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
+
 ## 2
 
 * **2:1** E no terceiro dia houve um casamento em Caná da Galileia, e a mãe de Jesus estava ali.
@@ -81,6 +91,11 @@
 * **2:23** Estando ele em Jerusalém, na festa da páscoa, muitos creram no seu nome, vendo os sinais que ele fazia;
 * **2:24** mas o próprio Jesus não se confiava a eles, porque ele conhecia a todos
 * **2:25** e porque não precisava que alguém desse testemunho a respeito do homem, pois ele mesmo sabia o que havia no homem.
+
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
 
 ## 3
 
@@ -120,6 +135,11 @@
 * **3:34** Pois aquele que Deus enviou fala as palavras de Deus, pois ele não dá o Espírito por medida.
 * **3:35** O Pai ama o Filho e todas as coisas entregou na sua mão.
 * **3:36** Aquele que crê no Filho tem a vida eterna; mas aquele que não obedece ao Filho não verá a vida, mas a ira de Deus permanece sobre ele.
+
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
 
 ## 4
 
@@ -178,6 +198,11 @@
 * **4:53** Conheceu, pois, o Patēr (Pai) que naquela hora em que Jesus lhe dissera: "O teu filho vive", e creu ele e toda a sua casa.
 * **4:54** Este, de novo, foi o segundo sinal que Jesus fez, tendo vindo da Judeia para a Galileia.
 
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
+
 ## 5
 
 * **5:1** Depois disto, havia uma festa dos judeus, e subiu Iēsous (Jesus) a Jerusalém.
@@ -226,6 +251,11 @@
 * **5:45** Não cuideis que eu vos acusarei perante o Patēr; quem vos acusa é Moisés, em quem vós esperais.
 * **5:46** Pois, se crêsseis em Moisés, creríeis em mim, pois ele escreveu a meu respeito.
 * **5:47** Mas, se não credes nos seus escritos, como crereis nas minhas palavras?
+
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
 
 ## 6
 
@@ -301,6 +331,11 @@
 * **6:70** Respondeu-lhes Jesus: "Não vos escolhi eu os doze? E um de vós é um diabo".
 * **6:71** Falava ele de Judas, filho de Simão Iscariotes; pois este era quem o havia de entregar, sendo um dos doze.
 
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
+
 ## 7
 
 * **7:1** E depois disto, o Iēsous (Jesus) andava pela Galileia, pois não queria andar pela Judeia, porque os judeus procuravam matá-lo.
@@ -356,6 +391,11 @@
 * **7:51** Acaso a nossa lei julga um homem sem primeiro ouvi-lo e saber o que ele faz?
 * **7:52** Responderam e disseram-lhe: És tu também da Galileia? Examina e vê que da Galileia não surge profeta.
 * **7:53** E cada um foi para sua casa.
+
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
 
 ## 8
 
@@ -419,6 +459,11 @@
 * **8:58** Disse-lhes Jesus: Em verdade, em verdade vos digo: antes que Abraão existisse, eu sou.
 * **8:59** Pegaram, pois, em pedras para atirar nele; Jesus, porém, ocultou-se e saiu do templo.
 
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
+
 ## 9
 
 * **9:1** E, passando, viu um homem cego de nascença.
@@ -462,6 +507,11 @@
 * **9:39** E disse Jesus: Eu vim a este mundo para juízo, para que os que não veem vejam, e os que veem se tornem cegos.
 * **9:40** Ouviram isso alguns dos fariseus que estavam com ele, e disseram-lhe: Acaso somos nós também cegos?
 * **9:41** Disse-lhes Jesus: Se fôsseis cegos, não teríeis pecado; mas agora dizeis: Vemos; o vosso pecado permanece.
+
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
 
 ## 10
 
@@ -507,6 +557,11 @@
 * **10:40** E retirou-se novamente para além do Jordão, para o lugar onde João primeiro batizava, e ali permaneceu.
 * **10:41** E muitos foram ter com ele e diziam que João, na verdade, não fez sinal algum, mas tudo o que João disse a respeito deste era verdade.
 * **10:42** E muitos creram nele ali.
+
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
 
 ## 11
 
@@ -568,6 +623,11 @@
 * **11:56** Procuravam, pois, a Jesus e diziam uns aos outros, estando no templo: Que vos parece? Não virá ele à festa?
 * **11:57** Ora, os principais sacerdotes e os fariseus tinham dado ordens de que, se alguém soubesse onde ele estava, o denunciasse, para que o prendessem.
 
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
+
 ## 12
 
 * **12:1** Jesus, pois, seis dias antes da páscoa, veio a Betânia, onde estava Lázaro, a quem Jesus ressuscitara dos mortos.
@@ -621,6 +681,11 @@
 * **12:49** Porque eu não tenho falado de mim mesmo, mas o Patēr, que me enviou, ele me deu mandamento sobre o que hei de dizer e o que hei de falar.
 * **12:50** E sei que o seu mandamento é vida eterna. Portanto, o que eu falo, falo-o como o Patēr mo tem dito.
 
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
+
 ## 13
 
 * **13:1** Ora, antes da festa da páscoa, sabendo Jesus que era chegada a sua hora de passar deste mundo para o Patēr, tendo amado os seus que estavam no mundo, amou-os até ao fim.
@@ -662,6 +727,11 @@
 * **13:37** Diz-lhe Pedro: Senhor, por que não posso seguir-te agora? A minha vida darei por ti.
 * **13:38** Responde Jesus: A tua vida darás por mim? Em verdade, em verdade te digo: não cantará o galo até que me negues três vezes.
 
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
+
 ## 14
 
 * **14:1** Não se turbe o vosso coração; credes em Deus, crede também em mim.
@@ -696,6 +766,11 @@
 * **14:30** Já não falarei muito convosco, pois vem o príncipe do mundo; e ele nada tem em mim,
 * **14:31** mas para que o mundo saiba que eu amo o Pai, e como o Pai me ordenou, assim faço. Levantai-vos, vamos daqui.
 
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
+
 ## 15
 
 * **15:1** Eu sou a videira verdadeira, e meu Pai é o agricultor.
@@ -725,6 +800,11 @@
 * **15:25** Mas é para que se cumpra a palavra que está escrita na sua lei: Odiaram-me sem motivo.
 * **15:26** Quando vier o Consolador, que eu vos enviarei da parte do Pai, o Espírito da verdade, que procede do Pai, esse testificará de mim;
 * **15:27** e vós também testemunhareis, porque estais comigo desde o princípio.
+
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
 
 ## 16
 
@@ -762,6 +842,11 @@
 * **16:32** Eis que vem a hora, e já chegou, em que sereis dispersos, cada um para a sua casa, e me deixareis só; mas não estou só, porque o Pai está comigo.
 * **16:33** Tenho-vos dito estas coisas para que em mim tenhais paz; no mundo tereis aflições, mas tende bom ânimo, eu venci o mundo.
 
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
+
 ## 17
 
 * **17:1** Estas coisas falou Jesus e, levantando os seus olhos ao céu, disse: Pai, é chegada a hora; glorifica o teu Filho, para que o Filho te glorifique,
@@ -790,6 +875,11 @@
 * **17:24** Pai, quero que, onde eu estiver, também aqueles que me deste estejam comigo, para que vejam a minha glória que me deste, porque me amaste antes da fundação do mundo.
 * **17:25** Pai justo, o mundo não te conheceu, mas eu te conheci, e estes conheceram que tu me enviaste;
 * **17:26** e eu lhes dei a conhecer o teu nome e lho darei a conhecer, para que o amor com que me amaste esteja neles, e eu neles.
+
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
 
 ## 18
 
@@ -833,6 +923,11 @@
 * **18:38** Disse-lhe Pilatos: Que é a verdade? E, dizendo isso, saiu novamente para os judeus e disse-lhes: Eu não acho nele crime algum.
 * **18:39** Mas vós tendes por costume que eu vos solte alguém na páscoa; quereis, pois, que vos solte o rei dos judeus?
 * **18:40** Gritaram, pois, novamente, dizendo: Não este, mas Barrabás. E Barrabás era um salteador.
+
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
 
 ## 19
 
@@ -879,6 +974,11 @@
 * **19:41** E havia um jardim no lugar onde ele foi crucificado, e no jardim um sepulcro novo, em que ainda ninguém havia sido posto.
 * **19:42** Ali, pois, por causa da preparação dos judeus, e por estar perto o sepulcro, puseram Jesus.
 
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
+
 ## 20
 
 * **20:1** No primeiro dia da semana, Maria Madalena foi ao sepulcro de madrugada, sendo ainda escuro, e viu a pedra removida do sepulcro.
@@ -912,6 +1012,11 @@
 * **20:29** Disse-lhe Jesus: Porque me viste, creste? Bem-aventurados os que não viram e creram.
 * **20:30** Jesus, pois, operou também, na presença dos seus discípulos, muitos outros sinais que não estão escritos neste livro;
 * **20:31** estes, porém, foram escritos para que creiais que Jesus é o Christos (Messias), o Filho de Deus, e para que, crendo, tenhais vida em seu nome.
+
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
 
 ## 21
 

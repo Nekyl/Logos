@@ -1,5 +1,10 @@
 # 1 Timóteo
 
+<a id="topo"></a>
+
+[1](#1) [2](#2) [3](#3) [4](#4) [5](#5) [6](#6)
+
+
 ## 1
 
 * **1:1** Paulo, apóstolo de Christou Iēsou (Cristo Jesus), por ordem de Theou (Deus), nosso Salvador, e de Christou Iēsou, nossa esperança,
@@ -23,6 +28,11 @@
 * **1:19** mantendo a fé e uma boa consciência, a qual alguns rejeitaram e, por isso, naufragaram na fé.
 * **1:20** Entre eles estão Himeneu e Alexandre, os quais entreguei a Satanás, para que aprendam a não blasfemar.
 
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
+
 ## 2
 
 * **2:1** Exorto, pois, acima de tudo, que se façam súplicas, orações, intercessões e ações de graças por todos os homens,
@@ -40,6 +50,11 @@
 * **2:13** Pois Adão foi formado primeiro, depois Eva.
 * **2:14** E Adão não foi enganado, mas a mulher, sendo enganada, caiu em transgressão.
 * **2:15** Ela será salva através da maternidade, se permanecerem na fé, no amor e na santificação, com bom senso.
+
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
 
 ## 3
 
@@ -60,6 +75,11 @@
 * **3:15** mas, se eu tardar, para que saibas como se deve proceder na casa de Theos (Deus), que é a igreja do Deus vivo, coluna e fundamento da verdade.
 * **3:16** E, confessadamente, grande é o mistério da piedade: Aquele que foi manifestado na carne, justificado no espírito, visto pelos anjos, pregado entre as nações, crido no mundo, recebido na glória.
 
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
+
 ## 4
 
 * **4:1** Mas o Pneuma Hagion (Espírito Santo) diz expressamente que, nos últimos tempos, alguns apostatarão da fé, dando ouvidos a espíritos enganadores e a doutrinas de demônios,
@@ -78,6 +98,11 @@
 * **4:14** Não negligencies o dom que há em ti, que te foi dado por profecia com a imposição das mãos do presbitério.
 * **4:15** Medita estas coisas, sê diligente nelas, para que o teu progresso seja manifesto a todos.
 * **4:16** Tem cuidado de ti mesmo e da doutrina; persevera nestas coisas, pois, fazendo isto, salvarás tanto a ti mesmo quanto aos que te ouvem.
+
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
 
 ## 5
 
@@ -106,6 +131,11 @@
 * **5:23** Não bebas mais apenas água, mas usa um pouco de vinho por causa do teu estômago e das tuas frequentes enfermidades.
 * **5:24** Os pecados de alguns homens são manifestos, precedendo o juízo, enquanto em outros, eles os seguem.
 * **5:25** Da mesma forma, as boas obras também são manifestas, e as que são de outra maneira não podem ficar escondidas.
+
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
 
 ## 6
 

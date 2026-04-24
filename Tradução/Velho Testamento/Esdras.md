@@ -1,5 +1,10 @@
 # Esdras
 
+<a id="topo"></a>
+
+[1](#1) [2](#2) [3](#3) [4](#4) [5](#5) [6](#6) [7](#7) [8](#8) [9](#9) [10](#10)
+
+
 ## 1
 
 * **1:1** No primeiro ano de Ciro, rei da Pérsia, para que se cumprisse a palavra de YHWH (SENHOR) dita por Jeremias, YHWH despertou o espírito de Ciro, rei da Pérsia, o qual fez passar um pregão por todo o seu reino, e também por escrito, dizendo:
@@ -13,6 +18,11 @@
 * **1:9** E este é o número deles: trinta bacias de ouro, mil bacias de prata, vinte e nove facas.
 * **1:10** Trinta taças de ouro, quatrocentas e dez taças de prata de segunda ordem, e mil outros utensílios.
 * **1:11** Todos os utensílios de ouro e de prata foram cinco mil e quatrocentos. Tudo isso levou Sesbazar, quando os do cativeiro subiram da Babilônia para Jerusalém.
+
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
 
 ## 2
 
@@ -87,6 +97,11 @@
 * **2:69** Segundo as suas posses, deram para o tesouro da obra: sessenta e um mil dracmas de ouro, cinco mil minas de prata e cem vestes sacerdotais.
 * **2:70** Assim habitaram os sacerdotes, os levitas, parte do povo, os cantores, os porteiros e os netineus nas suas cidades, e todo o Israel nas suas cidades.
 
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
+
 ## 3
 
 * **3:1** Chegando o sétimo mês, e estando os filhos de Israel nas cidades, o povo se ajuntou como um só homem em Jerusalém.
@@ -102,6 +117,11 @@
 * **3:11** Cantavam, louvando e agradecendo a YHWH, porque ele é bom, porque a sua benignidade dura para sempre sobre Israel. E todo o povo jubilou com grande brado, quando louvavam a YHWH, por ter sido posto o fundamento da casa de YHWH.
 * **3:12** Mas muitos dos sacerdotes, levitas e chefes das famílias, os anciãos que tinham visto a primeira casa, quando o fundamento desta casa foi posto diante dos seus olhos, choraram em alta voz; muitos, porém, levantaram a voz em júbilo e alegria.
 * **3:13** De maneira que o povo não podia distinguir o som do brado de alegria do som do choro do povo; porque o povo jubilava com grande brado, e o som se ouvia de longe.
+
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
 
 ## 4
 
@@ -130,6 +150,11 @@
 * **4:23** Então, quando a cópia da carta do rei Artaxerxes foi lida diante de Reum, de Sinsai, o escrivão, e de seus companheiros, foram eles apressadamente a Jerusalém, aos judeus, e fizeram-nos parar pela força e poder.
 * **4:24** Então cessou a obra da casa de Elohim, que estava em Jerusalém, e ficou parada até ao segundo ano do reinado de Dario, rei da Pérsia.
 
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
+
 ## 5
 
 * **5:1** E os profetas Ageu e Zacarias, filho de Ido, profetizaram aos judeus que estavam em Judá e em Jerusalém, em nome do Elohim de Israel, que estava sobre eles.
@@ -149,6 +174,11 @@
 * **5:15** E disse-lhe: Toma estes utensílios, vai e leva-os ao templo que está em Jerusalém, e que a casa de Elohim se edifique no seu lugar.
 * **5:16** Então veio aquele Sesbazar e lançou os fundamentos da casa de Elohim que está em Jerusalém; e desde aquele tempo até agora tem sido edificada, e ainda não está acabada.
 * **5:17** Agora, pois, se parecer bem ao rei, busque-se na casa dos tesouros do rei, que está ali em Babilônia, se é verdade que foi dada ordem pelo rei Ciro para edificar esta casa de Elohim em Jerusalém; e sobre isto o rei nos faça saber a sua vontade.
+
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
 
 ## 6
 
@@ -174,6 +204,11 @@
 * **6:20** Pois os sacerdotes e os levitas purificaram-se como um só; todos estavam puros. Eles sacrificaram o cordeiro pascal para todos os filhos do exílio, para seus irmãos, os sacerdotes, e para si mesmos.
 * **6:21** Comeram os filhos de Israel que voltaram do exílio, juntamente com todos os que se separaram da impureza das nações da terra para buscar a YHWH (SENHOR), o Elohim de Israel.
 * **6:22** Celebraram a Festa dos Pães Asmos por sete dias com alegria, pois YHWH os alegrou e inclinou o coração do rei da Assíria para fortalecer suas mãos na obra da casa de Elohim, o Elohim de Israel.
+
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
 
 ## 7
 
@@ -205,6 +240,11 @@
 * **7:26** E todo aquele que não cumprir a lei do teu Elohim e a lei do rei, seja julgado prontamente, seja para morte, seja para desterro, seja para confisco de bens ou para prisão.
 * **7:27** Bendito seja YHWH, o Elohim de nossos pais, que pôs tal coisa no coração do rei, para adornar a casa de YHWH que está em Jerusalém,
 * **7:28** e que inclinou para mim a misericórdia perante o rei, seus conselheiros e todos os príncipes poderosos do rei. Eu, fortalecido pela mão de YHWH, meu Elohim, sobre mim, reuni os chefes de Israel para subirem comigo.
+
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
 
 ## 8
 
@@ -245,6 +285,11 @@
 * **8:35** Os que vieram do cativeiro, os filhos do exílio, ofereceram holocaustos ao Elohim de Israel: doze novilhos por todo o Israel, noventa e seis carneiros, setenta e sete cordeiros e doze bodes como oferta pelo pecado; tudo isso como holocausto a YHWH.
 * **8:36** Entregaram os decretos do rei aos sátrapas do rei e aos governadores da província além do rio, os quais apoiaram o povo e a casa de Elohim.
 
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
+
 ## 9
 
 * **9:1** Terminadas estas coisas, aproximaram-se de mim os príncipes, dizendo: O povo de Israel, os sacerdotes e os levitas não se separaram dos povos das terras, conforme as suas abominações: dos cananeus, heteus, ferezeus, jebuseus, amonitas, moabitas, egípcios e amorreus.
@@ -262,6 +307,11 @@
 * **9:13** Depois de tudo o que nos sobreveio por causa das nossas más obras e da nossa grande culpa, visto que Tu, nosso Elohim, nos castigaste menos do que as nossas iniquidades mereciam e nos deste este remanescente,
 * **9:14** voltaremos a violar os Teus mandamentos e a nos aparentar com os povos destas abominações? Não Te irarias Tu contra nós até nos consumires, sem que restasse remanescente ou sobrevivente?
 * **9:15** YHWH, Elohim de Israel, Tu és justo, pois restamos como um remanescente, como hoje se vê. Eis-nos diante de Ti em nossa culpa, pois não há como estar diante de Ti por causa disto.
+
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
 
 ## 10
 

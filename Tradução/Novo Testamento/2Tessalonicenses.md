@@ -1,5 +1,10 @@
 # 2 Tessalonicenses
 
+<a id="topo"></a>
+
+[1](#1) [2](#2) [3](#3)
+
+
 ## 1
 
 * **1:1** Paulo, Silvano e Timóteo à igreja dos tessalonicenses em Theos Patēr (Deus Pai) nosso e Kyrios Iēsous Christos (Senhor Jesus Messias);
@@ -14,6 +19,11 @@
 * **1:10** quando ele vier para ser glorificado nos seus santos e ser admirado em todos os que creram, pois o nosso testemunho foi crido por vós, naquele dia.
 * **1:11** Pelo que também oramos sempre por vós, para que o nosso Deus vos considere dignos da vocação e cumpra todo o bom propósito de bondade e a obra da fé com poder,
 * **1:12** para que o nome do nosso Senhor Jesus seja glorificado em vós, e vós nele, segundo a graça do nosso Deus e Senhor Jesus Messias.
+
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
 
 ## 2
 
@@ -34,6 +44,11 @@
 * **2:15** Portanto, irmãos, estai firmes e retende as tradições que vos foram ensinadas, seja por palavra, seja por epístola nossa.
 * **2:16** E o próprio nosso Senhor Jesus Messias e Deus o Pai nosso, que nos amou e nos deu eterna consolação e boa esperança na graça,
 * **2:17** console os vossos corações e vos confirme em toda boa obra e palavra.
+
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
 
 ## 3
 

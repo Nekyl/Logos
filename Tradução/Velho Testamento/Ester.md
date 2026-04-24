@@ -1,5 +1,10 @@
 # Ester
 
+<a id="topo"></a>
+
+[1](#1) [2](#2) [3](#3) [4](#4) [5](#5) [6](#6) [7](#7) [8](#8) [9](#9) [10](#10)
+
+
 ## 1
 
 * **1:1** Aconteceu nos dias de Assuero, o mesmo Assuero que reinou desde a Índia até a Etiópia, sobre cento e vinte e sete províncias.
@@ -24,6 +29,11 @@
 * **1:20** E, quando o decreto do rei for ouvido em todo o seu vasto reino, todas as mulheres darão honra aos seus maridos, desde o maior até o menor."
 * **1:21** O conselho agradou ao rei e aos príncipes, e o rei fez conforme a palavra de Memucã.
 * **1:22** Enviou cartas a todas as províncias do rei, a cada província conforme a sua escrita e a cada povo conforme a sua língua, para que cada homem fosse senhor na sua casa e falasse a língua do seu povo.
+
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
 
 ## 2
 
@@ -51,6 +61,11 @@
 * **2:22** O fato foi conhecido por Mordecai, que o revelou à rainha Ester, e Ester disse ao rei em nome de Mordecai.
 * **2:23** O assunto foi investigado e comprovado, e ambos foram pendurados numa forca; isso foi escrito no livro das crônicas diante do rei.
 
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
+
 ## 3
 
 * **3:1** Depois destas coisas, o rei Assuero engrandeceu Hamã, filho de Hamedata, o agagita, exaltou-o e colocou o seu assento acima de todos os príncipes que estavam com ele.
@@ -68,6 +83,11 @@
 * **3:13** Cartas foram enviadas por meio de correios a todas as províncias do rei, para destruir, matar e aniquilar todos os judeus, desde o jovem até o velho, crianças e mulheres, num único dia, no décimo terceiro dia do décimo segundo mês, que é o mês de Adar, e para saquear os seus bens.
 * **3:14** Uma cópia do documento, para ser proclamada como lei em cada província, foi publicada a todos os povos, para que estivessem preparados para aquele dia.
 * **3:15** Os correios partiram apressadamente por ordem do rei, e a lei foi proclamada na fortaleza de Susã; o rei e Hamã sentaram-se para beber, mas a cidade de Susã estava perplexa.
+
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
 
 ## 4
 
@@ -89,6 +109,11 @@
 * **4:16** "Vai, reúne todos os judeus que se encontram em Susã e jejuai por mim; não comais nem bebais por três dias, noite e dia. Eu e as minhas moças também jejuaremos da mesma forma. Depois, entrarei ao rei, ainda que não seja segundo a lei; e, se eu perecer, pereci."
 * **4:17** Mordecai foi e fez conforme tudo o que Ester lhe ordenara.
 
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
+
 ## 5
 
 * **5:1** No terceiro dia, Ester vestiu-se com as suas vestes reais e pôs-se no pátio interior da casa do rei, em frente à casa do rei; o rei estava sentado no seu trono real, na casa real, em frente à entrada da casa.
@@ -105,6 +130,11 @@
 * **5:12** Hamã disse: "Além disso, a rainha Ester não deixou ninguém vir com o rei ao banquete que ela preparou, senão a mim; e também para amanhã estou convidado por ela com o rei.
 * **5:13** Mas tudo isto não me satisfaz enquanto eu vir o judeu Mordecai sentado à porta do rei."
 * **5:14** Zeres, a sua mulher, e todos os seus amigos disseram-lhe: "Faça-se uma forca de cinquenta côvados de altura e, pela manhã, dize ao rei que pendurem Mordecai nela; então entra alegre com o rei ao banquete." A ideia agradou a Hamã, e ele mandou fazer a forca.
+
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
 
 ## 6
 
@@ -123,6 +153,11 @@
 * **6:13** Hamã contou a Zeres, a sua mulher, e a todos os seus amigos tudo o que lhe tinha acontecido. Os seus sábios e Zeres, a sua mulher, disseram-lhe: "Se Mordecai, diante de quem começaste a cair, é da descendência dos judeus, não prevalecerás contra ele, mas certamente cairás diante dele."
 * **6:14** Enquanto ainda falavam com ele, chegaram os eunucos do rei e apressaram-se a levar Hamã ao banquete que Ester tinha preparado.
 
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
+
 ## 7
 
 * **7:1** O rei e Hamã vieram beber com a rainha Ester.
@@ -135,6 +170,11 @@
 * **7:8** O rei voltou do jardim do palácio para a casa do banquete do vinho, e Hamã tinha caído sobre o leito em que Ester estava. O rei disse: "Acaso ele quer violentar a rainha na minha própria casa?" Assim que a palavra saiu da boca do rei, cobriram o rosto de Hamã.
 * **7:9** Harbona, um dos eunucos que serviam diante do rei, disse: "Eis que também a forca que Hamã fez para Mordecai, que falou bem em favor do rei, está na casa de Hamã, com cinquenta côvados de altura." O rei disse: "Pendurai-o nela."
 * **7:10** Penduraram Hamã na forca que ele tinha preparado para Mordecai, e o furor do rei aplacou-se.
+
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
 
 ## 8
 
@@ -155,6 +195,11 @@
 * **8:15** Mordecai saiu da presença do rei com vestes reais de azul e branco, com uma grande coroa de ouro e um manto de linho fino e púrpura; a cidade de Susã exultava e alegrava-se.
 * **8:16** Para os judeus houve luz, alegria, regozijo e honra.
 * **8:17** Em cada província e em cada cidade, onde a ordem do rei e a sua lei chegavam, havia alegria e regozijo para os judeus, banquetes e dias de festa; e muitos dos povos da terra tornaram-se judeus, pois o medo dos judeus tinha caído sobre eles.
+
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
 
 ## 9
 
@@ -190,6 +235,11 @@
 * **9:30** Enviaram cartas a todos os judeus, às cento e vinte e sete províncias do reino de Assuero, com palavras de paz e de verdade.
 * **9:31** Para confirmar estes dias de Purim nos seus tempos determinados, como Mordecai, o judeu, e a rainha Ester tinham estabelecido para eles, e como eles mesmos tinham estabelecido para si e para a sua descendência, com os seus jejuns e o seu clamor.
 * **9:32** O decreto de Ester confirmou estas palavras sobre o Purim, e foi registrado no livro.
+
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
 
 ## 10
 

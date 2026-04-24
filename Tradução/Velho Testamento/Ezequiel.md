@@ -1,5 +1,10 @@
 # Ezequiel
 
+<a id="topo"></a>
+
+[1](#1) [2](#2) [3](#3) [4](#4) [5](#5) [6](#6) [7](#7) [8](#8) [9](#9) [10](#10) [11](#11) [12](#12) [13](#13) [14](#14) [15](#15) [16](#16) [17](#17) [18](#18) [19](#19) [20](#20) [21](#21) [22](#22) [23](#23) [24](#24) [25](#25) [26](#26) [27](#27) [28](#28) [29](#29) [30](#30) [31](#31) [32](#32) [33](#33) [34](#34) [35](#35) [36](#36) [37](#37) [38](#38) [39](#39) [40](#40) [41](#41) [42](#42) [43](#43) [44](#44) [45](#45) [46](#46) [47](#47) [48](#48)
+
+
 ## 1
 
 * **1:1** No trigésimo ano, no quarto mês, no dia cinco, estando eu entre os exilados junto ao rio Quebar, os céus se abriram e eu tive visões de Elohim (Deus).
@@ -31,6 +36,11 @@
 * **1:27** Vi como o brilho de metal reluzente, como a aparência de fogo ao redor dele, desde a aparência de seus lombos para cima; e desde a aparência de seus lombos para baixo, vi como a aparência de fogo, e um resplendor ao redor dele.
 * **1:28** Como a aparência do arco que aparece na nuvem no dia de chuva, assim era a aparência do resplendor ao redor. Esta era a aparência da semelhança da glória de YHWH; vendo isso, caí com o rosto em terra e ouvi uma voz que falava.
 
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
+
 ## 2
 
 * **2:1** Ele me disse: Filho do homem, põe-te em pé, e falarei contigo.
@@ -43,6 +53,11 @@
 * **2:8** Mas tu, filho do homem, ouve o que eu te falo; não sejas rebelde como a casa rebelde; abre a tua boca e come o que eu te dou.
 * **2:9** Olhei, e eis que uma mão estendida para mim, e nela havia um rolo de livro.
 * **2:10** Ele o estendeu diante de mim, e estava escrito por dentro e por fora; nele estavam escritas lamentações, suspiros e ais.
+
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
 
 ## 3
 
@@ -74,6 +89,11 @@
 * **3:26** Farei a tua língua pegar-se ao teu paladar, e ficarás mudo, e não serás para eles um homem que repreende, porque são casa rebelde.
 * **3:27** Mas, quando eu falar contigo, abrirei a tua boca, e lhes dirás: Assim diz Adonai YHWH: Quem ouvir, ouça, e quem deixar de ouvir, deixe, porque são casa rebelde.
 
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
+
 ## 4
 
 * **4:1** E tu, filho do homem, toma um tijolo, põe-no diante de ti e desenha nele a cidade de Jerusalém.
@@ -93,6 +113,11 @@
 * **4:15** Ele me disse: Vê, eu te dei esterco de gado em lugar de esterco humano, e sobre ele prepararás o teu pão.
 * **4:16** Disse-me: Filho do homem, eis que eu quebrarei o sustento do pão em Jerusalém; comerão pão por peso e com ansiedade, e beberão água por medida e com espanto.
 * **4:17** Para que, faltando-lhes pão e água, se assombrem uns com os outros e se consumam na sua iniquidade.
+
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
 
 ## 5
 
@@ -114,6 +139,11 @@
 * **5:16** Quando eu enviar contra eles as flechas malignas da fome, que serão para destruição, as quais enviarei para vos destruir, aumentarei a fome sobre vós e quebrarei o vosso sustento do pão.
 * **5:17** Enviarei sobre vós a fome e bestas feras, que te desfilharão; a peste e o sangue passarão por ti, e trarei a espada sobre ti; eu, YHWH, falei.
 
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
+
 ## 6
 
 * **6:1** Veio a palavra de YHWH a mim, dizendo:
@@ -130,6 +160,11 @@
 * **6:12** O que estiver longe morrerá de peste, o que estiver perto cairá à espada, e o que restar e for poupado morrerá de fome; assim cumprirei o meu furor neles.
 * **6:13** Sabereis que eu sou YHWH, quando os seus mortos estiverem no meio dos seus ídolos, ao redor dos seus altares, em todo outeiro alto, em todos os cumes dos montes, debaixo de toda árvore verde e debaixo de todo carvalho frondoso, lugares onde ofereciam cheiro suave a todos os seus ídolos.
 * **6:14** Estenderei a minha mão sobre eles e farei a terra em desolação e espanto, desde o deserto até Dibla, em todas as suas habitações; e saberão que eu sou YHWH.
+
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
 
 ## 7
 
@@ -161,6 +196,11 @@
 * **7:26** Ruína sobre ruína virá, e rumor sobre rumor sucederá; buscarão visão do profeta, mas a lei perecerá do sacerdote, e o conselho, dos anciãos.
 * **7:27** O rei se lamentará, o príncipe se vestirá de desolação, e as mãos do povo da terra se turbarão; segundo o seu caminho lhes farei, e com os seus juízos os julgarei; e saberão que eu sou YHWH.
 
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
+
 ## 8
 
 * **8:1** No sexto ano, no sexto mês, no dia cinco do mês, estando eu assentado em minha casa, e os anciãos de Judá assentados diante de mim, a mão de Adonai YHWH caiu ali sobre mim.
@@ -182,6 +222,11 @@
 * **8:17** E Ele me disse: "Viste, filho do homem? É pouco para a casa de Judá cometerem as abominações que fazem aqui? Pois encheram a terra de violência e tornam a provocar-Me à ira; e eis que chegam o ramo ao seu nariz."
 * **8:18** "Por isso, também Eu agirei com furor; o Meu olho não poupará, nem terei piedade; ainda que gritem aos Meus ouvidos em alta voz, não os ouvirei."
 
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
+
 ## 9
 
 * **9:1** E Ele clamou aos meus ouvidos em alta voz, dizendo: "Aproximai-vos, executores da cidade, cada um com a sua arma de destruição na mão."
@@ -195,6 +240,11 @@
 * **9:9** E Ele me disse: "A iniquidade da casa de Israel e de Judá é grandíssima, e a terra está cheia de sangue, e a cidade cheia de perversidade; pois dizem: 'YHWH abandonou a terra, e YHWH não vê'."
 * **9:10** "Por isso, também o Meu olho não poupará, nem terei piedade; farei recair o seu caminho sobre a sua cabeça."
 * **9:11** E eis que o homem vestido de linho, que tinha o tinteiro à cintura, respondeu, dizendo: "Fiz conforme tudo o que me ordenaste."
+
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
 
 ## 10
 
@@ -220,6 +270,11 @@
 * **10:20** Esta é a criatura vivente que vi debaixo do Elohim de Israel junto ao rio Quebar; e soube que eram querubins.
 * **10:21** Cada um tinha quatro rostos e cada um quatro asas; e a semelhança de mãos de homem estava debaixo das suas asas.
 * **10:22** E a semelhança dos seus rostos era a mesma dos rostos que vi junto ao rio Quebar, a sua aparência e eles mesmos; cada um andava em direção ao seu rosto.
+
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
 
 ## 11
 
@@ -248,6 +303,11 @@
 * **11:23** E a glória de YHWH se elevou de sobre o meio da cidade e pôs-se sobre o monte que está ao oriente da cidade.
 * **11:24** E o espírito me levantou e me levou na visão, pelo Ruach Elohim (Espírito de Deus), para a Caldeia, aos do cativeiro; e a visão que eu tinha visto se elevou de sobre mim.
 * **11:25** E falei aos do cativeiro todas as palavras de YHWH que Ele me tinha mostrado.
+
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
 
 ## 12
 
@@ -280,6 +340,11 @@
 * **12:27** "Filho do homem, eis que a casa de Israel diz: 'A visão que este vê é para muitos dias, e ele profetiza de tempos longínquos'."
 * **12:28** "Portanto, dize-lhes: Assim diz Adonai YHWH: Não será mais adiada nenhuma das Minhas palavras; a palavra que Eu falar será cumprida, diz Adonai YHWH."
 
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
+
 ## 13
 
 * **13:1** E veio a mim a palavra de YHWH, dizendo:
@@ -305,6 +370,11 @@
 * **13:21** "E rasgarei os vossos véus e livrarei o Meu povo da vossa mão, e não estarão mais na vossa mão para serem caçados; e sabereis que Eu sou YHWH."
 * **13:22** "Porque com mentiras entristecestes o coração do justo, ao qual Eu não entristeci, e fortalecestes as mãos do ímpio, para que não se desviasse do seu mau caminho, para salvar a sua vida."
 * **13:23** "Portanto, não vereis mais vaidade, nem adivinhareis mais adivinhações; e livrarei o Meu povo da vossa mão, e sabereis que Eu sou YHWH."
+
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
 
 ## 14
 
@@ -332,6 +402,11 @@
 * **14:22** "Contudo, eis que nela restará um remanescente, que será tirado, filhos e filhas; eis que eles sairão a vós, e vereis o seu caminho e as suas obras, e vos consolareis do mal que trouxe sobre Jerusalém, de tudo o que trouxe sobre ela."
 * **14:23** "E vos consolareis, quando virdes o seu caminho e as suas obras; e sabereis que não fiz sem causa tudo o que fiz nela, diz Adonai YHWH."
 
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
+
 ## 15
 
 * **15:1** E veio a mim a palavra de YHWH, dizendo:
@@ -342,6 +417,11 @@
 * **15:6** "Portanto, assim diz Adonai YHWH: Como a madeira da videira entre as árvores do bosque, que dei ao fogo para ser consumida, assim darei os habitantes de Jerusalém."
 * **15:7** "E porei o Meu rosto contra eles; do fogo sairão, e o fogo os consumirá; e sabereis que Eu sou YHWH, quando Eu puser o Meu rosto contra eles."
 * **15:8** "E tornarei a terra em desolação, porque cometeram uma transgressão, diz Adonai YHWH."
+
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
 
 ## 16
 
@@ -409,6 +489,11 @@
 * **16:62** E eu estabelecerei a minha aliança contigo, e saberás que eu sou YHWH;
 * **16:63** para que te lembres, e te envergonhes, e nunca mais abras a boca por causa da tua vergonha, quando eu te perdoar tudo o que fizeste, diz Adonai YHWH.
 
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
+
 ## 17
 
 * **17:1** E veio a mim a palavra de YHWH, dizendo:
@@ -435,6 +520,11 @@
 * **17:22** Assim diz Adonai YHWH: Também eu tomarei do mais alto ramo do cedro alto e o plantarei; cortarei um tenro renovo da ponta dos seus ramos e o plantarei sobre um monte alto e sublime.
 * **17:23** No monte alto de Israel o plantarei, e produzirá ramos, e dará fruto, e se tornará um cedro excelente; e debaixo dele habitarão aves de toda a espécie, à sombra dos seus ramos habitarão.
 * **17:24** E todas as árvores do campo saberão que eu, YHWH, abati a árvore alta, elevei a árvore baixa, sequei a árvore verde e fiz florescer a árvore seca; eu, YHWH, o disse e o fiz.
+
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
 
 ## 18
 
@@ -471,6 +561,11 @@
 * **18:31** Lançai de vós todas as vossas transgressões que cometestes e criai em vós um coração novo e um espírito novo; pois, por que morreríeis, ó casa de Israel?
 * **18:32** Porque não tenho prazer na morte de ninguém, diz Adonai YHWH; convertei-vos, pois, e vivei.
 
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
+
 ## 19
 
 * **19:1** E tu, levanta uma lamentação sobre os príncipes de Israel,
@@ -487,6 +582,11 @@
 * **19:12** Mas foi arrancada com furor, lançada por terra, e o vento oriental secou o seu fruto; as suas varas fortes foram quebradas e secas; o fogo as consumiu.
 * **19:13** E agora está plantada no deserto, em terra seca e sedenta.
 * **19:14** E saiu fogo de uma vara dos seus ramos, que consumiu o seu fruto, de modo que não há nela vara forte, cetro para governar. Esta é uma lamentação e servirá de lamentação.
+
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
 
 ## 20
 
@@ -540,6 +640,11 @@
 * **20:48** E toda a carne verá que eu, YHWH, o acendi; não se apagará.
 * **20:49** Então disse eu: Ah, Adonai YHWH! Eles dizem de mim: Porventura não profere ele parábolas?
 
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
+
 ## 21
 
 * **21:1** E veio a mim a palavra de YHWH, dizendo:
@@ -575,6 +680,11 @@
 * **21:31** E derramarei sobre ti a minha indignação, assoprarei sobre ti o fogo do meu furor, e te entregarei na mão de homens brutais, artífices de destruição.
 * **21:32** Ao fogo servirás para ser consumido; o teu sangue estará no meio da terra; não serás mais lembrado, porque eu, YHWH, o disse.
 
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
+
 ## 22
 
 * **22:1** E veio a mim a palavra de YHWH, dizendo:
@@ -608,6 +718,11 @@
 * **22:29** O povo da terra usa de opressão, e pratica a rapina, e oprimem o pobre e o necessitado, e ao estrangeiro oprimem sem justiça.
 * **22:30** E busquei dentre eles um homem que levantasse o muro, e se pusesse na brecha perante mim por esta terra, para que eu não a destruísse; mas a ninguém achei.
 * **22:31** Por isso derramei sobre eles a minha indignação, com o fogo do meu furor os consumi; o seu caminho fiz cair sobre a sua cabeça, diz Adonai YHWH.
+
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
 
 ## 23
 
@@ -662,6 +777,11 @@
 * **23:48** Farei cessar a devassidão da terra, para que todas as mulheres sejam advertidas e não façam segundo a vossa devassidão.
 * **23:49** Sobre vós recairá a vossa devassidão, e levareis os pecados dos vossos ídolos; e sabereis que eu sou Adonai YHWH.
 
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
+
 ## 24
 
 * **24:1** E aconteceu, no nono ano, no décimo mês, no décimo dia do mês, que a palavra de YHWH veio a mim, dizendo:
@@ -692,6 +812,11 @@
 * **24:26** que naquele dia virá a ti um fugitivo para trazer a notícia aos teus ouvidos?
 * **24:27** Naquele dia, a tua boca se abrirá para o fugitivo, e falarás e não ficarás mais mudo; assim serás para eles um sinal, e saberão que eu sou YHWH.
 
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
+
 ## 25
 
 * **25:1** E a palavra de YHWH veio a mim, dizendo:
@@ -711,6 +836,11 @@
 * **25:15** Assim diz Adonai YHWH: Visto que os filisteus se vingaram com vingança, e se vingaram com desprezo de alma, para destruir com inimizade eterna,
 * **25:16** portanto, assim diz Adonai YHWH: Eis que estenderei a minha mão sobre os filisteus, e cortarei os quereteus, e destruirei o resto da costa do mar.
 * **25:17** E executarei neles grandes vinganças com repreensões furiosas; e saberão que eu sou YHWH, quando eu exercer a minha vingança sobre eles.
+
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
 
 ## 26
 
@@ -735,6 +865,11 @@
 * **26:19** Porque assim diz Adonai YHWH: Quando eu te fizer uma cidade assolada, como as cidades que não são habitadas, quando eu fizer subir sobre ti o abismo e as muitas águas te cobrirem,
 * **26:20** então te farei descer com os que descem à cova, ao povo antigo, e te farei habitar nas profundezas da terra, como as ruínas antigas, com os que descem à cova, para que não sejas habitada; e porei glória na terra dos viventes.
 * **26:21** Far-te-ei um objeto de espanto, e não serás mais; serás procurada, mas nunca mais serás achada para sempre, diz Adonai YHWH.
+
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
 
 ## 27
 
@@ -775,6 +910,11 @@
 * **27:35** Todos os habitantes das ilhas pasmaram por tua causa, e os seus reis estremeceram de medo, o semblante perturbado.
 * **27:36** Os mercadores entre os povos assobiaram por tua causa; tornaste-te em objetos de espanto e não serás mais para sempre.
 
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
+
 ## 28
 
 * **28:1** E a palavra de YHWH veio a mim, dizendo:
@@ -804,6 +944,11 @@
 * **28:25** Assim diz Adonai YHWH: Quando eu congregar a casa de Israel dentre os povos onde estão espalhados, e me santificar entre eles aos olhos das nações, então habitarão na sua terra que dei ao meu servo Jacó.
 * **28:26** E habitarão nela seguros, e edificarão casas, e plantarão vinhas, e habitarão seguros, quando eu executar juízos sobre todos os que os desprezam ao redor deles; e saberão que eu sou YHWH, Elohim (Deus) deles.
 
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
+
 ## 29
 
 * **29:1** No décimo ano, no décimo segundo dia do décimo mês, veio a palavra de YHWH a mim, dizendo:
@@ -827,6 +972,11 @@
 * **29:19** Portanto, assim diz Adonai YHWH: Eis que eu darei a Nabucodonosor, rei de Babilônia, a terra do Egito; ele levará a sua multidão, tomará o seu despojo e roubará a sua presa; e isso será o salário para o seu exército.
 * **29:20** Pelo trabalho que ele fez contra ela, dei-lhe a terra do Egito, porque trabalharam para mim, diz Adonai YHWH.
 * **29:21** Naquele dia, farei brotar o poder para a casa de Israel, e te darei a ti a abertura da boca no meio deles; e saberão que eu sou YHWH.
+
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
 
 ## 30
 
@@ -857,6 +1007,11 @@
 * **30:25** Fortalecerei os braços do rei de Babilônia, e os braços de Faraó cairão; e saberão que eu sou YHWH, quando eu puser a minha espada na mão do rei de Babilônia, e ele a estender sobre a terra do Egito.
 * **30:26** E espalharei os egípcios entre as nações e os dispersarei pelas terras; e saberão que eu sou YHWH.
 
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
+
 ## 31
 
 * **31:1** E aconteceu no décimo primeiro ano, no terceiro mês, no primeiro dia do mês, que veio a palavra de YHWH a mim, dizendo:
@@ -877,6 +1032,11 @@
 * **31:16** Ao som da sua queda, fiz tremer as nações, quando o fiz descer ao Seol com os que descem à cova; e todas as árvores do Éden, a escolha e a melhor do Líbano, todas as que bebem água, se consolaram na terra debaixo.
 * **31:17** Também estes desceram com ele ao Seol, aos que foram mortos à espada; e os que eram o seu braço, que habitavam à sua sombra no meio das nações.
 * **31:18** A quem és tu semelhante em glória e em grandeza entre as árvores do Éden? Contudo, serás precipitado com as árvores do Éden à terra debaixo; no meio dos incircuncisos jazerás, com os que foram mortos à espada. Este é Faraó e toda a sua multidão, diz Adonai YHWH.
+
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
 
 ## 32
 
@@ -912,6 +1072,11 @@
 * **32:30** Ali estão os príncipes do norte, todos eles, e todos os sidônios, que desceram com os mortos, envergonhados por causa do terror que causaram com o seu poder; e jazem incircuncisos com os que foram mortos à espada e levam a sua vergonha com os que descem à cova.
 * **32:31** Faraó os verá e se consolará sobre toda a sua multidão; Faraó e todo o seu exército, mortos à espada, diz Adonai YHWH.
 * **32:32** Porque pus o meu terror na terra dos viventes, e ele será sepultado no meio dos incircuncisos com os que foram mortos à espada, Faraó e toda a sua multidão, diz Adonai YHWH.
+
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
 
 ## 33
 
@@ -949,6 +1114,11 @@
 * **33:32** E eis que tu és para eles como uma canção de amores, de quem tem voz suave e que bem tange; porque ouvem as tuas palavras, mas não as põem por obra.
 * **33:33** Mas, quando isso vier (e eis que vem), saberão que houve um profeta no meio deles.
 
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
+
 ## 34
 
 * **34:1** E veio a palavra de YHWH a mim, dizendo:
@@ -983,6 +1153,11 @@
 * **34:30** Saberão que eu, YHWH, seu Elohim, estou com elas, e que elas, a casa de Israel, são o meu povo, declara Adonai YHWH.
 * **34:31** Vós sois as minhas ovelhas, ovelhas do meu pasto; sois homens, e eu sou o vosso Elohim, declara Adonai YHWH.
 
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
+
 ## 35
 
 * **35:1** Veio a mim a palavra de YHWH, dizendo:
@@ -1000,6 +1175,11 @@
 * **35:13** Vós vos engrandecestes contra mim com a vossa boca e multiplicastes as vossas palavras contra mim; eu o ouvi.
 * **35:14** Assim diz Adonai YHWH: Quando toda a terra se alegrar, eu farei de ti uma desolação.
 * **35:15** Como te alegraste com a herança da casa de Israel, porque estava desolada, assim farei contigo; o monte Seir será uma desolação, e todo o Edom, todo ele; e saberão que eu sou YHWH.
+
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
 
 ## 36
 
@@ -1042,6 +1222,11 @@
 * **36:37** Assim diz Adonai YHWH: Ainda nisto serei consultado pela casa de Israel, para lho fazer: multiplicá-los-ei como um rebanho de homens.
 * **36:38** Como o rebanho de ofertas, como o rebanho de Jerusalém nas suas festas fixas, assim as cidades arruinadas ficarão cheias de rebanhos de homens; e saberão que eu sou YHWH.
 
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
+
 ## 37
 
 * **37:1** A mão de YHWH estava sobre mim, e ele me levou no Ruach (Espírito) de YHWH e me deixou no meio do vale, que estava cheio de ossos.
@@ -1073,6 +1258,11 @@
 * **37:27** O meu tabernáculo estará com eles; eu serei o seu Elohim, e eles serão o meu povo.
 * **37:28** As nações saberão que eu, YHWH, santifico a Israel, quando o meu santuário estiver no meio deles para sempre.
 
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
+
 ## 38
 
 * **38:1** Veio a mim a palavra de YHWH, dizendo:
@@ -1098,6 +1288,11 @@
 * **38:21** Chamarei contra ele a espada em todos os meus montes, declara Adonai YHWH; a espada de cada um será contra o seu irmão.
 * **38:22** Entrarei em juízo contra ele com peste e com sangue; chuva inundante, pedras de saraiva, fogo e enxofre farei chover sobre ele, sobre as suas tropas e sobre os muitos povos que estiverem com ele.
 * **38:23** Eu me engrandecerei, me santificarei e me darei a conhecer aos olhos de muitas nações; e saberão que eu sou YHWH.
+
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
 
 ## 39
 
@@ -1130,6 +1325,11 @@
 * **39:27** Quando eu os tornar a trazer dentre os povos e os reunir das terras dos seus inimigos, serei santificado neles aos olhos de muitas nações.
 * **39:28** E saberão que Eu sou YHWH (SENHOR) Elohim (Deus) deles, quando Eu os tiver exilado entre as nações e os tiver reunido em sua própria terra, não deixando mais nenhum deles para trás.
 * **39:29** E não esconderei mais o Meu rosto deles, pois derramei o Meu ruach (Espírito) sobre a casa de Israel, declara Adonai (Senhor) YHWH.
+
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
 
 ## 40
 
@@ -1183,6 +1383,11 @@
 * **40:48** Ele me levou ao vestíbulo da casa e mediu cada pilar do vestíbulo, cinco côvados de um lado e cinco côvados do outro; a largura do portão era de três côvados de um lado e três côvados do outro.
 * **40:49** O comprimento do vestíbulo era de vinte côvados, e a largura de onze côvados; subia-se por degraus, e havia colunas junto aos pilares, uma de um lado e outra do outro.
 
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
+
 ## 41
 
 * **41:1** Ele me levou ao templo e mediu os pilares, seis côvados de largura de um lado e seis côvados de largura do outro, a largura da tenda.
@@ -1212,6 +1417,11 @@
 * **41:25** Nas portas do templo foram feitos querubins e palmeiras, como os feitos nas paredes; e havia uma espessura de madeira diante do vestíbulo, por fora.
 * **41:26** Havia janelas fechadas e palmeiras de um lado e do outro, nas laterais do vestíbulo, nas câmaras laterais da casa e nas espessuras.
 
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
+
 ## 42
 
 * **42:1** Ele me levou ao átrio externo, pelo caminho do norte, e me levou à câmara que estava diante do lugar separado e diante da estrutura, ao norte.
@@ -1234,6 +1444,11 @@
 * **42:18** O lado do sul ele mediu, quinhentas varas com a vara de medir.
 * **42:19** Ele virou para o lado do mar e mediu quinhentas varas com a vara de medir.
 * **42:20** Para os quatro lados ele mediu; havia um muro ao redor, quinhentos de comprimento e quinhentos de largura, para fazer separação entre o santo e o profano.
+
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
 
 ## 43
 
@@ -1264,6 +1479,11 @@
 * **43:25** Durante sete dias prepararás um bode para oferta pelo pecado a cada dia; também um novilho e um carneiro do rebanho, sem defeito, serão preparados.
 * **43:26** Durante sete dias farão expiação pelo altar, purificá-lo-ão e o consagrarão.
 * **43:27** Ao completarem os dias, será que, no oitavo dia e daí em diante, os sacerdotes oferecerão sobre o altar os vossos holocaustos e as vossas ofertas de paz; e Eu vos aceitarei, declara Adonai YHWH.
+
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
 
 ## 44
 
@@ -1299,6 +1519,11 @@
 * **44:30** O melhor de todos os primeiros frutos e toda oferta de todas as vossas contribuições pertencerão aos sacerdotes; dareis ao sacerdote o primeiro da vossa massa, para que a bênção repouse sobre a vossa casa.
 * **44:31** Os sacerdotes não comerão nada que tenha morrido por si mesmo ou que tenha sido despedaçado por animais, seja ave ou animal.
 
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
+
 ## 45
 
 * **45:1** Quando repartirdes a terra por herança, reservareis uma contribuição para YHWH (SENHOR), uma porção sagrada da terra, de vinte e cinco mil côvados de comprimento e dez mil de largura; será sagrada em todo o seu limite ao redor.
@@ -1327,6 +1552,11 @@
 * **45:24** Preparará também uma oferta de cereais de um efa para cada novilho e um efa para cada carneiro, e um him de azeite para cada efa.
 * **45:25** No sétimo mês, no décimo quinto dia do mês, na festa, fará o mesmo durante os sete dias, tanto na oferta pelo pecado, quanto no holocausto, na oferta de cereais e no azeite.
 
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
+
 ## 46
 
 * **46:1** Assim diz Adonai (Senhor) YHWH (SENHOR): A porta do pátio interno que dá para o oriente ficará fechada durante os seis dias de trabalho; mas no dia de sábado será aberta, e no dia da lua nova será aberta.
@@ -1354,6 +1584,11 @@
 * **46:23** Havia uma fileira de pedras ao redor de cada um dos quatro, e lugares para cozer feitos debaixo das fileiras ao redor.
 * **46:24** Ele me disse: Estas são as cozinhas onde os ministros do templo cozerão os sacrifícios do povo.
 
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
+
 ## 47
 
 * **47:1** Ele me fez voltar à entrada do templo, e eis que saíam águas de debaixo do limiar do templo, para o oriente, pois a face do templo estava para o oriente; as águas desciam debaixo do lado direito do templo, ao sul do altar.
@@ -1379,6 +1614,11 @@
 * **47:21** Repartireis esta terra entre vós, segundo as tribos de Israel.
 * **47:22** Lançareis sortes para a repartir em herança entre vós e entre os estrangeiros que habitam no meio de vós, que gerarem filhos no meio de vós; eles serão para vós como naturais entre os filhos de Israel; convosco entrarão em herança no meio das tribos de Israel.
 * **47:23** Na tribo em que o estrangeiro habitar, ali lhe dareis a sua herança, declara Adonai (Senhor) YHWH (SENHOR).
+
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
 
 ## 48
 

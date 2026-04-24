@@ -1,5 +1,10 @@
 # Efésios
 
+<a id="topo"></a>
+
+[1](#1) [2](#2) [3](#3) [4](#4) [5](#5) [6](#6)
+
+
 ## 1
 
 * **1:1** Paulo, apóstolo de Christos Iēsous (Messias Jesus) pela vontade de Theos (Deus), aos santos que estão em Éfeso e fiéis em Christo Iēsou;
@@ -26,6 +31,11 @@
 * **1:22** e sujeitou todas as coisas debaixo dos seus pés e, para ser o cabeça sobre todas as coisas, o deu à igreja,
 * **1:23** que é o seu corpo, a plenitude daquele que preenche tudo em todos.
 
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
+
 ## 2
 
 * **2:1** E vós, estando mortos em vossas ofensas e pecados,
@@ -51,6 +61,11 @@
 * **2:21** em quem todo o edifício, bem ajustado, cresce para um templo santo no Kyriō;
 * **2:22** em quem também vós sois juntamente edificados para morada de Theou no espírito.
 
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
+
 ## 3
 
 * **3:1** Por esta causa, eu, Paulo, o prisioneiro de Christou Iēsou por vós, gentios —
@@ -74,6 +89,11 @@
 * **3:19** e conhecer o amor de Christou, que excede todo o entendimento, para que sejais cheios até toda a plenitude de Theou.
 * **3:20** Ora, àquele que é poderoso para fazer tudo muito mais abundantemente além do que pedimos ou pensamos, segundo o poder que opera em nós,
 * **3:21** a ele seja a glória na igreja e em Christō Iēsou, por todas as gerações, para todo o sempre. Amém.
+
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
 
 ## 4
 
@@ -110,6 +130,11 @@
 * **4:31** Toda amargura, e cólera, e ira, e gritaria, e blasfêmia sejam tiradas de entre vós, juntamente com toda malícia.
 * **4:32** Sede uns para com os outros benignos, compassivos, perdoando-vos mutuamente, como também Theos em Christō vos perdoou.
 
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
+
 ## 5
 
 * **5:1** Sede, pois, imitadores de Theou, como filhos amados,
@@ -145,6 +170,11 @@
 * **5:31** Por isso, deixará o homem seu Patēra e sua mētera e se unirá à sua mulher, e serão os dois uma só carne.
 * **5:32** Este mistério é grande, mas eu falo em relação a Christon e à igreja.
 * **5:33** Não obstante, vós, cada um de vós, ame a sua própria mulher como a si mesmo, e a mulher que respeite o marido.
+
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
 
 ## 6
 

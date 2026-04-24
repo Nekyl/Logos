@@ -1,5 +1,10 @@
 # Daniel
 
+<a id="topo"></a>
+
+[1](#1) [2](#2) [3](#3) [4](#4) [5](#5) [6](#6) [7](#7) [8](#8) [9](#9) [10](#10) [11](#11) [12](#12)
+
+
 ## 1
 
 * **1:1** No terceiro ano do reinado de Jeoaquim, rei de Judá, Nabucodonosor, rei da Babilônia, veio a Jerusalém e a sitiou.
@@ -23,6 +28,11 @@
 * **1:19** O rei falou com eles, e entre todos não se achou ninguém como Daniel, Hananias, Misael e Azarias; por isso, eles passaram a servir diante do rei.
 * **1:20** Em toda matéria de sabedoria e entendimento sobre a qual o rei os interrogou, achou-os dez vezes mais doutos do que todos os magos e encantadores que havia em todo o seu reino.
 * **1:21** E Daniel permaneceu ali até o primeiro ano do rei Ciro.
+
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
 
 ## 2
 
@@ -76,6 +86,11 @@
 * **2:48** Então o rei engrandeceu a Daniel, deu-lhe muitas e grandes dádivas e o pôs por governador sobre toda a província de Babilônia, e como chefe supremo sobre todos os sábios de Babilônia.
 * **2:49** E Daniel pediu ao rei, e ele constituiu sobre os negócios da província de Babilônia a Sadraque, Mesaque e Abede-Nego; mas Daniel permaneceu na corte do rei.
 
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
+
 ## 3
 
 * **3:1** O rei Nabucodonosor fez uma imagem de ouro, cuja altura era de sessenta côvados e a sua largura de seis côvados; levantou-a no vale de Dura, na província de Babilônia.
@@ -108,6 +123,11 @@
 * **3:28** Respondeu Nabucodonosor e disse: "Bendito seja o Eloah (Deus) deles, de Sadraque, Mesaque e Abede-Nego, que enviou o seu anjo e livrou os seus servos, que confiaram nele, e violaram a palavra do rei, entregando os seus corpos, para que não servissem nem adorassem a nenhum outro deus, senão ao seu próprio Eloah (Deus)".
 * **3:29** "Por isso, faço um decreto de que todo povo, nação e língua que disser blasfêmia contra o Eloah (Deus) de Sadraque, Mesaque e Abede-Nego, seja despedaçado e as suas casas sejam feitas monturos; porquanto não há outro deus que possa livrar desta maneira".
 * **3:30** Então o rei fez prosperar a Sadraque, Mesaque e Abede-Nego na província de Babilônia.
+
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
 
 ## 4
 
@@ -149,6 +169,11 @@
 * **4:36** Naquele tempo, o meu entendimento voltou a mim, e para a glória do meu reino, a minha majestade e o meu resplendor voltaram a mim; e os meus conselheiros e os meus grandes me buscaram, e fui restabelecido no meu reino, e a mim foi acrescentada uma grandeza ainda maior.
 * **4:37** Agora, pois, eu, Nabucodonosor, louvo, exalto e glorifico ao Rei do céu, cujas obras são todas verdade, e os seus caminhos juízo, e que pode humilhar aos que andam na soberba.
 
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
+
 ## 5
 
 * **5:1** O rei Belsazar deu um grande banquete aos seus mil grandes, e bebeu vinho perante os mil.
@@ -183,6 +208,11 @@
 * **5:30** Naquela mesma noite, Belsazar, o rei dos caldeus, foi morto.
 * **5:31** E Dario, o medo, recebeu o reino, sendo ele da idade de sessenta e dois anos.
 
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
+
 ## 6
 
 * **6:1** Pareceu bem a Dario constituir sobre o reino cento e vinte sátrapas, que estivessem sobre todo o reino.
@@ -213,6 +243,11 @@
 * **6:26** "Da minha parte é feito um decreto de que em todo o domínio do meu reino os homens tremam e temam diante do Elohim (Deus) de Daniel, porque Ele é o Elohim (Deus) vivo e que permanece para sempre, e o Seu reino não será destruído, e o Seu domínio durará até ao fim."
 * **6:27** Ele livra e salva, e faz sinais e maravilhas no céu e na terra, Ele que livrou Daniel do poder dos leões.
 * **6:28** E este Daniel prosperou no reino de Dario e no reino de Ciro, o persa.
+
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
 
 ## 7
 
@@ -245,6 +280,11 @@
 * **7:27** "E o reino, o domínio e a grandeza dos reinos debaixo de todo o céu serão dados ao povo dos santos do Elyon (Altíssimo); o Seu reino é um reino eterno, e todos os domínios O servirão e Lhe obedecerão."
 * **7:28** Até aqui é o fim da palavra. Quanto a mim, Daniel, os meus pensamentos muito me perturbaram, e o meu semblante mudou-se em mim; mas guardei a palavra no meu coração.
 
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
+
 ## 8
 
 * **8:1** No terceiro ano do reinado do rei Belsazar, apareceu-me uma visão, a mim, Daniel, depois daquela que me apareceu no princípio.
@@ -274,6 +314,11 @@
 * **8:25** E, pelo seu entendimento, fará prosperar o engano na sua mão; e no seu coração se engrandecerá, e destruirá a muitos que vivem em segurança; e se levantará contra o Príncipe dos príncipes, mas será quebrado sem mão.
 * **8:26** E a visão da tarde e da manhã, que foi dita, é verdadeira; tu, porém, sela a visão, porque se refere a muitos dias.
 * **8:27** Eu, Daniel, desfaleci e estive enfermo alguns dias; depois me levantei e tratei dos negócios do rei; e espantei-me com a visão, e não havia quem a entendesse.
+
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
 
 ## 9
 
@@ -305,6 +350,11 @@
 * **9:26** "E depois das sessenta e duas semanas será cortado o Messias, mas não para si mesmo; e o povo de um príncipe que há de vir destruirá a cidade e o santuário, e o seu fim será com uma inundação; e até ao fim haverá guerra; estão determinadas assolações."
 * **9:27** "E ele firmará aliança com muitos por uma semana; e na metade da semana fará cessar o sacrifício e a oferta de manjares; e sobre a asa das abominações virá o assolador, e isso até que a destruição, que está determinada, se derrame sobre o assolado."
 
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
+
 ## 10
 
 * **10:1** No terceiro ano de Ciro, rei da Pérsia, foi revelada uma palavra a Daniel, cujo nome era chamado Beltessazar; a palavra era verdadeira e de grande esforço; ele entendeu a palavra e teve inteligência da visão.
@@ -328,6 +378,11 @@
 * **10:19** E disse: "Não temas, homem muito amado; paz seja contigo; sê forte, sim, sê forte." E, falando ele comigo, fortaleci-me e disse: "Fala, Adonai (Senhor), porque tu me fortaleceste."
 * **10:20** E disse: "Sabes por que vim a ti? Agora, pois, tornarei a pelejar contra o príncipe da Pérsia; e, saindo eu, eis que virá o príncipe da Grécia."
 * **10:21** "Mas eu te declararei o que está registrado na escritura da verdade; e ninguém há que se esforce comigo nestas coisas, senão Miguel, vosso príncipe."
+
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
 
 ## 11
 
@@ -376,6 +431,11 @@
 * **11:43** Ele dominará sobre os tesouros de ouro e prata e sobre todas as coisas preciosas do Egito; os líbios e os etíopes seguirão os seus passos.
 * **11:44** Mas notícias do oriente e do norte o espantarão, e ele sairá com grande furor para destruir e exterminar a muitos.
 * **11:45** Armará as suas tendas palacianas entre os mares e o monte glorioso e santo; chegará ao seu fim, e não haverá quem o ajude.
+
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
 
 ## 12
 

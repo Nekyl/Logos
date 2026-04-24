@@ -1,5 +1,10 @@
 # Zacarias
 
+<a id="topo"></a>
+
+[1](#1) [2](#2) [3](#3) [4](#4) [5](#5) [6](#6) [7](#7) [8](#8) [9](#9) [10](#10) [11](#11) [12](#12) [13](#13) [14](#14)
+
+
 ## 1
 
 * **1:1** No oitavo mês, no segundo ano de Dario, a palavra de YHWH (SENHOR) veio ao profeta Zacarias, filho de Berequias, filho de Ido, dizendo:
@@ -24,6 +29,11 @@
 * **1:20** E o SENHOR me mostrou quatro artífices.
 * **1:21** E eu disse: Que vêm estes fazer? E ele falou, dizendo: Estes são os chifres que dispersaram a Judá, de modo que ninguém pôde levantar a cabeça; mas estes vieram para os assustar, para derrubar os chifres das nações que levantaram o seu chifre contra a terra de Judá para a dispersar.
 
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
+
 ## 2
 
 * **2:1** Levantei os meus olhos e vi, e eis um homem com um cordel de medir na mão.
@@ -40,6 +50,11 @@
 * **2:12** E o SENHOR herdará a Judá como sua porção na terra santa, e escolherá ainda a Jerusalém.
 * **2:13** Cala-te, toda a carne, diante do SENHOR, porque ele se levantou da sua santa habitação.
 
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
+
 ## 3
 
 * **3:1** E ele mostrou-me o sumo sacerdote Josué, que estava diante do anjo do SENHOR, e o adversário estava à sua direita, para se lhe opor.
@@ -52,6 +67,11 @@
 * **3:8** Ouve agora, sumo sacerdote Josué, tu e os teus companheiros que se assentam diante de ti, pois são homens de presságio; pois eis que eu trarei o meu servo, o Renovo.
 * **3:9** Pois eis que a pedra que pus diante de Josué; sobre uma pedra única estão sete olhos; eis que eu gravarei a sua gravura, diz o SENHOR dos Exércitos, e tirarei a iniquidade daquela terra num só dia.
 * **3:10** Naquele dia, diz o SENHOR dos Exércitos, chamareis cada um ao seu próximo, debaixo da videira e debaixo da figueira.
+
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
 
 ## 4
 
@@ -70,6 +90,11 @@
 * **4:13** E ele disse-me: Não sabes tu o que são estas? E eu disse: Não, Adonai (Senhor).
 * **4:14** E ele disse: Estes são os dois ungidos que estão diante do Senhor de toda a terra.
 
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
+
 ## 5
 
 * **5:1** Tornei a levantar os meus olhos e vi, e eis um rolo que voava.
@@ -83,6 +108,11 @@
 * **5:9** Levantei os meus olhos e vi, e eis duas mulheres que saíam, e o vento estava nas suas asas; e tinham asas como as asas da cegonha; e levantaram o efa entre a terra e o céu.
 * **5:10** E eu disse ao anjo que falava comigo: Para onde levam elas o efa?
 * **5:11** E ele disse-me: Para lhe edificar uma casa na terra de Sinar; e, estando preparada, será posta ali na sua base.
+
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
 
 ## 6
 
@@ -102,6 +132,11 @@
 * **6:14** E as coroas serão para Helém, para Tobias, para Jedaías e para Hen, filho de Sofonias, como memorial no templo do SENHOR.
 * **6:15** E os que estão longe virão e edificarão no templo do SENHOR, e sabereis que o SENHOR dos Exércitos me enviou a vós. E isto acontecerá se diligentemente ouvirdes a voz do SENHOR, vosso Elohim (Deus).
 
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
+
 ## 7
 
 * **7:1** E aconteceu no quarto ano do rei Dario, que a palavra do SENHOR veio a Zacarias, no quarto dia do nono mês, em Quisleu.
@@ -118,6 +153,11 @@
 * **7:12** Tornaram seus corações como diamante para não ouvirem a Torá e as palavras que YHWH צבאות enviou pelo seu ruach (Espírito), por intermédio dos antigos profetas; por isso, veio uma grande ira da parte de YHWH צבאות.
 * **7:13** E aconteceu que, assim como Ele clamou e eles não ouviram, assim eles clamaram e eu não ouvi, diz YHWH צבאות.
 * **7:14** Eu os espalhei por entre todas as nações que eles não conheciam, e a terra ficou desolada atrás deles, sem que ninguém passasse ou voltasse; transformaram a terra desejável em um deserto.
+
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
 
 ## 8
 
@@ -145,6 +185,11 @@
 * **8:22** Muitos povos e nações poderosas virão buscar a YHWH צבאות em Jerusalém e suplicar o favor de YHWH.
 * **8:23** Assim diz YHWH צבאות: Naqueles dias, dez homens de todas as línguas das nações pegarão, sim, pegarão na orla da veste de um judeu, dizendo: Iremos com vocês, porque ouvimos que Elohim está com vocês.
 
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
+
 ## 9
 
 * **9:1** Sentença da palavra de YHWH sobre a terra de Hadrach, e Damasco será o seu lugar de repouso; pois a YHWH pertencem os olhos dos homens e todas as tribos de Israel.
@@ -165,6 +210,11 @@
 * **9:16** YHWH seu Elohim os salvará naquele dia, como o rebanho do seu povo; pois pedras de coroa serão exaltadas sobre a sua terra.
 * **9:17** Pois quão grande é a sua bondade e quão grande é a sua formosura! O trigo fará florescer os jovens, e o vinho novo, as donzelas.
 
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
+
 ## 10
 
 * **10:1** Peçam a YHWH chuva no tempo da chuva serôdia; YHWH fará relâmpagos e lhes dará chuvas abundantes, e a cada um, erva no campo.
@@ -179,6 +229,11 @@
 * **10:10** Eu os trarei de volta da terra do Egito e os ajuntarei da Assíria; eu os trarei para a terra de Gileade e do Líbano, e não haverá lugar suficiente para eles.
 * **10:11** Ele passará pelo mar da angústia, ferirá as ondas do mar, e todas as profundezas do Nilo secarão; o orgulho da Assíria será derrubado, e o cetro do Egito se afastará.
 * **10:12** Eu os fortalecerei em YHWH, e andarão no seu nome, diz YHWH.
+
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
 
 ## 11
 
@@ -200,6 +255,11 @@
 * **11:16** Pois eis que suscitarei um pastor na terra que não cuidará das que estão perecendo, não buscará a jovem, não curará a ferida, não alimentará a que está em pé, mas comerá a carne da gorda e despedaçará os seus cascos.
 * **11:17** Ai do pastor inútil que abandona o rebanho! A espada cairá sobre o seu braço e sobre o seu olho direito; o seu braço secará totalmente, e o seu olho direito ficará completamente cego.
 
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
+
 ## 12
 
 * **12:1** Sentença da palavra de YHWH sobre Israel, diz YHWH, que estende os céus, funda a terra e forma o espírito do homem dentro dele.
@@ -217,6 +277,11 @@
 * **12:13** A família da casa de Levi à parte, e suas mulheres à parte; a família de Simei à parte, e suas mulheres à parte;
 * **12:14** Todas as famílias que restarem, cada família à parte, e suas mulheres à parte.
 
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
+
 ## 13
 
 * **13:1** Naquele dia, haverá uma fonte aberta para a casa de Davi e para os habitantes de Jerusalém, para o pecado e para a impureza.
@@ -228,6 +293,11 @@
 * **13:7** Ó espada, desperta contra o meu pastor e contra o homem que é o meu companheiro, diz YHWH צבאות; fere o pastor, e as ovelhas se dispersarão; e voltarei a minha mão para os pequenos.
 * **13:8** Acontecerá em toda a terra, diz YHWH, que duas partes dela serão eliminadas e expirarão, mas a terceira parte restará nela.
 * **13:9** Farei passar a terceira parte pelo fogo, e a purificarei como se purifica a prata, e a provarei como se prova o ouro; ela invocará o meu nome, e eu a ouvirei; direi: É o meu povo, e ela dirá: YHWH é o meu Elohim.
+
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
 
 ## 14
 

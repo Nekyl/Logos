@@ -1,5 +1,10 @@
 # Atos dos Apóstolos
 
+<a id="topo"></a>
+
+[1](#1) [2](#2) [3](#3) [4](#4) [5](#5) [6](#6) [7](#7) [8](#8) [9](#9) [10](#10) [11](#11) [12](#12) [13](#13) [14](#14) [15](#15) [16](#16) [17](#17) [18](#18) [19](#19) [20](#20) [21](#21) [22](#22) [23](#23) [24](#24) [25](#25) [26](#26) [27](#27) [28](#28)
+
+
 ## 1
 
 * **1:1** No primeiro livro, escrevi sobre tudo o que Iēsous (Jesus) começou a fazer e a ensinar, ó Teófilo,
@@ -28,6 +33,11 @@
 * **1:24** E, orando, disseram: Tu, Senhor, que conheces o coração de todos, mostra qual destes dois escolheste,
 * **1:25** para tomar o lugar deste ministério e apostolado, do qual Judas se desviou para ir para o seu próprio lugar.
 * **1:26** Lançaram sortes sobre eles, e a sorte caiu sobre Matias, e ele foi contado com os onze apóstolos.
+
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
 
 ## 2
 
@@ -79,6 +89,11 @@
 * **2:46** Perseverando diariamente e unanimemente no templo, partindo o pão de casa em casa, comiam com alegria e singeleza de coração,
 * **2:47** louvando a Deus e tendo a simpatia de todo o povo. E o Senhor acrescentava diariamente ao grupo os que iam sendo salvos.
 
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
+
 ## 3
 
 * **3:1** Pedro e João subiam ao templo para a oração da nona hora.
@@ -107,6 +122,11 @@
 * **3:24** E todos os profetas, desde Samuel e os que se seguiram, quantos falaram, também anunciaram estes dias.
 * **3:25** Vós sois os filhos dos profetas e da aliança que Deus fez com vossos pais, dizendo a Abraão: Na tua descendência serão abençoadas todas as famílias da terra.
 * **3:26** Deus, tendo ressuscitado o seu servo, enviou-o primeiro a vós, para vos abençoar, no sentido de que cada um se converta das suas maldades.
+
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
 
 ## 4
 
@@ -147,6 +167,11 @@
 * **4:35** e depositavam-no aos pés dos apóstolos; e repartia-se a cada um, conforme a necessidade de cada um.
 * **4:36** José, chamado pelos apóstolos de Barnabé (que significa filho de consolação), levita, natural de Chipre,
 * **4:37** possuindo um campo, vendeu-o, trouxe o dinheiro e depositou-o aos pés dos apóstolos.
+
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
 
 ## 5
 
@@ -193,6 +218,11 @@
 * **5:41** Eles, pois, retiraram-se da presença do sinédrio, alegrando-se por terem sido considerados dignos de sofrer afronta por causa do nome.
 * **5:42** E todos os dias, no templo e nas casas, não cessavam de ensinar e de anunciar o Christos (Messias) Iēsous.
 
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
+
 ## 6
 
 * **6:1** Naqueles dias, multiplicando-se os discípulos, houve uma murmuração dos helenistas contra os hebreus, porque as suas viúvas estavam sendo esquecidas na assistência diária.
@@ -210,6 +240,11 @@
 * **6:13** E apresentaram falsas testemunhas, que diziam: Este homem não cessa de falar palavras contra este lugar santo e a lei;
 * **6:14** Porque ouvimo-lo dizer que este Iēsous, o nazareno, destruirá este lugar e mudará os costumes que Moisés nos deu.
 * **6:15** E todos os que estavam assentados no sinédrio, fixando os olhos nele, viram o seu rosto como o rosto de um anjo.
+
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
 
 ## 7
 
@@ -274,6 +309,11 @@
 * **7:59** E apedrejavam Estêvão, que invocava e dizia: Kyrie Iēsou (Senhor Jesus), recebe o meu espírito.
 * **7:60** E, pondo-se de joelhos, clamou com grande voz: Kyrie, não lhes imputes este pecado. E, tendo dito isto, adormeceu.
 
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
+
 ## 8
 
 * **8:1** Saulo consentia na sua morte. Naquele dia, houve uma grande perseguição contra a congregação que estava em Jerusalém; e todos foram dispersos pelas regiões da Judeia e Samaria, exceto os apóstolos.
@@ -315,6 +355,11 @@
 * **8:38** Mandou parar o carro, e ambos desceram à água, Filipe e o eunuco, e ele o batizou.
 * **8:39** Quando saíram da água, o Pneuma do Kyrios arrebatou a Filipe, e o eunuco não o viu mais; e, jubiloso, continuou o seu caminho.
 * **8:40** Filipe, porém, achou-se em Azoto e, passando, anunciava o evangelho em todas as cidades, até chegar a Cesareia.
+
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
 
 ## 9
 
@@ -361,6 +406,11 @@
 * **9:41** Ele, dando-lhe a mão, levantou-a, e chamando os santos e as viúvas, apresentou-a viva.
 * **9:42** Isso tornou-se conhecido por toda Jope, e muitos creram no Senhor.
 * **9:43** E aconteceu que ele permaneceu muitos dias em Jope com um certo Simão, curtidor.
+
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
 
 ## 10
 
@@ -413,6 +463,11 @@
 * **10:47** Pode alguém impedir a água, para que não sejam batizados estes que receberam o Espírito Santo assim como nós?
 * **10:48** E ordenou que fossem batizados em nome de Jesus Messias. Então pediram-lhe que ficasse por alguns dias.
 
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
+
 ## 11
 
 * **11:1** Os apóstolos e os irmãos que estavam na Judeia ouviram que também as nações tinham recebido a palavra de Deus.
@@ -446,6 +501,11 @@
 * **11:29** E os discípulos, conforme cada um tinha prosperado, determinaram enviar socorro aos irmãos que habitavam na Judeia;
 * **11:30** o que também fizeram, enviando-o aos presbíteros por intermédio de Barnabé e Saulo.
 
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
+
 ## 12
 
 * **12:1** Naquele tempo, o rei Herodes estendeu as mãos para maltratar alguns da igreja.
@@ -473,6 +533,11 @@
 * **12:23** Imediatamente um anjo do Senhor o feriu, porque não deu a glória a Deus, e, comido por vermes, expirou.
 * **12:24** A palavra de Deus crescia e se multiplicava.
 * **12:25** Barnabé e Saulo voltaram de Jerusalém, tendo cumprido o serviço, levando consigo João, chamado Marcos.
+
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
 
 ## 13
 
@@ -529,6 +594,11 @@
 * **13:51** Eles, porém, sacudindo contra eles o pó dos pés, foram para Icônio.
 * **13:52** E os discípulos enchiam-se de alegria e do Pneuma Hagion (Espírito Santo).
 
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
+
 ## 14
 
 * **14:1** Aconteceu que, em Icônio, entraram juntos na sinagoga dos judeus e falaram de tal modo que creu uma grande multidão de judeus e gregos.
@@ -559,6 +629,11 @@
 * **14:26** e dali navegaram para Antioquia, de onde tinham sido entregues à graça de Deus para a obra que cumpriram.
 * **14:27** Chegando ali e reunindo a igreja, relataram tudo o que Deus fizera com eles e como abrira aos gentios a porta da fé.
 * **14:28** E passaram não pouco tempo com os discípulos.
+
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
 
 ## 15
 
@@ -603,6 +678,11 @@
 * **15:40** Paulo, escolhendo Silas, partiu, sendo entregue pelos irmãos à graça do Kyrios.
 * **15:41** E percorria a Síria e a Cilícia, confirmando as igrejas.
 
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
+
 ## 16
 
 * **16:1** Chegou também a Derbe e a Listra. E eis que estava ali um discípulo chamado Timóteo, filho de uma mulher judia crente, mas de pai grego,
@@ -646,6 +726,11 @@
 * **16:39** E, vindo, rogaram-lhes e, tirando-os para fora, pediram que se retirassem da cidade.
 * **16:40** Saindo da prisão, entraram na casa de Lídia e, vendo os irmãos, exortaram-nos e partiram.
 
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
+
 ## 17
 
 * **17:1** Passando por Anfípolis e Apolônia, chegaram a Tessalônica, onde havia uma sinagoga dos judeus.
@@ -683,6 +768,11 @@
 * **17:33** Assim, Paulo saiu do meio deles.
 * **17:34** Contudo, alguns homens, unindo-se a ele, creram, entre os quais Dionísio, o areopagita, uma mulher chamada Dâmaris e outros com eles.
 
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
+
 ## 18
 
 * **18:1** Depois disto, partindo de Atenas, foi para Corinto.
@@ -713,6 +803,11 @@
 * **18:26** Este começou a falar ousadamente na sinagoga; mas, ouvindo-o, Priscila e Áquila tomaram-no consigo e expuseram-lhe com mais precisão o caminho do Theos.
 * **18:27** Querendo ele passar para a Acaia, os irmãos encorajaram-no e escreveram aos discípulos que o recebessem; o qual, chegando, ajudou muito aos que tinham crido pela graça;
 * **18:28** pois refutava vigorosamente os judeus em público, demonstrando pelas Escrituras que o Christos era Iēsous.
+
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
 
 ## 19
 
@@ -757,6 +852,11 @@
 * **19:39** Mas, se buscais algo mais, será resolvido em assembleia legítima.
 * **19:40** Pois corremos o risco de sermos acusados de sedição por causa do dia de hoje, não havendo causa alguma pela qual possamos justificar este ajuntamento. E, dizendo isto, despediu a assembleia.
 
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
+
 ## 20
 
 * **20:1** Depois de cessar o tumulto, Paulo chamou os discípulos e, tendo-os exortado, despediu-se e partiu para a Macedônia.
@@ -797,6 +897,11 @@
 * **20:36** Tendo dito isto, pôs-se de joelhos e orou com todos eles.
 * **20:37** Houve grande choro de todos e, lançando-se ao pescoço de Paulo, beijavam-no,
 * **20:38** entristecidos principalmente pela palavra que ele tinha dito, que não veriam mais o seu rosto. E acompanharam-no até ao navio.
+
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
 
 ## 21
 
@@ -841,6 +946,11 @@
 * **21:39** Paulo disse: "Eu sou um homem judeu, de Tarso da Cilícia, cidadão de uma cidade não insignificante; rogo-te, permite-me falar ao povo."
 * **21:40** Tendo ele permitido, Paulo, em pé nas escadas, fez sinal com a mão ao povo; e, havendo grande silêncio, falou na língua hebraica, dizendo:
 
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
+
 ## 22
 
 * **22:1** "Homens, irmãos e pais, ouvi agora a minha defesa perante vós."
@@ -873,6 +983,11 @@
 * **22:28** O comandante respondeu: "Eu adquiri esta cidadania por uma grande soma." Paulo disse: "Eu, porém, até nasci nela."
 * **22:29** Imediatamente, pois, afastaram-se dele os que iam interrogá-lo; e o comandante também ficou com medo, ao saber que era romano e que o tinha acorrentado.
 * **22:30** No dia seguinte, querendo saber a verdade sobre o porquê de ele ser acusado pelos judeus, soltou-o e ordenou que os sumos sacerdotes e todo o sinédrio se reunissem, e, fazendo descer Paulo, apresentou-o a eles.
+
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
 
 ## 23
 
@@ -912,6 +1027,11 @@
 * **23:34** Tendo lido e perguntado de qual província ele era, e sabendo que era da Cilícia,
 * **23:35** "Eu te ouvirei", disse, "quando também os teus acusadores chegarem"; e ordenou que fosse guardado no pretório de Herodes.
 
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
+
 ## 24
 
 * **24:1** Depois de cinco dias, desceu o sumo sacerdote Ananias com alguns presbíteros e um certo orador, Tértulo, os quais apresentaram ao governador a acusação contra Paulo.
@@ -940,6 +1060,11 @@
 * **24:25** Discorrendo ele sobre a justiça, o domínio próprio e o juízo que viria, Félix, ficando amedrontado, respondeu: "Por agora vai, e, tendo oportunidade, chamar-te-ei."
 * **24:26** Ao mesmo tempo, esperava que dinheiro lhe fosse dado por Paulo; por isso, chamando-o mais frequentemente, conversava com ele.
 * **24:27** Passados dois anos, Félix teve como sucessor Pórcio Festo; e, querendo Félix agradar aos judeus, deixou Paulo preso.
+
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
 
 ## 25
 
@@ -970,6 +1095,11 @@
 * **25:25** Eu, porém, percebi que ele não fez nada digno de morte, e, tendo ele mesmo apelado para o Augusto, decidi enviá-lo.
 * **25:26** Sobre ele não tenho nada de seguro para escrever ao Kyrios (Senhor); por isso, trouxe-o diante de vós, e especialmente diante de ti, rei Agripa, para que, feita a investigação, eu tenha o que escrever;
 * **25:27** pois parece-me irracional enviar um prisioneiro e não indicar as acusações contra ele."
+
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
 
 ## 26
 
@@ -1005,6 +1135,11 @@
 * **26:30** Levantou-se então o rei, e o governador, e Berenice, e os que com eles estavam sentados,
 * **26:31** e, retirando-se, falavam uns aos outros, dizendo: Este homem não faz nada digno de morte ou de prisões.
 * **26:32** E Agripa disse a Festo: Este homem poderia ser solto, se não tivesse apelado para César.
+
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
 
 ## 27
 
@@ -1052,6 +1187,11 @@
 * **27:42** O conselho dos soldados foi matar os prisioneiros, para que nenhum, nadando, escapasse;
 * **27:43** mas o centurião, querendo salvar Paulo, impediu-os do seu propósito e ordenou que os que soubessem nadar fossem os primeiros a lançar-se ao mar e sair para terra,
 * **27:44** e os demais, uns em tábuas e outros em destroços do navio; e assim aconteceu que todos se salvaram em terra.
+
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
 
 ## 28
 

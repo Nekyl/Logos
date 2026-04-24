@@ -1,5 +1,10 @@
 # 1 João
 
+<a id="topo"></a>
+
+[1](#1) [2](#2) [3](#3) [4](#4) [5](#5)
+
+
 ## 1
 
 * **1:1** O que era desde o princípio, o que ouvimos, o que vimos com os nossos olhos, o que contemplamos e as nossas mãos apalparam, a respeito do Verbo da vida—
@@ -12,6 +17,11 @@
 * **1:8** Se dissermos que não temos pecado, enganamo-nos a nós mesmos, e a verdade não está em nós.
 * **1:9** Se confessarmos os nossos pecados, ele é fiel e justo para nos perdoar os pecados e nos purificar de toda injustiça.
 * **1:10** Se dissermos que não pecamos, fazemo-lo mentiroso, e a sua palavra não está em nós.
+
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
 
 ## 2
 
@@ -45,6 +55,11 @@
 * **2:28** E agora, filhinhos, permaneçam nele, para que, se ele se manifestar, tenhamos confiança e não sejamos envergonhados diante dele na sua vinda.
 * **2:29** Se sabem que ele é justo, saibam que todo aquele que pratica a justiça é nascido dele.
 
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
+
 ## 3
 
 * **3:1** Vejam que amor o Pai nos tem concedido, a ponto de sermos chamados filhos de Deus; e nós o somos. Por isso o mundo não nos conhece, porque não o conheceu.
@@ -72,6 +87,11 @@
 * **3:23** E este é o seu mandamento: que creiamos no nome do seu filho Iēsous Christos (Jesus Messias) e nos amemos uns aos outros, assim como ele nos deu mandamento.
 * **3:24** E aquele que guarda os seus mandamentos permanece nele, e ele nele; e nisto sabemos que ele permanece em nós, pelo Pneuma Hagion (Espírito Santo) que ele nos deu.
 
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
+
 ## 4
 
 * **4:1** Amados, não creiam em todo espírito, mas provem os espíritos se procedem de Deus, porque muitos falsos profetas têm saído pelo mundo.
@@ -95,6 +115,11 @@
 * **4:19** Nós amamos, porque ele nos amou primeiro.
 * **4:20** Se alguém disser: Amo a Deus, e odiar o seu irmão, é mentiroso; pois aquele que não ama o seu irmão, a quem viu, não pode amar a Deus, a quem não viu.
 * **4:21** E temos dele este mandamento: que aquele que ama a Deus ame também o seu irmão.
+
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
 
 ## 5
 

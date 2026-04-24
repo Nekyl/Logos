@@ -1,5 +1,10 @@
 # Jeremias
 
+<a id="topo"></a>
+
+[1](#1) [2](#2) [3](#3) [4](#4) [5](#5) [6](#6) [7](#7) [8](#8) [9](#9) [10](#10) [11](#11) [12](#12) [13](#13) [14](#14) [15](#15) [16](#16) [17](#17) [18](#18) [19](#19) [20](#20) [21](#21) [22](#22) [23](#23) [24](#24) [25](#25) [26](#26) [27](#27) [28](#28) [29](#29) [30](#30) [31](#31) [32](#32) [33](#33) [34](#34) [35](#35) [36](#36) [37](#37) [38](#38) [39](#39) [40](#40) [41](#41) [42](#42) [43](#43) [44](#44) [45](#45) [46](#46) [47](#47) [48](#48) [49](#49) [50](#50) [51](#51) [52](#52)
+
+
 ## 1
 
 * **1:1** Palavras de Jeremias, filho de Hilquias, um dos sacerdotes que viviam em Anatote, na terra de Benjamim.
@@ -21,6 +26,11 @@
 * **1:17** Tu, pois, cinge os teus lombos, levanta-te e dize-lhes tudo o que eu te ordenar; não te espantes diante deles, para que eu não te humilhe diante deles.
 * **1:18** E eis que hoje te ponho por cidade fortificada, por coluna de ferro e por muros de bronze contra toda a terra, contra os reis de Judá, contra os seus príncipes, contra os seus sacerdotes e contra o povo da terra.
 * **1:19** Eles lutarão contra ti, mas não prevalecerão, porque eu estou contigo para te livrar, declara YHWH.
+
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
 
 ## 2
 
@@ -62,6 +72,11 @@
 * **2:36** Por que te tornas tão volúvel, mudando o teu caminho? Também pelo Egito serás envergonhada, como foste envergonhada pela Assíria.
 * **2:37** Também deste sairás com as mãos sobre a cabeça, porque YHWH rejeitou as tuas confianças, e não prosperarás nelas.
 
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
+
 ## 3
 
 * **3:1** Dizendo: Se um homem despedir a sua mulher, e ela for dele e se casar com outro, poderá ele tornar a ela? Não se contaminaria de todo essa terra? Mas tu te prostituíste com muitos amantes; contudo, volta para mim, declara YHWH.
@@ -89,6 +104,11 @@
 * **3:23** Certamente, em vão se espera dos outeiros e da multidão das montanhas; certamente em YHWH, nosso Elohim, está a salvação de Israel.
 * **3:24** Mas a vergonha devorou o trabalho de nossos pais desde a nossa mocidade: as suas ovelhas e os seus bois, os seus filhos e as suas filhas.
 * **3:25** Deitamo-nos na nossa vergonha, e a nossa ignomínia nos cobre, porque temos pecado contra YHWH, nosso Elohim, nós e nossos pais, desde a nossa mocidade até ao dia de hoje, e não obedecemos à voz de YHWH, nosso Elohim.
+
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
 
 ## 4
 
@@ -124,6 +144,11 @@
 * **4:30** E tu, ó assolada, que farás? Ainda que te vistas de escarlate, ainda que te adornes com ornamentos de ouro, ainda que pintes os teus olhos com antimônio, em vão te embelezas; os teus amantes te desprezam, buscam a tua alma.
 * **4:31** Porque ouvi uma voz como a de uma mulher em trabalho de parto, angústia como a de quem dá à luz o seu primeiro filho, a voz da filha de Sião, que ofega, que estende as suas mãos, dizendo: Ai de mim agora, porque a minha alma desfalece por causa dos assassinos!
 
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
+
 ## 5
 
 * **5:1** Percorrei as ruas de Jerusalém, vede agora, sabei e buscai nas suas praças se achais um homem, se há alguém que pratique o juízo, que busque a verdade, e eu lhe perdoarei.
@@ -158,6 +183,11 @@
 * **5:30** Coisa espantosa e horrorosa se tem feito na terra:
 * **5:31** Os profetas profetizam falsamente, e os sacerdotes dominam pelas suas mãos; e o meu povo ama assim; e que fareis no fim disto?
 
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
+
 ## 6
 
 * **6:1** Fugi, filhos de Benjamim, do meio de Jerusalém, e tocai a trombeta em Tecoa, e levantai um sinal de fogo sobre Bete-Haquerém, porque do norte se avista o mal e uma grande destruição.
@@ -190,6 +220,11 @@
 * **6:28** Todos eles são rebeldes obstinados, andando como difamadores; são bronze e ferro, todos eles procedem corruptamente.
 * **6:29** O fole sopra com fogo, o chumbo se consome no fogo; em vão se funde o metal, pois os maus não são separados.
 * **6:30** Prata rejeitada lhes chamarão, porque YHWH os rejeitou.
+
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
 
 ## 7
 
@@ -228,6 +263,11 @@
 * **7:33** E os cadáveres deste povo servirão de pasto para as aves dos céus e para os animais da terra, e ninguém os espantará.
 * **7:34** Farei cessar nas cidades de Judá e nas ruas de Jerusalém a voz de gozo e a voz de alegria, a voz do esposo e a voz da esposa, porque a terra se tornará em desolação.
 
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
+
 ## 8
 
 * **8:1** Naquele tempo, diz YHWH, tirarão os ossos dos reis de Judá, e os ossos dos seus príncipes, e os ossos dos sacerdotes, e os ossos dos profetas, e os ossos dos habitantes de Jerusalém, das suas sepulturas.
@@ -252,6 +292,11 @@
 * **8:20** Passou a colheita, acabou o verão, e nós não fomos salvos.
 * **8:21** Pela ferida da filha do meu povo estou ferido; ando de luto; o espanto se apoderou de mim.
 * **8:22** Não há bálsamo em Gileade? Não há lá médico? Por que, pois, não se restabeleceu a saúde da filha do meu povo?
+
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
 
 ## 9
 
@@ -282,6 +327,11 @@
 * **9:25** Eis que vêm dias, diz YHWH, em que visitarei a todos os circuncidados na carne.
 * **9:26** O Egito, Judá, Edom, os filhos de Amom, Moabe e todos os que cortam os cantos do cabelo, os que habitam no deserto, porque todas as nações são incircuncisas, e toda a casa de Israel é incircuncisa de coração.
 
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
+
 ## 10
 
 * **10:1** Ouvi a palavra que YHWH fala sobre vós, ó casa de Israel.
@@ -310,6 +360,11 @@
 * **10:24** Castiga-me, ó YHWH, mas com juízo, não na tua ira, para que não me reduzas a nada.
 * **10:25** Derrama o teu furor sobre as nações que não te conhecem e sobre as famílias que não invocam o teu nome, porque devoraram a Jacó, e o devoraram, e o consumiram, e a sua morada assolaram.
 
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
+
 ## 11
 
 * **11:1** A palavra que veio a Jeremias da parte de YHWH, dizendo:
@@ -336,6 +391,11 @@
 * **11:22** Portanto, assim diz YHWH (SENHOR) dos Exércitos: Eis que os castigarei; os jovens morrerão à espada, seus filhos e suas filhas morrerão de fome.
 * **11:23** E não haverá remanescente para eles, pois trarei o mal sobre os homens de Anatote, no ano do seu castigo.
 
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
+
 ## 12
 
 * **12:1** Justo és tu, YHWH (SENHOR), quando entro em juízo contigo; contudo, falarei contigo sobre os teus juízos: Por que prospera o caminho dos ímpios, e vivem em paz todos os que procedem aleivosamente?
@@ -355,6 +415,11 @@
 * **12:15** E será que, depois de os ter arrancado, voltarei e me compadecerei deles, e os farei voltar, cada um à sua herança e cada um à sua terra.
 * **12:16** E será que, se diligentemente aprenderem os caminhos do meu povo, para jurarem pelo meu nome: "Vive YHWH (SENHOR)", assim como ensinaram o meu povo a jurar por Baal, então serão edificados no meio do meu povo.
 * **12:17** Mas, se não ouvirem, arrancarei aquela nação, arrancando-a e destruindo-a, diz YHWH (SENHOR).
+
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
 
 ## 13
 
@@ -386,6 +451,11 @@
 * **13:26** Por isso, eu descobri as tuas orlas sobre o teu rosto, e a tua vergonha foi vista.
 * **13:27** Vi as tuas adultérios e os teus relinchos, a malícia da tua prostituição sobre os outeiros no campo; vi as tuas abominações. Ai de ti, Jerusalém! Não serás purificada? Até quando ainda?
 
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
+
 ## 14
 
 * **14:1** A palavra de YHWH (SENHOR) que veio a Jeremias a respeito da seca.
@@ -411,6 +481,11 @@
 * **14:21** Não nos desprezes, por amor do teu nome; não desonres o trono da tua glória; lembra-te, não anules a tua aliança conosco.
 * **14:22** Há, entre as vaidades dos gentios, algum que faça chover? Ou podem os céus dar chuvas? Não és tu, ó YHWH (SENHOR), nosso Elohim (Deus)? Portanto, em ti esperamos, pois tu fizeste todas estas coisas.
 
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
+
 ## 15
 
 * **15:1** Então YHWH (SENHOR) me disse: Ainda que Moisés e Samuel se pusessem diante de mim, a minha alma não se inclinaria para este povo; lança-os de diante da minha face, e saiam.
@@ -435,6 +510,11 @@
 * **15:20** E eu te porei contra este povo como um muro de bronze, forte; pelejarão contra ti, mas não prevalecerão contra ti; porque eu sou contigo para te salvar e te livrar, diz YHWH (SENHOR).
 * **15:21** E te livrarei da mão dos maus e te remirei da mão dos tiranos.
 
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
+
 ## 16
 
 * **16:1** E a palavra de YHWH (SENHOR) veio a mim, dizendo:
@@ -458,6 +538,11 @@
 * **16:19** Ó YHWH (SENHOR), força minha, e fortaleza minha, e refúgio meu no dia da angústia; a ti virão as nações desde os fins da terra e dirão: "Nossos pais herdaram apenas mentiras, vaidade em que não há proveito".
 * **16:20** Faria o homem para si deuses, que não são deuses?
 * **16:21** Portanto, eis que lhes farei conhecer, desta vez lhes farei conhecer a minha mão e o meu poder; e saberão que o meu nome é YHWH (SENHOR).
+
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
 
 ## 17
 
@@ -489,6 +574,11 @@
 * **17:26** E virão das cidades de Judá, e dos arredores de Jerusalém, e da terra de Benjamim, e da planície, e da montanha, e do sul, trazendo holocaustos, e sacrifícios, e ofertas de manjares, e incenso, e trazendo ofertas de louvor à casa de YHWH (SENHOR).
 * **17:27** Mas, se não me ouvirdes para santificar o dia do sábado, e para não trazerdes carga, nem a introduzirdes pelas portas de Jerusalém no dia do sábado, então acenderei fogo nas suas portas, o qual consumirá os palácios de Jerusalém e não se apagará.
 
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
+
 ## 18
 
 * **18:1** A palavra que veio a Jeremias da parte de YHWH (SENHOR), dizendo:
@@ -515,6 +605,11 @@
 * **18:22** Que se ouça um clamor das suas casas, quando trouxeres sobre eles uma tropa de repente; pois cavaram uma cova para me prender e esconderam laços para os meus pés.
 * **18:23** Mas tu, YHWH, conheces todo o seu plano contra mim para a morte; não perdoes a sua iniquidade, e não apagues o seu pecado de diante de ti; que sejam derrubados diante de ti; no tempo da tua ira, age contra eles.
 
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
+
 ## 19
 
 * **19:1** Assim diz YHWH: Vai e compra um vaso de barro de um oleiro, e leva contigo alguns dos anciãos do povo e dos anciãos dos sacerdotes.
@@ -532,6 +627,11 @@
 * **19:13** E as casas de Jerusalém e as casas dos reis de Judá serão como o lugar de Tofet, impuras, todas as casas em cujos telhados queimaram incenso a todo o exército dos céus e ofereceram libações a outros deuses.
 * **19:14** E veio Jeremias de Tofet, para onde YHWH o enviara para profetizar, e pôs-se no átrio da casa de YHWH e disse a todo o povo:
 * **19:15** Assim diz YHWH Tzevaot Elohei Israel: Eis que trarei sobre esta cidade e sobre todas as suas cidades todo o mal que falei contra ela, porque endureceram a sua cerviz para não ouvirem as minhas palavras.
+
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
 
 ## 20
 
@@ -554,6 +654,11 @@
 * **20:17** Pois não me matou desde o ventre, para que minha mãe fosse minha sepultura, e seu ventre, uma gravidez eterna.
 * **20:18** Por que saí do ventre para ver trabalho e tristeza, e para que meus dias se consumissem em vergonha?
 
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
+
 ## 21
 
 * **21:1** A palavra que veio a Jeremias da parte de YHWH, quando o rei Zedequias enviou a ele Pasur, filho de Malquias, e Sofonias, filho de Maaseias, o sacerdote, dizendo:
@@ -570,6 +675,11 @@
 * **21:12** Ó casa de Davi, assim diz YHWH: Julgai pela manhã com justiça e livrai o espoliado da mão do opressor, para que o meu furor não saia como fogo e arda, e não haja quem o apague, por causa da maldade das vossas obras.
 * **21:13** Eis que estou contra ti, ó habitante do vale, rocha da planície, diz YHWH; vós que dizeis: Quem descerá contra nós? E quem entrará nas nossas moradas?
 * **21:14** E visitarei sobre vós conforme o fruto das vossas obras, diz YHWH; e acenderei fogo no seu bosque, e ele consumirá tudo ao seu redor.
+
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
 
 ## 22
 
@@ -603,6 +713,11 @@
 * **22:28** É este homem Conias um vaso desprezado e quebrado? É um vaso em que não há prazer? Por que foram lançados, ele e a sua descendência, e atirados para uma terra que não conheceram?
 * **22:29** Terra, terra, terra, ouve a palavra de YHWH!
 * **22:30** Assim diz YHWH: Escrevei que este homem está privado de filhos, um homem que não prosperará nos seus dias; pois nenhum da sua descendência prosperará, assentando-se no trono de Davi e governando ainda em Judá.
+
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
 
 ## 23
 
@@ -647,6 +762,11 @@
 * **23:39** Portanto, eis que eu, esquecendo-me, vos esquecerei e vos abandonarei, a vós e à cidade que dei a vós e a vossos pais, de diante da minha face.
 * **23:40** E porei sobre vós um opróbrio eterno e uma vergonha eterna, que não será esquecida.
 
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
+
 ## 24
 
 * **24:1** Mostrou-me YHWH, e eis dois cestos de figos postos diante do templo de YHWH, depois de Nabucodonosor, rei de Babilônia, ter levado cativo a Jeconias, filho de Jeoaquim, rei de Judá, e aos príncipes de Judá, e aos artífices, e aos ferreiros de Jerusalém, e os ter levado para Babilônia.
@@ -659,6 +779,11 @@
 * **24:8** E como os figos ruins, que não se podem comer, de tão ruins, certamente assim diz YHWH: Assim entregarei Zedequias, rei de Judá, e os seus príncipes, e o restante de Jerusalém, os que restam nesta terra e os que habitam na terra do Egito.
 * **24:9** E entregá-los-ei para serem um horror, para mal, a todos os reinos da terra, para opróbrio, e para provérbio, e para escárnio, e para maldição, em todos os lugares para onde os lançar.
 * **24:10** E enviarei entre eles a espada, a fome e a peste, até que se consumam de sobre a terra que dei a eles e a seus pais.
+
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
 
 ## 25
 
@@ -701,6 +826,11 @@
 * **25:37** As habitações pacíficas estão em silêncio por causa do furor da ira de YHWH.
 * **25:38** Ele abandonou o seu covil como o leão, porque a terra deles se tornou em espanto por causa do furor do opressor e por causa do furor da sua ira.
 
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
+
 ## 26
 
 * **26:1** No princípio do reinado de Jeoaquim, filho de Josias, rei de Judá, veio esta palavra da parte de YHWH, dizendo:
@@ -728,6 +858,11 @@
 * **26:23** Tiraram a Urias do Egito e o trouxeram ao rei Jeoaquim, que o feriu à espada e lançou o seu cadáver nas sepulturas dos filhos do povo.
 * **26:24** Todavia, a mão de Aicão, filho de Safã, foi com Jeremias, para que não o entregassem na mão do povo para matá-lo.
 
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
+
 ## 27
 
 * **27:1** No princípio do reinado de Jeoaquim, filho de Josias, rei de Judá, veio esta palavra a Jeremias da parte de YHWH, dizendo:
@@ -753,6 +888,11 @@
 * **27:21** Assim diz YHWH Tzevaot, Elohim de Israel, acerca dos utensílios que restaram na casa de YHWH, na casa do rei de Judá e em Jerusalém:
 * **27:22** Para Babilônia serão levados e lá ficarão até ao dia em que eu os visitarei, diz YHWH, e os farei subir e os restituirei a este lugar.
 
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
+
 ## 28
 
 * **28:1** Aconteceu no mesmo ano, no princípio do reinado de Zedequias, rei de Judá, no ano quarto, no quinto mês, que Hananias, filho de Azur, o profeta, que era de Gibeão, me falou na casa de YHWH, perante os sacerdotes e todo o povo, dizendo:
@@ -772,6 +912,11 @@
 * **28:15** Disse o profeta Jeremias ao profeta Hananias: Ouve agora, Hananias: YHWH não te enviou, e tu fizeste que este povo confiasse em mentiras.
 * **28:16** Portanto, assim diz YHWH: Eis que te lançarei de sobre a face da terra; este ano morrerás, porque falaste rebeldia contra YHWH.
 * **28:17** Morreu o profeta Hananias no mesmo ano, no sétimo mês.
+
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
 
 ## 29
 
@@ -808,6 +953,11 @@
 * **29:31** Envia a todos os exilados, dizendo: Assim diz YHWH acerca de Semaías, o neelamita: Porquanto Semaías vos profetizou, sendo que eu não o enviei, e vos fez confiar em mentiras,
 * **29:32** Portanto, assim diz YHWH: Eis que visitarei a Semaías, o neelamita, e à sua descendência; não terá homem que habite no meio deste povo, nem verá o bem que eu farei ao meu povo, diz YHWH, porque falou rebeldia contra YHWH.
 
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
+
 ## 30
 
 * **30:1** A palavra que veio a Jeremias da parte de YHWH, dizendo:
@@ -834,6 +984,11 @@
 * **30:22** Vós sereis o meu povo, e eu serei o vosso Elohim.
 * **30:23** Eis a tempestade de YHWH; o furor saiu, uma tempestade impetuosa; sobre a cabeça dos ímpios cairá.
 * **30:24** Não voltará o furor da ira de YHWH, até que ele tenha feito e até que tenha cumprido os desígnios do seu coração; no fim dos dias entendereis isto.
+
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
 
 ## 31
 
@@ -877,6 +1032,11 @@
 * **31:38** Eis que dias vêm, diz YHWH, em que a cidade será edificada para YHWH, desde a torre de Hananel até à porta da Esquina.
 * **31:39** E o cordel de medir sairá ainda para fora, em frente dele, até ao outeiro de Garebe, e rodeará até Goá.
 * **31:40** E todo o vale dos cadáveres e das cinzas, e todos os campos até ao ribeiro de Cedrom, até à esquina da porta dos Cavalos para o oriente, será santo a YHWH; não será arrancado nem derrubado mais para sempre.
+
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
 
 ## 32
 
@@ -925,6 +1085,11 @@
 * **32:43** "E comprar-se-ão campos nesta terra, da qual vós dizeis: 'Está desolada, sem homens nem animais, entregue na mão dos caldeus'".
 * **32:44** "Campos comprarão por dinheiro, e escreverão num documento, e selarão, e tomarão testemunhas, na terra de Benjamim, e nos arredores de Jerusalém, e nas cidades de Judá, e nas cidades das montanhas, e nas cidades das planícies, e nas cidades do sul, porque restaurarei a sua sorte, diz YHWH".
 
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
+
 ## 33
 
 * **33:1** E veio a palavra de YHWH a Jeremias, segunda vez, estando ele ainda encerrado no pátio da guarda, dizendo:
@@ -954,6 +1119,11 @@
 * **33:25** Assim diz YHWH: "Se a minha aliança do dia e da noite não permanecer, e eu não puser as leis dos céus e da terra".
 * **33:26** "Também rejeitarei a semente de Jacó e de Davi, meu servo, de modo que não tome da sua semente para governar sobre a semente de Abraão, Isaque e Jacó; porque restaurarei a sua sorte e me compadecerei deles".
 
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
+
 ## 34
 
 * **34:1** A palavra que veio a Jeremias da parte de YHWH, quando Nabucodonosor, rei de Babilônia, e todo o seu exército, e todos os reinos da terra que estavam sob o domínio da sua mão, e todos os povos, pelejavam contra Jerusalém e contra todas as suas cidades, dizendo:
@@ -979,6 +1149,11 @@
 * **34:21** "E a Zedequias, rei de Judá, e a seus príncipes, entregarei na mão de seus inimigos e na mão dos que buscam a sua alma, e na mão do exército do rei de Babilônia, que se retirou de vós".
 * **34:22** "Eis que eu darei ordem, diz YHWH, e os farei voltar a esta cidade, e pelejarão contra ela, e a tomarão, e a queimarão a fogo; e farei das cidades de Judá uma desolação, sem habitantes".
 
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
+
 ## 35
 
 * **35:1** A palavra que veio a Jeremias da parte de YHWH, nos dias de Jeoaquim, filho de Josias, rei de Judá, dizendo:
@@ -1000,6 +1175,11 @@
 * **35:17** "Portanto, assim diz YHWH Elohei Tzevaot Elohei Israel: Eis que trarei sobre Judá e sobre todos os habitantes de Jerusalém todo o mal que falei contra eles; porquanto lhes falei, e não ouviram; e chamei-os, e não responderam".
 * **35:18** E à casa dos recabitas disse Jeremias: "Assim diz YHWH Tzevaot Elohei Israel: Porquanto obedecestes ao mandamento de Jonadabe, vosso pai, e guardastes todos os seus mandamentos, e fizestes conforme tudo o que ele vos ordenou".
 * **35:19** "Portanto, assim diz YHWH Tzevaot Elohei Israel: Nunca faltará homem a Jonadabe, filho de Recabe, que esteja diante de mim todos os dias".
+
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
 
 ## 36
 
@@ -1036,6 +1216,11 @@
 * **36:31** "Castigarei a ele, à sua descendência e aos seus servos por causa da sua iniquidade, e trarei sobre eles, sobre os habitantes de Jerusalém e sobre os homens de Judá todo o mal que lhes anunciei, mas eles não ouviram."
 * **36:32** Jeremias tomou outro rolo e entregou-o a Baruque, filho de Nerias, o escrivão, o qual escreveu nele, sob o ditado de Jeremias, todas as palavras do livro que Jeoaquim, rei de Judá, queimara no fogo; e acrescentaram-se a elas muitas outras palavras semelhantes.
 
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
+
 ## 37
 
 * **37:1** O rei Zedequias, filho de Josias, reinou em lugar de Conias, filho de Jeoaquim, a quem Nabucodonosor, rei da Babilônia, fizera rei na terra de Judá.
@@ -1059,6 +1244,11 @@
 * **37:19** "E onde estão os vossos profetas que vos profetizavam, dizendo: 'O rei da Babilônia não virá contra vós nem contra esta terra'?"
 * **37:20** "Agora, pois, ouve, Adonai (Senhor) meu rei; aceite, peço-te, a minha súplica diante de ti, e não me faças voltar à casa de Jônatas, o escrivão, para que eu não morra ali."
 * **37:21** O rei Zedequias ordenou que pusessem Jeremias no pátio da guarda, e que lhe dessem diariamente um pão da rua dos padeiros, até que todo o pão da cidade se acabasse. Assim, Jeremias permaneceu no pátio da guarda.
+
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
 
 ## 38
 
@@ -1091,6 +1281,11 @@
 * **38:27** Todos os príncipes vieram a Jeremias e perguntaram-lhe; ele respondeu-lhes conforme todas as palavras que o rei ordenara; eles calaram-se, pois o assunto não fora ouvido.
 * **38:28** Jeremias permaneceu no pátio da guarda até ao dia em que Jerusalém foi tomada. E aconteceu quando Jerusalém foi tomada:
 
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
+
 ## 39
 
 * **39:1** No nono ano de Zedequias, rei de Judá, no décimo mês, veio Nabucodonosor, rei da Babilônia, e todo o seu exército contra Jerusalém, e a sitiaram.
@@ -1112,6 +1307,11 @@
 * **39:17** "Mas eu te livrarei naquele dia, diz YHWH, e não serás entregue na mão dos homens de quem tu tens medo."
 * **39:18** "Porque certamente te escaparei, e não cairás à espada; a tua alma te será por despojo, porque confiaste em mim, diz YHWH."
 
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
+
 ## 40
 
 * **40:1** A palavra que veio a Jeremias da parte de YHWH, depois que Nebuzaradã, o capitão da guarda, o soltou de Ramá, quando o tomou estando ele atado com cadeias, no meio de todos os cativos de Jerusalém e de Judá que eram levados para a Babilônia.
@@ -1130,6 +1330,11 @@
 * **40:14** Disseram-lhe: "Porventura sabes que Baalis, rei dos filhos de Amom, enviou a Ismael, filho de Netanias, para te tirar a vida?" Mas Gedalias, filho de Aicão, não lhes deu crédito.
 * **40:15** Joanã, filho de Careá, disse a Gedalias em segredo, em Mispa: "Deixa-me ir e ferirei a Ismael, filho de Netanias, e ninguém saberá. Por que te tiraria a vida, para que todos os de Judá que se ajuntaram a ti se dispersem e pereça o resto de Judá?"
 * **40:16** Gedalias, filho de Aicão, disse a Joanã, filho de Careá: "Não faças tal coisa, porque falas falsamente de Ismael".
+
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
 
 ## 41
 
@@ -1151,6 +1356,11 @@
 * **41:16** Joanã, filho de Careá, e todos os príncipes dos exércitos que estavam com ele, tomaram todo o restante do povo que ele recuperara de Ismael, filho de Netanias, de Mispa, depois que ele ferira a Gedalias, filho de Aicão: homens valentes, mulheres, crianças e eunucos, que ele recuperara de Gibeão.
 * **41:17** Foram e habitaram em Gerute-Quimã, que está junto a Belém, para irem entrar no Egito,
 * **41:18** por causa dos caldeus, pois temiam por causa deles, porque Ismael, filho de Netanias, ferira a Gedalias, filho de Aicão, a quem o rei da Babilônia constituíra sobre a terra.
+
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
 
 ## 42
 
@@ -1177,6 +1387,11 @@
 * **42:21** "Eu vo-lo declarei hoje, mas não obedecestes à voz de YHWH, Elohim vosso, nem a tudo o que Ele me enviou a dizer-vos."
 * **42:22** E agora, saibam com certeza que, pela espada, pela fome e pela peste, vocês morrerão no lugar para onde desejaram ir para morar.
 
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
+
 ## 43
 
 * **43:1** Quando Jeremias terminou de falar a todo o povo todas as palavras de YHWH (SENHOR) Elohim (Deus) deles, que YHWH Elohim deles o enviara para dizer-lhes todas essas palavras,
@@ -1192,6 +1407,11 @@
 * **43:11** Ele virá e ferirá a terra do Egito; os que são para a morte, à morte; os que são para o cativeiro, ao cativeiro; e os que são para a espada, à espada.
 * **43:12** Acenderei fogo nas casas dos deuses do Egito, e ele os queimará e os levará cativos; ele se envolverá com a terra do Egito como um pastor se envolve com a sua capa, e sairá de lá em paz.
 * **43:13** Quebrará as colunas de Bete-Semes, que está na terra do Egito, e as casas dos deuses do Egito queimará com fogo."
+
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
 
 ## 44
 
@@ -1226,6 +1446,11 @@
 * **44:29** O Egito sobe como o Nilo, e as águas se agitam como rios; e ele diz: 'Subirei, cobrirei a terra, destruirei a cidade e os que nela habitam'.
 * **44:30** Subam, cavalos, e enfureçam-se, carros! Saiam os valentes: Cuxe e Pute, que manejam o escudo, e os ludim, que manejam e retesam o arco.
 
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
+
 ## 45
 
 * **45:1** Aquele dia é para Adonai YHWH dos Exércitos um dia de vingança, para se vingar dos seus adversários; a espada devorará, fartar-se-á e embriagar-se-á com o sangue deles; pois Adonai YHWH dos Exércitos tem um sacrifício na terra do norte, junto ao rio Eufrates.
@@ -1233,6 +1458,11 @@
 * **45:3** As nações ouviram a tua vergonha, e a terra está cheia do teu clamor; porque um valente tropeçou contra outro valente, ambos caíram juntos."
 * **45:4** A palavra que YHWH falou a Jeremias, o profeta, sobre a vinda de Nabucodonosor, rei da Babilônia, para ferir a terra do Egito:
 * **45:5** "Anunciem no Egito, proclamem em Migdol, proclamem em Mênfis e em Tafnes; digam: 'Posta-te e prepara-te, porque a espada devora ao teu redor'.
+
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
 
 ## 46
 
@@ -1265,6 +1495,11 @@
 * **46:27** Fujam, salvem a vossa vida, e sejam como o zimbro no deserto.
 * **46:28** Porque, por teres confiado nas tuas obras e nos teus tesouros, também tu serás tomada; e Camos irá para o cativeiro, os seus sacerdotes e os seus príncipes juntos.
 
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
+
 ## 47
 
 * **47:1** O destruidor virá sobre cada cidade, e nenhuma cidade escapará; o vale perecerá e a planície será destruída, como YHWH disse.
@@ -1274,6 +1509,11 @@
 * **47:5** Portanto, eis que vêm dias, diz YHWH, em que lhe enviarei trasfegadores que o trasfegarão, esvaziarão as suas vasilhas e quebrarão os seus odres.
 * **47:6** Moabe se envergonhará de Camos, assim como a casa de Israel se envergonhou de Betel, a sua confiança.
 * **47:7** Como direis: 'Somos valentes e homens fortes para a guerra'?
+
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
 
 ## 48
 
@@ -1325,6 +1565,11 @@
 * **48:46** Porque por mim mesmo jurei, diz YHWH, que Bozra se tornará em espanto, em opróbrio, em ruína e em maldição; e todas as suas cidades se tornarão em ruínas perpétuas."
 * **48:47** Uma notícia ouvi da parte de YHWH, e um mensageiro foi enviado às nações: "Ajuntai-vos e vinde contra ela, e levantai-vos para a guerra."
 
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
+
 ## 49
 
 * **49:1** "Porque eis que te farei pequeno entre as nações, desprezado entre os homens.
@@ -1366,6 +1611,11 @@
 * **49:37** E farei com que Elão se espante diante dos seus inimigos e diante dos que buscam a sua vida; e trarei sobre eles o mal, o furor da minha ira, diz YHWH (SENHOR), e enviarei após eles a espada, até que eu os tenha consumido.
 * **49:38** E porei o meu trono em Elão e destruirei dali o rei e os príncipes, diz YHWH (SENHOR).
 * **49:39** E acontecerá no fim dos dias que farei voltar a sorte de Elão, diz YHWH (SENHOR).
+
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
 
 ## 50
 
@@ -1415,6 +1665,11 @@
 * **50:44** Eis que, como leão que sobe da enchente do Jordão contra o pasto perene, num momento os farei fugir dali; e quem é o escolhido que designarei sobre ela? Pois quem é como eu? E quem me citará para julgamento? E quem é o pastor que poderá resistir diante de mim?
 * **50:45** Portanto, ouvi o conselho de YHWH (SENHOR), que ele formou contra Babilônia, e os seus desígnios, que ele pensou contra a terra dos caldeus: Certamente os arrastarão, os mais novos do rebanho; certamente assolarão a sua morada sobre eles.
 * **50:46** Ao som da tomada de Babilônia, a terra tremeu, e o clamor foi ouvido entre as nações.
+
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
 
 ## 51
 
@@ -1482,6 +1737,11 @@
 * **51:62** E dirás: YHWH (SENHOR), tu falaste contra este lugar, para o destruir, de modo que não fique nele habitante, desde o homem até o animal, pois em desolações perpétuas será.
 * **51:63** E será que, acabando tu de ler este livro, atarás a ele uma pedra e lançá-lo-ás no meio do Eufrates.
 * **51:64** E dirás: Assim afundará Babilônia e não se levantará, por causa do mal que eu trago sobre ela, e eles se cansarão. Até aqui as palavras de Jeremias.
+
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
 
 ## 52
 

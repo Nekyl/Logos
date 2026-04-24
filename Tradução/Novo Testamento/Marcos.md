@@ -1,5 +1,10 @@
 # Marcos
 
+<a id="topo"></a>
+
+[1](#1) [2](#2) [3](#3) [4](#4) [5](#5) [6](#6) [7](#7) [8](#8) [9](#9) [10](#10) [11](#11) [12](#12) [13](#13) [14](#14) [15](#15) [16](#16)
+
+
 ## 1
 
 * **1:1** Início das boas-novas de Iēsous Christou (Jesus Messias).
@@ -48,6 +53,11 @@
 * **1:44** e disse-lhe: Olha, não digas nada a ninguém; mas vai, mostra-te ao sacerdote e oferece pela tua purificação o que Moisés ordenou, para servir de testemunho a eles.
 * **1:45** Mas ele, saindo, começou a proclamar muitas coisas e a divulgar o fato, de modo que Iēsous já não podia entrar abertamente em qualquer cidade, mas permanecia fora, em lugares desertos; e vinham a ele de toda parte.
 
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
+
 ## 2
 
 * **2:1** E, entrando novamente em Cafarnaum, depois de alguns dias, soube-se que ele estava em casa.
@@ -78,6 +88,11 @@
 * **2:26** Como entrou na casa de Theou (Deus), no tempo do sumo sacerdote Abiatar, e comeu os pães da proposição, os quais não é lícito comer senão aos sacerdotes, e deu também aos que estavam com ele?
 * **2:27** E dizia-lhes: O sábado foi feito por causa do homem, e não o homem por causa do sábado;
 * **2:28** de sorte que o Filho do Homem é senhor até do sábado.
+
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
 
 ## 3
 
@@ -116,6 +131,11 @@
 * **3:33** E, respondendo-lhes, disse: Quem é minha mãe ou meus irmãos?
 * **3:34** E, olhando em redor para os que estavam sentados ao seu redor, disse: Eis minha mãe e meus irmãos;
 * **3:35** pois qualquer que fizer a vontade de Theou (Deus), esse é meu irmão, e irmã, e mãe.
+
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
 
 ## 4
 
@@ -160,6 +180,11 @@
 * **4:39** E ele, despertando, repreendeu o vento e disse ao mar: Cala-te, aquieta-te. E o vento cessou, e fez-se grande bonança.
 * **4:40** E disse-lhes: Por que sois tão medrosos? Ainda não tendes fé?
 * **4:41** E sentiram um grande temor e diziam uns aos outros: Quem é este, que até o vento e o mar lhe obedecem?
+
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
 
 ## 5
 
@@ -206,6 +231,11 @@
 * **5:41** e, tomando a mão da menina, diz-lhe: Talita cumi, que, traduzido, é: Menina, eu te mando, levanta-te.
 * **5:42** E logo a menina levantou-se e andava, pois tinha doze anos. E ficaram logo tomados de grande espanto.
 * **5:43** E ordenou-lhes muito que ninguém soubesse disso, e disse que lhe dessem de comer.
+
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
 
 ## 6
 
@@ -266,6 +296,11 @@
 * **6:55** e percorreram toda aquela região e começaram a trazer nos leitos os que estavam enfermos, para onde ouviam que ele estava.
 * **6:56** E onde quer que ele entrasse, nas aldeias, cidades ou campos, punham os enfermos nas praças e suplicavam-lhe que pudessem tocar ao menos na orla da sua veste; e todos os que o tocavam eram salvos.
 
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
+
 ## 7
 
 * **7:1** E reúnem-se junto a ele os fariseus e alguns dos escribas que tinham vindo de Jerusalém,
@@ -304,6 +339,11 @@
 * **7:35** E abriram-se os seus ouvidos, e a prisão da sua língua se soltou, e falava corretamente;
 * **7:36** e ordenou-lhes que a ninguém o dissessem; mas, quanto mais ele os proibia, tanto mais eles o proclamavam.
 * **7:37** E maravilhavam-se sobremaneira, dizendo: Ele faz tudo bem; faz os surdos ouvir e os mudos falar.
+
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
 
 ## 8
 
@@ -345,6 +385,11 @@
 * **8:36** Pois que aproveita ao homem ganhar o mundo inteiro e perder a sua alma?
 * **8:37** Pois que daria o homem em troca da sua alma?
 * **8:38** Pois quem se envergonhar de mim e das minhas palavras nesta geração adúltera e pecadora, também o filho do homem se envergonhará dele quando vier na glória do Patēr (Pai) dele com os anjos santos.
+
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
 
 ## 9
 
@@ -396,6 +441,11 @@
 * **9:48** onde o verme deles não morre e o fogo não se apaga.
 * **9:49** Pois todos serão salgados com fogo.
 * **9:50** O sal é bom; mas, se o sal se tornar insípido, com que o temperareis? Tende sal em vós mesmos e vivei em paz uns com os outros.
+
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
 
 ## 10
 
@@ -452,6 +502,11 @@
 * **10:51** E, respondendo, Iēsous disse-lhe: Que queres que te faça? O cego disse-lhe: Raboni, que eu veja.
 * **10:52** E Iēsous disse-lhe: Vai, a tua fé te salvou. E logo viu, e seguia-o no caminho.
 
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
+
 ## 11
 
 * **11:1** E, quando se aproximam de Jerusalém, a Betfagé e Betânia, junto ao Monte das Oliveiras, envia dois dos seus discípulos
@@ -486,6 +541,11 @@
 * **11:31** E eles discutiam entre si, dizendo: "O que diremos? Se dissermos: 'Do céu', ele dirá: 'Por que, então, não acreditaram nele?'"
 * **11:32** Mas diremos: 'Dos homens?' — eles temiam a multidão, pois todos consideravam que João era realmente um profeta.
 * **11:33** E, respondendo a Jesus, disseram: "Não sabemos". E Jesus lhes diz: "Nem eu lhes digo com que autoridade faço estas coisas".
+
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
 
 ## 12
 
@@ -534,6 +594,11 @@
 * **12:43** E, chamando os seus discípulos, disse-lhes: "Em verdade vos digo que esta viúva pobre lançou mais do que todos os que lançaram no gazofilácio;
 * **12:44** pois todos lançaram do que lhes sobrava, mas ela, da sua pobreza, lançou tudo o que tinha, todo o seu sustento".
 
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
+
 ## 13
 
 * **13:1** E, saindo ele do templo, diz-lhe um dos seus discípulos: "Mestre, olha que pedras e que construções!"
@@ -573,6 +638,11 @@
 * **13:35** Vigiem, pois, porque não sabem quando vem o senhor da casa, se à tarde, ou à meia-noite, ou ao cantar do galo, ou pela manhã,
 * **13:36** para que, vindo de repente, não vos encontre dormindo.
 * **13:37** O que vos digo, digo a todos: vigiem".
+
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
 
 ## 14
 
@@ -649,6 +719,11 @@
 * **14:71** Mas ele começou a praguejar e a jurar: Não conheço este homem de quem vocês falam.
 * **14:72** E imediatamente, pela segunda vez, o galo cantou; e Pedro lembrou-se da palavra que Iēsous lhe dissera: Antes que o galo cante duas vezes, três vezes você me negará; e, caindo em si, chorava.
 
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
+
 ## 15
 
 * **15:1** E logo pela manhã, tendo feito uma reunião, os sumos sacerdotes com os anciãos e escribas e todo o conselho, tendo amarrado Iēsous, levaram-no e entregaram-no a Pilatos.
@@ -697,6 +772,11 @@
 * **15:45** e, sabendo pelo centurião, deu o corpo a José.
 * **15:46** E ele, comprando um lençol, tirou-o, envolveu-o no lençol e depositou-o num sepulcro que fora cavado na rocha, e rolou uma pedra sobre a porta do sepulcro.
 * **15:47** E Maria Madalena e Maria, mãe de José, observavam onde ele fora posto.
+
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
 
 ## 16
 

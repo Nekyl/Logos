@@ -1,5 +1,10 @@
 # Jonas
 
+<a id="topo"></a>
+
+[1](#1) [2](#2) [3](#3) [4](#4)
+
+
 ## 1
 
 * **1:1** Veio a palavra de YHWH (SENHOR) a Jonas, filho de Amitai, dizendo:
@@ -20,6 +25,11 @@
 * **1:16** Os homens temeram grandemente a YHWH, ofereceram sacrifícios a YHWH e fizeram votos.
 * **1:17** YHWH preparou um grande peixe para engolir Jonas; e Jonas esteve nas entranhas do peixe por três dias e três noites.
 
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
+
 ## 2
 
 * **2:1** Jonas orou a YHWH, seu Elohim, das entranhas do peixe.
@@ -33,6 +43,11 @@
 * **2:9** "Mas eu, com voz de gratidão, te oferecerei sacrifício; o que votei, pagarei. A salvação vem de YHWH."
 * **2:10** YHWH deu ordens ao peixe, e este vomitou Jonas na terra seca.
 
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
+
 ## 3
 
 * **3:1** Veio a palavra de YHWH a Jonas pela segunda vez, dizendo:
@@ -45,6 +60,11 @@
 * **3:8** "Cubram-se de panos de saco, tanto homens como animais, e clamem fortemente a Elohim; converta-se cada um do seu mau caminho e da violência que há nas suas mãos."
 * **3:9** "Quem sabe se Elohim se voltará e se arrependerá, e se apartará do furor da sua ira, para que não pereçamos?"
 * **3:10** Viu Elohim as suas obras, como se converteram do seu mau caminho; e Elohim se arrependeu do mal que tinha dito que lhes faria, e não o fez.
+
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
 
 ## 4
 

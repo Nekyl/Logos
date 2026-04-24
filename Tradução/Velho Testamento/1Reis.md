@@ -1,5 +1,10 @@
 # 1 Reis
 
+<a id="topo"></a>
+
+[1](#1) [2](#2) [3](#3) [4](#4) [5](#5) [6](#6) [7](#7) [8](#8) [9](#9) [10](#10) [11](#11) [12](#12) [13](#13) [14](#14) [15](#15) [16](#16) [17](#17) [18](#18) [19](#19) [20](#20) [21](#21) [22](#22)
+
+
 ## 1
 
 * **1:1** O rei Davi era velho e avançado em idade; cobriam-no com roupas, mas ele não se aquecia.
@@ -56,6 +61,11 @@
 * **1:52** Salomão disse: "Se ele se mostrar um homem valente, não cairá nem um fio de cabelo seu na terra; mas, se for achada maldade nele, morrerá".
 * **1:53** O rei Salomão enviou homens, e eles o tiraram do altar; ele veio, prostrou-se diante do rei Salomão, e Salomão lhe disse: "Vai para tua casa".
 
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
+
 ## 2
 
 * **2:1** Aproximando-se os dias de Davi para morrer, ele deu ordens a Salomão, seu filho, dizendo:
@@ -105,6 +115,11 @@
 * **2:45** "Mas o rei Salomão será bendito, e o trono de Davi será firme diante de YHWH (SENHOR) para sempre."
 * **2:46** O rei ordenou a Benaia, filho de Joiada, que saiu, feriu-o e ele morreu. O reino estava firme nas mãos de Salomão.
 
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
+
 ## 3
 
 * **3:1** Salomão aparentou-se com Faraó, rei do Egito; tomou a filha de Faraó e a trouxe à cidade de Davi, até que acabasse de edificar a sua casa, a casa de YHWH (SENHOR) e o muro de Jerusalém ao redor.
@@ -135,6 +150,11 @@
 * **3:26** A mulher cujo filho era o vivo disse ao rei — pois as suas entranhas se comoveram pelo seu filho —: "Ah! Adonai (meu senhor), dai-lhe o menino vivo e não o mateis". Mas a outra dizia: "Nem meu, nem teu; dividi-o".
 * **3:27** O rei respondeu: "Dai àquela o menino vivo e não o mateis; ela é a sua mãe".
 * **3:28** Todo o Israel ouviu o juízo que o rei dera e temeram diante do rei, pois viram que havia nele a sabedoria de Elohim (Deus) para fazer justiça.
+
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
 
 ## 4
 
@@ -173,6 +193,11 @@
 * **4:33** Discorreu sobre as árvores, desde o cedro do Líbano até o hissopo que brota no muro; falou também sobre os animais, as aves, os répteis e os peixes.
 * **4:34** De todos os povos vinham pessoas para ouvir a sabedoria de Salomão, enviadas por todos os reis da terra que tinham ouvido falar da sua sabedoria.
 
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
+
 ## 5
 
 * **5:1** Hirão, rei de Tiro, enviou os seus servos a Salomão, pois soube que o tinham ungido rei em lugar de seu pai, visto que Hirão sempre fora amigo de Davi.
@@ -193,6 +218,11 @@
 * **5:16** Além dos três mil e trezentos capatazes de Salomão, que supervisionavam o povo que trabalhava na obra.
 * **5:17** O rei ordenou que extraíssem pedras grandes e valiosas, pedras lavradas, para os alicerces da casa.
 * **5:18** Os construtores de Salomão, os de Hirão e os gebalitas lavraram as pedras e prepararam a madeira e as pedras para a edificação da casa.
+
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
 
 ## 6
 
@@ -234,6 +264,11 @@
 * **6:36** Edificou o átrio interno com três fileiras de pedras lavradas e uma fileira de vigas de cedro.
 * **6:37** No quarto ano, foram lançados os alicerces da casa de YHWH (SENHOR), no mês de Zive.
 * **6:38** No décimo primeiro ano, no mês de Bule, que é o oitavo mês, a casa foi terminada em todos os seus detalhes e conforme todo o seu projeto; ele a edificou em sete anos.
+
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
 
 ## 7
 
@@ -288,6 +323,11 @@
 * **7:49** Os candelabros de ouro puro, cinco à direita e cinco à esquerda, diante do lugar santíssimo; as flores, as lâmpadas e as tenazes eram de ouro.
 * **7:50** As bacias, as tesouras, as bacias de aspersão, as colheres e os braseiros eram de ouro puro; e as dobradiças para as portas da casa interna, para o lugar santíssimo, e para as portas da casa do santuário, eram de ouro.
 * **7:51** Assim foi terminada toda a obra que o rei Salomão fez para a casa de YHWH (SENHOR); Salomão trouxe as coisas consagradas por Davi, seu pai, a prata, o ouro e os utensílios, e os colocou nos tesouros da casa de YHWH (SENHOR).
+
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
 
 ## 8
 
@@ -358,6 +398,11 @@
 * **8:65** Naquela ocasião, Salomão celebrou a festa, e todo o Israel com ele, uma grande congregação, desde a entrada de Hamate até o ribeiro do Egito, diante de YHWH (SENHOR) Elohim (Deus), por sete dias e mais sete dias, catorze dias ao todo.
 * **8:66** No oitavo dia, despediu o povo, e eles abençoaram o rei e foram para as suas tendas, alegres e de coração contente por todo o bem que YHWH (SENHOR) fizera a Davi, seu servo, e a Israel, seu povo.
 
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
+
 ## 9
 
 * **9:1** Quando Salomão terminou de edificar a casa de YHWH (SENHOR), a casa do rei e todo o desejo de Salomão que ele quis realizar,
@@ -388,6 +433,11 @@
 * **9:26** O rei Salomão construiu uma frota de navios em Eziom-Geber, que está junto a Elate, na margem do mar Vermelho, na terra de Edom.
 * **9:27** Hirão enviou na frota os seus servos, marinheiros conhecedores do mar, com os servos de Salomão.
 * **9:28** Eles foram a Ofir e de lá trouxeram quatrocentos e vinte talentos de ouro, e os trouxeram ao rei Salomão.
+
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
 
 ## 10
 
@@ -420,6 +470,11 @@
 * **10:27** O rei fez com que a prata em Jerusalém fosse como as pedras, e os cedros como os sicômoros que estão na Sefelá, em abundância.
 * **10:28** A importação de cavalos que Salomão tinha vinha do Egito e de Coa; os mercadores do rei os buscavam em Coa por um preço.
 * **10:29** Um carro subia e saía do Egito por seiscentos siclos de prata, e um cavalo por cento e cinquenta; e assim, por meio deles, os exportavam para todos os reis dos heteus e para os reis da Síria.
+
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
 
 ## 11
 
@@ -467,6 +522,11 @@
 * **11:42** Os dias que Salomão reinou em Jerusalém sobre todo o Israel foram quarenta anos.
 * **11:43** Salomão dormiu com os seus antepassados e foi sepultado na cidade de Davi, seu pai; e Roboão, seu filho, reinou em seu lugar.
 
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
+
 ## 12
 
 * **12:1** Roboão foi a Siquém, pois todo o Israel tinha ido a Siquém para o fazer rei.
@@ -502,6 +562,11 @@
 * **12:31** Ele construiu casas nos lugares altos e constituiu sacerdotes dentre todo o povo, que não eram dos filhos de Levi.
 * **12:32** Jeroboão instituiu uma festa no oitavo mês, no dia quinze do mês, semelhante à festa que havia em Judá, e subiu ao altar; assim fez em Betel, sacrificando aos bezerros que fizera, e estabeleceu em Betel os sacerdotes dos lugares altos que ele havia criado.
 * **12:33** Subiu ao altar que fizera em Betel, no dia quinze do oitavo mês, mês que ele inventou por conta própria, e instituiu uma festa para os filhos de Israel, subindo ao altar para queimar incenso.
+
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
 
 ## 13
 
@@ -540,6 +605,11 @@
 * **13:33** Depois deste fato, Jeroboão não se desviou do seu mau caminho, mas continuou a constituir sacerdotes dos lugares altos dentre todo o povo; a quem quisesse, ele consagrava, e este se tornava sacerdote dos lugares altos.
 * **13:34** Isso tornou-se pecado para a casa de Jeroboão, para ser exterminada e destruída da face da terra.
 
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
+
 ## 14
 
 * **14:1** Naquele tempo, Abias, filho de Jeroboão, adoeceu.
@@ -573,6 +643,11 @@
 * **14:29** O restante dos atos de Roboão e tudo o que fez, não estão porventura escritos no livro das crônicas dos reis de Judá?
 * **14:30** Houve guerra entre Roboão e Jeroboão todos os dias.
 * **14:31** Roboão dormiu com seus pais e foi sepultado com seus pais na cidade de Davi. O nome de sua mãe era Naamá, a amonita. Abião, seu filho, reinou em seu lugar.
+
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
 
 ## 15
 
@@ -611,6 +686,11 @@
 * **15:33** No terceiro ano de Asa, rei de Judá, Baasa, filho de Aías, começou a reinar sobre todo o Israel em Tirza, por vinte e quatro anos.
 * **15:34** Fez o que era mau aos olhos de YHWH e andou no caminho de Jeroboão e no seu pecado, com que fez Israel pecar.
 
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
+
 ## 16
 
 * **16:1** A palavra de YHWH veio a Jeú, filho de Hanani, contra Baasa, dizendo:
@@ -648,6 +728,11 @@
 * **16:33** Acabe fez também o poste-ídolo; e Acabe fez ainda mais para provocar a YHWH, Elohim de Israel, do que todos os reis de Israel que foram antes dele.
 * **16:34** Nos seus dias, Hiel, o betelita, edificou Jericó; ao custo de Abirão, seu primogênito, lançou os seus fundamentos, e ao custo de Segube, seu filho mais novo, colocou as suas portas, conforme a palavra de YHWH que falara por intermédio de Josué, filho de Num.
 
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
+
 ## 17
 
 * **17:1** Elias, o tisbita, dos moradores de Gileade, disse a Acabe: "Vive YHWH (SENHOR), Elohim (Deus) de Israel, perante cuja face estou, que nestes anos não haverá orvalho nem chuva, senão segundo a minha palavra".
@@ -674,6 +759,11 @@
 * **17:22** YHWH ouviu a voz de Elias, a alma do menino tornou a entrar nele e ele reviveu.
 * **17:23** Elias tomou o menino, levou-o do quarto alto para dentro da casa e o deu à sua mãe; e disse Elias: "Vê, teu filho vive".
 * **17:24** A mulher disse a Elias: "Nisto conheço agora que tu és um homem de Elohim e que a palavra de YHWH na tua boca é verdade".
+
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
 
 ## 18
 
@@ -724,6 +814,11 @@
 * **18:45** Sucedeu que, entretanto, os céus se enegreceram com nuvens e vento, e veio uma grande chuva; Acabe subiu ao carro e foi para Jezreel.
 * **18:46** A mão de YHWH veio sobre Elias, o qual cingiu os seus lombos e correu adiante de Acabe, até chegar a Jezreel.
 
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
+
 ## 19
 
 * **19:1** Acabe contou a Jezabel tudo o que Elias tinha feito e como matara todos os profetas à espada.
@@ -747,6 +842,11 @@
 * **19:19** Partiu dali e achou a Eliseu, filho de Safate, que andava lavrando com doze juntas de bois adiante dele, e ele estava com a duodécima; Elias passou por ele e lançou a sua capa sobre ele.
 * **19:20** Ele deixou os bois, correu após Elias e disse: "Deixa-me beijar a meu pai e a minha mãe, e então te seguirei". Ele lhe disse: "Vai e volta, pois que te fiz eu?"
 * **19:21** Voltou de após ele, tomou a junta de bois, sacrificou-os, com os aparelhos dos bois cozeu a carne e deu-a ao povo, e comeram; então se levantou, foi após Elias e o servia.
+
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
 
 ## 20
 
@@ -794,6 +894,11 @@
 * **20:42** Ele disse-lhe: "Assim diz YHWH: Porquanto soltaste da mão o homem que eu tinha destinado à destruição, a tua vida será pela sua vida, e o teu povo pelo seu povo".
 * **20:43** O rei de Israel foi para a sua casa, desgostoso e furioso, e chegou a Samaria.
 
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
+
 ## 21
 
 * **21:1** Depois destas coisas, Nabote, o jezreelita, tinha uma vinha em Jezreel, junto ao palácio de Acabe, rei de Samaria.
@@ -825,6 +930,11 @@
 * **21:27** E sucedeu que, ouvindo Acabe estas palavras, rasgou as suas vestes, e pôs saco sobre a sua carne, e jejuou, e dormiu em saco, e andava mansamente.
 * **21:28** Então veio a palavra de YHWH (SENHOR) a Elias, o tesbita, dizendo:
 * **21:29** Tens visto como Acabe se humilha diante de mim? Porquanto se humilha diante de mim, não trarei este mal nos seus dias, mas nos dias de seu filho trarei o mal sobre a sua casa.
+
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
 
 ## 22
 

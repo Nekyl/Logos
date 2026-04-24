@@ -1,5 +1,10 @@
 # 1 Samuel
 
+<a id="topo"></a>
+
+[1](#1) [2](#2) [3](#3) [4](#4) [5](#5) [6](#6) [7](#7) [8](#8) [9](#9) [10](#10) [11](#11) [12](#12) [13](#13) [14](#14) [15](#15) [16](#16) [17](#17) [18](#18) [19](#19) [20](#20) [21](#21) [22](#22) [23](#23) [24](#24) [25](#25) [26](#26) [27](#27) [28](#28) [29](#29) [30](#30) [31](#31)
+
+
 ## 1
 
 * **1:1** Havia um homem de Ramataim-Zofim, da região montanhosa de Efraim, cujo nome era Elcana, filho de Jeroão, filho de Eliú, filho de Toú, filho de Zufe, um efraimita.
@@ -30,6 +35,11 @@
 * **1:26** Ela disse: "Ah, meu senhor! Pela tua vida, meu senhor, eu sou aquela mulher que esteve aqui contigo, orando a YHWH.
 * **1:27** Por este menino eu orava, e YHWH me concedeu a petição que lhe fiz.
 * **1:28** Por isso, eu também o devolvo a YHWH; por todos os dias que viver, ele será dedicado a YHWH". E adoraram ali a YHWH.
+
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
 
 ## 2
 
@@ -70,6 +80,11 @@
 * **2:35** Suscitarei para mim um sacerdote fiel, que fará segundo o que está no meu coração e na minha alma; edificar-lhe-ei uma casa firme, e ele andará diante do meu ungido todos os dias.
 * **2:36** E acontecerá que todo o que restar da tua casa virá prostrar-se diante dele por uma moeda de prata e um bocado de pão, dizendo: 'Rogo-te que me admitas a algum cargo sacerdotal, para que eu possa comer um pedaço de pão'".
 
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
+
 ## 3
 
 * **3:1** O menino Samuel servia a YHWH diante de Eli. Naqueles dias, a palavra de YHWH era rara; não havia visão frequente.
@@ -93,6 +108,11 @@
 * **3:19** Samuel crescia, e YHWH estava com ele e não deixou cair por terra nenhuma de todas as suas palavras.
 * **3:20** Todo o Israel, desde Dã até Berseba, soube que Samuel estava confirmado como profeta de YHWH.
 * **3:21** YHWH continuou a aparecer em Siló, pois YHWH se revelava a Samuel em Siló, pela palavra de YHWH.
+
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
 
 ## 4
 
@@ -119,6 +139,11 @@
 * **4:21** Ela chamou o menino Icabode, dizendo: "A glória se foi de Israel", por causa da arca de Elohim ter sido tomada e por causa de seu sogro e de seu marido.
 * **4:22** Ela disse: "A glória se foi de Israel, pois a arca de Elohim foi tomada".
 
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
+
 ## 5
 
 * **5:1** Os filisteus tomaram a arca de Elohim e a levaram de Ebenézer para Asdode.
@@ -133,6 +158,11 @@
 * **5:10** Enviaram a arca de Elohim a Ecrom. Quando a arca de Elohim chegou a Ecrom, os ecronitas gritaram: "Trouxeram a arca do Elohim de Israel para nos matar, a nós e ao nosso povo!"
 * **5:11** Reuniram todos os príncipes dos filisteus e disseram: "Enviai a arca do Elohim de Israel para o seu lugar, para que não nos mate, a nós e ao nosso povo", pois havia um pânico mortal em toda a cidade; a mão de Elohim pesava muito ali.
 * **5:12** Os homens que não morriam eram feridos com tumores, e o clamor da cidade subia aos céus.
+
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
 
 ## 6
 
@@ -158,6 +188,11 @@
 * **6:20** Os homens de Bete-Semes disseram: "Quem poderá estar perante YHWH, este Elohim santo? E para quem subirá ele de nós?"
 * **6:21** Enviaram mensageiros aos habitantes de Quiriate-Jearim, dizendo: "Os filisteus devolveram a arca de YHWH; descei e levai-a para vós".
 
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
+
 ## 7
 
 * **7:1** Os homens de Quiriate-Jearim vieram, levaram a arca de YHWH e a trouxeram à casa de Abinadabe, no outeiro; e consagraram Eleazar, seu filho, para guardar a arca de YHWH.
@@ -177,6 +212,11 @@
 * **7:15** Samuel julgou Israel durante todos os dias da sua vida.
 * **7:16** Ele ia de ano em ano, percorria Betel, Gilgal e Mispá, e julgava Israel em todos esses lugares.
 * **7:17** Depois, voltava para Ramá, pois ali era a sua casa, e ali julgava Israel; ele construiu ali um altar para YHWH.
+
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
 
 ## 8
 
@@ -202,6 +242,11 @@
 * **8:20** Assim, seremos também como todas as nações; o nosso rei nos julgará, sairá à nossa frente e lutará as nossas batalhas".
 * **8:21** Samuel ouviu todas as palavras do povo e as repetiu aos ouvidos de YHWH.
 * **8:22** YHWH disse a Samuel: "Atende à sua voz e constitui-lhes um rei". Então Samuel disse aos homens de Israel: "Ide cada um para a sua cidade".
+
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
 
 ## 9
 
@@ -233,6 +278,11 @@
 * **9:26** Levantaram-se cedo, e, ao romper da alva, Samuel chamou Saul ao terraço, dizendo: "Levanta-te, para que eu te despeça". Saul levantou-se, e ambos, ele e Samuel, saíram para fora.
 * **9:27** Enquanto desciam à extremidade da cidade, Samuel disse a Saul: "Dize ao servo que passe adiante de nós e passe; mas tu, para aqui agora, para que eu te faça ouvir a palavra de Elohim".
 
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
+
 ## 10
 
 * **10:1** Samuel tomou um frasco de azeite, derramou-o sobre a sua cabeça, beijou-o e disse: "Não te ungiu YHWH por príncipe sobre a Sua herança?"
@@ -263,6 +313,11 @@
 * **10:26** Saul também foi para sua casa, em Gibeá, e foram com ele homens valentes, cujos corações Elohim tocara.
 * **10:27** Mas alguns homens perversos disseram: "Como este nos salvará?" Desprezaram-no e não lhe trouxeram presentes; ele, porém, ficou como se não ouvisse.
 
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
+
 ## 11
 
 * **11:1** Naás, o amonita, subiu e acampou contra Jabes-Gileade; todos os homens de Jabes disseram a Naás: "Faz aliança conosco, e te serviremos".
@@ -280,6 +335,11 @@
 * **11:13** Saul disse: "Ninguém será morto neste dia, pois hoje YHWH fez um livramento em Israel".
 * **11:14** Samuel disse ao povo: "Vinde, vamos a Gilgal e renovemos ali o reino".
 * **11:15** Todo o povo foi a Gilgal e ali constituíram Saul como rei perante YHWH; sacrificaram ali sacrifícios de paz perante YHWH, e Saul e todos os homens de Israel se alegraram grandemente.
+
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
 
 ## 12
 
@@ -309,6 +369,11 @@
 * **12:24** "Tão somente temei a YHWH e servi-O fielmente de todo o vosso coração, pois vede quão grandes coisas Ele fez convosco."
 * **12:25** "Mas, se perseverardes em fazer o mal, sereis destruídos, tanto vós como o vosso rei."
 
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
+
 ## 13
 
 * **13:1** Saul tinha um ano de reinado e reinou dois anos sobre Israel.
@@ -334,6 +399,11 @@
 * **13:21** O preço era um pim para as relhas, para as enxadas, para os garfos de três dentes e para os machados, e para consertar as aguilhadas.
 * **13:22** Sucedeu que, no dia da peleja, não se achou nem espada nem lança na mão de todo o povo que estava com Saul e com Jônatas; acharam-se, porém, com Saul e com Jônatas, seu filho.
 * **13:23** A guarnição dos filisteus saiu para o desfiladeiro de Micmás.
+
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
 
 ## 14
 
@@ -390,6 +460,11 @@
 * **14:51** Quis era o pai de Saul, e Ner, pai de Abner, era filho de Abiel.
 * **14:52** A guerra contra os filisteus foi intensa todos os dias de Saul; e, quando Saul via qualquer homem valente ou forte, ele o recrutava para si.
 
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
+
 ## 15
 
 * **15:1** Samuel disse a Saul: "YHWH (SENHOR) me enviou para ungir-te rei sobre o seu povo, sobre Israel; agora, pois, ouve a voz das palavras de YHWH (SENHOR)".
@@ -428,6 +503,11 @@
 * **15:34** Samuel foi a Ramá, e Saul subiu para a sua casa, em Gibeá de Saul.
 * **15:35** Samuel nunca mais viu a Saul até o dia da sua morte, pois Samuel lamentava por Saul; e YHWH (SENHOR) arrependeu-se de ter constituído Saul rei sobre Israel.
 
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
+
 ## 16
 
 * **16:1** YHWH (SENHOR) disse a Samuel: "Até quando lamentarás por Saul, tendo-o Eu rejeitado como rei sobre Israel? Enche o teu chifre de azeite e vai; enviar-te-ei a Jessé, o belemita, pois vi entre os seus filhos um rei para mim".
@@ -453,6 +533,11 @@
 * **16:21** Davi veio a Saul e apresentou-se diante dele; Saul amou-o muito, e ele tornou-se seu escudeiro.
 * **16:22** Saul enviou a Jessé, dizendo: "Deixa Davi ficar diante de mim, pois achou graça aos meus olhos".
 * **16:23** Quando o espírito de Elohim (Deus) vinha sobre Saul, Davi tomava a harpa e tocava; Saul sentia alívio, sentia-se melhor, e o espírito maligno retirava-se dele.
+
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
 
 ## 17
 
@@ -515,6 +600,11 @@
 * **17:57** Quando Davi voltava de ferir o filisteu, Abner tomou-o e o trouxe à presença de Saul, com a cabeça do filisteu na mão.
 * **17:58** Saul perguntou-lhe: "De quem és filho, jovem?" Davi respondeu: "Sou filho do teu servo Jessé, o belemita."
 
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
+
 ## 18
 
 * **18:1** Quando ele terminou de falar com Saul, a alma de Jônatas ligou-se à alma de Davi, e Jônatas passou a amá-lo como à sua própria alma.
@@ -548,6 +638,11 @@
 * **18:29** Saul passou a temer ainda mais a Davi; Saul tornou-se inimigo de Davi todos os dias.
 * **18:30** Os príncipes dos filisteus saíram para a guerra, e, sempre que saíam, Davi era mais bem-sucedido do que todos os servos de Saul, e o seu nome tornou-se muito estimado.
 
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
+
 ## 19
 
 * **19:1** Saul falou a Jônatas, seu filho, e a todos os seus servos, para matarem Davi; mas Jônatas, filho de Saul, tinha grande afeição por Davi.
@@ -574,6 +669,11 @@
 * **19:22** Ele mesmo foi a Ramá e chegou ao grande poço que está em Secu; perguntou: "Onde estão Samuel e Davi?" Responderam: "Eis que estão em Naiote, em Ramá."
 * **19:23** Ele foi para lá, para Naiote, em Ramá; o espírito de Elohim veio também sobre ele, e ele ia caminhando e profetizando até chegar a Naiote, em Ramá.
 * **19:24** Ele também despiu as suas vestes, profetizou diante de Samuel e caiu nu todo aquele dia e toda aquela noite. Por isso dizem: "Está também Saul entre os profetas?"
+
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
 
 ## 20
 
@@ -620,6 +720,11 @@
 * **20:41** O rapaz foi, e Davi levantou-se do lado do sul, prostrou-se com o rosto em terra e inclinou-se três vezes; beijaram-se um ao outro e choraram um com o outro, até que Davi chorou mais.
 * **20:42** Davi levantou-se e partiu, e Jônatas entrou na cidade.
 
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
+
 ## 21
 
 * **21:1** Davi foi a Nobe, a Aimeleque, o sacerdote; Aimeleque tremeu ao encontrar Davi e disse-lhe: "Por que estás só, e ninguém contigo?"
@@ -637,6 +742,11 @@
 * **21:13** Ele mudou o seu comportamento diante deles, fingiu-se de louco nas suas mãos, batia nas portas dos portões e deixava escorrer saliva pela barba.
 * **21:14** Aquis disse aos seus servos: "Eis que vedes um homem que enlouqueceu; por que o trouxestes a mim?"
 * **21:15** "Faltam-me loucos, para que trouxésseis este para enlouquecer diante de mim? Este virá à minha casa?"
+
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
 
 ## 22
 
@@ -663,6 +773,11 @@
 * **22:21** Abiatar contou a Davi que Saul tinha matado os sacerdotes de YHWH.
 * **22:22** Davi disse a Abiatar: "Eu sabia naquele dia, porque Doegue, o edomita, estava ali, que ele certamente contaria a Saul. Eu sou o responsável por todas as vidas da casa de teu pai."
 * **22:23** "Fica comigo, não temas, pois quem procurar a minha vida procurará a tua; estarás guardado comigo."
+
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
 
 ## 23
 
@@ -696,6 +811,11 @@
 * **23:28** Saul voltou de perseguir Davi e foi encontrar-se com os filisteus; por isso chamaram aquele lugar de Sela-Hamalecote.
 * **23:29** Davi subiu dali e habitou nos lugares fortes de En-Gedi.
 
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
+
 ## 24
 
 * **24:1** Quando Saul voltou de perseguir os filisteus, disseram-lhe: "Eis que Davi está no deserto de En-Gedi."
@@ -720,6 +840,11 @@
 * **24:20** "Agora, pois, eis que sei que certamente reinarás e que o reino de Israel será firme na tua mão."
 * **24:21** "Agora, pois, jura-me por YHWH que não eliminarás a minha descendência depois de mim e que não destruirás o meu nome da casa de meu pai."
 * **24:22** Davi jurou a Saul; Saul foi para sua casa, e Davi e seus homens subiram ao lugar forte.
+
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
 
 ## 25
 
@@ -768,6 +893,11 @@
 * **25:43** Davi também tomou a Ainoã de Jezreel, e ambas foram suas mulheres.
 * **25:44** Saul dera sua filha Mical, mulher de Davi, a Palti, filho de Laís, que era de Galim.
 
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
+
 ## 26
 
 * **26:1** Os zifeus vieram a Saul, em Gibeá, dizendo: "Não está Davi escondido no outeiro de Haquila, diante do deserto?"
@@ -796,6 +926,11 @@
 * **26:24** "E eis que, como a tua vida foi estimada hoje aos meus olhos, assim seja a minha vida estimada aos olhos de YHWH, e ele me livre de toda a angústia."
 * **26:25** Saul disse a Davi: "Bendito sejas tu, meu filho Davi; também farás grandes coisas e também prevalecerás." Davi foi pelo seu caminho, e Saul voltou ao seu lugar.
 
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
+
 ## 27
 
 * **27:1** Davi disse no seu coração: "Agora perecerei um dia pela mão de Saul; não há para mim nada melhor do que escapar para a terra dos filisteus, e Saul desistirá de mim, para me buscar mais em todos os termos de Israel, e escaparei da sua mão."
@@ -810,6 +945,11 @@
 * **27:10** Aquis dizia: "Onde fizestes incursões hoje?" Davi dizia: "Contra o sul de Judá, contra o sul dos jerameelitas e contra o sul dos queneus."
 * **27:11** Davi não deixava com vida homem nem mulher para os trazer a Gate, dizendo: "Para que não falem contra nós, dizendo: Assim fez Davi, e este foi o seu costume todos os dias que habitou no campo dos filisteus."
 * **27:12** Aquis confiava em Davi, dizendo: "Ele se fez abominável ao seu povo, a Israel; por isso será meu servo para sempre."
+
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
 
 ## 28
 
@@ -839,6 +979,11 @@
 * **28:24** A mulher tinha em casa um bezerro cevado; apressou-se, abateu-o, tomou farinha, amassou-a e assou pães ázimos.
 * **28:25** Ela serviu a Saul e aos seus servos, eles comeram, levantaram-se e partiram naquela mesma noite.
 
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
+
 ## 29
 
 * **29:1** Os filisteus reuniram todos os seus exércitos em Afec, e os israelitas acamparam junto à fonte que está em Jezreel.
@@ -852,6 +997,11 @@
 * **29:9** Aquis respondeu a Davi: "Sei que és bom aos meus olhos, como um anjo de Elohim (Deus); porém, os chefes dos filisteus disseram: 'Ele não subirá conosco à batalha'."
 * **29:10** "Levanta-te, pois, de madrugada, com os servos do teu senhor que vieram contigo; levantai-vos cedo, assim que clarear o dia, e parti."
 * **29:11** Davi levantou-se cedo, ele e os seus homens, para partir de manhã e voltar à terra dos filisteus; e os filisteus subiram a Jezreel.
+
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
 
 ## 30
 
@@ -886,6 +1036,11 @@
 * **30:29** Aos que estavam em Racal, aos que estavam nas cidades dos jerameelitas e aos que estavam nas cidades dos queneus.
 * **30:30** Aos que estavam em Horma, aos que estavam em Bor-Asã e aos que estavam em Ataque.
 * **30:31** Aos que estavam em Hebrom e a todos os lugares por onde Davi tinha andado, ele e os seus homens.
+
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
 
 ## 31
 

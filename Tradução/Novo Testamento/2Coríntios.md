@@ -1,5 +1,10 @@
 # 2 Coríntios
 
+<a id="topo"></a>
+
+[1](#1) [2](#2) [3](#3) [4](#4) [5](#5) [6](#6) [7](#7) [8](#8) [9](#9) [10](#10) [11](#11) [12](#12) [13](#13)
+
+
 ## 1
 
 * **1:1** Paulo, apóstolo de Christos Iēsous (Messias Jesus) pela vontade de Theos (Deus), e o irmão Timóteo, à igreja de Deus que está em Corinto, com todos os santos que estão em toda a Acaia:
@@ -27,6 +32,11 @@
 * **1:23** Invoco a Deus como testemunha sobre a minha alma, de que, para vos poupar, não voltei a Corinto.
 * **1:24** Não que tenhamos domínio sobre a vossa fé, mas somos cooperadores da vossa alegria; pois pela fé estais firmes.
 
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
+
 ## 2
 
 * **2:1** Pois decidi por mim mesmo isto: não ir novamente a vós em tristeza.
@@ -46,6 +56,11 @@
 * **2:15** porque somos para Deus um bom perfume do Messias, tanto nos que são salvos como nos que se perdem;
 * **2:16** para uns, aroma de morte para morte; para outros, aroma de vida para vida. E para estas coisas quem é suficiente?
 * **2:17** Porque não somos, como muitos, mercenários da palavra de Deus, mas falamos com sinceridade, como de Deus, na presença de Deus, em Messias.
+
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
 
 ## 3
 
@@ -68,6 +83,11 @@
 * **3:17** Ora, o Senhor é o Espírito; e onde está o Espírito do Senhor, aí há liberdade.
 * **3:18** E todos nós, com o rosto descoberto, refletindo como um espelho a glória do Senhor, somos transformados na mesma imagem, de glória em glória, como pelo Senhor, o Espírito.
 
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
+
 ## 4
 
 * **4:1** Por isso, tendo este ministério, conforme a misericórdia que nos foi dada, não desanimamos;
@@ -88,6 +108,11 @@
 * **4:16** Por isso não desanimamos; mas, ainda que o nosso homem exterior se corrompa, o interior se renova de dia em dia.
 * **4:17** Porque a nossa leve tribulação, que é momentânea, produz para nós um peso eterno de glória, acima de toda comparação,
 * **4:18** não atentando nós nas coisas que se veem, mas nas que não se veem; porque as que se veem são temporais, mas as que não se veem são eternas.
+
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
 
 ## 5
 
@@ -113,6 +138,11 @@
 * **5:20** De sorte que somos embaixadores em nome do Messias, como se Deus exortasse por nosso intermédio; rogamo-vos, pois, em nome do Messias, que vos reconcilieis com Deus.
 * **5:21** Aquele que não conheceu pecado, ele o fez pecado por nós, para que nele fôssemos feitos justiça de Deus.
 
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
+
 ## 6
 
 * **6:1** E nós, cooperando com ele, também vos rogamos que não recebais a graça de Deus em vão;
@@ -134,6 +164,11 @@
 * **6:17** Por isso, saí do meio deles e separai-vos, diz o Senhor, e não toqueis em coisa imunda; e eu vos receberei;
 * **6:18** e serei para vós Pai, e vós sereis para mim filhos e filhas, diz o Senhor Todo-Poderoso.
 
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
+
 ## 7
 
 * **7:1** Tendo, pois, estas promessas, amados, purifiquemo-nos de toda imundícia da carne e do espírito, aperfeiçoando a santidade no temor de Deus.
@@ -152,6 +187,11 @@
 * **7:14** porque, se em alguma coisa me gloriei de vós para com ele, não fui envergonhado; mas, como vos dissemos tudo em verdade, assim também a nossa glória perante Tito se mostrou verdadeira.
 * **7:15** E o seu afeto é mais abundante para convosco, lembrando-se da obediência de todos vós, de como o recebestes com temor e tremor.
 * **7:16** Alegro-me por em tudo ter confiança em vós.
+
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
 
 ## 8
 
@@ -180,6 +220,11 @@
 * **8:23** Quanto a Tito, ele é meu companheiro e cooperador junto a vocês; quanto aos nossos irmãos, são mensageiros das igrejas, glória de Christos (Messias).
 * **8:24** Portanto, demonstrem a eles, diante das igrejas, a prova do seu amor e da nossa glória a respeito de vocês.
 
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
+
 ## 9
 
 * **9:1** Sobre o serviço aos santos, é desnecessário que eu lhes escreva,
@@ -197,6 +242,11 @@
 * **9:13** por meio da prova deste serviço, glorificando a Theos pela submissão da confissão de vocês ao evangelho de Christos e pela generosidade da comunhão com eles e com todos,
 * **9:14** e pela oração deles por vocês, desejando-os por causa da superabundante graça de Theos sobre vocês.
 * **9:15** Graças a Theos pelo seu dom inefável.
+
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
 
 ## 10
 
@@ -218,6 +268,11 @@
 * **10:16** para anunciar o evangelho nas regiões além de vocês, não nos orgulhando em regra alheia sobre o que já está pronto.
 * **10:17** Aquele que se orgulha, orgulhe-se no Kyrios;
 * **10:18** pois não é aprovado quem se recomenda a si mesmo, mas aquele a quem o Kyrios recomenda.
+
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
 
 ## 11
 
@@ -255,6 +310,11 @@
 * **11:32** Em Damasco, o governador do rei Aretas guardava a cidade dos damascenos para me prender,
 * **11:33** e por uma janela fui descido num cesto pelo muro e escapei das suas mãos.
 
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
+
 ## 12
 
 * **12:1** É preciso orgulhar-se; não é proveitoso, mas passarei às visões e revelações do Kyrios.
@@ -278,6 +338,11 @@
 * **12:19** Há muito pensam que nos defendemos diante de vocês? Diante de Theos em Christos falamos. Mas tudo, amados, é para a edificação de vocês,
 * **12:20** pois temo que, ao chegar, não os encontre como quero, e eu seja encontrado por vocês como não querem, que haja contenda, zelo, iras, rivalidades, calúnias, cochichos, soberbas, desordens;
 * **12:21** que, ao chegar novamente, meu Theos me humilhe diante de vocês, e eu lamente por muitos dos que pecaram anteriormente e não se arrependeram da impureza, da prostituição e da libertinagem que praticaram.
+
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
 
 ## 13
 

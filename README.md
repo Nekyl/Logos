@@ -6,13 +6,13 @@ Tradução integral dos 66 livros da Bíblia (31.084 versículos) com consulta d
 
 ## 📜 Índice
 
+- [Velho Testamento](#-velho-testamento)
+- [Novo Testamento](#-novo-testamento)
 - [Sobre a tradução](#sobre-a-tradução)
 - [Estrutura](#estrutura)
 - [Textos-fonte](#textos-fonte)
 - [Mais detalhes](#mais-detalhes)
 - [Licença](#licença)
-- [Velho Testamento](#-velho-testamento)
-- [Novo Testamento](#-novo-testamento)
 - [Fontes — VT (Hebraico)](Fontes/VT%20(Hebraico)/hebrew.json)
 - [Fontes — NT (Grego)](Fontes/NT%20(Grego)/)
 

@@ -1,5 +1,10 @@
 # Gálatas
 
+<a id="topo"></a>
+
+[1](#1) [2](#2) [3](#3) [4](#4) [5](#5) [6](#6)
+
+
 ## 1
 
 * **1:1** Paulo, apóstolo, não enviado por homens nem por meio de homem, mas por meio de Iēsous Christos (Jesus Messias) e de Theos (Deus) Patēr (Pai), que o ressuscitou dentre os mortos,
@@ -27,6 +32,11 @@
 * **1:23** mas apenas ouviam dizer: Aquele que nos perseguia outrora, agora anuncia a fé que antes devastava,
 * **1:24** e glorificavam a Theos por minha causa.
 
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
+
 ## 2
 
 * **2:1** Depois, passados catorze anos, subi novamente a Jerusalém com Barnabé, levando também Tito comigo;
@@ -50,6 +60,11 @@
 * **2:19** Pois eu, pela lei, morri para a lei, a fim de viver para Theos. Estou crucificado com Christos;
 * **2:20** e já não sou eu quem vive, mas Christos vive em mim; e a vida que agora vivo na carne, vivo-a na fé do Filho de Theos, que me amou e se entregou a si mesmo por mim.
 * **2:21** Não anulo a graça de Theos; pois, se a justiça vem pela lei, então Christos morreu em vão.
+
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
 
 ## 3
 
@@ -82,6 +97,11 @@
 * **3:27** Pois todos quantos fostes batizados em Christos, de Christos vos revestistes.
 * **3:28** Não há judeu nem grego; não há escravo nem livre; não há homem nem mulher; pois todos vós sois um em Christos Iēsous.
 * **3:29** E, se sois de Christos, então sois descendência de Abraão e herdeiros segundo a promessa.
+
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
 
 ## 4
 
@@ -117,6 +137,11 @@
 * **4:30** Mas o que diz a Escritura? Lança fora a escrava e seu filho, porque o filho da escrava não herdará com o filho da livre.
 * **4:31** Portanto, irmãos, não somos filhos da escrava, mas da livre.
 
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
+
 ## 5
 
 * **5:1** Foi para a liberdade que Christos nos libertou; permanecei, pois, firmes e não vos submetais de novo a um jugo de escravidão.
@@ -145,6 +170,11 @@
 * **5:24** E os que são de Christos crucificaram a carne com as suas paixões e concupiscências.
 * **5:25** Se vivemos pelo Pneuma, andemos também pelo Pneuma.
 * **5:26** Não sejamos cobiçosos de vanglória, provocando-nos uns aos outros, invejando-nos uns aos outros.
+
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
 
 ## 6
 

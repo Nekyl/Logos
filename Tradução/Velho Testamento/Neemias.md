@@ -1,5 +1,10 @@
 # Neemias
 
+<a id="topo"></a>
+
+[1](#1) [2](#2) [3](#3) [4](#4) [5](#5) [6](#6) [7](#7) [8](#8) [9](#9) [10](#10) [11](#11) [12](#12) [13](#13)
+
+
 ## 1
 
 * **1:1** Estas são as palavras de Neemias, filho de Hacalias. No mês de Quisleu, no vigésimo ano, estando eu na cidadela de Susã,
@@ -13,6 +18,11 @@
 * **1:9** mas, se voltarem para mim e guardarem os meus mandamentos e os cumprirem, ainda que os vossos desterrados estejam na extremidade dos céus, de lá os ajuntarei e os trarei ao lugar que escolhi para ali fazer habitar o meu nome'.
 * **1:10** Eles são os teus servos e o teu povo, que resgataste com o teu grande poder e com a tua mão forte.
 * **1:11** Ah, Adonai (Senhor), estejam atentos os teus ouvidos à oração do teu servo e à oração dos teus servos que desejam temer o teu nome; concede sucesso hoje ao teu servo e dá-lhe misericórdia diante deste homem." Ora, eu era copeiro do rei.
+
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
 
 ## 2
 
@@ -36,6 +46,11 @@
 * **2:18** Contei-lhes como a mão do meu Elohim tinha sido favorável sobre mim, bem como as palavras que o rei me tinha dito. Eles responderam: "Levantemo-nos e edifiquemos." E fortaleceram as suas mãos para a boa obra.
 * **2:19** Quando Sambalate, o horonita, Tobias, o servo amonita, e Gesém, o árabe, souberam disso, zombaram de nós, desprezaram-nos e disseram: "Que é isto que vocês estão fazendo? Estão se rebelando contra o rei?"
 * **2:20** Respondi-lhes: "O Elohim dos céus é quem nos dará sucesso; nós, seus servos, nos levantaremos e edificaremos. Mas vocês não têm parte, nem direito, nem memorial em Jerusalém."
+
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
 
 ## 3
 
@@ -72,6 +87,11 @@
 * **3:31** Depois dele, Malquias, filho do ourives, reparou até à casa dos servidores do templo e dos mercadores, defronte da Porta da Inspeção, e até à câmara da esquina.
 * **3:32** Entre a câmara da esquina e a Porta das Ovelhas, repararam os ourives e os mercadores.
 
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
+
 ## 4
 
 * **4:1** Quando Sambalate soube que estávamos edificando o muro, enfureceu-se, irritou-se muito e zombou dos judeus.
@@ -98,6 +118,11 @@
 * **4:22** Naquele tempo, também disse ao povo: "Que cada um, com o seu servo, pernoite dentro de Jerusalém, para que de noite nos sirvam de guarda e de dia trabalhem."
 * **4:23** Nem eu, nem os meus irmãos, nem os meus servos, nem os homens da guarda que me seguiam, tirávamos as nossas roupas; cada um levava a sua arma até para a água.
 
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
+
 ## 5
 
 * **5:1** Houve um grande clamor do povo e de suas mulheres contra os seus irmãos, os judeus.
@@ -120,6 +145,11 @@
 * **5:18** O que se preparava para cada dia era um boi e seis ovelhas escolhidas; também aves eram preparadas para mim, e de dez em dez dias, muito vinho de todas as espécies. Com tudo isso, não exigi o pão do governador, porque a servidão era pesada sobre este povo.
 * **5:19** Lembra-te de mim para o bem, meu Elohim, por tudo o que fiz por este povo.
 
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
+
 ## 6
 
 * **6:1** Quando Sambalate, Tobias, Gesém, o árabe, e o restante dos nossos inimigos souberam que eu tinha edificado o muro e que nele não restava brecha alguma — embora até aquele tempo eu não tivesse assentado as portas nos portais —,
@@ -141,6 +171,11 @@
 * **6:17** Naqueles dias, também os nobres de Judá enviavam muitas cartas a Tobias, e as de Tobias chegavam a eles.
 * **6:18** Pois muitos em Judá eram seus aliados, porque ele era genro de Secanias, filho de Ará, e seu filho Joanã tinha tomado por mulher a filha de Mesulão, filho de Berequias.
 * **6:19** Também falavam das suas boas ações diante de mim e levavam as minhas palavras a ele. Tobias enviava cartas para me atemorizar.
+
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
 
 ## 7
 
@@ -218,6 +253,11 @@
 * **7:72** E o que o restante do povo deu foi vinte mil dracmas de ouro, duas mil minas de prata e sessenta e sete túnicas sacerdotais.
 * **7:73** Assim, os sacerdotes, os levitas, os porteiros, os cantores, alguns do povo, os servidores do templo e todo o Israel habitaram nas suas cidades. Chegado o sétimo mês, os filhos de Israel estavam nas suas cidades.
 
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
+
 ## 8
 
 * **8:1** Então todo o povo se ajuntou como um só homem na praça que estava diante da Porta das Águas; e disseram a Esdras, o escriba, que trouxesse o livro da Lei de Moisés, que YHWH (SENHOR) tinha ordenado a Israel.
@@ -238,6 +278,11 @@
 * **8:16** Saiu, pois, o povo, e trouxeram-nos, e fizeram para si cabanas, cada um no seu terraço, nos seus pátios, nos pátios da casa de Elohim (Deus), na praça da Porta das Águas e na praça da Porta de Efraim.
 * **8:17** E toda a congregação dos que tinham voltado do cativeiro fez cabanas e habitou nelas; porque nunca fizeram assim os filhos de Israel, desde os dias de Jesua, filho de Num, até àquele dia; e houve mui grande alegria.
 * **8:18** E, de dia em dia, lia-se no livro da Lei de Elohim (Deus), desde o primeiro dia até ao último; e fizeram a festa por sete dias, e no oitavo dia, houve uma assembleia solene, segundo o costume.
+
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
 
 ## 9
 
@@ -279,6 +324,11 @@
 * **9:36** Eis que hoje somos servos; e, quanto à terra que deste a nossos pais, para comerem o seu fruto e o seu bem, eis que nela somos servos.
 * **9:37** E ela produz muito fruto para os reis que puseste sobre nós, por causa dos nossos pecados; e eles dominam sobre os nossos corpos e sobre os nossos animais, como lhes apraz; e estamos em grande angústia.
 * **9:38** E, por causa de tudo isto, fazemos uma aliança fiel e a escrevemos; e os nossos príncipes, os nossos levitas e os nossos sacerdotes a assinam.
+
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
 
 ## 10
 
@@ -322,6 +372,11 @@
 * **10:38** E o sacerdote, filho de Arão, estaria com os levitas, quando os levitas recebessem os dízimos; e os levitas trariam a décima parte dos dízimos à casa do nosso Elohim (Deus), às câmaras da casa do tesouro.
 * **10:39** Porque àquelas câmaras os filhos de Israel e os filhos de Levi devem trazer a oferta alçada do grão, do vinho e do azeite; porquanto ali estão os utensílios do santuário, os sacerdotes que ministram, os porteiros e os cantores; e que não desampararíamos a casa do nosso Elohim (Deus).
 
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
+
 ## 11
 
 * **11:1** E os chefes do povo habitaram em Jerusalém; e o restante do povo lançou sortes, para trazer um de cada dez para habitar em Jerusalém, a cidade santa, e as outras nove partes nas outras cidades.
@@ -360,6 +415,11 @@
 * **11:34** Hadide, Zeboim, Nebalate;
 * **11:35** Lode e Ono, o vale dos artífices.
 * **11:36** E das divisões dos levitas, algumas de Judá foram para Benjamim.
+
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
 
 ## 12
 
@@ -410,6 +470,11 @@
 * **12:45** Eles cumpriam o serviço de seu Elohim (Deus) e o serviço da purificação, assim como os cantores e os porteiros, conforme o mandado de Davi e de Salomão, seu filho.
 * **12:46** Pois, nos dias de Davi e de Asafe, desde a antiguidade, havia chefes dos cantores e cânticos de louvor e ações de graças a Elohim (Deus).
 * **12:47** Todo o Israel, nos dias de Zorobabel e nos dias de Neemias, dava as porções dos cantores e dos porteiros, conforme a necessidade de cada dia; santificavam as porções para os levitas, e os levitas santificavam as porções para os filhos de Arão.
+
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
 
 ## 13
 

@@ -1,5 +1,10 @@
 # Levítico
 
+<a id="topo"></a>
+
+[1](#1) [2](#2) [3](#3) [4](#4) [5](#5) [6](#6) [7](#7) [8](#8) [9](#9) [10](#10) [11](#11) [12](#12) [13](#13) [14](#14) [15](#15) [16](#16) [17](#17) [18](#18) [19](#19) [20](#20) [21](#21) [22](#22) [23](#23) [24](#24) [25](#25) [26](#26) [27](#27)
+
+
 ## 1
 
 * **1:1** YHWH (SENHOR) chamou Moisés e falou com ele a partir da Tenda da Reunião, dizendo:
@@ -20,6 +25,11 @@
 * **1:16** Tirar-lhe-á o papo com as suas penas e o lançará junto ao altar, para o lado do oriente, no lugar das cinzas.
 * **1:17** Fendê-la-á pelas asas, sem contudo a separar, e o sacerdote a queimará sobre o altar, sobre a lenha que está no fogo; é um holocausto, oferta queimada de aroma agradável a YHWH (SENHOR).
 
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
+
 ## 2
 
 * **2:1** Quando alguém oferecer uma oferta de manjares a YHWH (SENHOR), a sua oferta será de flor de farinha; sobre ela deitará azeite e porá incenso.
@@ -38,6 +48,11 @@
 * **2:14** Se ofereceres a YHWH (SENHOR) oferta de manjares das primícias, oferecerás espigas verdes tostadas no fogo, isto é, grãos debulhados de espigas novas, como oferta das tuas primícias.
 * **2:15** Sobre ela deitarás azeite e porás incenso; é uma oferta de manjares.
 * **2:16** O sacerdote queimará a sua parte memorial, dos grãos debulhados e do azeite, com todo o incenso, como oferta queimada a YHWH (SENHOR).
+
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
 
 ## 3
 
@@ -58,6 +73,11 @@
 * **3:15** Os dois rins, a gordura que está sobre eles e sobre os lombos, e o redenho sobre o fígado, com os rins, ele os tirará.
 * **3:16** O sacerdote os queimará sobre o altar como alimento de oferta queimada, de aroma agradável; toda a gordura pertence a YHWH (SENHOR).
 * **3:17** Estatuto perpétuo é pelas vossas gerações, em todas as vossas habitações: nenhuma gordura nem sangue algum comereis.
+
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
 
 ## 4
 
@@ -97,6 +117,11 @@
 * **4:34** O sacerdote tomará com o dedo do sangue da oferta pelo pecado e o porá sobre as pontas do altar do holocausto; e todo o resto do seu sangue derramará à base do altar.
 * **4:35** Tirará toda a sua gordura, como se tira a gordura do cordeiro do sacrifício da oferta pacífica, e o sacerdote a queimará sobre o altar, sobre as ofertas queimadas a YHWH (SENHOR); assim o sacerdote fará expiação por ele do pecado que cometeu, e lhe será perdoado.
 
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
+
 ## 5
 
 * **5:1** Se alguém pecar, ouvindo uma voz de maldição, sendo testemunha, ou por ter visto, ou por ter sabido, se não o denunciar, levará a sua iniquidade.
@@ -118,6 +143,11 @@
 * **5:17** Se alguém pecar e fizer qualquer um dos mandamentos de YHWH (SENHOR), fazendo o que não deve ser feito, ainda que não o saiba, será culpado e levará a sua iniquidade.
 * **5:18** Trará ao sacerdote um carneiro sem defeito, do rebanho, conforme a tua avaliação, para oferta pela culpa; assim o sacerdote fará expiação por ele do erro que cometeu sem saber, e lhe será perdoado.
 * **5:19** É oferta pela culpa; certamente se tornou culpado perante YHWH (SENHOR).
+
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
 
 ## 6
 
@@ -151,6 +181,11 @@
 * **6:28** O vaso de barro em que for cozida será quebrado; mas, se for cozida em vaso de bronze, será esfregado e lavado em água.
 * **6:29** Todo homem entre os sacerdotes a comerá; é coisa santíssima.
 * **6:30** Porém, nenhuma oferta pelo pecado, cujo sangue se traz à Tenda da Reunião para fazer expiação no santuário, se comerá; será queimada no fogo.
+
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
 
 ## 7
 
@@ -193,6 +228,11 @@
 * **7:37** Esta é a lei para o holocausto, para a oferta de cereal, para a oferta pelo pecado, para a oferta pela culpa, para a consagração e para o sacrifício de comunhão.
 * **7:38** Que YHWH (SENHOR) ordenou a Moisés no monte Sinai, no dia em que ordenou aos filhos de Israel que oferecessem as suas ofertas a YHWH (SENHOR), no deserto do Sinai.
 
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
+
 ## 8
 
 * **8:1** YHWH (SENHOR) falou a Moisés, dizendo:
@@ -232,6 +272,11 @@
 * **8:35** Permanecei à entrada da tenda da congregação dia e noite, por sete dias, e observai o que YHWH (SENHOR) ordenou, para que não morrais, pois assim me foi ordenado.
 * **8:36** Arão e seus filhos fizeram todas as coisas que YHWH (SENHOR) ordenou por intermédio de Moisés.
 
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
+
 ## 9
 
 * **9:1** No oitavo dia, Moisés chamou Arão, seus filhos e os anciãos de Israel.
@@ -259,6 +304,11 @@
 * **9:23** Moisés e Arão entraram na tenda da congregação, saíram e abençoaram o povo, e a glória de YHWH (SENHOR) apareceu a todo o povo.
 * **9:24** Saiu fogo de diante de YHWH (SENHOR) e consumiu sobre o altar o holocausto e as gorduras; todo o povo viu, exultou e prostrou-se com o rosto em terra.
 
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
+
 ## 10
 
 * **10:1** Os filhos de Arão, Nadabe e Abiú, tomaram cada um o seu incensário, puseram fogo neles, colocaram incenso sobre ele e ofereceram fogo estranho diante de YHWH (SENHOR), o que ele não lhes ordenara.
@@ -281,6 +331,11 @@
 * **10:18** Eis que o seu sangue não foi trazido para dentro do santuário; deveríeis tê-la comido no lugar sagrado, como ordenei.
 * **10:19** Arão disse a Moisés: Eis que hoje ofereceram a sua oferta pelo pecado e o seu holocausto diante de YHWH (SENHOR), e coisas como estas me aconteceram; se eu comesse a oferta pelo pecado hoje, seria isso agradável aos olhos de YHWH (SENHOR)?
 * **10:20** Moisés ouviu e foi agradável aos seus olhos.
+
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
 
 ## 11
 
@@ -332,6 +387,11 @@
 * **11:46** Esta é a lei dos animais, das aves, de toda criatura vivente que se move nas águas e de toda criatura que se move sobre a terra.
 * **11:47** Para fazer distinção entre o impuro e o puro, e entre o animal que se pode comer e o animal que não se pode comer.
 
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
+
 ## 12
 
 * **12:1** YHWH (SENHOR) falou a Moisés, dizendo:
@@ -342,6 +402,11 @@
 * **12:6** E, ao cumprir os dias da sua purificação para um filho ou filha, trará um cordeiro de um ano para holocausto e um pombinho ou uma rola para oferta pelo pecado, à porta da tenda da congregação, ao sacerdote.
 * **12:7** Ele o oferecerá diante de YHWH (SENHOR) e fará expiação por ela, e ela será purificada do fluxo do seu sangue. Esta é a lei da que deu à luz um menino ou uma menina.
 * **12:8** Se a sua mão não alcançar o suficiente para um cordeiro, tomará duas rolas ou dois pombinhos, um para holocausto e outro para oferta pelo pecado; o sacerdote fará expiação por ela, e ela será purificada.
+
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
 
 ## 13
 
@@ -405,6 +470,11 @@
 * **13:58** Mas a veste, ou a trama, ou a urdidura, ou qualquer objeto de pele que lavares e a praga se retirar deles, será lavado pela segunda vez e será puro.
 * **13:59** Esta é a lei da praga de lepra na veste de lã ou de linho, ou na trama, ou na urdidura, ou em qualquer objeto de pele, para declará-lo puro ou impuro.
 
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
+
 ## 14
 
 * **14:1** E falou YHWH (SENHOR) a Moisés, dizendo:
@@ -465,6 +535,11 @@
 * **14:56** e para o inchaço, e para a pústula, e para a mancha brilhante,
 * **14:57** para ensinar no dia da impureza e no dia da purificação; esta é a lei da lepra.
 
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
+
 ## 15
 
 * **15:1** E falou YHWH (SENHOR) a Moisés e a Arão, dizendo:
@@ -500,6 +575,11 @@
 * **15:31** Assim, separareis os filhos de Israel das suas impurezas, para que não morram nelas, ao contaminarem o meu tabernáculo que está no meio deles.
 * **15:32** Esta é a lei daquele que tem fluxo e daquele de quem sai o sêmen, tornando-se impuro por isso.
 * **15:33** E daquela que está na sua enfermidade menstrual, e daquele que tem fluxo, tanto homem como mulher, e do homem que se deita com mulher impura.
+
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
 
 ## 16
 
@@ -538,6 +618,11 @@
 * **16:33** Fará expiação pelo santuário santo, pela tenda da congregação e pelo altar; fará expiação pelos sacerdotes e por todo o povo da congregação.
 * **16:34** Isto vos será por estatuto perpétuo, para fazer expiação pelos filhos de Israel de todos os seus pecados, uma vez por ano. E fez como YHWH (SENHOR) ordenara a Moisés.
 
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
+
 ## 17
 
 * **17:1** Falou YHWH (SENHOR) a Moisés, dizendo:
@@ -556,6 +641,11 @@
 * **17:14** Porque a alma de toda a carne é o seu sangue; por isso tenho dito aos filhos de Israel: Não comereis o sangue de nenhuma carne, porque a alma de toda a carne é o seu sangue; qualquer que o comer será extirpado.
 * **17:15** Toda a alma que comer o que é morto ou dilacerado, seja natural ou estrangeiro, lavará as suas vestes, banhar-se-á em água e será impura até à tarde; depois será pura.
 * **17:16** Mas, se não as lavar e não banhar o seu corpo, levará a sua iniquidade.
+
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
 
 ## 18
 
@@ -589,6 +679,11 @@
 * **18:28** Para que a terra não vos vomite, havendo-a vós contaminado, como vomitou a nação que nela estava antes de vós.
 * **18:29** Porque qualquer que fizer alguma destas abominações, as almas que as fizerem serão extirpadas do meio do seu povo.
 * **18:30** Portanto, guardareis o meu mandamento, para não fazerdes nenhuma das práticas abomináveis que se fizeram antes de vós, e não vos contamineis nelas; eu sou YHWH (SENHOR), vosso Elohim (Deus).
+
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
 
 ## 19
 
@@ -630,6 +725,11 @@
 * **19:36** Balanças justas, pesos justos, efa justa e justo hin tereis; eu sou YHWH (SENHOR), vosso Elohim (Deus), que vos tirei da terra do Egito.
 * **19:37** Guardareis todos os meus estatutos e todos os meus juízos e os cumprireis; eu sou YHWH (SENHOR).
 
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
+
 ## 20
 
 * **20:1** Falou YHWH (SENHOR) a Moisés, dizendo:
@@ -660,6 +760,11 @@
 * **20:26** Santos sereis para mim, porque eu, YHWH (SENHOR), sou santo e vos separei dos povos, para serdes meus.
 * **20:27** O homem ou mulher que tiver em si um espírito de adivinhação ou encantador, certamente morrerá; apedrejá-los-ão; o seu sangue é sobre eles.
 
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
+
 ## 21
 
 * **21:1** YHWH (SENHOR) disse a Moisés: Fale aos sacerdotes, filhos de Arão, e diga-lhes: Nenhum deles se tornará impuro por causa de um morto entre o seu povo,
@@ -686,6 +791,11 @@
 * **21:22** Ele poderá comer do alimento do seu Elohim, tanto das coisas santíssimas quanto das coisas sagradas.
 * **21:23** Contudo, não entrará até o véu, nem se aproximará do altar, porque tem defeito, para que não profane os meus santuários, pois Eu sou YHWH, que os santifico.
 * **21:24** Moisés falou a Arão, aos seus filhos e a todos os filhos de Israel.
+
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
 
 ## 22
 
@@ -722,6 +832,11 @@
 * **22:31** Guardareis os meus mandamentos e os cumprireis. Eu sou YHWH.
 * **22:32** Não profanareis o meu santo nome, para que Eu seja santificado no meio dos filhos de Israel. Eu sou YHWH, que os santifico,
 * **22:33** que os tirei da terra do Egito para ser o seu Elohim. Eu sou YHWH.
+
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
 
 ## 23
 
@@ -770,6 +885,11 @@
 * **23:43** para que as vossas gerações saibam que fiz habitar os filhos de Israel em cabanas, quando os tirei da terra do Egito. Eu sou YHWH, o vosso Elohim.
 * **23:44** Moisés declarou as festas fixas de YHWH aos filhos de Israel.
 
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
+
 ## 24
 
 * **24:1** YHWH falou a Moisés, dizendo:
@@ -795,6 +915,11 @@
 * **24:21** Quem matar um animal, pagará por ele; mas quem matar um homem será morto.
 * **24:22** Terei uma só lei para vocês; será como para o estrangeiro, assim para o natural, pois Eu sou YHWH, o vosso Elohim.
 * **24:23** Moisés falou aos filhos de Israel, e eles levaram o que amaldiçoou para fora do acampamento e o apedrejaram. Os filhos de Israel fizeram como YHWH ordenara a Moisés.
+
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
 
 ## 25
 
@@ -854,6 +979,11 @@
 * **25:54** E se não for resgatado por estes meios, sairá no ano do Jubileu, ele e seus filhos com ele.
 * **25:55** Porque os filhos de Israel são meus servos; eles são meus servos, a quem tirei da terra do Egito. Eu sou YHWH (SENHOR) Elohim (Deus) de vocês.
 
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
+
 ## 26
 
 * **26:1** Não façam para vocês ídolos, nem imagem de escultura, nem levantem coluna, nem coloquem pedra esculpida em sua terra para se curvarem diante dela, porque eu sou YHWH Elohim de vocês.
@@ -902,6 +1032,11 @@
 * **26:44** E, apesar disso, quando estiverem na terra dos seus inimigos, não os rejeitarei, nem os desprezarei para destruí-los totalmente, rompendo a minha aliança com eles, porque eu sou YHWH Elohim deles.
 * **26:45** Mas, por amor deles, lembrar-me-ei da aliança com os seus antepassados, que tirei da terra do Egito aos olhos das nações, para ser o seu Elohim. Eu sou YHWH.
 * **26:46** Estes são os estatutos, os juízos e as leis que YHWH estabeleceu entre si e os filhos de Israel, no monte Sinai, por intermédio de Moisés.
+
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
 
 ## 27
 

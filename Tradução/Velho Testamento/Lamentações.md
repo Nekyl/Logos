@@ -1,5 +1,10 @@
 # Lamentações
 
+<a id="topo"></a>
+
+[1](#1) [2](#2) [3](#3) [4](#4) [5](#5)
+
+
 ## 1
 
 * **1:1** Como a cidade, outrora cheia de gente, ficou solitária! Tornou-se como uma viúva, a grande entre as nações; a princesa entre as províncias tornou-se tributária.
@@ -25,6 +30,11 @@
 * **1:21** Ouvem que eu suspiro, mas não há quem me console; todos os meus inimigos souberam da minha desgraça e alegraram-se, porque tu o fizeste; tu trouxeste o dia que proclamaste, e eles se tornaram como eu.
 * **1:22** Venha toda a sua maldade perante ti, e faze-lhes como fizeste a mim por causa de todas as minhas transgressões; porque os meus suspiros são muitos e o meu coração está enfermo.
 
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
+
 ## 2
 
 * **2:1** Como Adonai (Senhor) cobriu de nuvens a filha de Sião na sua ira! Lançou do céu para a terra a glória de Israel e não se lembrou do estrado dos seus pés no dia da sua ira.
@@ -49,6 +59,11 @@
 * **2:20** Vê, YHWH (SENHOR), e contempla a quem fizeste assim! Porventura comeriam as mulheres o fruto do seu ventre, os meninos que trazem ao colo? Matar-se-ia no santuário de Adonai (Senhor) o sacerdote e o profeta?
 * **2:21** Jazem por terra nas ruas o jovem e o velho; as minhas virgens e os meus jovens caíram à espada; tu os mataste no dia da tua ira; degolaste e não tiveste piedade.
 * **2:22** Convocaste como em dia de festa solene os meus terrores de toda a parte; e não houve, no dia da ira de YHWH (SENHOR), quem escapasse ou ficasse; aqueles que eu trouxe ao colo e criei, o meu inimigo os consumiu.
+
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
 
 ## 3
 
@@ -119,6 +134,11 @@
 * **3:65** Dar-lhes-ás dureza de coração, a tua maldição sobre eles.
 * **3:66** Persegui-los-ás na ira e os destruirás de debaixo dos céus de YHWH (SENHOR).
 
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
+
 ## 4
 
 * **4:1** Como se escureceu o ouro! Como se mudou o ouro puro! As pedras do santuário estão espalhadas nas esquinas de todas as ruas.
@@ -143,6 +163,11 @@
 * **4:20** O fôlego das nossas narinas, o ungido de YHWH (SENHOR), foi preso nas suas covas, aquele de quem dizíamos: Debaixo da sua sombra viveremos entre as nações.
 * **4:21** Regozija-te e alegra-te, ó filha de Edom, que habitas na terra de Uz; também a ti passará o cálice; embebedar-te-ás e te descobrirás.
 * **4:22** A tua iniquidade está punida, ó filha de Sião; ele não te levará mais ao cativeiro; ele visitará a tua iniquidade, ó filha de Edom, e descobrirá os teus pecados.
+
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
 
 ## 5
 

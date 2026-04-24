@@ -1,5 +1,10 @@
 # 1 Coríntios
 
+<a id="topo"></a>
+
+[1](#1) [2](#2) [3](#3) [4](#4) [5](#5) [6](#6) [7](#7) [8](#8) [9](#9) [10](#10) [11](#11) [12](#12) [13](#13) [14](#14) [15](#15) [16](#16)
+
+
 ## 1
 
 * **1:1** Paulo, apóstolo chamado de Christou Iēsou (Messias Jesus) pela vontade de Theou (Deus), e Sóstenes, o irmão,
@@ -34,6 +39,11 @@
 * **1:30** Mas vós sois dele, em Christo Iēsou, o qual se tornou para nós sabedoria da parte de Deus, e justiça, e santificação, e redenção,
 * **1:31** para que, como está escrito: Aquele que se gloria, glorie-se no Senhor.
 
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
+
 ## 2
 
 * **2:1** E eu, ao ir ter convosco, irmãos, não fui com excelência de palavra ou de sabedoria ao anunciar-vos o testemunho de Deus.
@@ -52,6 +62,11 @@
 * **2:14** O homem natural não compreende as coisas do Espírito de Deus, porque para ele são loucura, e não pode entendê-las, porque elas são discernidas espiritualmente;
 * **2:15** mas o homem espiritual discerne todas as coisas, e ele mesmo não é discernido por ninguém.
 * **2:16** Pois quem conheceu a mente do Senhor, para que possa instruí-lo? Nós, porém, temos a mente do Messias.
+
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
 
 ## 3
 
@@ -79,6 +94,11 @@
 * **3:22** seja Paulo, seja Apolo, seja Cefas, seja o mundo, seja a vida, seja a morte, seja o presente, seja o futuro, tudo é vosso,
 * **3:23** e vós sois do Messias, e o Messias é de Deus.
 
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
+
 ## 4
 
 * **4:1** Que o homem nos considere, pois, como servos do Messias e despenseiros dos mistérios de Deus.
@@ -103,6 +123,11 @@
 * **4:20** pois o reino de Deus não consiste em palavra, mas em poder.
 * **4:21** Que quereis? Irei ter convosco com vara, ou com amor e espírito de mansidão?
 
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
+
 ## 5
 
 * **5:1** Geralmente se ouve que há entre vós imoralidade, e tal imoralidade que nem mesmo entre os gentios se nomeia, a ponto de alguém possuir a mulher de seu pai.
@@ -118,6 +143,11 @@
 * **5:11** Mas agora vos escrevi que não vos associeis com aquele que, dizendo-se irmão, for imoral, ou avarento, ou idólatra, ou maldizente, ou beberrão, ou roubador; com esse tal nem sequer comais.
 * **5:12** Pois que tenho eu em julgar os que estão de fora? Não julgais vós os que estão dentro?
 * **5:13** Mas Deus julga os que estão de fora. Tirai o mal de entre vós mesmos.
+
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
 
 ## 6
 
@@ -141,6 +171,11 @@
 * **6:18** Fugi da imoralidade. Todo pecado que o homem comete é fora do corpo, mas o que pratica a imoralidade peca contra o seu próprio corpo.
 * **6:19** Ou não sabeis que o vosso corpo é santuário do Pneuma Hagion que está em vós, o qual tendes da parte de Deus? E não sois de vós mesmos,
 * **6:20** pois fostes comprados por preço; glorificai, pois, a Deus no vosso corpo.
+
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
 
 ## 7
 
@@ -185,6 +220,11 @@
 * **7:39** A mulher está ligada enquanto o marido viver; mas, se o marido morrer, ela está livre para se casar com quem quiser, contanto que seja no Senhor.
 * **7:40** Contudo, ela é mais feliz se permanecer assim, segundo o meu parecer; e penso que também eu tenho o Pneuma Theou (Espírito de Deus).
 
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
+
 ## 8
 
 * **8:1** Quanto às coisas sacrificadas aos ídolos, sabemos que todos temos conhecimento. O conhecimento incha, mas o amor edifica.
@@ -200,6 +240,11 @@
 * **8:11** Pois o fraco perece por causa do seu conhecimento, o irmão por quem Christos morreu.
 * **8:12** Assim, pecando contra os irmãos e ferindo a consciência deles quando são fracos, vocês pecam contra Christos.
 * **8:13** Por isso, se a comida faz meu irmão tropeçar, nunca mais comerei carne, para não fazer meu irmão tropeçar.
+
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
 
 ## 9
 
@@ -230,6 +275,11 @@
 * **9:25** Todo atleta se domina em tudo; eles, na verdade, para receber uma coroa corruptível, nós, porém, uma incorruptível.
 * **9:26** Portanto, eu corro não como quem corre sem rumo; luto não como quem esmurra o ar;
 * **9:27** mas esmurro o meu corpo e o reduzo à escravidão, para que, tendo pregado a outros, não venha eu mesmo a ser desqualificado.
+
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
 
 ## 10
 
@@ -266,6 +316,11 @@
 * **10:31** Portanto, quer vocês comam, quer bebam, ou façam qualquer outra coisa, façam tudo para a glória de Theos.
 * **10:32** Não se tornem motivo de tropeço nem para judeus, nem para gregos, nem para a igreja de Theos,
 * **10:33** assim como eu também procuro agradar a todos em tudo, não buscando o meu próprio interesse, mas o de muitos, para que sejam salvos.
+
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
 
 ## 11
 
@@ -304,6 +359,11 @@
 * **11:33** Portanto, meus irmãos, quando se reunirem para comer, esperem uns pelos outros.
 * **11:34** Se alguém tem fome, coma em casa, para que não se reúnam para juízo. Quanto ao mais, quando eu for, darei as ordens.
 
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
+
 ## 12
 
 * **12:1** A respeito dos dons espirituais, irmãos, não quero que vocês ignorem.
@@ -338,6 +398,11 @@
 * **12:30** Será que todos possuem dons de curas? Será que todos falam em línguas? Será que todos interpretam?
 * **12:31** Busquem, contudo, os dons maiores. E ainda vos mostro um caminho por excelência.
 
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
+
 ## 13
 
 * **13:1** Se eu falar nas línguas dos homens e dos anjos, mas não tiver amor, tornei-me como o bronze que soa ou o címbalo que retine.
@@ -353,6 +418,11 @@
 * **13:11** Quando eu era menino, falava como menino, sentia como menino, discorria como menino; quando me tornei homem, acabei com as coisas de menino.
 * **13:12** Porque agora vemos como por um espelho, em enigma, mas então veremos face a face; agora conheço em parte, mas então conhecerei plenamente, como também fui plenamente conhecido.
 * **13:13** Agora, pois, permanecem a fé, a esperança e o amor; estes três, mas o maior deles é o amor.
+
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
 
 ## 14
 
@@ -396,6 +466,11 @@
 * **14:38** Mas, se alguém ignora isto, que ignore.
 * **14:39** Portanto, irmãos meus, procurai com zelo profetizar, e não proibais o falar em línguas;
 * **14:40** mas que tudo seja feito com decência e ordem.
+
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
 
 ## 15
 
@@ -457,6 +532,11 @@
 * **15:56** Ora, o aguilhão da morte é o pecado, e a força do pecado é a lei.
 * **15:57** Mas graças a Theos (Deus), que nos dá a vitória por intermédio de nosso Kyrios (Senhor) Iēsous (Jesus) Christos (Messias).
 * **15:58** Portanto, meus amados irmãos, sede firmes e constantes, sempre abundantes na obra de Kyrios (Senhor), sabendo que o vosso trabalho não é vão em Kyrios (Senhor).
+
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
 
 ## 16
 

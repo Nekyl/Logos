@@ -1,5 +1,10 @@
 # Romanos
 
+<a id="topo"></a>
+
+[1](#1) [2](#2) [3](#3) [4](#4) [5](#5) [6](#6) [7](#7) [8](#8) [9](#9) [10](#10) [11](#11) [12](#12) [13](#13) [14](#14) [15](#15) [16](#16)
+
+
 ## 1
 
 * **1:1** Paulo, servo de Christos Iēsous (Messias Jesus), chamado para ser apóstolo, separado para o evangelho de Theos (Deus),
@@ -35,6 +40,11 @@
 * **1:31** insensatos, desleais, sem afeição natural, sem misericórdia;
 * **1:32** os quais, conhecendo bem o decreto de Deus, de que os que praticam tais coisas são dignos de morte, não somente as fazem, mas também aprovam os que as praticam.
 
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
+
 ## 2
 
 * **2:1** Portanto, és indesculpável, ó homem, qualquer que sejas, tu que julgas; pois, naquilo em que julgas o outro, condenas a ti mesmo, pois tu, que julgas, fazes as mesmas coisas.
@@ -66,6 +76,11 @@
 * **2:27** E a incircuncisão natural, cumprindo a lei, julgará a ti, que, com a letra e a circuncisão, és transgressor da lei.
 * **2:28** Pois não é judeu o que o é exteriormente, nem é circuncisão a que o é exteriormente na carne;
 * **2:29** mas judeu é o que o é interiormente, e circuncisão é a do coração, no espírito, não na letra; cujo louvor não provém dos homens, mas de Deus.
+
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
 
 ## 3
 
@@ -101,6 +116,11 @@
 * **3:30** se é que um só é o Deus, que justificará pela fé tanto os circuncisos quanto os incircuncisos.
 * **3:31** Anulamos, pois, a lei pela fé? De modo nenhum; antes, estabelecemos a lei.
 
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
+
 ## 4
 
 * **4:1** Que diremos, pois, ter alcançado Abraão, nosso antepassado segundo a carne?
@@ -129,6 +149,11 @@
 * **4:24** mas também por nossa causa, a quem há de ser imputado, aos que cremos naquele que ressuscitou Iēsous, nosso Kyrios, dentre os mortos,
 * **4:25** o qual foi entregue por causa das nossas transgressões e ressuscitou para a nossa justificação.
 
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
+
 ## 5
 
 * **5:1** Justificados, pois, pela fé, temos paz com Deus por meio de nosso Kyrios Iēsous Christos,
@@ -152,6 +177,11 @@
 * **5:19** pois, como pela desobediência de um só homem muitos foram constituídos pecadores, assim também pela obediência de um só muitos serão constituídos justos.
 * **5:20** A lei, porém, entrou para que a ofensa abundasse; mas onde o pecado abundou, a graça superabundou,
 * **5:21** para que, assim como o pecado reinou na morte, também a graça reine pela justiça para a vida eterna, por meio de Iēsous Christos, nosso Kyrios.
+
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
 
 ## 6
 
@@ -178,6 +208,11 @@
 * **6:21** Que fruto, pois, tínheis então das coisas de que agora vos envergonhais? Pois o fim delas é a morte.
 * **6:22** Mas agora, libertados do pecado e feitos servos de Deus, tendes o vosso fruto para a santificação, e por fim a vida eterna.
 * **6:23** Pois o salário do pecado é a morte, mas o dom gratuito de Deus é a vida eterna em Christos Iēsous, nosso Kyrios.
+
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
 
 ## 7
 
@@ -206,6 +241,11 @@
 * **7:23** mas vejo nos meus membros outra lei que batalha contra a lei do meu entendimento e me prende à lei do pecado que está nos meus membros.
 * **7:24** Miserável homem que eu sou! Quem me livrará do corpo desta morte?
 * **7:25** Graças a Deus por Iēsous Christos, nosso Kyrios. De maneira que eu mesmo, com o entendimento, sirvo à lei de Deus, mas, com a carne, à lei do pecado.
+
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
 
 ## 8
 
@@ -249,6 +289,11 @@
 * **8:38** Pois estou convencido de que nem a morte, nem a vida, nem os anjos, nem os principados, nem as coisas presentes, nem as futuras, nem os poderes,
 * **8:39** nem a altura, nem a profundidade, nem qualquer outra criatura poderá nos separar do amor de Theos (Deus), que está em Christo Iēsou (Cristo Jesus), o Kyrios (Senhor) nosso.
 
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
+
 ## 9
 
 * **9:1** Digo a verdade em Christo, não minto, dando-me testemunho a minha consciência no Pneuma Hagion (Espírito Santo),
@@ -285,6 +330,11 @@
 * **9:32** Por quê? Porque não a buscavam pela fé, mas como que pelas obras; tropeçaram na pedra de tropeço,
 * **9:33** como está escrito: Eis que ponho em Sião uma pedra de tropeço e uma rocha de escândalo, e aquele que nela crê não será envergonhado.
 
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
+
 ## 10
 
 * **10:1** Irmãos, o desejo do meu coração e a minha oração a Theos por eles é para a salvação.
@@ -308,6 +358,11 @@
 * **10:19** Mas digo: Porventura Israel não o soube? Primeiramente Moisés diz: Eu vos porei em ciúmes com aqueles que não são povo, com povo insensato vos provocarei à ira.
 * **10:20** E Isaías ousa dizer: Fui achado pelos que não me buscavam, manifestei-me aos que não perguntavam por mim.
 * **10:21** Mas para com Israel diz: Todo o dia estendi as minhas mãos a um povo desobediente e contradizente.
+
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
 
 ## 11
 
@@ -348,6 +403,11 @@
 * **11:35** Ou quem lhe deu primeiro a ele, para que lhe seja recompensado?
 * **11:36** Porque dele, e por ele, e para ele são todas as coisas; glória, pois, a ele eternamente, amém.
 
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
+
 ## 12
 
 * **12:1** Rogo-vos, pois, irmãos, pelas misericórdias de Theos, que apresenteis os vossos corpos como sacrifício vivo, santo e agradável a Theos, que é o vosso culto racional;
@@ -372,6 +432,11 @@
 * **12:20** Mas, se o teu inimigo tiver fome, dá-lhe de comer; se tiver sede, dá-lhe de beber; porque, fazendo isto, amontoarás brasas de fogo sobre a sua cabeça.
 * **12:21** Não te deixes vencer pelo mal, mas vence o mal com o bem.
 
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
+
 ## 13
 
 * **13:1** Toda a alma esteja sujeita às autoridades superiores; porque não há autoridade que não venha de Theos, e as que existem foram ordenadas por Theos.
@@ -388,6 +453,11 @@
 * **13:12** A noite é passada, e o dia é chegado. Rejeitemos, pois, as obras das trevas e vistamo-nos das armas da luz.
 * **13:13** Andemos honestamente, como de dia, não em glutonarias e bebedeiras, não em desonestidades e dissoluções, não em contendas e inveja.
 * **13:14** Mas revesti-vos do Kyrios Iēsous Christos (Senhor Jesus Cristo), e não tenhais cuidado da carne em suas concupiscências.
+
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
 
 ## 14
 
@@ -414,6 +484,11 @@
 * **14:21** Bom é não comer carne, nem beber vinho, nem fazer outras coisas em que teu irmão tropeça, ou se escandaliza, ou se enfraquece.
 * **14:22** A fé que você tem, guarde-a para si mesmo diante de Theos (Deus). Feliz é aquele que não se condena naquilo que aprova.
 * **14:23** Mas aquele que tem dúvidas, se comer, está condenado, porque não age por fé; e tudo o que não provém de fé é pecado.
+
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
 
 ## 15
 
@@ -450,6 +525,11 @@
 * **15:31** para que eu seja livre dos descrentes na Judeia e que o meu serviço em Jerusalém seja aceitável aos santos,
 * **15:32** para que, com alegria, chegando a vocês pela vontade de Theou (Deus), eu descanse junto com vocês.
 * **15:33** Que o Theos (Deus) da paz esteja com todos vocês. Amém.
+
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
 
 ## 16
 

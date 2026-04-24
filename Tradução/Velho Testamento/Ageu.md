@@ -1,5 +1,10 @@
 # Ageu
 
+<a id="topo"></a>
+
+[1](#1) [2](#2)
+
+
 ## 1
 
 * **1:1** No segundo ano do rei Dario, no sexto mês, no primeiro dia do mês, veio a palavra de YHWH (SENHOR) por intermédio do profeta Ageu a Zorobabel, filho de Sealtiel, governador de Judá, e a Josué, filho de Jozadaque, o sumo sacerdote, dizendo:
@@ -17,6 +22,11 @@
 * **1:13** Ageu, mensageiro de YHWH (SENHOR), falou ao povo, por incumbência de YHWH (SENHOR): Eu sou convosco, diz YHWH (SENHOR).
 * **1:14** YHWH (SENHOR) despertou o espírito de Zorobabel, filho de Sealtiel, governador de Judá, e o espírito de Josué, filho de Jozadaque, o sumo sacerdote, e o espírito de todo o restante do povo; eles vieram e realizaram a obra na casa de YHWH (SENHOR) Tzevaot (dos Exércitos), seu Deus.
 * **1:15** No dia vinte e quatro do sexto mês, no segundo ano do rei Dario.
+
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
 
 ## 2
 

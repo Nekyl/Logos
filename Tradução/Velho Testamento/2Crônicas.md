@@ -1,5 +1,10 @@
 # 2 Crônicas
 
+<a id="topo"></a>
+
+[1](#1) [2](#2) [3](#3) [4](#4) [5](#5) [6](#6) [7](#7) [8](#8) [9](#9) [10](#10) [11](#11) [12](#12) [13](#13) [14](#14) [15](#15) [16](#16) [17](#17) [18](#18) [19](#19) [20](#20) [21](#21) [22](#22) [23](#23) [24](#24) [25](#25) [26](#26) [27](#27) [28](#28) [29](#29) [30](#30) [31](#31) [32](#32) [33](#33) [34](#34) [35](#35) [36](#36)
+
+
 ## 1
 
 * **1:1** Salomão, filho de Davi, fortaleceu-se em seu reino, e YHWH (SENHOR) Elohim (Deus) estava com ele e o engrandeceu sobremaneira.
@@ -19,6 +24,11 @@
 * **1:15** O rei fez com que a prata e o ouro em Jerusalém fossem como pedras, e os cedros, como os sicômoros que estão na baixada, em abundância.
 * **1:16** Os cavalos de Salomão eram trazidos do Egito e de Coa; os mercadores do rei os recebiam de Coa por um preço.
 * **1:17** Subiam e traziam do Egito um carro por seiscentos siclos de prata, e um cavalo por cento e cinquenta; e assim, por meio deles, os traziam para todos os reis dos heteus e para os reis da Síria.
+
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
 
 ## 2
 
@@ -41,6 +51,11 @@
 * **2:17** Salomão contou todos os homens estrangeiros que havia na terra de Israel, segundo o censo que Davi, seu pai, fizera; e acharam-se cento e cinquenta e três mil e seiscentos.
 * **2:18** Destes, fez setenta mil para carregar cargas, oitenta mil para cortar pedras na montanha e três mil e seiscentos capatazes para fazer trabalhar o povo.
 
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
+
 ## 3
 
 * **3:1** Salomão começou a edificar a casa de YHWH em Jerusalém, no monte Moriá, onde YHWH apareceu a Davi, seu pai, no lugar que Davi preparara na eira de Ornã, o jebuseu.
@@ -60,6 +75,11 @@
 * **3:15** Fez diante da casa duas colunas de trinta e cinco côvados de altura, e o capitel que estava sobre cada uma era de cinco côvados.
 * **3:16** Fez cadeias no oráculo e as pôs sobre o topo das colunas; fez também cem romãs e as pôs nas cadeias.
 * **3:17** Levantou as colunas diante do templo, uma à direita e outra à esquerda; à da direita chamou Jaquim, e à da esquerda chamou Boaz.
+
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
 
 ## 4
 
@@ -86,6 +106,11 @@
 * **4:21** as flores, as lâmpadas e as tenazes, de ouro, de ouro perfeito;
 * **4:22** as tesouras, as bacias, as colheres e os braseiros, de ouro puro; e quanto à entrada da casa, as suas portas internas para o Santo dos Santos e as portas da casa para o templo, eram de ouro.
 
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
+
 ## 5
 
 * **5:1** Assim se completou toda a obra que Salomão fez para a casa de YHWH. Salomão trouxe as coisas consagradas por Davi, seu pai, e a prata, o ouro e todos os utensílios pôs nos tesouros da casa de Elohim.
@@ -102,6 +127,11 @@
 * **5:12** e os levitas, que eram cantores, todos eles, Asafe, Hemã, Jedutum e seus filhos e seus irmãos, vestidos de linho fino, com címbalos, saltérios e harpas, estavam em pé ao oriente do altar, e com eles cento e vinte sacerdotes que tocavam as trombetas;
 * **5:13** e quando os que tocavam as trombetas e os cantores faziam ouvir uma só voz, louvando e rendendo graças a YHWH, e quando levantavam a voz com trombetas, címbalos e outros instrumentos de música, e louvavam a YHWH, dizendo: Porque ele é bom, porque a sua benignidade dura para sempre, então a casa se encheu de uma nuvem, a casa de YHWH.
 * **5:14** Os sacerdotes não podiam estar em pé para ministrar, por causa da nuvem, porque a glória de YHWH encheu a casa de Elohim.
+
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
 
 ## 6
 
@@ -148,6 +178,11 @@
 * **6:41** Agora, pois, levanta-te, YHWH Elohim, para o teu repouso, tu e a arca da tua força; os teus sacerdotes, YHWH Elohim, se vistam de salvação, e os teus santos se alegrem na bondade.
 * **6:42** YHWH Elohim, não faças virar o rosto do teu ungido; lembra-te das benevolências de Davi, teu servo.
 
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
+
 ## 7
 
 * **7:1** Acabando Salomão de orar, o fogo desceu dos céus e consumiu o holocausto e os sacrifícios; e a glória de YHWH encheu a casa.
@@ -173,6 +208,11 @@
 * **7:21** E esta casa, que foi a mais alta de todas, causará espanto a todo aquele que passar por ela, e dirão: "Por que YHWH (SENHOR) fez assim a esta terra e a esta casa?"
 * **7:22** E dirão: "Porque abandonaram a YHWH Elohim (Deus) de seus pais, que os tirou da terra do Egito, e se apegaram a outros deuses, e se prostraram diante deles, e os serviram; por isso Ele trouxe sobre eles todo este mal."
 
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
+
 ## 8
 
 * **8:1** E aconteceu, ao fim de vinte anos, que Salomão construiu a casa de YHWH e a sua própria casa.
@@ -193,6 +233,11 @@
 * **8:16** Assim se completou toda a obra de Salomão, desde o dia da fundação da casa de YHWH até que ela foi terminada, sendo a casa de YHWH perfeita.
 * **8:17** Então, Salomão foi a Eziom-Geber e a Elote, na costa do mar, na terra de Edom.
 * **8:18** E Hirão enviou-lhe, por meio de seus servos, navios e servos que conheciam o mar; e eles foram com os servos de Salomão a Ofir, e tomaram de lá quatrocentos e cinquenta talentos de ouro, e os trouxeram ao rei Salomão.
+
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
 
 ## 9
 
@@ -228,6 +273,11 @@
 * **9:30** E Salomão reinou em Jerusalém sobre todo o Israel quarenta anos.
 * **9:31** E Salomão dormiu com seus pais, e o sepultaram na Cidade de Davi, seu pai; e Roboão, seu filho, reinou em seu lugar.
 
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
+
 ## 10
 
 * **10:1** E Roboão foi a Siquém, porque a Siquém viera todo o Israel para fazê-lo rei.
@@ -249,6 +299,11 @@
 * **10:17** Mas, quanto aos filhos de Israel que habitavam nas cidades de Judá, Roboão reinou sobre eles.
 * **10:18** E o rei Roboão enviou a Hadorão, que estava sobre o tributo, e os filhos de Israel o apedrejaram, e ele morreu; e o rei Roboão esforçou-se para subir ao seu carro, para fugir para Jerusalém.
 * **10:19** Assim, Israel se rebelou contra a casa de Davi até o dia de hoje.
+
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
 
 ## 11
 
@@ -276,6 +331,11 @@
 * **11:22** E Roboão constituiu a Abias, filho de Maaca, como chefe entre seus irmãos, para fazê-lo rei.
 * **11:23** E agiu com prudência e dispersou todos os seus filhos por todas as terras de Judá e Benjamim, por todas as cidades fortificadas, e deu-lhes mantimento em abundância, e buscou muitas mulheres.
 
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
+
 ## 12
 
 * **12:1** E aconteceu que, quando o reino de Roboão se estabeleceu e ele se fortaleceu, abandonou a lei de YHWH, e todo o Israel com ele.
@@ -294,6 +354,11 @@
 * **12:14** E fez o mal, porque não preparou o seu coração para buscar a YHWH.
 * **12:15** E os atos de Roboão, os primeiros e os últimos, não estão eles escritos nos registros de Semaías, o profeta, e de Ido, o vidente, para registro genealógico? E houve guerras entre Roboão e Jeroboão todos os dias.
 * **12:16** E Roboão dormiu com seus pais e foi sepultado na Cidade de Davi; e Abias, seu filho, reinou em seu lugar.
+
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
 
 ## 13
 
@@ -320,6 +385,11 @@
 * **13:21** Mas Abias fortaleceu-se e tomou para si quatorze mulheres, e gerou vinte e dois filhos e dezesseis filhas.
 * **13:22** E o restante dos atos de Abias, e os seus caminhos, e as suas palavras estão escritos no comentário do profeta Ido.
 
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
+
 ## 14
 
 * **14:1** E Abias dormiu com seus pais, e o sepultaram na Cidade de Davi; e Asa, seu filho, reinou em seu lugar. Nos seus dias, a terra esteve em paz dez anos.
@@ -337,6 +407,11 @@
 * **14:13** E Asa e o povo que estava com ele os perseguiram até Gerar; e caíram dos etíopes tantos que não lhes restou vida, porque foram quebrantados diante de YHWH e diante do Seu exército; e levaram mui grande despojo.
 * **14:14** E feriram todas as cidades ao redor de Gerar, porque o terror de YHWH veio sobre elas; e saquearam todas as cidades, porque havia nelas muito despojo.
 * **14:15** E também feriram as tendas do gado e levaram ovelhas em abundância e camelos, e voltaram a Jerusalém.
+
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
 
 ## 15
 
@@ -360,6 +435,11 @@
 * **15:18** Ele trouxe para a casa de Elohim as coisas consagradas por seu pai e as que ele mesmo consagrara: prata, ouro e utensílios.
 * **15:19** E não houve guerra até o trigésimo quinto ano do reinado de Asa.
 
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
+
 ## 16
 
 * **16:1** No trigésimo sexto ano do reinado de Asa, Baasa, rei de Israel, subiu contra Judá e edificou Ramá, para impedir que qualquer um saísse ou entrasse para Asa, rei de Judá.
@@ -376,6 +456,11 @@
 * **16:12** No trigésimo nono ano do seu reinado, Asa ficou gravemente enfermo nos pés; e, mesmo na sua enfermidade, não buscou a YHWH, mas aos médicos.
 * **16:13** Asa dormiu com seus pais e morreu no quadragésimo primeiro ano do seu reinado.
 * **16:14** Sepultaram-no no seu próprio sepulcro, que ele havia cavado para si na cidade de Davi, e o deitaram num leito cheio de especiarias e misturas de perfumes preparados; e fizeram por ele uma queima muito grande.
+
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
 
 ## 17
 
@@ -398,6 +483,11 @@
 * **17:17** De Benjamim: Eliada, um valente, e com ele duzentos mil armados de arco e escudo.
 * **17:18** Ao seu lado, Jozabade, e com ele cento e oitenta mil preparados para a guerra.
 * **17:19** Estes eram os que serviam ao rei, além dos que o rei colocou nas cidades fortificadas por todo o Judá.
+
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
 
 ## 18
 
@@ -436,6 +526,11 @@
 * **18:33** Um homem entesou o arco ao acaso e feriu o rei de Israel entre as juntas da armadura; então disse ao condutor do carro: Volta a mão e tira-me do exército, pois estou ferido.
 * **18:34** A peleja tornou-se intensa naquele dia, e o rei de Israel manteve-se em pé no carro contra os sírios até a tarde; e morreu ao pôr do sol.
 
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
+
 ## 19
 
 * **19:1** Josafá, rei de Judá, voltou para sua casa em paz, a Jerusalém.
@@ -449,6 +544,11 @@
 * **19:9** Ordenou-lhes, dizendo: Assim fareis no temor de YHWH, com fidelidade e coração íntegro.
 * **19:10** Em qualquer causa que vier a vós da parte de vossos irmãos que habitam nas suas cidades, entre sangue e sangue, entre lei e mandamento, estatutos e juízos, adverti-os para que não se tornem culpados perante YHWH, e não venha ira sobre vós e sobre vossos irmãos; assim fareis e não sereis culpados.
 * **19:11** Eis que Amarias, o sumo sacerdote, está sobre vós para toda a causa de YHWH, e Zebadias, filho de Ismael, o príncipe da casa de Judá, para toda a causa do rei; e os levitas servirão de oficiais diante de vós. Sede fortes e fazei-o, e YHWH seja com o que é bom.
+
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
 
 ## 20
 
@@ -490,6 +590,11 @@
 * **20:36** Aliou-se a ele para fazer navios que fossem a Társis, e fizeram os navios em Eziom-Geber.
 * **20:37** Eliezer, filho de Dodava, de Maressa, profetizou contra Josafá, dizendo: Por te teres aliado a Acazias, YHWH destruiu as tuas obras. Os navios foram quebrados e não puderam ir a Társis.
 
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
+
 ## 21
 
 * **21:1** Josafá dormiu com seus pais e foi sepultado com seus pais na cidade de Davi; Jeorão, seu filho, reinou em seu lugar.
@@ -513,6 +618,11 @@
 * **21:19** Com o passar do tempo, ao fim de dois anos, as suas entranhas saíram por causa da enfermidade, e morreu de doenças malignas; o seu povo não fez por ele queima de perfumes, como fizera por seus pais.
 * **21:20** Tinha trinta e dois anos quando começou a reinar, e reinou oito anos em Jerusalém; partiu sem deixar saudades, e sepultaram-no na cidade de Davi, mas não nos sepulcros dos reis.
 
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
+
 ## 22
 
 * **22:1** Os habitantes de Jerusalém proclamaram rei a Acazias, seu filho mais novo, em seu lugar, pois o bando que viera com os árabes ao acampamento havia matado todos os mais velhos; assim, Acazias, filho de Jeorão, rei de Judá, começou a reinar.
@@ -527,6 +637,11 @@
 * **22:10** Quando Atalia, mãe de Acazias, viu que seu filho estava morto, levantou-se e destruiu toda a descendência real da casa de Judá.
 * **22:11** Mas Josabeate, filha do rei, tomou a Joás, filho de Acazias, e o furtou do meio dos filhos do rei que estavam sendo mortos, colocando-o com sua ama no quarto dos leitos; assim, Josabeate, filha do rei Jeorão, esposa de Joiada, o sacerdote — pois ela era irmã de Acazias — o escondeu de Atalia, para que não o matasse.
 * **22:12** Ele ficou escondido com eles na casa de Elohim (Deus) por seis anos, enquanto Atalia reinava sobre a terra.
+
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
 
 ## 23
 
@@ -551,6 +666,11 @@
 * **23:19** Ele colocou os porteiros nas portas da casa de YHWH (SENHOR), para que nenhum impuro entrasse por motivo algum.
 * **23:20** Tomou os capitães de cem, os nobres, os governadores do povo e todo o povo da terra, e fizeram o rei descer da casa de YHWH (SENHOR); entraram pelo meio da Porta Superior à casa do rei e fizeram o rei sentar-se no trono do reino.
 * **23:21** Todo o povo da terra se alegrou, a cidade ficou tranquila, e mataram Atalia à espada.
+
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
 
 ## 24
 
@@ -581,6 +701,11 @@
 * **24:25** Quando se retiraram dele — pois o deixaram com muitas enfermidades —, seus servos conspiraram contra ele por causa do sangue dos filhos de Joiada, o sacerdote, e o mataram em seu leito; ele morreu, sepultaram-no na Cidade de Davi, mas não o sepultaram nos sepulcros dos reis.
 * **24:26** Estes foram os que conspiraram contra ele: Zabade, filho de Simeate, a amonita, e Jozabade, filho de Sinrite, a moabita.
 * **24:27** Quanto aos seus filhos, à grandeza das profecias contra ele e à restauração da casa de Elohim (Deus), eis que estão escritos no comentário do livro dos reis; e Amazias, seu filho, começou a reinar em seu lugar.
+
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
 
 ## 25
 
@@ -613,6 +738,11 @@
 * **25:27** Desde o tempo em que Amazias se desviou de seguir a YHWH (SENHOR), conspiraram contra ele em Jerusalém, e ele fugiu para Laquis; mas enviaram após ele a Laquis e o mataram ali.
 * **25:28** Trouxeram-no sobre cavalos e o sepultaram com seus pais na cidade de Judá.
 
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
+
 ## 26
 
 * **26:1** Todo o povo de Judá tomou a Uzias, que tinha dezesseis anos, e o proclamaram rei em lugar de seu pai, Amazias.
@@ -639,6 +769,11 @@
 * **26:22** O restante dos atos de Uzias, os primeiros e os últimos, escreveu o profeta Isaías, filho de Amoz.
 * **26:23** Uzias dormiu com seus pais, e o sepultaram com seus pais no campo de sepultura que pertencia aos reis, pois disseram: "Ele é leproso". E Jotão, seu filho, começou a reinar em seu lugar.
 
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
+
 ## 27
 
 * **27:1** Jotão tinha vinte e cinco anos quando começou a reinar, e reinou dezesseis anos em Jerusalém; o nome de sua mãe era Jerusa, filha de Zadoque.
@@ -650,6 +785,11 @@
 * **27:7** O restante dos atos de Jotão, todas as suas guerras e seus caminhos, eis que estão escritos no livro dos reis de Israel e de Judá.
 * **27:8** Tinha vinte e cinco anos quando começou a reinar, e reinou dezesseis anos em Jerusalém.
 * **27:9** Jotão dormiu com seus pais, e o sepultaram na Cidade de Davi; e Acaz, seu filho, começou a reinar em seu lugar.
+
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
 
 ## 28
 
@@ -680,6 +820,11 @@
 * **28:25** Em cada cidade de Judá, fez altos para queimar incenso a outros deuses, e provocou à ira a YHWH (SENHOR), Elohim (Deus) de seus pais.
 * **28:26** O restante de seus atos e todos os seus caminhos, os primeiros e os últimos, eis que estão escritos no livro dos reis de Judá e de Israel.
 * **28:27** Acaz dormiu com seus pais, e o sepultaram na cidade, em Jerusalém, pois não o levaram aos sepulcros dos reis de Israel; e Ezequias, seu filho, começou a reinar em seu lugar.
+
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
 
 ## 29
 
@@ -720,6 +865,11 @@
 * **29:35** Também houve holocaustos em abundância, com a gordura das ofertas de paz e as libações para o holocausto; assim, o serviço da casa de YHWH foi restabelecido.
 * **29:36** Ezequias e todo o povo se alegraram pelo que Elohim preparara para o povo, pois a coisa sucedera de repente.
 
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
+
 ## 30
 
 * **30:1** Ezequias enviou mensagens a todo o Israel e Judá, e também escreveu cartas a Efraim e Manassés, para que viessem à casa de YHWH em Jerusalém, para celebrar a Páscoa a YHWH, o Elohim de Israel.
@@ -750,6 +900,11 @@
 * **30:26** Houve grande alegria em Jerusalém, pois desde os dias de Salomão, filho de Davi, rei de Israel, não houve algo semelhante em Jerusalém.
 * **30:27** Os sacerdotes levitas levantaram-se e abençoaram o povo; a voz deles foi ouvida, e a sua oração chegou à Sua santa habitação, aos céus.
 
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
+
 ## 31
 
 * **31:1** Ao terminar tudo isso, todo o Israel que se achava ali saiu para as cidades de Judá, despedaçou as colunas, cortou os postes sagrados, derrubou os altos e os altares por todo o Judá, Benjamim, Efraim e Manassés, até destruí-los totalmente; então todos os filhos de Israel voltaram, cada um para a sua possessão, para as suas cidades.
@@ -773,6 +928,11 @@
 * **31:19** E para os filhos de Arão, os sacerdotes, nos campos dos arredores de suas cidades, em cada cidade, havia homens designados por nome para distribuir porções a todo homem entre os sacerdotes e a todo o registrado entre os levitas.
 * **31:20** Assim fez Ezequias em todo o Judá; fez o que era bom, reto e verdadeiro diante de YHWH, seu Elohim.
 * **31:21** Em toda obra que começou no serviço da casa de Elohim, na Lei e no mandamento, para buscar o seu Elohim, ele o fez de todo o coração e prosperou.
+
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
 
 ## 32
 
@@ -810,6 +970,11 @@
 * **32:32** O restante dos atos de Ezequias e as suas obras de piedade, eis que estão escritos na visão do profeta Isaías, filho de Amoz, no livro dos reis de Judá e Israel.
 * **32:33** Ezequias dormiu com seus pais e o sepultaram na subida dos sepulcros dos filhos de Davi; todo o Judá e os habitantes de Jerusalém lhe prestaram honras na sua morte, e Manassés, seu filho, reinou em seu lugar.
 
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
+
 ## 33
 
 * **33:1** Manassés tinha doze anos quando começou a reinar e reinou cinquenta e cinco anos em Jerusalém.
@@ -837,6 +1002,11 @@
 * **33:23** Não se humilhou diante de YHWH, como Manassés, seu pai, se humilhara; antes, este Amom multiplicou a culpa.
 * **33:24** Seus servos conspiraram contra ele e o mataram em sua casa.
 * **33:25** Mas o povo da terra feriu todos os que conspiraram contra o rei Amom, e o povo da terra fez reinar Josias, seu filho, em seu lugar.
+
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
 
 ## 34
 
@@ -874,6 +1044,11 @@
 * **34:32** Fez com que todos os que se encontravam em Jerusalém e em Benjamim se unissem a ela; e os habitantes de Jerusalém fizeram conforme a aliança de Elohim, o Elohim de seus pais.
 * **34:33** Josias removeu todas as abominações de todas as terras que eram dos filhos de Israel e fez com que todos os que se encontravam em Israel servissem a YHWH, seu Elohim. Todos os seus dias não se desviaram de seguir a YHWH, Elohim de seus pais.
 
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
+
 ## 35
 
 * **35:1** Josias celebrou a Páscoa a YHWH em Jerusalém; e imolaram o cordeiro pascal no décimo quarto dia do primeiro mês.
@@ -903,6 +1078,11 @@
 * **35:25** Jeremias compôs uma lamentação sobre Josias; e todos os cantores e cantoras falaram de Josias nas suas lamentações, até ao dia de hoje, e as estabeleceram por estatuto em Israel; e eis que estão escritas nas Lamentações.
 * **35:26** O restante dos atos de Josias e as suas obras de piedade, conforme o que está escrito na Lei de YHWH,
 * **35:27** e os seus atos, os primeiros e os últimos, eis que estão escritos no livro dos reis de Israel e de Judá.
+
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
 
 ## 36
 

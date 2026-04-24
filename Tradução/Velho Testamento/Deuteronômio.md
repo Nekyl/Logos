@@ -1,5 +1,10 @@
 # Deuteronômio
 
+<a id="topo"></a>
+
+[1](#1) [2](#2) [3](#3) [4](#4) [5](#5) [6](#6) [7](#7) [8](#8) [9](#9) [10](#10) [11](#11) [12](#12) [13](#13) [14](#14) [15](#15) [16](#16) [17](#17) [18](#18) [19](#19) [20](#20) [21](#21) [22](#22) [23](#23) [24](#24) [25](#25) [26](#26) [27](#27) [28](#28) [29](#29) [30](#30) [31](#31) [32](#32) [33](#33) [34](#34)
+
+
 ## 1
 
 * **1:1** Estas são as palavras que Moisés falou a todo o Israel, além do Jordão, no deserto, na Arabá, defronte de Sufe, entre Parã, Tofel, Labã, Hazerote e Di-Zaabe.
@@ -49,6 +54,11 @@
 * **1:45** Voltastes e chorastes diante de YHWH (SENHOR), mas YHWH (SENHOR) não ouviu a vossa voz, nem vos deu ouvidos.
 * **1:46** Assim permanecestes em Cades muitos dias, conforme os dias que ali habitastes.
 
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
+
 ## 2
 
 * **2:1** Voltamos e partimos para o deserto, pelo caminho do Mar Vermelho, como YHWH (SENHOR) me dissera; e contornamos o monte Seir por muitos dias.
@@ -89,6 +99,11 @@
 * **2:36** Desde Aroer, que está à borda do ribeiro de Arnom, e a cidade que está no vale, até Gileade, não houve cidade que nos fosse alta demais; tudo YHWH (SENHOR) Elohim (Deus) nosso entregou diante de nós.
 * **2:37** Somente à terra dos filhos de Amom não chegaste, a toda a margem do ribeiro de Jaboque, às cidades da montanha e a tudo o que YHWH (SENHOR) Elohim (Deus) nosso proibira.
 
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
+
 ## 3
 
 * **3:1** Voltamos e subimos pelo caminho de Basã; e Ogue, rei de Basã, saiu ao nosso encontro, ele e todo o seu povo, para a guerra em Edrei.
@@ -120,6 +135,11 @@
 * **3:27** Sobe ao cume de Pisga, levanta os teus olhos para o ocidente, para o norte, para o sul e para o oriente, e vê com os teus olhos; porque não passarás este Jordão.
 * **3:28** Mas dá ordens a Josué, anima-o e fortalece-o, porque ele passará adiante deste povo e ele os fará possuir a terra que verás.
 * **3:29** E ficamos no vale, defronte de Bete-Peor.
+
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
 
 ## 4
 
@@ -173,6 +193,11 @@
 * **4:48** Desde Aroer, que está à margem do ribeiro de Arnom, até o monte Siom, que é Hermom.
 * **4:49** E toda a Arabá, do outro lado do Jordão, ao oriente, até o mar da Arabá, abaixo das encostas do Pisga.
 
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
+
 ## 5
 
 * **5:1** Moisés convocou todo o Israel e lhes disse: Ouça, ó Israel, os decretos e os juízos que hoje falo aos seus ouvidos; aprendam-nos e cuidem de cumpri-los.
@@ -209,6 +234,11 @@
 * **5:32** Cuidem de fazer como YHWH (SENHOR) seu Elohim (Deus) lhes ordenou; não se desviem nem para a direita nem para a esquerda.
 * **5:33** Andem em todo o caminho que YHWH (SENHOR) seu Elohim (Deus) lhes ordenou, para que vivam, e tudo vá bem com vocês, e prolonguem os dias na terra que vocês hão de possuir.
 
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
+
 ## 6
 
 * **6:1** Este é o mandamento, os decretos e os juízos que YHWH (SENHOR) seu Elohim (Deus) ordenou que eu lhes ensinasse, para que os cumpram na terra para a qual vocês estão atravessando para possuí-la.
@@ -236,6 +266,11 @@
 * **6:23** E nos tirou de lá, para nos trazer e nos dar a terra que jurou a nossos pais.
 * **6:24** YHWH (SENHOR) nos ordenou que cumpríssemos todos estes decretos, para temermos a YHWH (SENHOR) nosso Elohim (Deus), para o nosso bem, todos os dias, para nos preservar a vida, como hoje se vê.
 * **6:25** E será justiça para nós, se tivermos o cuidado de cumprir todo este mandamento diante de YHWH (SENHOR) nosso Elohim (Deus), como Ele nos ordenou.
+
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
 
 ## 7
 
@@ -266,6 +301,11 @@
 * **7:25** Queimarás no fogo as imagens de escultura dos seus deuses; não cobices a prata nem o ouro que estão sobre elas, nem os tomes para ti, para que não te enlaces neles, pois isso é abominação para YHWH (SENHOR) Elohim (Deus).
 * **7:26** Não introduzirás abominação em tua casa, para que não sejas amaldiçoado como ela; detesta-a e abomina-a totalmente, pois é algo amaldiçoado.
 
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
+
 ## 8
 
 * **8:1** Guardareis todos os mandamentos que hoje vos ordeno, para que vivais, vos multipliqueis, entreis e possuais a terra que YHWH (SENHOR) jurou a vossos pais.
@@ -288,6 +328,11 @@
 * **8:18** Antes, lembra-te de YHWH (SENHOR) Elohim (Deus), pois é Ele quem te dá força para adquirires riqueza, para confirmar a Sua aliança que jurou a teus pais, como se vê neste dia.
 * **8:19** Se, porém, te esqueceres de YHWH (SENHOR) Elohim (Deus), e andares após outros deuses, e os servires e te prostrares perante eles, testifico hoje contra vós que certamente perecereis.
 * **8:20** Como as nações que YHWH (SENHOR) destrói diante de vós, assim perecereis, por não terdes dado ouvidos à voz de YHWH (SENHOR) Elohim (Deus).
+
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
 
 ## 9
 
@@ -321,6 +366,11 @@
 * **9:28** Para que a terra de onde nos tiraste não diga: "Por não ter YHWH (SENHOR) podido introduzi-los na terra que lhes prometera, e por os odiar, tirou-os para os matar no deserto".
 * **9:29** Eles, porém, são o Teu povo e a Tua herança, que tiraste com o Teu grande poder e com o Teu braço estendido.
 
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
+
 ## 10
 
 * **10:1** Naquele tempo, YHWH (SENHOR) disse-me: "Lavra para ti duas tábuas de pedra, como as primeiras, sobe a Mim ao monte e faze para ti uma arca de madeira".
@@ -345,6 +395,11 @@
 * **10:20** A YHWH (SENHOR) Elohim (Deus) temerás, a Ele servirás, a Ele te apegarás e pelo Seu nome jurarás.
 * **10:21** Ele é o teu louvor e Ele é o teu Deus, que fez por ti estas coisas grandes e temíveis que os teus olhos viram.
 * **10:22** Com setenta pessoas teus pais desceram ao Egito, e agora YHWH (SENHOR) Elohim (Deus) te fez numerosos como as estrelas do céu.
+
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
 
 ## 11
 
@@ -381,6 +436,11 @@
 * **11:31** Porque vós passais o Jordão para entrardes e possuirdes a terra que YHWH (SENHOR) Elohim (Deus) vos dá; possuí-la-eis e nela habitareis.
 * **11:32** Tende o cuidado de cumprir todos os estatutos e os juízos que hoje ponho diante de vós.
 
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
+
 ## 12
 
 * **12:1** Estes são os estatutos e os juízos que cuidareis de cumprir na terra que YHWH (SENHOR) Elohim (Deus) de teus pais te deu para a possuíres, todos os dias que viverdes sobre a terra.
@@ -416,6 +476,11 @@
 * **12:31** Não farás assim para com YHWH (SENHOR) Elohim (Deus), porque toda a abominação que YHWH (SENHOR) odeia, eles fizeram aos seus deuses; pois até os seus filhos e as suas filhas queimam no fogo aos seus deuses.
 * **12:32** Tudo o que eu vos ordeno, cuidareis de o cumprir; nada lhe acrescentarás nem diminuirás.
 
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
+
 ## 13
 
 * **13:1** Se no meio de ti se levantar profeta ou sonhador de sonhos, e te der um sinal ou prodígio,
@@ -436,6 +501,11 @@
 * **13:16** E ajuntará todo o seu despojo no meio da sua praça, e queimará a cidade e todo o seu despojo como oferta total a YHWH Elohim de você; e será um montão perpétuo, não será mais edificada.
 * **13:17** E nada do que foi destinado à destruição se apegará à sua mão, para que YHWH se desvie do furor da Sua ira, e lhe mostre misericórdia, e tenha compaixão de você, e o multiplique, como jurou aos seus pais,
 * **13:18** quando você obedecer à voz de YHWH Elohim de você, para guardar todos os Seus mandamentos que hoje lhe ordeno, para fazer o que é reto aos olhos de YHWH Elohim de você.
+
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
 
 ## 14
 
@@ -469,6 +539,11 @@
 * **14:28** Ao fim de três anos tirarás todo o dízimo da sua colheita naquele ano, e o recolherás nas suas portas.
 * **14:29** E virá o levita, pois não tem parte nem herança com você, e o estrangeiro, e o órfão, e a viúva, que estão nas suas portas, e comerão e se fartarão, para que YHWH Elohim de você o abençoe em toda a obra das suas mãos que você fizer.
 
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
+
 ## 15
 
 * **15:1** Ao fim de sete anos fará remissão.
@@ -495,6 +570,11 @@
 * **15:22** Nas suas portas o comerá; o imundo e o limpo juntamente, como o veado e como o gamo.
 * **15:23** Somente o seu sangue não comerá; sobre a terra o derramará como água.
 
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
+
 ## 16
 
 * **16:1** Guarde o mês de Abibe, e celebre a Páscoa a YHWH Elohim de você, porque no mês de Abibe YHWH Elohim de você o tirou do Egito, de noite.
@@ -520,6 +600,11 @@
 * **16:21** Não plantará para você nenhum poste-ídolo, nenhuma árvore junto ao altar de YHWH Elohim de você, que fizer para você.
 * **16:22** Nem levantará para você coluna, que YHWH Elohim de você odeia.
 
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
+
 ## 17
 
 * **17:1** Não sacrificará a YHWH Elohim de você boi ou cordeiro em que haja defeito, alguma coisa má, pois é abominação a YHWH Elohim de você.
@@ -542,6 +627,11 @@
 * **17:18** E será que, quando ele se assentar no trono do seu reino, escreverá para si uma cópia desta lei num livro, perante os sacerdotes levitas.
 * **17:19** E estará com ele, e nele lerá todos os dias da sua vida, para que aprenda a temer a YHWH Elohim de si, para guardar todas as palavras desta lei, e estes estatutos, para os cumprir.
 * **17:20** Para que o seu coração não se exalte acima dos seus irmãos, e não se desvie do mandamento, nem para a direita nem para a esquerda, para que prolongue os dias no seu reino, ele e os seus filhos no meio de Israel.
+
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
 
 ## 18
 
@@ -568,6 +658,11 @@
 * **18:21** E se disser no seu coração: "Como conheceremos a palavra que YHWH não falou?"
 * **18:22** Quando o profeta falar em nome de YHWH, e a palavra não se cumprir, nem suceder, esta é a palavra que YHWH não falou; com presunção a falou o profeta; não o temerá.
 
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
+
 ## 19
 
 * **19:1** Quando YHWH Elohim de você destruir as nações cuja terra YHWH Elohim de você lhe dá, e você as possuir, e habitar nas suas cidades e nas suas casas,
@@ -592,6 +687,11 @@
 * **19:20** Os que restarem ouvirão e temerão, e nunca mais tornarão a cometer tal maldade no meio de ti.
 * **19:21** Não tenhas piedade: vida por vida, olho por olho, dente por dente, mão por mão, pé por pé.
 
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
+
 ## 20
 
 * **20:1** Quando saíres à guerra contra os teus inimigos e vires cavalos, carros e um povo mais numeroso do que tu, não os temas, pois YHWH (SENHOR) Elohim (Deus) teu, que te tirou da terra do Egito, está contigo.
@@ -614,6 +714,11 @@
 * **20:18** Para que não vos ensinem a fazer conforme todas as suas abominações que fizeram para seus deuses, e pequeis contra YHWH Elohim vosso.
 * **20:19** Quando sitiares uma cidade por muitos dias, para combatê-la e tomá-la, não destruirás as suas árvores cortando-as com machado, pois delas poderás comer; não as cortarás, pois a árvore do campo é o sustento do homem para o cerco.
 * **20:20** Somente as árvores que souberes que não são árvores frutíferas, essas poderás destruir e cortar, e construirás baluartes contra a cidade que faz guerra contigo, até que caia.
+
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
 
 ## 21
 
@@ -640,6 +745,11 @@
 * **21:21** Todos os homens da sua cidade o apedrejarão até que morra; assim eliminarás o mal do meio de ti, e todo o Israel ouvirá e temerá.
 * **21:22** Se um homem tiver cometido um pecado digno de morte e for morto, e o pendurares num madeiro,
 * **21:23** o seu cadáver não permanecerá a noite toda no madeiro, mas certamente o enterrarás no mesmo dia, pois o pendurado é maldito de Elohim; não contaminarás a tua terra que YHWH Elohim teu te dá por herança.
+
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
 
 ## 22
 
@@ -674,6 +784,11 @@
 * **22:29** o homem que se deitou com ela dará ao pai da moça cinquenta siclos de prata, e ela será sua esposa, porquanto a humilhou; não poderá repudiá-la em todos os seus dias.
 * **22:30** Nenhum homem tomará a esposa de seu pai, nem descobrirá a orla do manto de seu pai.
 
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
+
 ## 23
 
 * **23:1** Aquele que tiver os testículos esmagados ou o membro cortado não entrará na congregação de YHWH.
@@ -702,6 +817,11 @@
 * **23:24** Quando entrares na vinha do teu próximo, poderás comer uvas conforme o teu desejo, até te fartares, mas não as porás no teu cesto.
 * **23:25** Quando entrares na seara do teu próximo, poderás colher espigas com a mão, mas não passarás foice na seara do teu próximo.
 
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
+
 ## 24
 
 * **24:1** Se um homem tomar uma esposa e se casar com ela, e se ela não achar graça aos seus olhos por ter ele achado nela alguma coisa vergonhosa, escrever-lhe-á uma carta de divórcio, dar-lha-á na mão e a despedirá de sua casa.
@@ -727,6 +847,11 @@
 * **24:21** Quando vindimares a tua vinha, não rebuscarás depois de ti; será para o estrangeiro, para o órfão e para a viúva.
 * **24:22** Lembrar-te-ás de que foste escravo na terra do Egito; por isso te ordeno que faças isto.
 
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
+
 ## 25
 
 * **25:1** Se houver contenda entre homens, e eles forem a juízo para serem julgados, justificarão o justo e condenarão o ímpio.
@@ -749,6 +874,11 @@
 * **25:18** Como te saiu ao encontro no caminho e atacou na retaguarda todos os fracos que iam atrás de ti, estando tu cansado e afadigado, e não temeu a Elohim.
 * **25:19** Quando YHWH Elohim teu te der descanso de todos os teus inimigos ao redor, na terra que YHWH Elohim teu te dá por herança para a possuíres, apagarás a memória de Amaleque de debaixo dos céus; não te esqueças.
 
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
+
 ## 26
 
 * **26:1** Quando entrares na terra que YHWH Elohim teu te dá por herança, e a possuíres e nela habitares,
@@ -770,6 +900,11 @@
 * **26:17** Hoje declaraste a YHWH que ele será teu Elohim, e que andarás nos seus caminhos, e guardarás os seus estatutos, os seus mandamentos e os seus juízos, e darás ouvidos à sua voz.
 * **26:18** E YHWH te declarou hoje que lhe serás por povo próprio, como te tem dito, e que guardarás todos os seus mandamentos.
 * **26:19** Para te exaltar, Elyon (Altíssimo) sobre todas as nações que fez, para louvor, para nome e para glória, e para que sejas um povo santo para YHWH Elohim teu, como ele tem dito.
+
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
 
 ## 27
 
@@ -799,6 +934,11 @@
 * **27:24** Maldito aquele que ferir o seu próximo em oculto. E todo o povo dirá: Amém.
 * **27:25** Maldito aquele que aceitar suborno para ferir uma pessoa inocente. E todo o povo dirá: Amém.
 * **27:26** Maldito aquele que não confirmar as palavras desta lei, para as cumprir. E todo o povo dirá: Amém.
+
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
 
 ## 28
 
@@ -871,6 +1011,11 @@
 * **28:67** Pela manhã dirás: Ah, quem me dera ver a noite! E à tarde dirás: Ah, quem me dera ver a manhã! Pelo medo do teu coração, que sentirás, e pelo que verás com os teus olhos.
 * **28:68** E YHWH te fará voltar ao Egito em navios, pelo caminho de que te disse: Nunca mais o verás; e ali sereis vendidos aos vossos inimigos por servos e servas, mas não haverá quem vos compre.
 
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
+
 ## 29
 
 * **29:1** Estas são as palavras da aliança que YHWH ordenou a Moisés que fizesse com os filhos de Israel na terra de Moabe, além da aliança que fizera com eles em Horebe.
@@ -903,6 +1048,11 @@
 * **29:28** E YHWH os arrancou da sua terra com ira, e com furor, e com grande indignação, e os lançou para outra terra, como neste dia.
 * **29:29** As coisas encobertas pertencem a YHWH Elohim nosso, porém as reveladas pertencem a nós e a nossos filhos para sempre, para cumprirmos todas as palavras desta lei.
 
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
+
 ## 30
 
 * **30:1** E será que, quando sobre ti vierem todas estas coisas, a bênção e a maldição que pus diante de ti, e te recordares delas entre todas as nações para onde YHWH Elohim teu te tiver lançado,
@@ -925,6 +1075,11 @@
 * **30:18** Eu vos declarei hoje que certamente perecereis; não prolongareis os vossos dias na terra para a qual estais atravessando o Jordão, para lá entrardes e a possuirdes.
 * **30:19** Tomo hoje por testemunhas contra vós os céus e a terra; a vida e a morte coloquei diante de ti, a bênção e a maldição; escolhe, pois, a vida, para que vivas, tu e a tua descendência.
 * **30:20** Para amares a YHWH (SENHOR) Elohim (Deus) teu, para dares ouvidos à Sua voz e para te apegardes a Ele, pois Ele é a tua vida e o prolongamento dos teus dias, para habitares na terra que YHWH jurou aos teus pais, a Abraão, a Isaque e a Jacó, dar a eles.
+
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
 
 ## 31
 
@@ -958,6 +1113,11 @@
 * **31:28** Congregai perante mim todos os anciãos das vossas tribos e os vossos oficiais, e falarei aos ouvidos deles estas palavras, e tomarei por testemunhas contra eles os céus e a terra.
 * **31:29** Pois eu sei que, depois da minha morte, certamente vos corrompereis e vos desviareis do caminho que vos ordenei; e o mal vos encontrará no fim dos dias, por fazerdes o mal aos olhos de YHWH, para O provocar à ira com a obra das vossas mãos.
 * **31:30** E falou Moisés aos ouvidos de toda a congregação de Israel as palavras deste cântico, até ao fim.
+
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
 
 ## 32
 
@@ -1014,6 +1174,11 @@
 * **32:51** Porquanto fostes infiéis contra Mim no meio dos filhos de Israel, nas águas de Meribá de Cades, no deserto de Zim, porquanto não Me santificastes no meio dos filhos de Israel.
 * **32:52** Pois de defronte verás a terra, mas lá não entrarás, na terra que Eu dou aos filhos de Israel.
 
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
+
 ## 33
 
 * **33:1** E esta é a bênção com que Moisés, homem de Elohim, abençoou os filhos de Israel antes da sua morte.
@@ -1045,6 +1210,11 @@
 * **33:27** O Elohim antigo é refúgio, e debaixo estão os braços eternos; e expulsará de diante de ti o inimigo e dirá: Destrói.
 * **33:28** E habitará Israel seguro, a fonte de Jacó, só, numa terra de cereal e vinho; também os seus céus gotejarão orvalho.
 * **33:29** Feliz és tu, Israel! Quem é como tu? Povo salvo por YHWH, o escudo da tua ajuda, e que é a espada da tua majestade; e os teus inimigos se submeterão a ti, e tu sobre as alturas deles pisarás.
+
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
 
 ## 34
 

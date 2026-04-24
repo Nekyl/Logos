@@ -1,5 +1,10 @@
 # Hebreus
 
+<a id="topo"></a>
+
+[1](#1) [2](#2) [3](#3) [4](#4) [5](#5) [6](#6) [7](#7) [8](#8) [9](#9) [10](#10) [11](#11) [12](#12) [13](#13)
+
+
 ## 1
 
 * **1:1** De muitas maneiras e de diversos modos, outrora o Theos (Deus) falou aos pais pelos profetas,
@@ -16,6 +21,11 @@
 * **1:12** e como um manto os enrolarás, e como uma veste serão mudados; mas tu és o mesmo, e os teus anos não acabarão.
 * **1:13** E a qual dos anjos disse Ele alguma vez: Assenta-te à minha direita, até que eu ponha os teus inimigos por escabelo dos teus pés?
 * **1:14** Não são todos eles espíritos ministradores, enviados para serviço a favor dos que hão de herdar a salvação?
+
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
 
 ## 2
 
@@ -37,6 +47,11 @@
 * **2:16** Pois, certamente, não socorre anjos, mas socorre a descendência de Abraão.
 * **2:17** Por isso, convinha que em tudo se tornasse semelhante aos irmãos, para ser um misericordioso e fiel sumo sacerdote nas coisas referentes a Deus, para fazer propiciação pelos pecados do povo;
 * **2:18** pois, naquilo que ele mesmo sofreu, sendo tentado, é poderoso para socorrer os que são tentados.
+
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
 
 ## 3
 
@@ -60,6 +75,11 @@
 * **3:18** E a quem jurou que não entrariam no seu descanso, senão aos que foram desobedientes?
 * **3:19** E vemos que não puderam entrar por causa da incredulidade.
 
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
+
 ## 4
 
 * **4:1** Temamos, pois, que, permanecendo ainda a promessa de entrar no seu descanso, pareça que algum de vós tenha falhado.
@@ -79,6 +99,11 @@
 * **4:15** Pois não temos um sumo sacerdote que não possa compadecer-se das nossas fraquezas, mas um que, como nós, foi tentado em todas as coisas, sem pecado.
 * **4:16** Cheguemos, pois, com confiança ao trono da graça, para que recebamos misericórdia e achemos graça para socorro em tempo oportuno.
 
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
+
 ## 5
 
 * **5:1** Pois todo sumo sacerdote, tomado dentre os homens, é constituído a favor dos homens nas coisas referentes a Deus, para oferecer dons e sacrifícios pelos pecados,
@@ -95,6 +120,11 @@
 * **5:12** pois, devendo ser mestres pelo tempo decorrido, tendes necessidade de que vos ensinem novamente os princípios elementares dos oráculos de Deus, e vos tornastes como quem precisa de leite, e não de alimento sólido.
 * **5:13** Pois todo aquele que se alimenta de leite é inexperiente na palavra da justiça, pois é criança;
 * **5:14** mas o alimento sólido é para os adultos, para aqueles que, pelo uso, têm as faculdades exercitadas para discernir tanto o bem quanto o mal.
+
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
 
 ## 6
 
@@ -118,6 +148,11 @@
 * **6:18** para que, por duas coisas imutáveis, nas quais é impossível que Deus minta, tenhamos forte consolação, nós, os que nos refugiamos para nos apegarmos à esperança proposta;
 * **6:19** a qual temos como âncora da alma, segura e firme, e que penetra até o interior do véu,
 * **6:20** onde Jesus, como precursor, entrou por nós, feito sumo sacerdote para sempre, segundo a ordem de Melquisedeque.
+
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
 
 ## 7
 
@@ -150,6 +185,11 @@
 * **7:27** que não tem necessidade, como os sumos sacerdotes, de oferecer diariamente sacrifícios, primeiro pelos seus próprios pecados, depois pelos do povo (pois isto ele fez uma vez por todas, oferecendo-se a si mesmo);
 * **7:28** pois a lei constitui sumos sacerdotes a homens que têm fraqueza, mas a palavra do juramento, que veio depois da lei, constitui o Filho, aperfeiçoado para sempre.
 
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
+
 ## 8
 
 * **8:1** Ora, o ponto principal do que estamos dizendo é que temos um sumo sacerdote tal, que se assentou à direita do trono da Majestade nos céus,
@@ -165,6 +205,11 @@
 * **8:11** E não ensinará cada um o seu concidadão, e cada um o seu irmão, dizendo: Conhece o Senhor; porque todos me conhecerão, desde o menor até ao maior deles.
 * **8:12** Porque serei misericordioso para com as suas injustiças, e dos seus pecados não me lembrarei mais.
 * **8:13** Ao dizer Nova, tornou antiquada a primeira; e o que se torna antiquado e envelhece, perto está de desaparecer.
+
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
 
 ## 9
 
@@ -196,6 +241,11 @@
 * **9:26** pois, do contrário, ele teria de sofrer muitas vezes desde a fundação do mundo; mas agora, uma vez por todas, na consumação dos séculos, ele se manifestou para a anulação do pecado pelo seu sacrifício.
 * **9:27** E, assim como está ordenado aos homens morrerem uma vez, e depois disso o juízo,
 * **9:28** assim também o Christos, tendo sido oferecido uma vez para levar os pecados de muitos, aparecerá uma segunda vez, sem pecado, aos que o aguardam para a salvação.
+
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
 
 ## 10
 
@@ -238,6 +288,11 @@
 * **10:37** pois ainda um pouco, muito pouco, aquele que vem virá e não tardará;
 * **10:38** mas o meu justo viverá da fé, e se ele recuar, a minha alma não se agrada nele.
 * **10:39** Nós, porém, não somos dos que recuam para a perdição, mas da fé para a preservação da alma.
+
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
 
 ## 11
 
@@ -282,6 +337,11 @@
 * **11:39** E todos, tendo recebido testemunho pela fé, não alcançaram a promessa,
 * **11:40** provendo o Theos algo melhor a nosso respeito, para que não fossem aperfeiçoados sem nós.
 
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
+
 ## 12
 
 * **12:1** Portanto, também nós, tendo uma tão grande nuvem de testemunhas ao nosso redor, deixando todo embaraço e o pecado que tão de perto nos rodeia, corramos com perseverança a carreira que nos está proposta,
@@ -313,6 +373,11 @@
 * **12:27** Ora, o ainda uma vez indica a remoção das coisas abaláveis, como feitas, para que permaneçam as que são inabaláveis.
 * **12:28** Por isso, recebendo um reino inabalável, tenhamos graça, pela qual prestemos culto de modo agradável a Theos com reverência e temor,
 * **12:29** pois também o nosso Theos é um fogo consumidor.
+
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
 
 ## 13
 

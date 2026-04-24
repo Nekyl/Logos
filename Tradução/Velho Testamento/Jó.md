@@ -1,5 +1,10 @@
 # Jó
 
+<a id="topo"></a>
+
+[1](#1) [2](#2) [3](#3) [4](#4) [5](#5) [6](#6) [7](#7) [8](#8) [9](#9) [10](#10) [11](#11) [12](#12) [13](#13) [14](#14) [15](#15) [16](#16) [17](#17) [18](#18) [19](#19) [20](#20) [21](#21) [22](#22) [23](#23) [24](#24) [25](#25) [26](#26) [27](#27) [28](#28) [29](#29) [30](#30) [31](#31) [32](#32) [33](#33) [34](#34) [35](#35) [36](#36) [37](#37) [38](#38) [39](#39) [40](#40) [41](#41) [42](#42)
+
+
 ## 1
 
 * **1:1** Havia um homem na terra de Uz, chamado Jó; esse homem era íntegro, reto, temente a Elohim (Deus) e desviava-se do mal.
@@ -25,6 +30,11 @@
 * **1:21** E disse: "Nu saí do ventre de minha mãe e nu voltarei para lá. YHWH deu e YHWH tomou; bendito seja o nome de YHWH."
 * **1:22** Em tudo isso, Jó não pecou, nem atribuiu a Elohim falta alguma.
 
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
+
 ## 2
 
 * **2:1** Certo dia, os filhos de Elohim vieram apresentar-se perante YHWH, e o Satã veio também entre eles apresentar-se perante YHWH.
@@ -40,6 +50,11 @@
 * **2:11** Três amigos de Jó ouviram falar de todo este mal que lhe sobreveio e vieram, cada um do seu lugar: Elifaz, o temanita; Bildade, o suíta; e Zofar, o naamatita. Combinaram ir juntos para condoer-se dele e consolá-lo.
 * **2:12** Levantando os olhos de longe, não o reconheceram; levantaram a voz e choraram, rasgaram cada um o seu manto e lançaram pó sobre as suas cabeças para o céu.
 * **2:13** Sentaram-se com ele na terra por sete dias e sete noites, e ninguém lhe dizia palavra alguma, pois viam que a dor era muito grande.
+
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
 
 ## 3
 
@@ -70,6 +85,11 @@
 * **3:25** "Porque o que eu temia me sobreveio, e o que receava me aconteceu."
 * **3:26** "Não tive paz, não estive tranquilo, não descansei, e contudo veio a perturbação."
 
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
+
 ## 4
 
 * **4:1** Então Elifaz, o temanita, respondeu e disse:
@@ -93,6 +113,11 @@
 * **4:19** "Quanto mais naqueles que habitam em casas de barro, cujo fundamento está no pó, e são esmagados diante da traça!"
 * **4:20** "Desde a manhã até à tarde são feridos; perecem para sempre, sem que ninguém atente para isso."
 * **4:21** "Não se lhes arranca a corda da tenda? Morrem, e não em sabedoria."
+
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
 
 ## 5
 
@@ -123,6 +148,11 @@
 * **5:25** "Saberás também que a tua descendência é numerosa, e os teus filhos como a erva da terra."
 * **5:26** "Virás em velhice à sepultura, como o feixe de trigo colhido a seu tempo."
 * **5:27** "Eis que isto pesquisamos; assim é. Ouve-o e conhece-o para teu bem."
+
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
 
 ## 6
 
@@ -157,6 +187,11 @@
 * **6:29** "Voltai, peço-vos, não haja injustiça; voltai, pois a minha justiça ainda está nela."
 * **6:30** "Há injustiça na minha língua? Ou não poderia o meu paladar discernir a calamidade?"
 
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
+
 ## 7
 
 * **7:1** "Não é uma luta a vida do homem sobre a terra? E os seus dias não são como os de um mercenário?"
@@ -180,6 +215,11 @@
 * **7:19** Até quando não desviarás o olhar de mim, nem me deixarás em paz, nem por um instante?
 * **7:20** Se pequei, que mal te fiz, ó observador dos homens? Por que me fizeste teu alvo, para que eu seja um peso para mim mesmo?
 * **7:21** Por que não perdoas a minha transgressão e não removes a minha iniquidade? Pois logo me deitarei no pó; tu me buscarás, e eu já não existirei.
+
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
 
 ## 8
 
@@ -205,6 +245,11 @@
 * **8:20** Eis que Elohim não rejeita o íntegro, nem sustenta a mão dos malfeitores.
 * **8:21** Até que Ele encha a tua boca de riso e os teus lábios de júbilo.
 * **8:22** Os teus inimigos se vestirão de vergonha, e a tenda dos ímpios não existirá mais.
+
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
 
 ## 9
 
@@ -244,6 +289,11 @@
 * **9:34** Que Ele retire de sobre mim a sua vara, e que o seu terror não me assombre.
 * **9:35** Então falarei e não o temerei, pois não sou assim comigo mesmo.
 
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
+
 ## 10
 
 * **10:1** Minha alma tem fastio da minha vida; darei livre curso à minha queixa, falarei na amargura da minha alma.
@@ -269,6 +319,11 @@
 * **10:21** antes que eu vá para onde não voltarei, para a terra das trevas e da sombra da morte,
 * **10:22** terra de escuridão, como a própria treva, sombra da morte e sem ordem, onde a luz é como a escuridão.
 
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
+
 ## 11
 
 * **11:1** Então respondeu Zofar, o naamatita, e disse:
@@ -291,6 +346,11 @@
 * **11:18** Terás confiança, porque haverá esperança; olharás ao redor e dormirás em segurança.
 * **11:19** Deitar-te-ás, e ninguém te espantará; muitos suplicarão o teu favor.
 * **11:20** Mas os olhos dos ímpios desfalecerão, e o refúgio lhes perecerá, e a sua esperança será o suspiro da alma.
+
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
 
 ## 12
 
@@ -319,6 +379,11 @@
 * **12:23** Ele engrandece as nações e as destrói; alarga as nações e as conduz.
 * **12:24** Tira o entendimento aos chefes do povo da terra e os faz errar pelo deserto, onde não há caminho.
 * **12:25** Apalpam as trevas, sem luz, e Ele os faz errar como um bêbado.
+
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
 
 ## 13
 
@@ -351,6 +416,11 @@
 * **13:27** Tu pões os meus pés no tronco, observas todas as minhas veredas e traças os limites para as plantas dos meus pés.
 * **13:28** E ele se consome como a podridão, como uma veste comida pela traça.
 
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
+
 ## 14
 
 * **14:1** O homem, nascido de mulher, é de poucos dias e cheio de inquietação.
@@ -375,6 +445,11 @@
 * **14:20** Tu o prevaleces para sempre, e ele passa; mudas o seu semblante e o despedes.
 * **14:21** Os seus filhos recebem honra, sem que ele o saiba; ou são humilhados, sem que ele o perceba.
 * **14:22** Apenas a sua carne sobre ele sente dor, e a sua alma sobre ele lamenta.
+
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
 
 ## 15
 
@@ -414,6 +489,11 @@
 * **15:34** Porque a congregação dos hipócritas será estéril, e o fogo consumirá as tendas do suborno.
 * **15:35** Concebem a malícia e dão à luz a iniquidade, e o seu ventre prepara o engano.
 
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
+
 ## 16
 
 * **16:1** Então respondeu Iyyov (Jó) e disse:
@@ -439,6 +519,11 @@
 * **16:21** Ah, se o homem pudesse contender com Eloah (Deus), como o filho do homem com o seu próximo!
 * **16:22** Quando houverem passado poucos anos, seguirei o caminho por onde não voltarei.
 
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
+
 ## 17
 
 * **17:1** O meu espírito se vai consumindo, os meus dias se apagam, e só tenho a sepultura.
@@ -457,6 +542,11 @@
 * **17:14** À corrupção clamei: Tu és meu pai; e aos vermes: Vós sois minha mãe e minha irmã.
 * **17:15** Onde está, pois, a minha esperança? E a minha esperança, quem a verá?
 * **17:16** Descerão aos ferrolhos da sepultura, quando juntos descansarmos no pó.
+
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
 
 ## 18
 
@@ -481,6 +571,11 @@
 * **18:19** Não terá filho nem neto entre o seu povo, e ninguém restará nas suas moradas.
 * **18:20** Os do ocidente pasmarão do seu dia, e os do oriente serão tomados de horror.
 * **18:21** Tais são, na verdade, as moradas do perverso, e este é o lugar daquele que não conhece a Eloah (Deus).
+
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
 
 ## 19
 
@@ -514,6 +609,11 @@
 * **19:28** Se disserdes: Como o perseguiremos? Visto que a raiz da questão se acha em mim.
 * **19:29** Temei vós a espada, pois o furor traz os castigos da espada, para que saibais que há um Shaddai (Todo-poderoso) que julga.
 
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
+
 ## 20
 
 * **20:1** Então respondeu Zofar, o naamatita, e disse:
@@ -545,6 +645,11 @@
 * **20:27** Os céus revelarão a sua iniquidade, e a terra se levantará contra ele.
 * **20:28** O produto da sua casa será levado; no dia da sua ira, tudo será derramado.
 * **20:29** Esta é a porção do homem ímpio da parte de Elohim (Deus), e a herança que lhe foi determinada por El (Deus).
+
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
 
 ## 21
 
@@ -583,6 +688,11 @@
 * **21:33** Os torrões do vale lhe são doces, e todos os homens o seguem, como antes dele houve inumeráveis.
 * **21:34** Como, pois, me consolais com vaidade? E nas vossas respostas só resta falsidade.
 
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
+
 ## 22
 
 * **22:1** Então respondeu Elifaz, o temanita, e disse:
@@ -616,6 +726,11 @@
 * **22:29** Quando forem abatidos, dirás: Haja exaltação! E ele salvará o humilde de olhos.
 * **22:30** Ele livrará até o que não é inocente, que será libertado pela pureza das tuas mãos.
 
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
+
 ## 23
 
 * **23:1** Então respondeu Jó e disse:
@@ -635,6 +750,11 @@
 * **23:15** Por isso me perturbo perante ele; quando considero, temo-o.
 * **23:16** Porque Eloah (Deus) fez desmaiar o meu coração, e o Shaddai (Todo-poderoso) me perturbou.
 * **23:17** Pois não fui cortado por causa das trevas, nem porque a escuridão cobriu o meu rosto.
+
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
 
 ## 24
 
@@ -664,6 +784,11 @@
 * **24:24** Elevam-se por um pouco, e logo não são; são abatidos, colhidos como todos os outros, e cortados como as cabeças das espigas.
 * **24:25** Se não é assim, quem me desmentirá e reduzirá a nada a minha palavra?
 
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
+
 ## 25
 
 * **25:1** Então respondeu Bildade, o suíta, e disse:
@@ -672,6 +797,11 @@
 * **25:4** Como, pois, seria justo o homem perante El (Deus)? E como seria puro o que nasce de mulher?
 * **25:5** Eis que até a lua não brilha, e as estrelas não são puras aos seus olhos.
 * **25:6** Quanto menos o homem, que é um verme, e o filho do homem, que é um bicho!
+
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
 
 ## 26
 
@@ -689,6 +819,11 @@
 * **26:12** Com o Seu poder agita o mar, e com a Sua inteligência despedaça Raabe.
 * **26:13** Pelo Seu sopro aclara os céus; a Sua mão traspassa a serpente veloz.
 * **26:14** Eis que estas são apenas as orlas dos Seus caminhos; e quão pouco do que ouvimos d'Ele compreendemos! Mas o trovão do Seu poder, quem o entenderá?
+
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
 
 ## 27
 
@@ -715,6 +850,11 @@
 * **27:21** O vento oriental o leva, e ele se vai; e o varre do seu lugar.
 * **27:22** Deus lançará sobre ele, e não poupará; ele fugirá apressadamente da Sua mão.
 * **27:23** Baterão palmas contra ele e o assobiarão, tirando-o do seu lugar.
+
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
 
 ## 28
 
@@ -747,6 +887,11 @@
 * **28:27** Então Ele a viu e a descreveu; estabeleceu-a e também a esquadrinhou.
 * **28:28** E disse ao homem: Eis que o temor de Adonai (Senhor) é a sabedoria, e o desviar-se do mal é a inteligência.
 
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
+
 ## 29
 
 * **29:1** E Jó continuou o seu discurso e disse:
@@ -774,6 +919,11 @@
 * **29:23** Esperavam-me como à chuva, e abriam a boca como à chuva serôdia.
 * **29:24** Eu ria-me deles quando não tinham confiança, e não faziam cair a luz do meu rosto.
 * **29:25** Escolhia o seu caminho, assentava-me como chefe, e habitava como rei entre as tropas, como aquele que consola os que choram.
+
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
 
 ## 30
 
@@ -808,6 +958,11 @@
 * **30:29** Tornei-me irmão dos chacais e companheiro dos avestruzes.
 * **30:30** A minha pele escurece e cai sobre mim, e os meus ossos estão queimados pelo calor.
 * **30:31** A minha harpa tornou-se em luto, e a minha flauta em voz dos que choram.
+
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
 
 ## 31
 
@@ -852,6 +1007,11 @@
 * **31:39** se comi os seus frutos sem pagamento e causei a morte dos seus donos,
 * **31:40** que em vez de trigo brotem espinhos, e em vez de cevada, ervas daninhas. Fim das palavras de Jó.
 
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
+
 ## 32
 
 * **32:1** Então, aqueles três homens cessaram de responder a Jó, porque ele era justo aos seus próprios olhos.
@@ -876,6 +1036,11 @@
 * **32:20** Falarei para que eu tenha alívio; abrirei os meus lábios e responderei.
 * **32:21** Não farei acepção de pessoas, nem usarei títulos lisonjeiros para com ninguém.
 * **32:22** Porque não sei usar títulos lisonjeiros; em breve o meu Criador me levaria.
+
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
 
 ## 33
 
@@ -912,6 +1077,11 @@
 * **33:31** Atenta, Jó, ouve-me; cala-te, e eu falarei.
 * **33:32** Se tens algo a dizer, responde-me; fala, pois desejo justificar-te.
 * **33:33** Se não, ouve-me; cala-te, e eu te ensinarei a sabedoria.
+
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
 
 ## 34
 
@@ -953,6 +1123,11 @@
 * **34:36** Meu Pai, seja Jó provado até ao fim, por causa das suas respostas como homens iníquos.
 * **34:37** Porque ao seu pecado acrescenta a transgressão; entre nós bate palmas e multiplica as suas palavras contra El.
 
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
+
 ## 35
 
 * **35:1** Eliú continuou e disse:
@@ -971,6 +1146,11 @@
 * **35:14** Quanto mais quando dizes que não o vês; a causa está perante ele, e tu deves esperar por ele.
 * **35:15** E agora, porque a sua ira não castiga, nem ele se importa muito com a transgressão,
 * **35:16** abre Jó a sua boca em vaidade e multiplica palavras sem conhecimento.
+
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
 
 ## 36
 
@@ -1008,6 +1188,11 @@
 * **36:32** Cobre as mãos com o relâmpago e dá-lhe ordem contra o alvo.
 * **36:33** O seu trovão fala dele, e o gado também, acerca da tempestade que se aproxima.
 
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
+
 ## 37
 
 * **37:1** Até por isso o meu coração treme e salta do seu lugar.
@@ -1034,6 +1219,11 @@
 * **37:22** Do norte vem o ouro; sobre Elohim há uma terrível majestade.
 * **37:23** Shaddai (Todo-poderoso), não O podemos alcançar; Ele é grande em poder, em juízo e em justiça plena; Ele não oprime.
 * **37:24** Por isso, os homens O temem; Ele não olha para nenhum dos que se julgam sábios de coração.
+
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
 
 ## 38
 
@@ -1079,6 +1269,11 @@
 * **38:40** Quando se agacham nos covis e ficam à espreita nas suas guaritas?
 * **38:41** Quem prepara ao corvo o seu alimento, quando os seus filhotes clamam a Elohim e andam errantes por não terem o que comer?
 
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
+
 ## 39
 
 * **39:1** Sabes tu o tempo em que as cabras monteses têm os seus filhos? Ou observaste as dores das cervas?
@@ -1112,6 +1307,11 @@
 * **39:29** Dali espreita a presa; os seus olhos a veem de longe.
 * **39:30** Os seus filhotes chupam o sangue; e onde há mortos, ali ela está.
 
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
+
 ## 40
 
 * **40:1** E YHWH respondeu a Jó e disse:
@@ -1138,6 +1338,11 @@
 * **40:22** As sombras o cobrem com a sua sombra; os salgueiros do ribeiro o cercam.
 * **40:23** Eis que um rio transborda, e ele não se apressa; sente-se seguro, ainda que o Jordão se levante até à sua boca.
 * **40:24** Pode alguém prendê-lo pelos olhos, ou com laços furar-lhe o nariz?
+
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
 
 ## 41
 
@@ -1175,6 +1380,11 @@
 * **41:32** Depois dele, a luz brilha na vereda, e ele faz o abismo parecer ter cabelos brancos.
 * **41:33** Não há na terra nada que se compare a ele, feito para não ter medo.
 * **41:34** Ele olha para tudo o que é alto; ele é rei sobre todos os filhos do orgulho.
+
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
 
 ## 42
 

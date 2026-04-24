@@ -1,5 +1,10 @@
 # Amós
 
+<a id="topo"></a>
+
+[1](#1) [2](#2) [3](#3) [4](#4) [5](#5) [6](#6) [7](#7) [8](#8) [9](#9)
+
+
 ## 1
 
 * **1:1** Palavras de Amós, que era um dos pastores de Tecoa, que ele viu sobre Israel nos dias de Uzias, rei de Judá, e nos dias de Jeroboão, filho de Joás, rei de Israel, dois anos antes do terremoto.
@@ -17,6 +22,11 @@
 * **1:13** Assim diz YHWH: Por três transgressões dos filhos de Amom, e por quatro, não retirarei o castigo, porque fenderam as grávidas de Gileade, para dilatarem os seus limites.
 * **1:14** Por isso acenderei fogo nos muros de Rabá, e ele consumirá os seus palácios, com alarido no dia da peleja, com tempestade no dia do vendaval.
 * **1:15** E o seu rei irá para o cativeiro, ele e os seus príncipes juntamente, diz YHWH.
+
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
 
 ## 2
 
@@ -37,6 +47,11 @@
 * **2:15** O que maneja o arco não resistirá, e o ligeiro de pés não se salvará, nem o que cavalga o cavalo salvará a sua vida.
 * **2:16** E o mais corajoso entre os valentes fugirá nu naquele dia, diz YHWH.
 
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
+
 ## 3
 
 * **3:1** Ouvi esta palavra que YHWH fala contra vós, ó filhos de Israel, contra toda a família que fiz subir da terra do Egito, dizendo:
@@ -55,6 +70,11 @@
 * **3:14** Que no dia em que eu visitar as transgressões de Israel sobre ele, visitarei também os altares de Betel; e as pontas do altar serão cortadas, e cairão por terra.
 * **3:15** E ferirei a casa de inverno com a casa de verão; e as casas de marfim perecerão, e muitas casas serão destruídas, diz YHWH.
 
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
+
 ## 4
 
 * **4:1** Ouvi esta palavra, ó vacas de Basã, que estais no monte de Samaria, que oprimis os pobres, que quebrantais os necessitados, que dizeis aos vossos senhores: Trazei, e bebamos.
@@ -70,6 +90,11 @@
 * **4:11** Subverti alguns dentre vós, como Elohim subverteu Sodoma e Gomorra, e fostes como um tição arrebatado do incêndio; contudo não vos convertestes a mim, diz YHWH.
 * **4:12** Portanto, assim te farei, ó Israel; e porque isto te farei, prepara-te, ó Israel, para te encontrares com o teu Elohim.
 * **4:13** Porque eis que aquele que forma os montes, e cria o vento, e declara ao homem qual é o seu pensamento, que faz da manhã trevas, e pisa os altos da terra, YHWH, Elohim dos Exércitos, é o seu nome.
+
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
 
 ## 5
 
@@ -101,6 +126,11 @@
 * **5:26** Antes levastes a tenda de vosso rei, e o pedestal das vossas imagens, a estrela do vosso deus, que fizestes para vós mesmos.
 * **5:27** Portanto, vos levarei cativos para além de Damasco, diz YHWH, cujo nome é Elohim dos Exércitos.
 
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
+
 ## 6
 
 * **6:1** Ai dos que vivem sossegados em Sião, e dos que estão seguros no monte de Samaria, os notáveis da principal das nações, aos quais vem a casa de Israel!
@@ -117,6 +147,11 @@
 * **6:12** Correrão os cavalos sobre as rochas? Lavrar-se-á nelas com bois? Porque vós convertestes o juízo em fel, e o fruto da justiça em alosna.
 * **6:13** Vós que vos alegrais em coisa de nada, que dizeis: Não temos nós tomado poder para nós com a nossa própria força?
 * **6:14** Porque eis que levantarei contra vós, ó casa de Israel, diz YHWH, Elohim dos Exércitos, uma nação que vos oprimirá desde a entrada de Hamate até ao ribeiro da Arabá.
+
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
 
 ## 7
 
@@ -138,6 +173,11 @@
 * **7:16** Agora, pois, ouve a palavra de YHWH; tu dizes: Não profetizes contra Israel, e não gotejes a tua palavra contra a casa de Isaque.
 * **7:17** Portanto, assim diz YHWH: A tua mulher se prostituirá na cidade, e os teus filhos e as tuas filhas cairão à espada, e a tua terra será repartida a cordel; e tu morrerás numa terra imunda, e Israel certamente será levado cativo para fora da sua terra.
 
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
+
 ## 8
 
 * **8:1** Assim me fez ver Adonai YHWH, e eis um cesto de frutos de verão.
@@ -154,6 +194,11 @@
 * **8:12** E irão errantes de mar a mar, e do norte até ao oriente; correrão por toda a parte, buscando a palavra de YHWH, e não a acharão.
 * **8:13** Naquele dia as virgens formosas e os jovens desfalecerão de sede.
 * **8:14** Os que juram pelo pecado de Samaria, e dizem: Vive o teu Elohim, ó Dã; e vive o caminho de Berseba; eles cairão, e não se levantarão mais.
+
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
 
 ## 9
 

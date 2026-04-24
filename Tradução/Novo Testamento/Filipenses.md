@@ -1,5 +1,10 @@
 # Filipenses
 
+<a id="topo"></a>
+
+[1](#1) [2](#2) [3](#3) [4](#4)
+
+
 ## 1
 
 * **1:1** Paulo e Timóteo, servos de Christos Iēsous (Messias Jesus), a todos os santos em Christo Iēsou que estão em Filipos, com os bispos e diáconos;
@@ -32,6 +37,11 @@
 * **1:28** e que em nada estais espantados pelos adversários, o que para eles é prova de perdição, mas para vós de salvação, e isto da parte de Theos,
 * **1:29** porque vos foi concedido, por amor de Christos, não somente crer nele, mas também sofrer por ele,
 * **1:30** tendo o mesmo combate que vistes em mim e agora ouvis que está em mim.
+
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
 
 ## 2
 
@@ -66,6 +76,11 @@
 * **2:29** Recebei-o, pois, no Kyrio com toda a alegria, e tende em honra a homens como ele,
 * **2:30** porque pela obra de Christos chegou até a morte, arriscando a sua vida para suprir o que faltava no vosso serviço para comigo.
 
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
+
 ## 3
 
 * **3:1** Resta, meus irmãos, que vos regozijeis no Kyrio. Não me é penoso escrever-vos as mesmas coisas, e é segurança para vós.
@@ -89,6 +104,11 @@
 * **3:19** cujo fim é a perdição, cujo deus é o ventre, e cuja glória é para confusão deles, que só pensam nas coisas terrenas.
 * **3:20** Mas a nossa pátria está nos céus, de onde também esperamos o Salvador, Kyrios Iēsoun Christon.
 * **3:21** Que transformará o nosso corpo abatido, para ser conforme o seu corpo glorioso, segundo o seu eficaz poder de sujeitar também a si todas as coisas.
+
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
 
 ## 4
 

@@ -1,5 +1,10 @@
 # Miqueias
 
+<a id="topo"></a>
+
+[1](#1) [2](#2) [3](#3) [4](#4) [5](#5) [6](#6) [7](#7)
+
+
 ## 1
 
 * **1:1** Palavra de YHWH (SENHOR) que veio a Miqueias, o morastita, nos dias de Jotão, Acaz e Ezequias, reis de Judá, a qual ele viu sobre Samaria e Jerusalém.
@@ -19,6 +24,11 @@
 * **1:15** Ainda trarei a ti, ó habitante de Maressa, aquele que te há de possuir; até Adulão virá a glória de Israel.
 * **1:16** Rapas a tua cabeça, e tosquia-te por causa dos filhos das tuas delícias; alarga a tua calvície como a águia, porque foram levados cativos de ti.
 
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
+
 ## 2
 
 * **2:1** Ai daqueles que planejam a iniquidade e praticam o mal em suas camas; na luz da manhã o executam, porque têm poder em suas mãos.
@@ -35,6 +45,11 @@
 * **2:12** Certamente ajuntarei todo o Jacó, certamente congregarei o restante de Israel; pô-los-ei juntos como ovelhas de Bozra, como rebanho no meio do seu pasto; farão ruído por causa da multidão dos homens.
 * **2:13** O que abre o caminho subirá diante deles; eles romperão, e passarão a porta, e sairão por ela; e o seu rei passará adiante deles, e YHWH (SENHOR) à frente deles.
 
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
+
 ## 3
 
 * **3:1** E disse: Ouvi agora, ó cabeças de Jacó, e vós, chefes da casa de Israel: Não é a vós que pertence saber o juízo?
@@ -49,6 +64,11 @@
 * **3:10** Edificais a Sião com sangue, e Jerusalém com iniquidade.
 * **3:11** As suas cabeças julgam por suborno, e os seus sacerdotes ensinam por preço, e os seus profetas adivinham por dinheiro; e ainda se encostam a YHWH (SENHOR), dizendo: Não está YHWH (SENHOR) no meio de nós? Nenhum mal virá sobre nós.
 * **3:12** Portanto, por causa de vós, Sião será lavrada como um campo, e Jerusalém se tornará em montões de pedras, e o monte do templo em lugares altos de um bosque.
+
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
 
 ## 4
 
@@ -65,6 +85,11 @@
 * **4:11** E agora muitas nações se ajuntaram contra ti, que dizem: Seja ela profanada, e que os nossos olhos contemplem a ruína de Sião.
 * **4:12** Mas elas não conhecem os pensamentos de YHWH, nem compreendem o Seu conselho, pois Ele as ajuntou como feixes na eira.
 * **4:13** Levanta-te e debulha, ó filha de Sião, porque farei o teu chifre de ferro e as tuas unhas de bronze; e esmiuçarás a muitos povos, e o seu ganho será consagrado a YHWH, e os seus bens ao Adon (Senhor) de toda a terra.
+
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
 
 ## 5
 
@@ -84,6 +109,11 @@
 * **5:14** E arrancarei os teus postes ídolos do meio de ti, e destruirei as tuas cidades.
 * **5:15** E com ira e furor executarei vingança sobre as nações que não obedeceram.
 
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
+
 ## 6
 
 * **6:1** Ouvi, pois, o que YHWH diz: Levanta-te, contende perante os montes, e que os outeiros ouçam a tua voz.
@@ -102,6 +132,11 @@
 * **6:14** Tu comerás, mas não te fartarás, e a tua fome estará no teu íntimo; tu removerás, mas não livrarás; e o que livrares, entregarei à espada.
 * **6:15** Tu semearás, mas não segarás; tu pisarás a azeitona, mas não te ungirás com azeite; e pisarás a uva, mas não beberás o vinho.
 * **6:16** Porque observas os estatutos de Onri, e todas as obras da casa de Acabe, e andas nos conselhos deles; para que Eu te faça uma desolação, e os seus habitantes um objeto de escárnio; e carregareis o opróbrio do Meu povo.
+
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
 
 ## 7
 

@@ -1,5 +1,10 @@
 # 2 Samuel
 
+<a id="topo"></a>
+
+[1](#1) [2](#2) [3](#3) [4](#4) [5](#5) [6](#6) [7](#7) [8](#8) [9](#9) [10](#10) [11](#11) [12](#12) [13](#13) [14](#14) [15](#15) [16](#16) [17](#17) [18](#18) [19](#19) [20](#20) [21](#21) [22](#22) [23](#23) [24](#24)
+
+
 ## 1
 
 * **1:1** Depois da morte de Saul, Davi retornou da derrota dos amalequitas e permaneceu em Ziclague por dois dias.
@@ -29,6 +34,11 @@
 * **1:25** "Como caíram os valentes no meio da batalha! Jônatas foi ferido em tuas colinas."
 * **1:26** "Angustiado estou por ti, meu irmão Jônatas; eras muito amável para mim; teu amor era mais maravilhoso para mim do que o amor das mulheres."
 * **1:27** "Como caíram os valentes e pereceram as armas de guerra!"
+
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
 
 ## 2
 
@@ -64,6 +74,11 @@
 * **2:30** Joabe voltou de perseguir Abner, reuniu todo o povo, e faltavam dezenove homens dos servos de Davi, além de Asael.
 * **2:31** Os servos de Davi feriram trezentos e sessenta homens de Benjamim e dos homens de Abner, que morreram.
 * **2:32** Levaram Asael e sepultaram-no no túmulo de seu pai, em Belém. Joabe e seus homens caminharam toda a noite e amanheceu quando chegaram a Hebrom.
+
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
 
 ## 3
 
@@ -107,6 +122,11 @@
 * **3:38** O rei disse aos seus servos: "Não sabeis que um príncipe e um grande homem caiu hoje em Israel?"
 * **3:39** "Eu hoje sou fraco, embora ungido rei, e estes homens, os filhos de Zeruia, são duros demais para mim; que YHWH (SENHOR) retribua ao malfeitor conforme a sua maldade."
 
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
+
 ## 4
 
 * **4:1** O filho de Saul ouviu que Abner morrera em Hebrom, suas mãos enfraqueceram-se e todo o Israel ficou perturbado.
@@ -121,6 +141,11 @@
 * **4:10** "Quando alguém me trouxe a notícia dizendo: 'Eis que Saul morreu', pensando ser um portador de boas novas, eu o prendi e o matei em Ziclague, o que lhe serviu de recompensa pela notícia."
 * **4:11** "Quanto mais quando homens perversos mataram um homem justo em sua casa, sobre sua cama! Agora, não pedirei eu o seu sangue de vossas mãos e vos exterminarei da terra?"
 * **4:12** Davi ordenou aos jovens que os matassem, cortassem suas mãos e seus pés, e os pendurassem junto ao tanque em Hebrom; tomaram a cabeça de Is-Bosete e a sepultaram no túmulo de Abner, em Hebrom.
+
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
 
 ## 5
 
@@ -150,6 +175,11 @@
 * **5:24** Quando ouvires o som de marcha nas copas das amoreiras, então te apressa, porque então YHWH sairá diante de ti para ferir o exército dos filisteus.
 * **5:25** Davi fez assim, como YHWH lhe ordenara, e feriu os filisteus desde Geba até chegar a Gezer.
 
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
+
 ## 6
 
 * **6:1** Davi reuniu ainda todos os escolhidos de Israel, trinta mil.
@@ -175,6 +205,11 @@
 * **6:21** Davi disse a Mical: "Perante YHWH, que me escolheu a mim em preferência a teu pai e a toda a sua casa, para me constituir príncipe sobre o povo de YHWH, sobre Israel, perante YHWH tenho me alegrado".
 * **6:22** "Ainda mais do que isso me humilharei e me rebaixarei aos meus próprios olhos; mas serei honrado pelas servas de que falaste".
 * **6:23** E Mical, filha de Saul, não teve filhos até o dia da sua morte.
+
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
 
 ## 7
 
@@ -208,6 +243,11 @@
 * **7:28** "Agora, pois, Adonai YHWH, tu és o Elohim, e as tuas palavras serão verdade, e falaste ao teu servo esta bondade".
 * **7:29** "Agora, pois, sê servido de abençoar a casa do teu servo, para que permaneça para sempre diante de ti; pois tu, Adonai YHWH, o disseste, e com a tua bênção a casa do teu servo será abençoada para sempre".
 
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
+
 ## 8
 
 * **8:1** Depois disto, Davi feriu os filisteus e os subjugou; e Davi tomou a rédea da metrópole da mão dos filisteus.
@@ -229,6 +269,11 @@
 * **8:17** Zadoque, filho de Aitube, e Aimeleque, filho de Abiatar, eram sacerdotes; Seraías era o escrivão.
 * **8:18** Benaia, filho de Joiada, comandava os quereteus e os peleteus; e os filhos de Davi eram sacerdotes.
 
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
+
 ## 9
 
 * **9:1** Davi disse: "Há ainda alguém que tenha ficado da casa de Saul, para que eu use de bondade com ele por amor de Jônatas?"
@@ -244,6 +289,11 @@
 * **9:11** Ziba disse ao rei: "Conforme tudo o que o meu senhor, o rei, ordena a seu servo, assim fará o teu servo". Mefibosete comia à minha mesa como um dos filhos do rei.
 * **9:12** Mefibosete tinha um filho pequeno, cujo nome era Mica; e todos os que moravam na casa de Ziba eram servos de Mefibosete.
 * **9:13** Mefibosete habitava em Jerusalém, porque comia sempre à mesa do rei; e era coxo de ambos os pés.
+
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
 
 ## 10
 
@@ -266,6 +316,11 @@
 * **10:17** Foi dito a Davi, e ele reuniu todo o Israel, passou o Jordão e veio a Helã; os arameus ordenaram-se contra Davi e pelejaram com ele.
 * **10:18** Os arameus fugiram diante de Israel, e Davi matou dos arameus setecentos carros e quarenta mil cavaleiros; feriu também Sobaque, comandante do seu exército, que morreu ali.
 * **10:19** Vendo todos os reis, servos de Hadadezer, que tinham sido derrotados diante de Israel, fizeram paz com Israel e o serviram; e os arameus temeram socorrer mais os filhos de Amom.
+
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
 
 ## 11
 
@@ -296,6 +351,11 @@
 * **11:25** Davi disse ao mensageiro: "Assim dirás a Joabe: Não te pareça mal este negócio, pois a espada consome tanto um como outro; esforça a tua peleja contra a cidade e derruba-a; e tu, anima-o".
 * **11:26** A mulher de Urias ouviu que Urias, seu marido, morrera, e chorou pelo seu marido.
 * **11:27** Passado o luto, Davi enviou e a recolheu em sua casa; ela lhe foi por mulher e lhe deu à luz um filho. Porém, o que Davi fizera foi mau aos olhos de YHWH.
+
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
 
 ## 12
 
@@ -330,6 +390,11 @@
 * **12:29** Davi ajuntou todo o povo, foi a Rabá, pelejou contra ela e a tomou.
 * **12:30** Tomou a coroa do seu rei da cabeça dele; o seu peso era de um talento de ouro, com pedras preciosas, e foi posta sobre a cabeça de Davi; e ele trouxe da cidade um despojo muito grande.
 * **12:31** O povo que nela estava, ele o tirou e o pôs sob serras, sob grades de ferro e sob machados de ferro, e os fez passar por fornos de tijolos; assim fez a todas as cidades dos filhos de Amom. Então Davi e todo o povo voltaram para Jerusalém.
+
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
 
 ## 13
 
@@ -373,6 +438,11 @@
 * **13:38** Absalão fugiu e foi para Gesur, e lá esteve três anos.
 * **13:39** O rei Davi cessou de sair contra Absalão, pois se consolara da morte de Amnon.
 
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
+
 ## 14
 
 * **14:1** Joabe, filho de Zeruia, percebeu que o coração do rei estava inclinado para Absalão.
@@ -408,6 +478,11 @@
 * **14:31** Joabe levantou-se, foi a Absalão, em casa, e disse-lhe: Por que puseram os teus servos fogo no campo que é meu?
 * **14:32** Absalão disse a Joabe: Eis que enviei a ti, dizendo: Vem cá, para que eu te envie ao rei, a dizer: Por que vim de Gesur? Melhor me fora estar lá ainda. Agora, pois, veja eu a face do rei; e, se há em mim culpa, que me mate.
 * **14:33** Joabe foi ao rei e lho contou; ele chamou Absalão, que veio ao rei e se inclinou com o rosto em terra diante do rei; e o rei beijou Absalão.
+
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
 
 ## 15
 
@@ -449,6 +524,11 @@
 * **15:36** Eis que estão ali com eles seus dois filhos, Aimaás, de Zadoque, e Jônatas, de Abiatar; por intermédio deles me enviareis tudo o que ouvirdes.
 * **15:37** Husai, amigo de Davi, entrou na cidade, e Absalão entrou em Jerusalém.
 
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
+
 ## 16
 
 * **16:1** Davi passou um pouco do cume, e eis que Ziba, servo de Mefibosete, veio ao seu encontro com um par de jumentos albardados, e sobre eles duzentos pães, cem cachos de passas, cem frutos de verão e um odre de vinho.
@@ -474,6 +554,11 @@
 * **16:21** Aitofel respondeu a Absalão: "Entra nas concubinas de teu pai, que ele deixou para cuidar da casa; assim, todo o Israel saberá que te tornaste odioso ao teu pai, e as mãos de todos os que estão contigo se fortalecerão."
 * **16:22** Armaram uma tenda para Absalão no terraço, e Absalão entrou nas concubinas de seu pai à vista de todo o Israel.
 * **16:23** O conselho que Aitofel dava naqueles dias era como se alguém consultasse a palavra de Elohim (Deus); assim era todo o conselho de Aitofel, tanto para Davi quanto para Absalão.
+
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
 
 ## 17
 
@@ -506,6 +591,11 @@
 * **17:27** Quando Davi chegou a Maanaim, Sobi, filho de Naás, de Rabá dos amonitas, Maquir, filho de Amiel, de Lo-Debar, e Barzilai, o gileadita, de Rogelim,
 * **17:28** trouxeram camas, bacias, vasos de barro, trigo, cevada, farinha, grãos torrados, favas, lentilhas e grãos torrados,
 * **17:29** mel, manteiga, ovelhas e queijos de vaca, e ofereceram a Davi e ao povo que estava com ele para comerem, pois disseram: "O povo está faminto, cansado e sedento no deserto."
+
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
 
 ## 18
 
@@ -542,6 +632,11 @@
 * **18:31** Eis que o cuxita chegou e disse: "Boas notícias para Adonai (meu Senhor), o rei! Pois YHWH (SENHOR) te vingou hoje de todos os que se levantaram contra ti."
 * **18:32** O rei perguntou ao cuxita: "Está bem o jovem Absalão?" O cuxita respondeu: "Que os inimigos de Adonai (meu Senhor), o rei, e todos os que se levantam contra ti para o mal, sejam como aquele jovem."
 * **18:33** O rei ficou profundamente comovido, subiu à câmara da porta e chorou. Enquanto caminhava, dizia: "Meu filho Absalão! Meu filho, meu filho Absalão! Quem me dera que eu tivesse morrido em teu lugar, Absalão, meu filho, meu filho!"
+
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
 
 ## 19
 
@@ -589,6 +684,11 @@
 * **19:42** Todos os homens de Judá responderam aos homens de Israel: "Porque o rei é nosso parente próximo. Por que vos irritais por causa deste assunto? Comemos nós algo do rei? Ou ele nos deu algum presente?"
 * **19:43** Os homens de Israel responderam aos homens de Judá: "Temos dez partes no rei, e também em Davi mais do que vós. Por que nos desprezastes? Não foi a nossa palavra a primeira para trazer de volta o nosso rei?" Mas a palavra dos homens de Judá foi mais dura que a palavra dos homens de Israel.
 
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
+
 ## 20
 
 * **20:1** Havia ali um homem vil, chamado Seba, filho de Bicri, um benjamita. Ele tocou a trombeta e disse: "Não temos parte em Davi, nem herança no filho de Jessé; cada um para as suas tendas, ó Israel!"
@@ -618,6 +718,11 @@
 * **20:25** Seva era secretário, e Zadoque e Abiatar eram sacerdotes.
 * **20:26** E também Ira, o jairita, era sacerdote de Davi.
 
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
+
 ## 21
 
 * **21:1** Houve fome nos dias de Davi por três anos, ano após ano. Davi buscou a face de YHWH (SENHOR), e YHWH (SENHOR) disse: "É por causa de Saul e da casa de sangue, porque ele matou os gibeonitas."
@@ -642,6 +747,11 @@
 * **21:20** Houve ainda guerra em Gate, onde havia um homem de grande estatura, que tinha seis dedos em cada mão e seis em cada pé, vinte e quatro ao todo; também ele era descendente dos gigantes.
 * **21:21** Ele desafiou a Israel, e Jônatas, filho de Simeia, irmão de Davi, o feriu.
 * **21:22** Estes quatro nasceram aos gigantes em Gate e caíram pelas mãos de Davi e de seus servos.
+
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
 
 ## 22
 
@@ -697,6 +807,11 @@
 * **22:50** Por isso, eu te louvarei, ó SENHOR, entre as nações e cantarei louvores ao teu nome.
 * **22:51** Ele engrandece as salvações do seu rei e usa de misericórdia para com o seu ungido, para com Davi e a sua descendência para sempre.
 
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
+
 ## 23
 
 * **23:1** Estas são as últimas palavras de Davi: Palavra de Davi, filho de Jessé, e palavra do homem que foi exaltado, o ungido do Elohim (Deus) de Jacó, o suave salmista de Israel.
@@ -738,6 +853,11 @@
 * **23:37** Zeleque, o amonita; Naarai, o beerotita, escudeiro de Joabe, filho de Zeruia.
 * **23:38** Ira, o itrita; Garebe, o itrita.
 * **23:39** Urias, o heteu; ao todo, trinta e sete.
+
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
 
 ## 24
 

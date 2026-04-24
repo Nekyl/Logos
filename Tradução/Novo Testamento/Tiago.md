@@ -1,5 +1,10 @@
 # Tiago
 
+<a id="topo"></a>
+
+[1](#1) [2](#2) [3](#3) [4](#4) [5](#5)
+
+
 ## 1
 
 * **1:1** Tiago, servo de Theos (Deus) e do Kyrios (Senhor) Iēsous Christos (Jesus Messias), às doze tribos que estão na dispersão, saudações.
@@ -30,6 +35,11 @@
 * **1:26** Se alguém parece ser religioso, mas não refreia a sua língua e engana o seu próprio coração, a sua religião é vã.
 * **1:27** A religião pura e imaculada diante do Deus e Pai é esta: visitar os órfãos e as viúvas nas suas aflições e guardar-se incontaminado do mundo.
 
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
+
 ## 2
 
 * **2:1** Meus irmãos, não tenham a fé do Senhor Jesus Messias, o glorioso, fazendo acepção de pessoas.
@@ -59,6 +69,11 @@
 * **2:25** Da mesma forma, Raabe, a meretriz, não foi justificada pelas obras, ao acolher os mensageiros e fazê-los sair por outro caminho?
 * **2:26** Pois, assim como o corpo sem espírito está morto, assim também a fé sem obras está morta.
 
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
+
 ## 3
 
 * **3:1** Não sejam muitos de vocês mestres, meus irmãos, sabendo que receberemos um juízo mais rigoroso;
@@ -80,6 +95,11 @@
 * **3:17** Mas a sabedoria que vem do alto é, primeiramente, pura, depois pacífica, moderada, tratável, cheia de misericórdia e de bons frutos, imparcial e sem hipocrisia.
 * **3:18** O fruto da justiça é semeado em paz para aqueles que promovem a paz.
 
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
+
 ## 4
 
 * **4:1** De onde vêm as guerras e as contendas entre vocês? Não vêm disto, dos prazeres que guerreiam nos seus membros?
@@ -99,6 +119,11 @@
 * **4:15** em vez de dizerem: "Se o Senhor quiser, viveremos e faremos isto ou aquilo".
 * **4:16** Agora, porém, vocês se vangloriam nas suas arrogâncias; toda vanglória como esta é má.
 * **4:17** Aquele, pois, que sabe fazer o bem e não o faz, comete pecado.
+
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
 
 ## 5
 

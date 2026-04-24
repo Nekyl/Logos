@@ -1,5 +1,10 @@
 # 2 Pedro
 
+<a id="topo"></a>
+
+[1](#1) [2](#2) [3](#3)
+
+
 ## 1
 
 * **1:1** Simão Pedro, servo e apóstolo de Iēsous Christou (Jesus Messias), aos que alcançaram uma fé tão preciosa quanto a nossa, pela justiça de Theou (Deus) nosso e Salvador Jesus Messias;
@@ -23,6 +28,11 @@
 * **1:19** E temos ainda mais firme a palavra profética, à qual bem fazeis em estar atentos, como a uma lâmpada que brilha em lugar escuro, até que o dia clareie e a estrela da alva surja em vossos corações;
 * **1:20** sabendo primeiramente isto: que nenhuma profecia da Escritura provém de interpretação particular;
 * **1:21** porque a profecia nunca foi produzida por vontade humana, mas os homens falaram da parte de Theou (Deus), movidos pelo Pneuma Hagion (Espírito Santo).
+
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
 
 ## 2
 
@@ -48,6 +58,11 @@
 * **2:20** Porque, se depois de terem escapado das corrupções do mundo pelo pleno conhecimento do Kyrios (Senhor) e Salvador Iēsous Christou (Jesus Messias), forem novamente envolvidos nelas e vencidos, o seu último estado tornou-se pior que o primeiro.
 * **2:21** Pois melhor lhes fora não conhecerem o caminho da justiça do que, conhecendo-o, desviarem-se do santo mandamento que lhes foi entregue.
 * **2:22** Aconteceu-lhes o que diz o verdadeiro provérbio: O cão voltou ao seu próprio vômito, e a porca lavada, ao revolvimento na lama.
+
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
 
 ## 3
 

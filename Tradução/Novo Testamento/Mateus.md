@@ -1,5 +1,10 @@
 # Mateus
 
+<a id="topo"></a>
+
+[1](#1) [2](#2) [3](#3) [4](#4) [5](#5) [6](#6) [7](#7) [8](#8) [9](#9) [10](#10) [11](#11) [12](#12) [13](#13) [14](#14) [15](#15) [16](#16) [17](#17) [18](#18) [19](#19) [20](#20) [21](#21) [22](#22) [23](#23) [24](#24) [25](#25) [26](#26) [27](#27) [28](#28)
+
+
 ## 1
 
 * **1:1** Livro da genealogia de Iēsous Christos (Jesus Messias), filho de Davi, filho de Abraão.
@@ -28,6 +33,11 @@
 * **1:24** Despertando do sono, José fez como o anjo do Senhor lhe ordenara e recebeu sua esposa;
 * **1:25** e não a conheceu até que ela deu à luz um filho; e ele lhe deu o nome de Jesus.
 
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
+
 ## 2
 
 * **2:1** Tendo nascido Jesus em Belém da Judeia, nos dias do rei Herodes, eis que magos do oriente chegaram a Jerusalém,
@@ -54,6 +64,11 @@
 * **2:22** Mas, ouvindo que Arquelau reinava na Judeia em lugar de seu pai Herodes, temeu ir para lá; e, avisado em sonho, retirou-se para as regiões da Galileia,
 * **2:23** e, chegando, habitou numa cidade chamada Nazaré, para que se cumprisse o que foi dito pelos profetas: Ele será chamado Nazareno.
 
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
+
 ## 3
 
 * **3:1** Naqueles dias, aparece João, o Batista, pregando no deserto da Judeia
@@ -73,6 +88,11 @@
 * **3:15** Respondendo, Jesus lhe disse: Deixa por agora, pois assim nos convém cumprir toda a justiça. Então ele o deixou.
 * **3:16** Sendo batizado, Jesus subiu logo da água; e eis que os céus se abriram, e ele viu o Pneuma Theou (Espírito de Deus) descendo como uma pomba vindo sobre ele;
 * **3:17** e eis que uma voz dos céus dizia: Este é o meu Filho amado, em quem me comprazo.
+
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
 
 ## 4
 
@@ -101,6 +121,11 @@
 * **4:23** E percorria toda a Galileia, ensinando em suas sinagogas, pregando o evangelho do Reino e curando toda doença e toda enfermidade entre o povo.
 * **4:24** E sua fama espalhou-se por toda a Síria; e trouxeram-lhe todos os que sofriam, acometidos de várias doenças e tormentos, endemoninhados, lunáticos e paralíticos, e ele os curou.
 * **4:25** E seguiram-no grandes multidões da Galileia, de Decápolis, de Jerusalém, da Judeia e de além do Jordão.
+
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
 
 ## 5
 
@@ -153,6 +178,11 @@
 * **5:47** E se saudardes apenas os vossos irmãos, que fazeis de especial? Não fazem os gentios também o mesmo?
 * **5:48** Sede vós, portanto, perfeitos, como o vosso Pai celestial é perfeito.
 
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
+
 ## 6
 
 * **6:1** Guardai-vos de praticar a vossa justiça diante dos homens, para serdes vistos por eles; caso contrário, não tereis recompensa junto ao vosso Pai que está nos céus.
@@ -190,6 +220,11 @@
 * **6:33** Busquem, porém, primeiro o reino e a justiça dele, e todas essas coisas serão acrescentadas a vocês.
 * **6:34** Portanto, não se preocupem com o dia de amanhã, pois o amanhã cuidará de si mesmo; basta ao dia o seu próprio mal.
 
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
+
 ## 7
 
 * **7:1** Não julguem, para que não sejam julgados;
@@ -221,6 +256,11 @@
 * **7:27** E desceu a chuva, e vieram os rios, e sopraram os ventos, e bateram contra aquela casa, e ela caiu, e foi grande a sua queda.
 * **7:28** E aconteceu que, quando Iēsous (Jesus) terminou estas palavras, as multidões estavam maravilhadas com o seu ensino;
 * **7:29** pois ele as ensinava como quem tem autoridade, e não como os escribas deles.
+
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
 
 ## 8
 
@@ -258,6 +298,11 @@
 * **8:32** E disse-lhes: Vão. E eles, saindo, foram para os porcos; e eis que toda a manada se precipitou pelo despenhadeiro no mar, e morreram nas águas.
 * **8:33** Os que os apascentavam fugiram e, indo para a cidade, anunciaram tudo, inclusive o que ocorrera aos endemoninhados.
 * **8:34** E eis que toda a cidade saiu ao encontro de Jesus, e vendo-o, rogaram-lhe que se retirasse dos seus territórios.
+
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
 
 ## 9
 
@@ -299,6 +344,11 @@
 * **9:36** Vendo as multidões, compadeceu-se delas, porque estavam aflitas e exaustas como ovelhas que não têm pastor.
 * **9:37** Então diz aos seus discípulos: A colheita é grande, mas os trabalhadores são poucos;
 * **9:38** roguem, pois, ao Senhor da colheita que envie trabalhadores para a sua colheita.
+
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
 
 ## 10
 
@@ -345,6 +395,11 @@
 * **10:41** Quem recebe um profeta por ser profeta receberá recompensa de profeta; e quem recebe um justo por ser justo receberá recompensa de justo.
 * **10:42** E quem der de beber, ainda que seja apenas um copo de água fria, a um destes pequeninos por ser meu discípulo, em verdade lhes digo que de modo algum perderá a sua recompensa.
 
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
+
 ## 11
 
 * **11:1** E aconteceu que, quando Iēsous (Jesus) terminou de dar instruções aos seus doze discípulos, partiu dali para ensinar e pregar nas cidades deles.
@@ -377,6 +432,11 @@
 * **11:28** Venham a mim, todos os que estão cansados e sobrecarregados, e eu lhes darei descanso.
 * **11:29** Tomem sobre vocês o meu jugo e aprendam de mim, porque sou manso e humilde de coração, e encontrarão descanso para as suas almas;
 * **11:30** pois o meu jugo é suave e o meu fardo é leve.
+
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
 
 ## 12
 
@@ -430,6 +490,11 @@
 * **12:48** Ele, porém, respondendo, disse ao que lhe falava: Quem é minha mãe, e quem são meus irmãos?
 * **12:49** E, estendendo a mão para os seus discípulos, disse: Eis minha mãe e meus irmãos;
 * **12:50** pois qualquer que fizer a vontade do meu Pai que está nos céus, esse é meu irmão, irmã e mãe.
+
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
 
 ## 13
 
@@ -492,6 +557,11 @@
 * **13:57** E escandalizavam-se por causa dele. Mas Iēsous (Jesus) lhes disse: Não há profeta sem honra, a não ser na sua pátria e na sua casa.
 * **13:58** E não fez ali muitos milagres, por causa da incredulidade deles.
 
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
+
 ## 14
 
 * **14:1** Naquele tempo, ouviu Herodes, o tetrarca, a fama de Jesus,
@@ -530,6 +600,11 @@
 * **14:34** E, tendo atravessado, chegaram à terra de Genesaré.
 * **14:35** E, reconhecendo-o os homens daquele lugar, mandaram por toda aquela terra em redor, e trouxeram-lhe todos os que estavam enfermos,
 * **14:36** E rogavam-lhe que apenas pudessem tocar na orla da sua veste; e todos os que a tocaram ficaram sãos.
+
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
 
 ## 15
 
@@ -573,6 +648,11 @@
 * **15:38** E os que comeram foram quatro mil homens, além de mulheres e crianças.
 * **15:39** E, tendo despedido a multidão, entrou no barco e foi para as regiões de Magadã.
 
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
+
 ## 16
 
 * **16:1** E, chegando os fariseus e os saduceus, tentaram-no, pedindo-lhe que lhes mostrasse algum sinal do céu.
@@ -604,6 +684,11 @@
 * **16:27** Porque o Filho do homem virá na glória de seu Patēr (Pai), com os seus anjos, e então dará a cada um segundo as suas obras.
 * **16:28** Em verdade vos digo que alguns há, dos que aqui estão, que não provarão a morte até que vejam vir o Filho do homem no seu reino.
 
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
+
 ## 17
 
 * **17:1** Seis dias depois, Jesus tomou consigo a Pedro, a Tiago e a João, seu irmão, e os levou em particular a um alto monte.
@@ -632,6 +717,11 @@
 * **17:25** Disse ele: Sim. E, entrando em casa, Jesus se antecipou, dizendo: Que te parece, Simão? De quem cobram os reis da terra os tributos ou o censo? Dos seus filhos ou dos estranhos?
 * **17:26** Disse-lhe ele: Dos estranhos. Disse-lhe Jesus: Logo, são livres os filhos.
 * **17:27** Mas, para não os escandalizar, vai ao mar, lança o anzol, tira o primeiro peixe que subir e, abrindo-lhe a boca, acharás um estáter; toma-o e dá-o por mim e por ti.
+
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
 
 ## 18
 
@@ -670,6 +760,11 @@
 * **18:34** E, irado, seu senhor entregou-o aos verdugos até que pagasse tudo o que devia.
 * **18:35** Assim também meu Pai (Patēr) celestial fará a vocês, se cada um não perdoar de coração ao seu irmão.
 
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
+
 ## 19
 
 * **19:1** Aconteceu que, quando Jesus terminou estes discursos, partiu da Galileia e foi para as regiões da Judeia, além do Jordão.
@@ -702,6 +797,11 @@
 * **19:28** Jesus disse-lhes: Em verdade vos digo que vós, que me seguistes, na regeneração, quando o Filho do Homem se assentar no trono da sua glória, também vos assentareis sobre doze tronos, julgando as doze tribos de Israel.
 * **19:29** E todo aquele que deixou casas, ou irmãos, ou irmãs, ou pai, ou mãe, ou esposa, ou filhos, ou campos por causa do meu nome, receberá cem vezes mais e herdará a vida eterna.
 * **19:30** Muitos, porém, serão os primeiros a serem últimos, e os últimos, primeiros.
+
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
 
 ## 20
 
@@ -739,6 +839,11 @@
 * **20:32** Jesus parou, chamou-os e perguntou: O que quereis que eu vos faça?
 * **20:33** Responderam-lhe: Senhor, que nossos olhos sejam abertos.
 * **20:34** Compadecido, Jesus tocou nos olhos deles, e imediatamente recuperaram a vista e o seguiram.
+
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
 
 ## 21
 
@@ -789,6 +894,11 @@
 * **21:45** Ouvindo as suas parábolas, os principais sacerdotes e os fariseus compreenderam que falava deles;
 * **21:46** e, procurando prendê-lo, temeram as multidões, pois o consideravam profeta.
 
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
+
 ## 22
 
 * **22:1** Jesus, respondendo, falou-lhes novamente por parábolas:
@@ -838,6 +948,11 @@
 * **22:45** Se, portanto, Davi o chama de Kyrios (Senhor), como ele é seu filho?
 * **22:46** E ninguém podia responder-lhe uma palavra, nem alguém ousou, a partir daquele dia, perguntar-lhe mais nada.
 
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
+
 ## 23
 
 * **23:1** Então Iēsous (Jesus) falou às multidões e aos seus discípulos,
@@ -878,6 +993,11 @@
 * **23:37** Jerusalém, Jerusalém, que matas os profetas e apedrejas os que te são enviados — quantas vezes quis ajuntar os teus filhos, como a galinha ajunta os seus pintinhos debaixo das asas, e vocês não quiseram?
 * **23:38** Eis que a casa de vocês ficará deserta.
 * **23:39** Pois lhes digo que não me vereis desde agora, até que digais: Bendito o que vem em nome do Kyriou (Senhor).
+
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
 
 ## 24
 
@@ -933,6 +1053,11 @@
 * **24:50** virá o Kyrios (Senhor) daquele servo em um dia em que não espera e em uma hora que não sabe,
 * **24:51** e o cortará ao meio e colocará a sua parte com os hipócritas; ali haverá o choro e o ranger de dentes.
 
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
+
 ## 25
 
 * **25:1** Então o reino dos céus será semelhante a dez virgens, que, tomando as suas lâmpadas, saíram ao encontro do noivo.
@@ -981,6 +1106,11 @@
 * **25:44** Então eles também responderão, dizendo: Kyrie (Senhor), quando te vimos com fome, ou com sede, ou estrangeiro, ou nu, ou enfermo, ou na prisão, e não te servimos?
 * **25:45** Então lhes responderá, dizendo: Em verdade vos digo que, sempre que não o fizestes a um destes pequeninos, também a mim não o fizestes.
 * **25:46** E irão estes para o castigo eterno, mas os justos para a vida eterna.
+
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
 
 ## 26
 
@@ -1060,6 +1190,11 @@
 * **26:74** Então começou a praguejar e a jurar: Não conheço o homem. E imediatamente o galo cantou.
 * **26:75** E Pedro lembrou-se da palavra de Jesus, que dissera: Antes que o galo cante, três vezes me negarás. E, saindo para fora, chorou amargamente.
 
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
+
 ## 27
 
 * **27:1** Ao amanhecer, todos os principais sacerdotes e os anciãos do povo tomaram conselho contra Jesus para o matarem;
@@ -1128,6 +1263,11 @@
 * **27:64** Ordena, pois, que o sepulcro seja guardado com segurança até o terceiro dia, para que não venham os seus discípulos e o roubem, e digam ao povo: Ressuscitou dos mortos; e o último engano será pior que o primeiro.
 * **27:65** Pilatos disse-lhes: Tendes uma guarda; ide, guardai-o como sabeis.
 * **27:66** Eles, indo, guardaram o sepulcro, selando a pedra com a guarda.
+
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
 
 ## 28
 

@@ -1,5 +1,10 @@
 # Sofonias
 
+<a id="topo"></a>
+
+[1](#1) [2](#2) [3](#3)
+
+
 ## 1
 
 * **1:1** Esta é a palavra de YHWH (SENHOR) que veio a Sofonias, filho de Cushi, filho de Gedalias, filho de Amarias, filho de Ezequias, nos dias de Josias, filho de Amom, rei de Judá.
@@ -21,6 +26,11 @@
 * **1:17** E angustiarei os homens, e eles andarão como cegos, porque pecaram contra YHWH (SENHOR); e o seu sangue será derramado como pó, e a sua carne como esterco.
 * **1:18** Nem a sua prata nem o seu ouro os poderá livrar no dia da indignação de YHWH (SENHOR), mas pelo fogo do seu zelo será consumida toda a terra; porque ele fará uma destruição total e repentina de todos os habitantes da terra.
 
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
+
 ## 2
 
 * **2:1** Ajuntai-vos, sim, ajuntai-vos, ó nação sem vergonha.
@@ -38,6 +48,11 @@
 * **2:13** Ele estenderá a sua mão contra o norte, e destruirá a Assíria, e fará de Nínive uma desolação, seca como o deserto.
 * **2:14** E rebanhos se deitarão no meio dela, todos os animais das nações; tanto o pelicano como o ouriço alojar-se-ão nos seus capitéis; uma voz cantará nas janelas, a desolação estará no limiar, porque ele descobriu a sua obra de cedro.
 * **2:15** Esta é a cidade alegre, que vivia em segurança, que dizia no seu coração: Eu sou, e não há outra além de mim! Como se tornou em desolação, em lugar de repouso para os animais! Todo o que passar por ela assobiará e moverá a sua mão.
+
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
 
 ## 3
 

@@ -1,5 +1,10 @@
 # Naum
 
+<a id="topo"></a>
+
+[1](#1) [2](#2) [3](#3)
+
+
 ## 1
 
 * **1:1** Sentença sobre Nínive. Livro da visão de Naum, o elcosita.
@@ -18,6 +23,11 @@
 * **1:14** Mas contra ti o SENHOR deu ordem: Do teu nome não se gerará mais descendência; da casa do teu Elohim (Deus) exterminarei as imagens de escultura e de fundição; prepararei o teu sepulcro, porque és vil.
 * **1:15** Eis sobre os montes os pés do que traz boas novas, do que anuncia a paz! Celebra as tuas festas, Judá, cumpre os teus votos, porque o perverso nunca mais passará por ti; ele é totalmente exterminado.
 
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
+
 ## 2
 
 * **2:1** O destruidor subiu contra ti; guarda a fortaleza, vigia o caminho, fortalece os lombos, reforça muito o teu poder.
@@ -33,6 +43,11 @@
 * **2:11** Onde está agora a habitação dos leões e o pasto dos leõezinhos, onde andava o leão, o leão velho, o filhote do leão, sem que ninguém o espantasse?
 * **2:12** O leão arrebatava o suficiente para os seus filhotes e estrangulava para as suas leoas; enchia as suas cavernas de presas e as suas covas de rapina.
 * **2:13** Eis que eu estou contra ti, diz YHWH Tzevaot (SENHOR dos Exércitos), e queimarei na fumaça os teus carros, e a espada devorará os teus leõezinhos; exterminarei da terra a tua presa, e a voz dos teus mensageiros não será mais ouvida.
+
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
 
 ## 3
 

@@ -1,5 +1,10 @@
 # Josué
 
+<a id="topo"></a>
+
+[1](#1) [2](#2) [3](#3) [4](#4) [5](#5) [6](#6) [7](#7) [8](#8) [9](#9) [10](#10) [11](#11) [12](#12) [13](#13) [14](#14) [15](#15) [16](#16) [17](#17) [18](#18) [19](#19) [20](#20) [21](#21) [22](#22) [23](#23) [24](#24)
+
+
 ## 1
 
 * **1:1** E aconteceu, depois da morte de Moisés, servo de YHWH (SENHOR), que YHWH falou a Josué, filho de Num, auxiliar de Moisés, dizendo:
@@ -20,6 +25,11 @@
 * **1:16** Então responderam a Josué, dizendo: Tudo o que nos ordenaste faremos e, aonde quer que nos enviares, iremos.
 * **1:17** Como em tudo ouvimos a Moisés, assim te ouviremos a ti; tão somente que YHWH Elohim teu, seja contigo, como foi com Moisés.
 * **1:18** Todo homem que se rebelar contra as tuas ordens e não ouvir as tuas palavras em tudo o que lhe mandares, morrerá; tão somente esforça-te e tem bom ânimo.
+
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
 
 ## 2
 
@@ -48,6 +58,11 @@
 * **2:23** Então os dois homens voltaram, desceram do monte, passaram e vieram a Josué, filho de Num, e contaram-lhe tudo o que lhes tinha acontecido.
 * **2:24** E disseram a Josué: Certamente YHWH deu toda a terra nas nossas mãos, pois até todos os moradores da terra estão desmaiados diante de nós.
 
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
+
 ## 3
 
 * **3:1** Levantou-se Josué de madrugada, e partiram de Sitim, e vieram até ao Jordão, ele e todos os filhos de Israel; e pousaram ali antes que passassem.
@@ -67,6 +82,11 @@
 * **3:15** E, quando os que levavam a arca chegaram ao Jordão, e os pés dos sacerdotes que levavam a arca foram mergulhados na borda das águas (porque o Jordão transbordava sobre todas as suas ribanceiras, todos os dias da sega),
 * **3:16** Pararam as águas que vinham de cima; levantaram-se num montão, muito longe da cidade de Adã, que está ao lado de Sartã; e as que desciam ao mar da Arabá, que é o mar Salgado, foram de todo separadas; então passou o povo defronte de Jericó.
 * **3:17** Os sacerdotes que levavam a arca da aliança de YHWH pararam firmes em seco no meio do Jordão, e todo o Israel passou em seco, até que todo o povo acabou de passar o Jordão.
+
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
 
 ## 4
 
@@ -95,6 +115,11 @@
 * **4:23** Porque YHWH Elohim vosso, secou as águas do Jordão diante de vós, até que passásseis, como YHWH Elohim vosso, fez ao mar Vermelho, que secou diante de nós, até que passássemos.
 * **4:24** Para que todos os povos da terra conheçam a mão de YHWH, que é forte, para que temais a YHWH Elohim vosso, todos os dias.
 
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
+
 ## 5
 
 * **5:1** E aconteceu que, ouvindo todos os reis dos amorreus, que estavam além do Jordão, ao ocidente, e todos os reis dos cananeus, que estavam ao pé do mar, que YHWH tinha secado as águas do Jordão diante dos filhos de Israel, até que passássemos, desfaleceu o seu coração e não houve mais ânimo neles, por causa dos filhos de Israel.
@@ -112,6 +137,11 @@
 * **5:13** E aconteceu que, estando Josué perto de Jericó, levantou os olhos e olhou; e eis que estava em pé diante dele um homem que tinha na mão uma espada nua; chegou-se Josué a ele e disse-lhe: És tu dos nossos ou dos nossos adversários?
 * **5:14** Disse ele: Não, mas venho agora como príncipe do exército de YHWH. Então Josué se prostrou sobre o seu rosto na terra, e o adorou, e disse-lhe: Que diz meu Senhor ao seu servo?
 * **5:15** Disse o príncipe do exército de YHWH a Josué: Descalça as sandálias dos teus pés, porque o lugar em que estás é santo. E Josué fez assim.
+
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
 
 ## 6
 
@@ -143,6 +173,11 @@
 * **6:26** Naquele tempo, Josué fez um juramento, dizendo: Maldito diante de YHWH seja o homem que se levantar e edificar esta cidade de Jericó; em seu primogênito a fundará e em seu filho mais novo lhe porá as portas.
 * **6:27** Assim era YHWH com Josué, e corria a sua fama por toda a terra.
 
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
+
 ## 7
 
 * **7:1** Mas os filhos de Israel cometeram uma transgressão no anátema; porque Acã, filho de Carmi, filho de Zabdi, filho de Zerá, da tribo de Judá, tomou do anátema, e a ira de YHWH se acendeu contra os filhos de Israel.
@@ -171,6 +206,11 @@
 * **7:24** Então Josué tomou a Acã, filho de Zerá, e a prata, e a capa, e a cunha de ouro, e seus filhos, e suas filhas, e seus bois, e seus jumentos, e suas ovelhas, e sua tenda, e tudo o que tinha, e todo o Israel com ele, e os fizeram subir ao vale de Acor.
 * **7:25** Disse Josué: Por que nos perturbaste? YHWH te perturbará a ti hoje. E todo o Israel o apedrejou com pedras, e os queimaram a fogo e os apedrejaram.
 * **7:26** E levantaram sobre ele um grande monte de pedras até o dia de hoje, e YHWH (SENHOR) afastou o furor da sua ira; por isso, aquele lugar é chamado de Vale de Acor até o dia de hoje.
+
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
 
 ## 8
 
@@ -210,6 +250,11 @@
 * **8:34** E depois disso leu todas as palavras da lei, a bênção e a maldição, conforme tudo o que está escrito no livro da lei.
 * **8:35** Não houve palavra de tudo o que Moisés ordenara que Josué não lesse diante de toda a congregação de Israel, e das mulheres, e das crianças, e dos estrangeiros que caminhavam no meio deles.
 
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
+
 ## 9
 
 * **9:1** E sucedeu que, ouvindo isto todos os reis que estavam além do Jordão, na montanha, e na baixada, e em toda a costa do mar Grande, defronte do Líbano, os heteus, e os amorreus, os cananeus, os ferezeus, os heveus e os jebuseus,
@@ -239,6 +284,11 @@
 * **9:25** E agora, eis que estamos na tua mão; faze-nos o que parecer bom e reto aos teus olhos.
 * **9:26** E assim lhes fez, e livrou-os da mão dos filhos de Israel, e não os mataram.
 * **9:27** E Josué os tornou, naquele dia, rachadores de lenha e tiradores de água para a congregação e para o altar de YHWH (SENHOR), até ao dia de hoje, no lugar que ele escolhesse.
+
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
 
 ## 10
 
@@ -286,6 +336,11 @@
 * **10:42** E todos estes reis e as suas terras tomou Josué de uma vez, porquanto YHWH (SENHOR) Elohim (Deus) de Israel pelejava por Israel.
 * **10:43** Então voltou Josué, e todo o Israel com ele, ao acampamento em Gilgal.
 
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
+
 ## 11
 
 * **11:1** E sucedeu que, ouvindo Jabin, rei de Hazor, enviou a Jobabe, rei de Madom, e ao rei de Sinrom, e ao rei de Acsafe,
@@ -311,6 +366,11 @@
 * **11:21** E Josué veio naquele tempo e destruiu os anaquins da montanha, de Hebrom, de Debir, de Anabe, e de toda a montanha de Judá, e de toda a montanha de Israel; Josué os destruiu totalmente com as suas cidades.
 * **11:22** Nenhum dos anaquins restou na terra dos filhos de Israel; somente em Gaza, em Gate e em Asdode ficaram alguns.
 * **11:23** Assim tomou Josué toda a terra, conforme tudo o que YHWH (SENHOR) tinha dito a Moisés, e Josué a deu em herança a Israel, conforme as suas divisões pelas suas tribos; e a terra repousou da guerra.
+
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
 
 ## 12
 
@@ -338,6 +398,11 @@
 * **12:22** Um rei de Quedes, um rei de Jocneão para o Carmelo.
 * **12:23** Um rei de Dor para as colinas de Dor, um rei de Goim para Gilgal.
 * **12:24** Um rei de Tirza; todos os reis eram trinta e um.
+
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
 
 ## 13
 
@@ -375,6 +440,11 @@
 * **13:32** Estas são as heranças que Moisés repartiu nas planícies de Moabe, além do Jordão, na altura de Jericó, para o oriente.
 * **13:33** Mas à tribo de Levi, Moisés não deu herança; YHWH (SENHOR) Elohim (Deus) de Israel é a sua herança, como lhes tinha dito.
 
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
+
 ## 14
 
 * **14:1** Estas são as terras que os filhos de Israel herdaram na terra de Canaã, as quais lhes repartiram Eleazar, o sacerdote, Josué, filho de Num, e os chefes das casas dos pais das tribos dos filhos de Israel.
@@ -392,6 +462,11 @@
 * **14:13** Josué o abençoou e deu Hebrom a Calebe, filho de Jefoné, por herança.
 * **14:14** Por isso Hebrom tornou-se herança de Calebe, filho de Jefoné, o quenezeu, até o dia de hoje, porquanto perseverou em seguir a YHWH (SENHOR) Elohim (Deus) de Israel.
 * **14:15** O nome de Hebrom era outrora Quiriate-Arba; este Arba foi o maior homem entre os anaquins; e a terra repousou da guerra.
+
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
 
 ## 15
 
@@ -459,6 +534,11 @@
 * **15:62** Nibsã, a Cidade do Sal e En-Gedi; seis cidades com as suas aldeias.
 * **15:63** Quanto aos jebuseus, habitantes de Jerusalém, os filhos de Judá não puderam expulsá-los; os jebuseus habitam com os filhos de Judá em Jerusalém até o dia de hoje.
 
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
+
 ## 16
 
 * **16:1** A sorte saiu para os filhos de José, desde o Jordão de Jericó, até às águas de Jericó, ao oriente, pelo deserto que sobe de Jericó ao monte de Betel.
@@ -471,6 +551,11 @@
 * **16:8** De Tapua, o limite ia ao ocidente, ao ribeiro de Caná, e as suas saídas eram no mar; esta é a herança da tribo dos filhos de Efraim, segundo as suas famílias.
 * **16:9** As cidades separadas para os filhos de Efraim, no meio da herança dos filhos de Manassés, todas as cidades e as suas aldeias.
 * **16:10** Não expulsaram os cananeus que habitavam em Gezer; os cananeus habitaram no meio de Efraim até o dia de hoje, e tornaram-se servos sujeitos a tributo.
+
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
 
 ## 17
 
@@ -492,6 +577,11 @@
 * **17:16** Os filhos de José disseram: A região montanhosa não nos basta; e todos os cananeus que habitam na terra do vale têm carros de ferro, tanto os que estão em Bete-Seã e as suas vilas, como os que estão no vale de Jezreel.
 * **17:17** Josué disse à casa de José, a Efraim e a Manassés, dizendo: Tu és um povo numeroso e tens grande força; não terás uma só sorte.
 * **17:18** A região montanhosa será tua; embora seja bosque, cortá-lo-ás, e as suas saídas serão tuas; pois expulsarás os cananeus, ainda que tenham carros de ferro e sejam fortes.
+
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
 
 ## 18
 
@@ -523,6 +613,11 @@
 * **18:26** Mizpá, Cefira e Moza;
 * **18:27** Requém, Irpeel e Tarala;
 * **18:28** Zela, Elefe, Jebus (que é Jerusalém), Gibeate e Quiriate; catorze cidades e as suas aldeias. Esta era a herança dos filhos de Benjamim, segundo as suas famílias.
+
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
 
 ## 19
 
@@ -578,6 +673,11 @@
 * **19:50** Segundo a ordem de YHWH (SENHOR), deram-lhe a cidade que pediu, Timnate-Sera, na região montanhosa de Efraim; ele edificou a cidade e habitou nela.
 * **19:51** Estas são as heranças que Eleazar, o sacerdote, Josué, filho de Num, e os cabeças das famílias das tribos dos filhos de Israel repartiram por sorte em Siló, diante de YHWH (SENHOR), à porta da tenda da congregação; assim acabaram de repartir a terra.
 
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
+
 ## 20
 
 * **20:1** YHWH (SENHOR) falou a Josué, dizendo:
@@ -589,6 +689,11 @@
 * **20:7** Santificaram Quedes, na Galileia, na região montanhosa de Naftali; Siquém, na região montanhosa de Efraim; e Quiriate-Arba (que é Hebrom), na região montanhosa de Judá.
 * **20:8** Do outro lado do Jordão, a leste de Jericó, designaram Bezer, no deserto, na planície, da tribo de Rúben; Ramote, em Gileade, da tribo de Gade; e Golã, em Basã, da tribo de Manassés.
 * **20:9** Estas foram as cidades designadas para todos os filhos de Israel e para o estrangeiro que habitasse entre eles, para que ali se acolhesse todo aquele que matasse alguém por erro, para que não morresse pela mão do vingador do sangue, até que comparecesse perante a congregação.
+
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
 
 ## 21
 
@@ -638,6 +743,11 @@
 * **21:44** YHWH (SENHOR) deu-lhes descanso ao redor, conforme tudo o que jurara aos seus pais; nenhum de todos os seus inimigos pôde resistir-lhes; YHWH (SENHOR) entregou todos os seus inimigos nas suas mãos.
 * **21:45** Nenhuma palavra falhou de todas as boas promessas que YHWH (SENHOR) fizera à casa de Israel; tudo se cumpriu.
 
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
+
 ## 22
 
 * **22:1** Então Josué chamou os rubenitas, os gaditas e a meia tribo de Manassés,
@@ -675,6 +785,11 @@
 * **22:33** E a palavra pareceu bem aos olhos dos filhos de Israel, e os filhos de Israel bendisseram a Elohim, e não falaram mais em subir contra eles para guerrear, para destruir a terra em que os filhos de Rúben e os filhos de Gade habitavam.
 * **22:34** E os filhos de Rúben e os filhos de Gade chamaram ao altar: "Pois ele é testemunha entre nós de que YHWH é o Elohim".
 
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
+
 ## 23
 
 * **23:1** E sucedeu, muito tempo depois que YHWH deu descanso a Israel de todos os seus inimigos ao redor, que Josué, sendo velho e avançado em dias,
@@ -693,6 +808,11 @@
 * **23:14** "E eis que hoje sigo o caminho de toda a terra; e vós bem sabeis, em todo o vosso coração e em toda a vossa alma, que não caiu uma única palavra de todas as boas promessas que YHWH Elohim vosso falou a vosso respeito; tudo vos sobreveio, nem uma palavra falhou".
 * **23:15** "E será que, como sobre vós veio toda a boa palavra que YHWH Elohim vosso vos falou, assim trará YHWH sobre vós toda a palavra má, até vos destruir de sobre esta boa terra que YHWH Elohim vosso vos deu".
 * **23:16** "Ao transgredirdes a aliança de YHWH Elohim vosso, que vos ordenou, e fordes e servirdes a outros elohim, e a eles vos inclinardes, a ira de YHWH se acenderá contra vós, e perecereis rapidamente da boa terra que vos deu".
+
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
 
 ## 24
 

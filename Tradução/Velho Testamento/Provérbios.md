@@ -1,5 +1,10 @@
 # Provérbios
 
+<a id="topo"></a>
+
+[1](#1) [2](#2) [3](#3) [4](#4) [5](#5) [6](#6) [7](#7) [8](#8) [9](#9) [10](#10) [11](#11) [12](#12) [13](#13) [14](#14) [15](#15) [16](#16) [17](#17) [18](#18) [19](#19) [20](#20) [21](#21) [22](#22) [23](#23) [24](#24) [25](#25) [26](#26) [27](#27) [28](#28) [29](#29) [30](#30) [31](#31)
+
+
 ## 1
 
 * **1:1** Provérbios de Salomão, filho de Davi, rei de Israel.
@@ -36,6 +41,11 @@
 * **1:32** Porque o desvio dos simples os matará, e a prosperidade dos insensatos os destruirá.
 * **1:33** Mas o que me der ouvidos habitará em segurança e estará tranquilo, sem medo do mal".
 
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
+
 ## 2
 
 * **2:1** Meu filho, se aceitares as minhas palavras e esconderes contigo os meus mandamentos,
@@ -60,6 +70,11 @@
 * **2:20** Para que andes pelo caminho dos bons e guardes as veredas dos justos.
 * **2:21** Porque os retos habitarão a terra, e os íntegros permanecerão nela.
 * **2:22** Mas os ímpios serão eliminados da terra, e os infiéis serão dela arrancados.
+
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
 
 ## 3
 
@@ -99,6 +114,11 @@
 * **3:34** Certamente ele escarnece dos escarnecedores, mas dá graça aos humildes.
 * **3:35** Os sábios herdarão honra, mas os insensatos herdarão vergonha.
 
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
+
 ## 4
 
 * **4:1** Ouvi, filhos, a disciplina de um pai, e estai atentos para conhecer o discernimento.
@@ -129,6 +149,11 @@
 * **4:26** Pondera a vereda dos teus pés, e todos os teus caminhos sejam bem ordenados.
 * **4:27** Não declines nem para a direita nem para a esquerda; retira o teu pé do mal.
 
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
+
 ## 5
 
 * **5:1** Meu filho, atenta para a minha sabedoria, inclina o teu ouvido ao meu entendimento.
@@ -154,6 +179,11 @@
 * **5:21** Porque os caminhos do homem estão diante dos olhos de YHWH (SENHOR), e ele pondera todas as suas veredas.
 * **5:22** As suas próprias iniquidades prenderão o ímpio, e com as cordas do seu pecado será detido.
 * **5:23** Ele morrerá por falta de disciplina, e pela grandeza da sua estultícia andará errado.
+
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
 
 ## 6
 
@@ -193,6 +223,11 @@
 * **6:34** Porque o ciúme é o furor do marido, e não perdoará no dia da vingança.
 * **6:35** Não aceitará nenhum resgate, nem se contentará, ainda que multipliques os presentes.
 
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
+
 ## 7
 
 * **7:1** Filho meu, guarda as minhas palavras, e esconde dentro de ti os meus mandamentos.
@@ -222,6 +257,11 @@
 * **7:25** Não se desvie o teu coração para os caminhos dela, e não te percas nas suas veredas.
 * **7:26** Porque a muitos derrubou ferida; e são muitos os que por ela foram mortos.
 * **7:27** O caminho da sepultura é a sua casa, que desce às câmaras da morte.
+
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
 
 ## 8
 
@@ -262,6 +302,11 @@
 * **8:35** Porque o que me acha, acha a vida, e alcança o favor de YHWH (SENHOR).
 * **8:36** Mas o que peca contra mim violenta a sua própria alma; todos os que me odeiam amam a morte.
 
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
+
 ## 9
 
 * **9:1** A sabedoria já edificou a sua casa, já lavrou as suas sete colunas.
@@ -282,6 +327,11 @@
 * **9:16** Quem é simples, volte-se para aqui. E aos faltos de entendimento diz:
 * **9:17** As águas roubadas são doces, e o pão comido às ocultas é agradável.
 * **9:18** Mas ele não sabe que ali estão os mortos; que os seus convidados estão nas profundezas da sepultura.
+
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
 
 ## 10
 
@@ -318,6 +368,11 @@
 * **10:31** A boca do justo produz sabedoria, mas a língua perversa será cortada.
 * **10:32** Os lábios do justo conhecem o que é agradável, mas a boca dos ímpios fala perversidades.
 
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
+
 ## 11
 
 * **11:1** Balança enganosa é abominação para YHWH (SENHOR), mas o peso justo é o seu prazer.
@@ -352,6 +407,11 @@
 * **11:30** O fruto do justo é árvore de vida, e quem ganha almas é sábio.
 * **11:31** Se o justo é recompensado na terra, quanto mais o ímpio e o pecador!
 
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
+
 ## 12
 
 * **12:1** Quem ama a disciplina ama o conhecimento, mas quem odeia a repreensão é um bruto.
@@ -383,6 +443,11 @@
 * **12:27** O preguiçoso não apanha a sua caça, mas a riqueza preciosa do homem é a diligência.
 * **12:28** Na vereda da justiça está a vida, e no seu caminho não há morte.
 
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
+
 ## 13
 
 * **13:1** O filho sábio aceita a disciplina do pai, mas o escarnecedor não ouve a repreensão.
@@ -410,6 +475,11 @@
 * **13:23** Muita comida há na lavoura do pobre, mas há quem perece por falta de justiça.
 * **13:24** Quem poupa a vara odeia o seu filho, mas quem o ama, disciplina-o cedo.
 * **13:25** O justo come até satisfazer a sua alma, mas o ventre dos ímpios passará necessidade.
+
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
 
 ## 14
 
@@ -449,6 +519,11 @@
 * **14:34** A justiça exalta a nação, mas o pecado é a vergonha dos povos.
 * **14:35** O favor do rei é para o servo que procede com inteligência, mas a sua ira é para o que causa vergonha.
 
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
+
 ## 15
 
 * **15:1** A resposta branda desvia o furor, mas a palavra dura suscita a ira.
@@ -484,6 +559,11 @@
 * **15:31** O ouvido que ouve a repreensão da vida habitará entre os sábios.
 * **15:32** Quem rejeita a disciplina despreza a sua própria alma, mas quem ouve a repreensão adquire entendimento.
 * **15:33** O temor de YHWH é a disciplina da sabedoria, e diante da honra vai a humildade.
+
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
 
 ## 16
 
@@ -521,6 +601,11 @@
 * **16:32** Melhor é o homem paciente do que o valente, e o que domina o seu espírito do que o que conquista uma cidade.
 * **16:33** O sorteio é lançado no regaço, mas do YHWH (SENHOR) procede toda a sua decisão.
 
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
+
 ## 17
 
 * **17:1** Melhor é um bocado seco e com ele a tranquilidade do que a casa cheia de festins com contendas.
@@ -552,6 +637,11 @@
 * **17:27** Aquele que retém as suas palavras possui o conhecimento, e o homem de espírito sereno é um homem de discernimento.
 * **17:28** Até o tolo, quando se cala, é reputado por sábio; e o que fecha os seus lábios, por entendido.
 
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
+
 ## 18
 
 * **18:1** Aquele que se isola busca o seu próprio desejo e se insurge contra toda a verdadeira sabedoria.
@@ -578,6 +668,11 @@
 * **18:22** Quem encontra uma esposa encontra o bem e alcança o favor de YHWH (SENHOR).
 * **18:23** O pobre fala com súplicas, mas o rico responde com dureza.
 * **18:24** O homem de muitos amigos deve mostrar-se amigável, mas há um amigo mais chegado do que um irmão.
+
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
 
 ## 19
 
@@ -611,6 +706,11 @@
 * **19:28** A testemunha vil escarnece do juízo, e a boca dos ímpios devora a iniquidade.
 * **19:29** Preparados estão os juízos para os escarnecedores, e os açoites para as costas dos tolos.
 
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
+
 ## 20
 
 * **20:1** O vinho é escarnecedor, a bebida forte é alvoroçadora; todo aquele que neles se embriaga não é sábio.
@@ -643,6 +743,11 @@
 * **20:28** A beneficência e a verdade preservam o rei, e com a beneficência ele sustenta o seu trono.
 * **20:29** A glória dos jovens é a sua força, e a beleza dos velhos são as cãs.
 * **20:30** Os vergões das feridas purificam o mal, assim como os açoites purificam as profundezas do ventre.
+
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
 
 ## 21
 
@@ -678,6 +783,11 @@
 * **21:30** Não há sabedoria, nem entendimento, nem conselho contra YHWH (SENHOR).
 * **21:31** O cavalo é preparado para o dia da batalha, mas a vitória vem de YHWH (SENHOR).
 
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
+
 ## 22
 
 * **22:1** É melhor escolher um bom nome do que muitas riquezas; a estima vale mais que a prata e o ouro.
@@ -709,6 +819,11 @@
 * **22:27** Se não tens com que pagar, por que tirariam a tua cama debaixo de ti?
 * **22:28** Não removas os marcos antigos que os teus pais estabeleceram.
 * **22:29** Viste um homem diligente na sua obra? Ele se apresentará diante de reis; não ficará diante de homens obscuros.
+
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
 
 ## 23
 
@@ -748,6 +863,11 @@
 * **23:34** E serás como o que se deita no meio do mar, e como o que se deita no topo do mastro.
 * **23:35** "Espancaram-me, e não senti dor; bateram-me, e não percebi. Quando acordarei? Voltarei a buscá-lo ainda."
 
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
+
 ## 24
 
 * **24:1** Não tenhas inveja dos homens maus, nem desejes estar com eles.
@@ -785,6 +905,11 @@
 * **24:33** Um pouco de sono, um pouco de cochilo, um pouco de cruzar as mãos para descansar.
 * **24:34** Assim virá a tua pobreza como um viajante, e a tua necessidade como um homem armado.
 
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
+
 ## 25
 
 * **25:1** Também estes são provérbios de Salomão, que os homens de Ezequias, rei de Judá, compilaram.
@@ -815,6 +940,11 @@
 * **25:26** Como fonte turva e manancial corrompido, assim é o justo que vacila diante do perverso.
 * **25:27** Comer muito mel não é bom, nem buscar a própria glória é honroso.
 * **25:28** Como cidade derrubada, sem muros, assim é o homem que não domina o seu espírito.
+
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
 
 ## 26
 
@@ -847,6 +977,11 @@
 * **26:27** Como o louco que lança fogo, flechas e morte,
 * **26:28** Assim é o homem que engana o seu próximo e diz: Não estava eu apenas brincando?
 
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
+
 ## 27
 
 * **27:1** Sem lenha, o fogo se apaga; e, onde não há difamador, a contenda cessa.
@@ -876,6 +1011,11 @@
 * **27:25** Quem a retém, retém o vento, e o seu óleo na mão direita a denuncia.
 * **27:26** Como o ferro com o ferro se afia, assim o homem ao rosto do seu amigo.
 * **27:27** O que cuida da figueira comerá do seu fruto, e o que atenta pelo seu senhor será honrado.
+
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
 
 ## 28
 
@@ -908,6 +1048,11 @@
 * **28:27** O que anda em integridade será salvo, mas o perverso em seus caminhos cairá logo.
 * **28:28** O que lavra a sua terra se fartará de pão, mas o que segue a ociosos se fartará de pobreza.
 
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
+
 ## 29
 
 * **29:1** O homem fiel abundará em bênçãos, mas o que se apressa a enriquecer não ficará impune.
@@ -937,6 +1082,11 @@
 * **29:25** Quando os ímpios se multiplicam, a transgressão se multiplica, mas os justos verão a sua queda.
 * **29:26** Corrige o teu filho e te dará descanso, e dará delícias à tua alma.
 * **29:27** Não havendo profecia, o povo se corrompe, mas o que guarda a lei, esse é bem-aventurado.
+
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
 
 ## 30
 
@@ -973,6 +1123,11 @@
 * **30:31** Pelo servo quando reina, e pelo tolo quando se farta de pão;
 * **30:32** Pela mulher desprezada quando se casa, e pela serva quando herda da sua senhora.
 * **30:33** Estas quatro coisas são pequenas na terra, mas são extremamente sábias:
+
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
 
 ## 31
 

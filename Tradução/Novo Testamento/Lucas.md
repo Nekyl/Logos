@@ -1,5 +1,10 @@
 # Lucas
 
+<a id="topo"></a>
+
+[1](#1) [2](#2) [3](#3) [4](#4) [5](#5) [6](#6) [7](#7) [8](#8) [9](#9) [10](#10) [11](#11) [12](#12) [13](#13) [14](#14) [15](#15) [16](#16) [17](#17) [18](#18) [19](#19) [20](#20) [21](#21) [22](#22) [23](#23) [24](#24)
+
+
 ## 1
 
 * **1:1** Visto que muitos empreenderam organizar uma narrativa sobre os fatos que se cumpriram entre nós,
@@ -83,6 +88,11 @@
 * **1:79** para iluminar os que estão sentados nas trevas e na sombra da morte, para guiar os nossos pés no caminho da paz.
 * **1:80** O menino crescia e se fortalecia em espírito, e estava nos desertos até o dia da sua manifestação a Israel.
 
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
+
 ## 2
 
 * **2:1** Aconteceu naqueles dias que saiu um decreto de César Augusto, para que todo o mundo fosse recenseado.
@@ -138,6 +148,11 @@
 * **2:51** Desceu com eles e foi para Nazaré, e era-lhes submisso. Sua mãe guardava todas estas palavras em seu coração.
 * **2:52** E Jesus crescia em sabedoria, estatura e graça diante de Deus e dos homens.
 
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
+
 ## 3
 
 * **3:1** No décimo quinto ano do governo de Tibério César, sendo Pôncio Pilatos governador da Judeia, Herodes tetrarca da Galileia, seu irmão Filipe tetrarca da região da Itureia e Traconítides, e Lisânias tetrarca de Abilene,
@@ -178,6 +193,11 @@
 * **3:36** de Cainã, de Arfaxade, de Sem, de Noé, de Lameque,
 * **3:37** de Matusalém, de Enoque, de Jarede, de Maleleel, de Cainã,
 * **3:38** de Enos, de Sete, de Adão, de Theos (Deus).
+
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
 
 ## 4
 
@@ -226,6 +246,11 @@
 * **4:43** Ele, porém, disse-lhes: Também às outras cidades me é necessário evangelizar o reino de Theos (Deus), pois para isso fui enviado.
 * **4:44** E pregava nas sinagogas da Judeia.
 
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
+
 ## 5
 
 * **5:1** Aconteceu que, apertando-o a multidão para ouvir a palavra de Theos (Deus), estava ele junto ao lago de Genesaré,
@@ -267,6 +292,11 @@
 * **5:37** E ninguém deita vinho novo em odres velhos; de outro modo, o vinho novo romperá os odres, e o vinho se derramará, e os odres se perderão;
 * **5:38** mas vinho novo deve ser deitado em odres novos.
 * **5:39** E ninguém, tendo bebido o velho, quer o novo; pois diz: O velho é melhor.
+
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
 
 ## 6
 
@@ -320,6 +350,11 @@
 * **6:48** É semelhante ao homem que constrói uma casa, que cavou fundo e lançou o alicerce sobre a rocha; e, vindo a enchente, o rio bateu com força contra aquela casa, mas não conseguiu abalá-la, pois estava bem construída.
 * **6:49** Mas aquele que ouve e não pratica é semelhante ao homem que construiu uma casa sobre a terra sem alicerce, contra a qual o rio bateu com força, e logo desmoronou, e a ruína daquela casa foi grande.
 
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
+
 ## 7
 
 * **7:1** Depois que terminou todas as suas palavras aos ouvidos do povo, entrou em Cafarnaum.
@@ -372,6 +407,11 @@
 * **7:48** E disse-lhe: Os teus pecados estão perdoados.
 * **7:49** E os que estavam à mesa começaram a dizer entre si: Quem é este que até perdoa pecados?
 * **7:50** E disse à mulher: A tua fé te salvou; vai-te em paz.
+
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
 
 ## 8
 
@@ -431,6 +471,11 @@
 * **8:54** Ele, porém, segurando-lhe a mão, clamou, dizendo: Menina, levanta-te.
 * **8:55** O seu espírito voltou, e ela levantou-se imediatamente, e ele mandou que lhe dessem de comer.
 * **8:56** Os seus pais ficaram maravilhados; ele, porém, ordenou-lhes que a ninguém contassem o que acontecera.
+
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
 
 ## 9
 
@@ -497,6 +542,11 @@
 * **9:61** Outro disse: Seguir-te-ei, senhor; mas permite-me primeiro despedir-me dos que estão em minha casa.
 * **9:62** Disse-lhe Iēsous: Ninguém que põe a mão no arado e olha para trás é apto para o reino de Theos.
 
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
+
 ## 10
 
 * **10:1** Depois disso, o Kyrios designou outros setenta e dois e enviou-os de dois em dois à sua frente a toda cidade e lugar aonde ele estava para ir.
@@ -541,6 +591,11 @@
 * **10:40** Marta, porém, estava ocupada com muito serviço; e, aproximando-se, disse: Kyrie, não te importa que minha irmã me tenha deixado sozinha para servir? Dize-lhe, pois, que me ajude.
 * **10:41** Respondendo, o Kyrios disse-lhe: Marta, Marta, estás ansiosa e perturbada com muitas coisas;
 * **10:42** mas poucas são necessárias, ou apenas uma; Mariam, pois, escolheu a boa parte, a qual não lhe será tirada.
+
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
 
 ## 11
 
@@ -598,6 +653,11 @@
 * **11:52** Ai de vós, peritos na lei, porque tirastes a chave do conhecimento; vós mesmos não entrastes e impedistes os que entravam.
 * **11:53** Saindo ele dali, os escribas e os fariseus começaram a pressioná-lo fortemente e a interrogá-lo sobre muitas coisas,
 * **11:54** armando-lhe ciladas para apanhar algo da sua boca.
+
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
 
 ## 12
 
@@ -661,6 +721,11 @@
 * **12:58** Quando fores com o teu adversário ao magistrado, faze o possível para te livrares dele no caminho, para que não suceda que ele te arraste ao juiz, e o juiz te entregue ao oficial, e o oficial te lance na prisão.
 * **12:59** Digo-te que não sairás dali enquanto não pagares até o último centavo.
 
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
+
 ## 13
 
 * **13:1** Naquele mesmo tempo, chegaram alguns que lhe falavam dos galileus cujo sangue Pilatos misturara com os seus sacrifícios.
@@ -698,6 +763,11 @@
 * **13:33** Importa, porém, caminhar hoje, amanhã e no dia seguinte, porque não é aceitável que um profeta pereça fora de Jerusalém.
 * **13:34** Jerusalém, Jerusalém, que matas os profetas e apedrejas os que te são enviados! Quantas vezes quis eu ajuntar os teus filhos, como a galinha o seu ninho debaixo das asas, e não quisestes!
 * **13:35** Eis que a vossa casa vos ficará deserta. E digo-vos que não me vereis até que venha o tempo em que digais: Bendito o que vem em nome do Senhor.
+
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
 
 ## 14
 
@@ -737,6 +807,11 @@
 * **14:34** Bom é o sal; mas, se o sal se tornar insípido, com que se há de temperar?
 * **14:35** Não presta nem para a terra nem para o monturo; lançam-no fora. Quem tem ouvidos para ouvir, ouça.
 
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
+
 ## 15
 
 * **15:1** E chegavam-se a ele todos os publicanos e pecadores para o ouvir.
@@ -772,6 +847,11 @@
 * **15:31** E ele lhe disse: Filho, tu sempre estás comigo, e todas as minhas coisas são tuas;
 * **15:32** mas era justo alegrarmo-nos e regozijarmo-nos, porque este teu irmão estava morto e reviveu; tinha-se perdido e foi achado.
 
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
+
 ## 16
 
 * **16:1** Dizia também aos discípulos: Havia um homem rico que tinha um administrador, e este foi acusado perante ele de dissipar os seus bens.
@@ -805,6 +885,11 @@
 * **16:29** Abraão diz: Eles têm Moisés e os profetas; que os ouçam.
 * **16:30** Ele disse: Não, pai Abraão, mas se alguém dentre os mortos for até eles, arrepender-se-ão.
 * **16:31** Disse-lhe: Se não ouvem a Moisés e aos profetas, tampouco se deixarão convencer, ainda que alguém ressuscite dentre os mortos.
+
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
 
 ## 17
 
@@ -844,6 +929,11 @@
 * **17:34** Digo-vos: naquela noite, estarão dois numa cama; um será tomado e o outro deixado;
 * **17:35** estarão duas moendo juntas; uma será tomada e a outra deixada.
 * **17:37** E, respondendo, disseram-lhe: Onde, Senhor? Ele disse-lhes: Onde estiver o corpo, ali também se ajuntarão as águias.
+
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
 
 ## 18
 
@@ -890,6 +980,11 @@
 * **18:41** Que queres que te faça? Ele disse: Senhor, que eu veja.
 * **18:42** E Jesus disse-lhe: Vê; a tua fé te salvou.
 * **18:43** E imediatamente viu, e seguia-o glorificando a Deus. E todo o povo, vendo isso, deu louvor a Deus.
+
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
 
 ## 19
 
@@ -942,6 +1037,11 @@
 * **19:47** E ensinava todos os dias no templo; os principais sacerdotes, os escribas e os principais do povo procuravam matá-lo,
 * **19:48** e não achavam o que fazer, pois todo o povo ficava pendente dele, ouvindo-o.
 
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
+
 ## 20
 
 * **20:1** E aconteceu que, num daqueles dias, enquanto ele ensinava o povo no templo e anunciava o evangelho, sobrevieram os principais sacerdotes e os escribas com os anciãos,
@@ -992,6 +1092,11 @@
 * **20:46** Guardai-vos dos escribas, que gostam de andar com vestes longas e apreciam saudações nas praças, os primeiros assentos nas sinagogas e os primeiros lugares nos banquetes;
 * **20:47** que devoram as casas das viúvas e, por pretexto, fazem longas orações; estes receberão condenação mais severa.
 
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
+
 ## 21
 
 * **21:1** Olhando para cima, viu os ricos lançando as suas ofertas no gazofilácio.
@@ -1032,6 +1137,11 @@
 * **21:36** Vigiai, pois, em todo o tempo, orando para que possais escapar de todas estas coisas que hão de acontecer e estar em pé diante do Filho do Homem.
 * **21:37** Ele passava os dias ensinando no templo, mas, ao sair, passava as noites no monte chamado das Oliveiras;
 * **21:38** e todo o povo ia de manhã cedo ter com Ele no templo para ouvi-lo.
+
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
 
 ## 22
 
@@ -1107,6 +1217,11 @@
 * **22:70** Disseram todos: Tu és, pois, o Filho de Theos? Ele disse-lhes: Vós dizeis que eu sou.
 * **22:71** Eles disseram: Que necessidade temos ainda de testemunho? Pois nós mesmos ouvimos da sua própria boca.
 
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
+
 ## 23
 
 * **23:1** Levantando-se toda a multidão deles, levaram-no a Pilatos.
@@ -1164,6 +1279,11 @@
 * **23:54** Era o dia da preparação, e o sábado estava começando.
 * **23:55** As mulheres que tinham vindo com ele desde a Galileia seguiram-no, viram o túmulo e como o seu corpo fora colocado,
 * **23:56** e, voltando, prepararam especiarias e perfumes. E no sábado descansaram, conforme o mandamento.
+
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
 
 ## 24
 

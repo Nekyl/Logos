@@ -1,5 +1,10 @@
 # Eclesiastes
 
+<a id="topo"></a>
+
+[1](#1) [2](#2) [3](#3) [4](#4) [5](#5) [6](#6) [7](#7) [8](#8) [9](#9) [10](#10) [11](#11) [12](#12)
+
+
 ## 1
 
 * **1:1** Palavras de Coélet, filho de Davi, rei em Jerusalém.
@@ -20,6 +25,11 @@
 * **1:16** Falei eu com o meu coração, dizendo: Eis que eu me engrandeci, e sobrepujei em sabedoria a todos os que houve antes de mim em Jerusalém; e o meu coração contemplou abundantemente a sabedoria e o conhecimento.
 * **1:17** E apliquei o meu coração a conhecer a sabedoria e a conhecer os desvarios e as loucuras; e vim a saber que também isto era aflição de espírito.
 * **1:18** Porque na muita sabedoria há muito enfado; e o que aumenta em conhecimento, aumenta em dor.
+
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
 
 ## 2
 
@@ -50,6 +60,11 @@
 * **2:25** Pois quem pode comer, ou quem pode fruir, melhor do que eu?
 * **2:26** Porque ao homem que é bom diante dele, dá Elohim sabedoria, conhecimento e alegria; mas ao pecador dá trabalho, para que ele ajunte, e amontoe, para dá-lo ao que é bom perante Elohim; também isto é vaidade e aflição de espírito.
 
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
+
 ## 3
 
 * **3:1** Tudo tem o seu tempo determinado, e há tempo para todo o propósito debaixo do céu.
@@ -75,6 +90,11 @@
 * **3:21** Quem sabe se o espírito dos filhos do homem sobe para cima, e se o espírito do animal desce para baixo, para a terra?
 * **3:22** Vi, pois, que não há nada melhor do que o homem alegrar-se nas suas obras, porque essa é a sua porção; pois quem o fará voltar para ver o que acontecerá depois dele?
 
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
+
 ## 4
 
 * **4:1** Voltei-me e vi todas as opressões que se fazem debaixo do sol; e eis as lágrimas dos oprimidos, que não têm consolador; e a força estava na mão dos seus opressores, e eles não tinham consolador.
@@ -93,6 +113,11 @@
 * **4:14** Porque ele saiu do cárcere para reinar, ainda que tenha nascido pobre no seu reino.
 * **4:15** Vi todos os viventes que andam debaixo do sol com o jovem sucessor, que ficará no seu lugar.
 * **4:16** Não tem fim todo o povo, todos os que foram antes deles; tampouco os que vierem depois se alegrarão nele. Na verdade, que também isto é vaidade e correr atrás do vento.
+
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
 
 ## 5
 
@@ -117,6 +142,11 @@
 * **5:19** E a todo o homem, a quem Elohim deu riquezas e bens, e lhe deu poder para delas comer, e tomar a sua porção, e gozar do seu trabalho, isto é dom de Elohim.
 * **5:20** Porque não se lembrará muito dos dias da sua vida, porquanto Elohim lhe enche o coração de alegria.
 
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
+
 ## 6
 
 * **6:1** Há um mal que vi debaixo do sol, e é muito comum entre os homens:
@@ -131,6 +161,11 @@
 * **6:10** O que existe, já tem nome, e sabe-se que é homem, e que não pode contender com o que é mais forte do que ele.
 * **6:11** Na verdade, há muitas coisas que multiplicam a vaidade; que mais tem o homem?
 * **6:12** Pois, quem sabe o que é bom para o homem nesta vida, durante os dias da sua vã vida, os quais ele gasta como sombra? Quem declarará ao homem o que será depois dele debaixo do sol?
+
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
 
 ## 7
 
@@ -164,6 +199,11 @@
 * **7:28** A qual ainda busca a minha alma, mas não a achei; um homem entre mil achei eu, mas uma mulher entre todas estas não achei.
 * **7:29** Eis que isto somente achei: que Elohim fez o homem reto, mas eles buscaram muitas astúcias.
 
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
+
 ## 8
 
 * **8:1** Quem é como o sábio? E quem sabe a interpretação das coisas? A sabedoria do homem faz brilhar o seu rosto, e a dureza do seu rosto se transforma.
@@ -183,6 +223,11 @@
 * **8:15** Então louvei eu a alegria, porquanto para o homem nada há melhor debaixo do sol do que comer, beber e alegrar-se; porque isso o acompanhará no seu trabalho nos dias da sua vida que Elohim lhe dá debaixo do sol.
 * **8:16** Quando apliquei o meu coração a conhecer a sabedoria, e a ver o trabalho que se faz sobre a terra (pois nem de dia nem de noite vê o homem sono nos seus olhos),
 * **8:17** Então vi toda a obra de Elohim, que o homem não pode compreender a obra que se faz debaixo do sol; por mais que o homem trabalhe para a buscar, não a achará; e, ainda que o sábio diga que a conhece, não a poderá compreender.
+
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
 
 ## 9
 
@@ -204,6 +249,11 @@
 * **9:16** Então disse eu: Melhor é a sabedoria do que a força; todavia a sabedoria do pobre é desprezada, e as suas palavras não são ouvidas.
 * **9:17** As palavras dos sábios, ouvidas em silêncio, valem mais do que o clamor de quem domina entre os tolos.
 * **9:18** Melhor é a sabedoria do que as armas de guerra, mas um só pecador destrói muitos bens.
+
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
 
 ## 10
 
@@ -228,6 +278,11 @@
 * **10:19** Para rir se fazem banquetes, e o vinho alegra a vida, e por tudo o dinheiro responde.
 * **10:20** Nem ainda no teu pensamento amaldiçoes o rei, nem tampouco no mais interior do teu quarto amaldiçoes o rico; porque as aves dos céus levariam a voz, e os que têm asas dariam notícia da palavra.
 
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
+
 ## 11
 
 * **11:1** Lança o teu pão sobre as águas, porque depois de muitos dias o acharás.
@@ -240,6 +295,11 @@
 * **11:8** Se o homem viver muitos anos, em todos eles se alegre; mas lembre-se de que há dias de trevas, porque serão muitos. Tudo quanto sucede é vaidade.
 * **11:9** Alegra-te, jovem, na tua mocidade, e recreie-se o teu coração nos dias da tua juventude; anda pelos caminhos que satisfazem o teu coração e agradam aos teus olhos; sabe, porém, que por todas estas coisas Elohim te trará a juízo.
 * **11:10** Afasta, pois, a ira do teu coração, e remove o mal da tua carne; porque a juventude e a aurora da vida são vaidade.
+
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
 
 ## 12
 

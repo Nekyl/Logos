@@ -1,5 +1,10 @@
 # 2 Timóteo
 
+<a id="topo"></a>
+
+[1](#1) [2](#2) [3](#3) [4](#4)
+
+
 ## 1
 
 * **1:1** Paulo, apóstolo de Christos Iēsous (Messias Jesus), pela vontade de Theos (Deus), conforme a promessa da vida que está em Christo Iēsou,
@@ -20,6 +25,11 @@
 * **1:16** Que o Kyrios conceda misericórdia à casa de Onesíforo, porque muitas vezes me deu ânimo e não se envergonhou das minhas correntes;
 * **1:17** antes, quando chegou a Roma, procurou-me diligentemente e me encontrou.
 * **1:18** Que o Kyrios lhe conceda encontrar misericórdia da parte do Kyrios naquele dia; e quanto ao serviço que ele prestou em Éfeso, tu bem o sabes.
+
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
 
 ## 2
 
@@ -50,6 +60,11 @@
 * **2:25** corrigindo com mansidão os que se opõem, na esperança de que Theos lhes conceda o arrependimento para conhecerem a verdade,
 * **2:26** e que se libertem do laço do diabo, tendo sido feitos prisioneiros por ele para fazerem a sua vontade.
 
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
+
 ## 3
 
 * **3:1** Sabe, porém, isto: que nos últimos dias sobrevirão tempos difíceis;
@@ -69,6 +84,11 @@
 * **3:15** e que desde a infância sabes as sagradas letras, que podem tornar-te sábio para a salvação pela fé que está em Christo Iēsou.
 * **3:16** Toda a Escritura é inspirada por Theos e útil para o ensino, para a repreensão, para a correção, para a educação na justiça,
 * **3:17** a fim de que o homem de Theos seja perfeito e perfeitamente habilitado para toda boa obra.
+
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
 
 ## 4
 

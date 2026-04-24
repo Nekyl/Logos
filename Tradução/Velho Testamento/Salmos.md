@@ -1,5 +1,10 @@
 # Salmos
 
+<a id="topo"></a>
+
+[1](#1) [2](#2) [3](#3) [4](#4) [5](#5) [6](#6) [7](#7) [8](#8) [9](#9) [10](#10) [11](#11) [12](#12) [13](#13) [14](#14) [15](#15) [16](#16) [17](#17) [18](#18) [19](#19) [20](#20) [21](#21) [22](#22) [23](#23) [24](#24) [25](#25) [26](#26) [27](#27) [28](#28) [29](#29) [30](#30) [31](#31) [32](#32) [33](#33) [34](#34) [35](#35) [36](#36) [37](#37) [38](#38) [39](#39) [40](#40) [41](#41) [42](#42) [43](#43) [44](#44) [45](#45) [46](#46) [47](#47) [48](#48) [49](#49) [50](#50) [51](#51) [52](#52) [53](#53) [54](#54) [55](#55) [56](#56) [57](#57) [58](#58) [59](#59) [60](#60) [61](#61) [62](#62) [63](#63) [64](#64) [65](#65) [66](#66) [67](#67) [68](#68) [69](#69) [70](#70) [71](#71) [72](#72) [73](#73) [74](#74) [75](#75) [76](#76) [77](#77) [78](#78) [79](#79) [80](#80) [81](#81) [82](#82) [83](#83) [84](#84) [85](#85) [86](#86) [87](#87) [88](#88) [89](#89) [90](#90) [91](#91) [92](#92) [93](#93) [94](#94) [95](#95) [96](#96) [97](#97) [98](#98) [99](#99) [100](#100) [101](#101) [102](#102) [103](#103) [104](#104) [105](#105) [106](#106) [107](#107) [108](#108) [109](#109) [110](#110) [111](#111) [112](#112) [113](#113) [114](#114) [115](#115) [116](#116) [117](#117) [118](#118) [119](#119) [120](#120) [121](#121) [122](#122) [123](#123) [124](#124) [125](#125) [126](#126) [127](#127) [128](#128) [129](#129) [130](#130) [131](#131) [132](#132) [133](#133) [134](#134) [135](#135) [136](#136) [137](#137) [138](#138) [139](#139) [140](#140) [141](#141) [142](#142) [143](#143) [144](#144) [145](#145) [146](#146) [147](#147) [148](#148) [149](#149) [150](#150)
+
+
 ## 1
 
 * **1:1** Bem-aventurado o homem que não segue o conselho dos ímpios, não se detém no caminho dos pecadores, nem se assenta na roda dos escarnecedores.
@@ -8,6 +13,11 @@
 * **1:4** Não é assim com os ímpios; eles são como a palha que o vento dispersa.
 * **1:5** Por isso, os ímpios não subsistirão no julgamento, nem os pecadores na congregação dos justos.
 * **1:6** Pois YHWH conhece o caminho dos justos, mas o caminho dos ímpios perecerá.
+
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
 
 ## 2
 
@@ -24,6 +34,11 @@
 * **2:11** Servi a YHWH com temor e alegrai-vos com tremor.
 * **2:12** Beijai o Filho, para que não se irrite e pereçais no caminho, pois em breve se acenderá a Sua ira. Bem-aventurados todos os que nEle se refugiam.
 
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
+
 ## 3
 
 * **3:1** Salmo de Davi, quando fugia de seu filho Absalão. YHWH, como se multiplicaram os meus adversários! Muitos se levantam contra mim.
@@ -35,6 +50,11 @@
 * **3:7** Levanta-Te, YHWH! Salva-me, meu Elohim! Pois feriste todos os meus inimigos nos queixos; quebraste os dentes dos ímpios.
 * **3:8** De YHWH vem a salvação; sobre o Teu povo seja a Tua bênção. Selá.
 
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
+
 ## 4
 
 * **4:1** Ao regente do coro, com instrumentos de cordas. Salmo de Davi. Quando clamo, responde-me, Elohim da minha justiça. Na angústia, me deste alívio; tem misericórdia de mim e ouve a minha oração.
@@ -45,6 +65,11 @@
 * **4:6** Muitos dizem: "Quem nos mostrará o bem?" Levanta sobre nós, YHWH, a luz do Teu rosto.
 * **4:7** Puseste mais alegria no meu coração do que eles têm quando abundam seu trigo e seu vinho.
 * **4:8** Em paz me deito e logo pego no sono, pois só Tu, YHWH, me fazes habitar em segurança.
+
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
 
 ## 5
 
@@ -61,6 +86,11 @@
 * **5:11** Mas alegrem-se todos os que se refugiam em Ti; cantem de júbilo para sempre, pois Tu os proteges; e exultem em Ti os que amam o Teu nome.
 * **5:12** Pois Tu, YHWH, abençoas o justo; como um escudo, Tu o cercas com a Tua benevolência.
 
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
+
 ## 6
 
 * **6:1** Ao regente do coro, com instrumentos de cordas, sobre a oitava. Salmo de Davi. YHWH, não me repreendas na Tua ira, nem me castigues no Teu furor.
@@ -73,6 +103,11 @@
 * **6:8** Apartai-vos de mim, todos os que praticais a iniquidade, pois YHWH ouviu a voz do meu choro.
 * **6:9** YHWH ouviu a minha súplica; YHWH aceitará a minha oração.
 * **6:10** Todos os meus inimigos serão envergonhados e grandemente perturbados; voltarão atrás e serão envergonhados num momento.
+
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
 
 ## 7
 
@@ -94,6 +129,11 @@
 * **7:16** A sua maldade voltará sobre a sua própria cabeça, e a sua violência descerá sobre o seu próprio crânio.
 * **7:17** Louvarei a YHWH segundo a Sua justiça e cantarei salmos ao nome de YHWH Elyon (Altíssimo).
 
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
+
 ## 8
 
 * **8:1** Ao regente do coro, sobre a guitite. Salmo de Davi. YHWH, nosso Adonai (Senhor), quão magnífico é o Teu nome em toda a terra, Tu que puseste a Tua glória sobre os céus!
@@ -105,6 +145,11 @@
 * **8:7** todas as ovelhas e bois, e também os animais do campo, Shaddai (Todo-poderoso).
 * **8:8** As aves dos céus e os peixes do mar, tudo o que percorre as veredas dos mares.
 * **8:9** YHWH, nosso Adonai, quão magnífico é o Teu nome em toda a terra!
+
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
 
 ## 9
 
@@ -129,6 +174,11 @@
 * **9:19** Levanta-Te, YHWH; não prevaleça o homem mortal; sejam julgadas as nações diante da Tua face.
 * **9:20** Põe-lhes medo, YHWH; saibam as nações que não passam de homens mortais. Selá.
 
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
+
 ## 10
 
 * **10:1** Por que Te conservas longe, YHWH? Por que Te escondes nos tempos de angústia?
@@ -150,6 +200,11 @@
 * **10:17** YHWH, Tu ouviste o desejo dos aflitos; prepararás o seu coração e inclinarás o Teu ouvido,
 * **10:18** para fazer justiça ao órfão e ao oprimido, a fim de que o homem mortal não mais aterrorize a terra.
 
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
+
 ## 11
 
 * **11:1** Ao regente do coro. De Davi. Em YHWH me refugio; como dizeis à minha alma: "Fugi para o monte como pássaros"?
@@ -159,6 +214,11 @@
 * **11:5** YHWH prova o justo, mas a Sua alma odeia o ímpio e o que ama a violência.
 * **11:6** Fará chover sobre os ímpios laços, fogo e enxofre; um vento tempestuoso será a parte do seu cálice.
 * **11:7** Pois YHWH é justo e ama a justiça; os retos contemplarão a Sua face.
+
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
 
 ## 12
 
@@ -171,6 +231,11 @@
 * **12:7** Tu, YHWH, os guardarás; desta geração os preservarás para sempre.
 * **12:8** Os ímpios andam por toda parte, quando a vileza é exaltada entre os filhos dos homens.
 
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
+
 ## 13
 
 * **13:1** Ao regente do coro. Salmo de Davi. Até quando, YHWH, Te esquecerás de mim para sempre? Até quando esconderás de mim o Teu rosto?
@@ -179,6 +244,11 @@
 * **13:4** para que o meu inimigo não diga: "Prevaleci contra ele", e os meus adversários não se alegrem, se eu for abalado.
 * **13:5** Para que o meu inimigo não diga: "Prevaleci contra ele", e os meus adversários não se alegrem,
 * **13:6** se eu for abalado.
+
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
 
 ## 14
 
@@ -190,6 +260,11 @@
 * **14:6** Vós envergonhais o conselho do aflito, porque YHWH é o seu refúgio.
 * **14:7** Oh, se de Sião viesse a salvação de Israel! Quando YHWH restaurar a sorte do Seu povo, Jacó se alegrará e Israel se regozijará.
 
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
+
 ## 15
 
 * **15:1** Salmo de Davi. YHWH, quem habitará no Teu tabernáculo? Quem morará no Teu santo monte?
@@ -197,6 +272,11 @@
 * **15:3** Aquele que não difama com a língua, não faz o mal ao seu próximo e não lança injúria contra o seu vizinho.
 * **15:4** Aos seus olhos, o vil é desprezado, mas honra os que temem a YHWH (SENHOR); cumpre o que jurou, ainda que para seu próprio prejuízo, e não muda.
 * **15:5** Não empresta o seu dinheiro com usura, nem aceita suborno contra o inocente. Quem age assim jamais será abalado.
+
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
 
 ## 16
 
@@ -211,6 +291,11 @@
 * **16:9** Por isso, alegra-se o meu coração e exulta a minha alma; até o meu corpo repousará em segurança.
 * **16:10** Pois não deixarás a minha alma no Sheol, nem permitirás que o teu santo veja a corrupção.
 * **16:11** Tu me farás conhecer a vereda da vida; na tua presença há plenitude de alegria, à tua direita, delícias perpetuamente.
+
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
 
 ## 17
 
@@ -229,6 +314,11 @@
 * **17:13** Levanta-te, YHWH (SENHOR), enfrenta-os, derruba-os; livra a minha alma do ímpio com a tua espada.
 * **17:14** Livra-me com a tua mão, YHWH (SENHOR), dos homens, dos homens deste mundo, cuja porção é nesta vida, e cujo ventre enches com o teu tesouro; estão fartos de filhos e deixam o que sobra aos seus descendentes.
 * **17:15** Quanto a mim, na justiça contemplarei a tua face; eu me satisfarei quando despertar à tua semelhança.
+
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
 
 ## 18
 
@@ -283,6 +373,11 @@
 * **18:49** Por isso te louvarei entre as nações, YHWH (SENHOR), e cantarei louvores ao teu nome.
 * **18:50** Ele engrandece as salvações do seu rei e usa de benignidade para com o seu ungido, para com Davi e para com a sua descendência para sempre.
 
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
+
 ## 19
 
 * **19:1** Ao mestre de música. Salmo de Davi. Os céus declaram a glória de Elohim (Deus), e o firmamento anuncia a obra das suas mãos.
@@ -300,6 +395,11 @@
 * **19:13** Também da soberba guarda o teu servo, para que não se assenhoreie de mim; então serei íntegro e ficarei livre de grande transgressão.
 * **19:14** Sejam agradáveis as palavras da minha boca e a meditação do meu coração perante a tua face, YHWH (SENHOR), minha rocha e meu redentor.
 
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
+
 ## 20
 
 * **20:1** Ao mestre de música. Salmo de Davi. YHWH (SENHOR) te ouça no dia da angústia; o nome do Elohim (Deus) de Jacó te proteja.
@@ -311,6 +411,11 @@
 * **20:7** Uns confiam em carros e outros em cavalos, mas nós faremos menção do nome de YHWH (SENHOR), nosso Elohim (Deus).
 * **20:8** Eles se encurvam e caem, mas nós nos levantamos e nos mantemos de pé.
 * **20:9** Salva-nos, YHWH (SENHOR); ouça-nos o Rei quando clamarmos.
+
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
 
 ## 21
 
@@ -327,6 +432,11 @@
 * **21:11** Porque intentaram o mal contra ti; maquinaram um ardil, mas não prevalecerão.
 * **21:12** Pois tu os farás voltar as costas; com as tuas cordas apontarás contra o rosto deles.
 * **21:13** Exalta-te, YHWH (SENHOR), na tua força; nós cantaremos e louvaremos o teu poder.
+
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
 
 ## 22
 
@@ -362,6 +472,11 @@
 * **22:30** Uma semente o servirá; será contada como geração de Adonai (meu Senhor).
 * **22:31** Virão e anunciarão a sua justiça ao povo que nascer, porquanto ele o fez.
 
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
+
 ## 23
 
 * **23:1** Salmo de Davi. YHWH (SENHOR) é o meu pastor; nada me faltará.
@@ -370,6 +485,11 @@
 * **23:4** Ainda que eu andasse pelo vale da sombra da morte, não temeria mal algum, porque tu estás comigo; a tua vara e o teu cajado me consolam.
 * **23:5** Preparas uma mesa diante de mim na presença dos meus inimigos; unges a minha cabeça com óleo, o meu cálice transborda.
 * **23:6** Certamente que a bondade e a misericórdia me seguirão todos os dias da minha vida; e habitarei na casa de YHWH (SENHOR) por longos dias.
+
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
 
 ## 24
 
@@ -383,6 +503,11 @@
 * **24:8** Quem é este Rei da Glória? YHWH, forte e poderoso; YHWH, poderoso na guerra.
 * **24:9** Levantai, ó portas, as vossas cabeças; levantai-vos, ó portais eternos, para que entre o Rei da Glória.
 * **24:10** Quem é este Rei da Glória? YHWH dos Exércitos, Ele é o Rei da Glória. Selá.
+
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
 
 ## 25
 
@@ -409,6 +534,11 @@
 * **25:21** A integridade e a retidão me preservem, porque esperei em Ti.
 * **25:22** Redime, ó Elohim, a Israel de todas as suas angústias.
 
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
+
 ## 26
 
 * **26:1** De Davi. Julga-me, YHWH, pois tenho andado na minha integridade e tenho confiado em YHWH; não vacilarei.
@@ -423,6 +553,11 @@
 * **26:10** Em cujas mãos há maldade, e cuja mão direita está cheia de subornos.
 * **26:11** Mas eu ando na minha integridade; redime-me e tem misericórdia de mim.
 * **26:12** O meu pé está firme em caminho plano; nas congregações bendirei a YHWH.
+
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
 
 ## 27
 
@@ -441,6 +576,11 @@
 * **27:13** Creio que verei a bondade de YHWH na terra dos viventes.
 * **27:14** Espera em YHWH, anima-te, e Ele fortalecerá o teu coração; espera, pois, em YHWH.
 
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
+
 ## 28
 
 * **28:1** De Davi. A Ti, YHWH, clamo; ó minha Rocha, não sejas surdo para comigo, para que, se Te calares, eu não seja semelhante aos que descem à cova.
@@ -452,6 +592,11 @@
 * **28:7** YHWH é a minha força e o meu escudo; nEle confiou o meu coração, e fui socorrido; assim o meu coração salta de prazer, e com o meu cântico O louvarei.
 * **28:8** YHWH é a força do Seu povo e o refúgio salvador do Seu ungido.
 * **28:9** Salva o Teu povo e abençoa a Tua herança; apascenta-os e exalta-os para sempre.
+
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
 
 ## 29
 
@@ -467,6 +612,11 @@
 * **29:10** YHWH preside sobre o dilúvio; YHWH permanece como Rei para sempre.
 * **29:11** YHWH dará força ao Seu povo; YHWH abençoará o Seu povo com paz.
 
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
+
 ## 30
 
 * **30:1** Salmo, cântico da dedicação da casa de Davi. Exaltar-Te-ei, YHWH, porque Tu me exaltaste e não permitiste que os meus inimigos se alegrassem sobre mim.
@@ -481,6 +631,11 @@
 * **30:10** Ouve, YHWH, e tem misericórdia de mim; YHWH, sê o meu auxílio.
 * **30:11** Tornaste o meu pranto em folguedo; tiraste o meu cilício e me cingiste de alegria.
 * **30:12** Para que a minha glória Te cante e não se cale; YHWH, meu Elohim, eu Te louvarei para sempre.
+
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
 
 ## 31
 
@@ -509,6 +664,11 @@
 * **31:23** Amai a YHWH, vós todos os Seus santos; YHWH preserva os fiéis e retribui abundantemente ao que usa de soberba.
 * **31:24** Esforçai-vos, e Ele fortalecerá o vosso coração, todos vós que esperais em YHWH.
 
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
+
 ## 32
 
 * **32:1** De Davi. Masquil. Bem-aventurado aquele cuja transgressão é perdoada, e cujo pecado é coberto.
@@ -522,6 +682,11 @@
 * **32:9** Não sejais como o cavalo, nem como a mula, que não têm entendimento, cuja boca precisa de cabresto e freio para que não se aproximem de ti.
 * **32:10** Muitas dores sofrerá o ímpio, mas aquele que confia em YHWH, a misericórdia o cercará.
 * **32:11** Alegrai-vos em YHWH e regozijai-vos, ó justos; e cantai alegremente, todos vós que sois retos de coração.
+
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
 
 ## 33
 
@@ -548,6 +713,11 @@
 * **33:21** Pois nEle se alegra o nosso coração, porquanto temos confiado no Seu santo nome.
 * **33:22** Seja a Tua misericórdia, YHWH, sobre nós, como esperamos em Ti.
 
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
+
 ## 34
 
 * **34:1** De Davi. Quando ele fingiu o seu juízo diante de Abimeleque, e este o expulsou, e ele se foi. Bendirei a YHWH em todo o tempo; o Seu louvor estará continuamente na minha boca.
@@ -572,6 +742,11 @@
 * **34:20** Ele preserva todos os seus ossos; nem um deles sequer será quebrado.
 * **34:21** A maldade matará o ímpio, e os que odeiam o justo serão condenados.
 * **34:22** YHWH (SENHOR) resgata a alma dos seus servos, e não serão condenados todos os que nele se refugiam.
+
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
 
 ## 35
 
@@ -604,6 +779,11 @@
 * **35:27** Cantem e alegrem-se os que desejam a minha justiça, e digam continuamente: Engrandecido seja YHWH (SENHOR), que se compraz na paz do seu servo.
 * **35:28** E a minha língua falará da tua justiça, todo o dia do teu louvor.
 
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
+
 ## 36
 
 * **36:1** Ao mestre de música, do servo de YHWH (SENHOR), de Davi: A transgressão do ímpio fala ao meu coração; não há temor de Elohim (Deus) diante dos seus olhos.
@@ -618,6 +798,11 @@
 * **36:10** Estende a tua benignidade aos que te conhecem, e a tua justiça aos retos de coração.
 * **36:11** Não venha sobre mim o pé da soberba, e não me mova a mão dos ímpios.
 * **36:12** Ali caíram os que praticam a maldade; foram derrubados e não poderão levantar-se.
+
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
 
 ## 37
 
@@ -662,6 +847,11 @@
 * **37:39** Mas a salvação dos justos vem de YHWH (SENHOR); ele é a sua fortaleza no tempo da angústia.
 * **37:40** YHWH (SENHOR) os ajudará e os livrará; livrá-los-á dos ímpios e os salvará, porque nele se refugiaram.
 
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
+
 ## 38
 
 * **38:1** Salmo de Davi, para memória: YHWH (SENHOR), não me repreendas na tua ira, nem me castigues no teu furor.
@@ -687,6 +877,11 @@
 * **38:21** Não me desampares, YHWH (SENHOR) Elohim (Deus) meu; não te afastes de mim.
 * **38:22** Apressa-te em meu auxílio, Adonai (Senhor), minha salvação.
 
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
+
 ## 39
 
 * **39:1** Ao mestre de música, para Jedutum, Salmo de Davi: Disse eu: Guardarei os meus caminhos para não pecar com a minha língua; porei um freio à minha boca enquanto o ímpio estiver diante de mim.
@@ -702,6 +897,11 @@
 * **39:11** Quando castigas o homem com repreensões por causa da iniquidade, fazes com que a sua beleza se consuma como a traça; na verdade, todo homem é apenas um sopro.
 * **39:12** Ouve a minha oração, YHWH (SENHOR), e inclina os ouvidos ao meu clamor; não te cales perante as minhas lágrimas, pois sou um estrangeiro contigo, um peregrino como todos os meus pais.
 * **39:13** Desvia de mim o teu olhar, para que eu tome alento, antes que eu vá e não exista mais.
+
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
 
 ## 40
 
@@ -723,6 +923,11 @@
 * **40:16** Exultem e alegrem-se em Ti todos os que Te buscam; digam sempre os que amam a Tua salvação: "Engrandecido seja YHWH (SENHOR)".
 * **40:17** Eu, porém, sou pobre e necessitado; Adonai (Senhor) cuida de mim. Tu és o meu auxílio e o meu libertador; meu Elohim (Deus), não te detenhas.
 
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
+
 ## 41
 
 * **41:1** Ao regente do coro. Um salmo de Davi. Bem-aventurado aquele que cuida do pobre; no dia do mal, YHWH (SENHOR) o livrará.
@@ -739,6 +944,11 @@
 * **41:12** Quanto a mim, Tu me sustentas na minha integridade e me colocas diante da Tua face para sempre.
 * **41:13** Bendito seja YHWH (SENHOR), Elohim (Deus) de Israel, de eternidade a eternidade. Amém e amém.
 
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
+
 ## 42
 
 * **42:1** Ao regente do coro. Um *maskil* dos filhos de Corá. Como a corça anseia pelas correntes das águas, assim a minha alma anseia por Ti, Elohim (Deus).
@@ -753,6 +963,11 @@
 * **42:10** Como com um golpe mortal em meus ossos, os meus adversários me afrontam, dizendo-me o dia todo: "Onde está o teu Elohim (Deus)?"
 * **42:11** Por que estás abatida, ó minha alma, e por que te perturbas dentro de mim? Espera em Elohim (Deus), pois ainda O louvarei, a salvação da minha face e meu Elohim (Deus).
 
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
+
 ## 43
 
 * **43:1** Faze-me justiça, Elohim (Deus), e pleiteia a minha causa contra uma nação infiel; livra-me do homem fraudulento e iníquo.
@@ -760,6 +975,11 @@
 * **43:3** Envia a Tua luz e a Tua verdade; elas me guiarão e me levarão ao Teu santo monte e aos Teus tabernáculos.
 * **43:4** Então irei ao altar de Elohim (Deus), a Elohim (Deus), a fonte da minha alegria; com harpa Te louvarei, ó Elohim (Deus), meu Elohim (Deus).
 * **43:5** Por que estás abatida, ó minha alma, e por que te perturbas dentro de mim? Espera em Elohim (Deus), pois ainda O louvarei, a salvação da minha face e meu Elohim (Deus).
+
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
 
 ## 44
 
@@ -790,6 +1010,11 @@
 * **44:25** Pois a nossa alma está abatida até o pó; o nosso ventre está colado à terra.
 * **44:26** Levanta-Te em nosso auxílio e resgata-nos por amor da Tua benignidade.
 
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
+
 ## 45
 
 * **45:1** Ao regente do coro. Segundo *Shoshannim*. Dos filhos de Corá. Um *maskil*. Cântico de amor. O meu coração transborda de boas palavras; dirijo os meus versos ao Rei; a minha língua é como a pena de um escritor ágil.
@@ -810,6 +1035,11 @@
 * **45:16** Em lugar de teus pais, estarão teus filhos; tu os farás príncipes sobre toda a terra.
 * **45:17** Farei lembrado o Teu nome de geração em geração; por isso os povos Te louvarão eternamente.
 
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
+
 ## 46
 
 * **46:1** Ao regente do coro. Dos filhos de Corá. Segundo *Alamoth*. Um cântico. Elohim (Deus) é o nosso refúgio e fortaleza, socorro bem presente nas tribulações.
@@ -824,6 +1054,11 @@
 * **46:10** Aquietai-vos e sabei que Eu sou Elohim (Deus); serei exaltado entre as nações, serei exaltado na terra.
 * **46:11** YHWH (SENHOR) dos Exércitos está conosco; o Elohim (Deus) de Jacó é o nosso refúgio. *Selah*.
 
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
+
 ## 47
 
 * **47:1** Ao regente do coro. Dos filhos de Corá. Um salmo. Batei palmas, todos os povos; aclamai a Elohim (Deus) com voz de júbilo.
@@ -835,6 +1070,11 @@
 * **47:7** Pois Elohim (Deus) é o Rei de toda a terra; cantai louvores com um *maskil*.
 * **47:8** Elohim (Deus) reina sobre as nações; Elohim (Deus) está assentado sobre o Seu santo trono.
 * **47:9** Os príncipes dos povos se ajuntam, o povo do Elohim (Deus) de Abraão; pois de Elohim (Deus) são os escudos da terra; Ele é grandemente exaltado.
+
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
 
 ## 48
 
@@ -852,6 +1092,11 @@
 * **48:12** Rodeai Sião e cercai-a; contai as suas torres.
 * **48:13** Notai bem os seus baluartes, observai os seus palácios, para que conteis à geração seguinte.
 * **48:14** Pois este Elohim (Deus) é o nosso Elohim (Deus) para sempre; Ele nos guiará até a morte.
+
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
 
 ## 49
 
@@ -875,6 +1120,11 @@
 * **49:18** Ainda que ele bendiga a sua alma enquanto vive, e os homens te louvem quando fazes bem a ti mesmo,
 * **49:19** Ele irá para a geração de seus pais; nunca mais verão a luz.
 * **49:20** O homem, em sua honra, não tem entendimento; é como os animais que perecem.
+
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
 
 ## 50
 
@@ -902,6 +1152,11 @@
 * **50:22** Entendam bem isto, vocês que se esquecem de Elohim (Deus), para que eu não os despedace sem que haja quem os livre.
 * **50:23** Quem oferece sacrifício de gratidão me honra, e àquele que prepara o seu caminho, eu mostrarei a salvação de Elohim.
 
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
+
 ## 51
 
 * **51:1** Quando o profeta Natã veio a ele, depois que ele se deitou com Bate-Seba: Tem misericórdia de mim, Elohim, segundo a tua benignidade; segundo a multidão das tuas misericórdias, apaga as minhas transgressões.
@@ -924,6 +1179,11 @@
 * **51:18** Faze o bem a Sião, conforme a tua vontade; edifica os muros de Jerusalém.
 * **51:19** Então te agradarás dos sacrifícios de justiça, dos holocaustos e das ofertas queimadas; então novilhos serão oferecidos sobre o teu altar.
 
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
+
 ## 52
 
 * **52:1** Quando Doegue, o edomita, veio e informou a Saul, dizendo-lhe: Davi veio à casa de Aimeleque. Por que te glorias na maldade, ó poderoso? A benignidade de El (Deus) dura o dia todo.
@@ -936,6 +1196,11 @@
 * **52:8** Mas eu sou como uma oliveira verdejante na casa de Elohim; confio na benignidade de Elohim para todo o sempre.
 * **52:9** Louvar-te-ei para sempre, porque tu o fizeste; e esperarei no teu nome, porque é bom diante dos teus fiéis.
 
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
+
 ## 53
 
 * **53:1** Ao regente, sobre Maalate, um Maskil de Davi. Diz o insensato no seu coração: Não há Elohim. Corromperam-se e cometeram abominação; não há quem faça o bem.
@@ -944,6 +1209,11 @@
 * **53:4** Acaso não têm conhecimento os que praticam a iniquidade, os quais comem o meu povo como se comessem pão, e não invocam a Elohim?
 * **53:5** Ali se assombraram de pavor, onde não havia motivo de pavor, porque Elohim espalhou os ossos daquele que te cercava; tu os envergonhaste, porque Elohim os rejeitou.
 * **53:6** Oh, se de Sião viesse a salvação de Israel! Quando Elohim restaurar a sorte do seu povo, exultará Jacó e alegrar-se-á Israel.
+
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
 
 ## 54
 
@@ -954,6 +1224,11 @@
 * **54:5** Ele retribuirá o mal aos meus inimigos; destrói-os na tua verdade.
 * **54:6** Com ofertas voluntárias te sacrificarei; louvarei o teu nome, YHWH (SENHOR), porque é bom.
 * **54:7** Pois ele me livrou de toda a angústia, e os meus olhos viram o desejo sobre os meus inimigos.
+
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
 
 ## 55
 
@@ -981,6 +1256,11 @@
 * **55:22** Lança o teu fardo sobre YHWH, e ele te sustentará; nunca permitirá que o justo seja abalado.
 * **55:23** Mas tu, Elohim, os farás descer ao poço da perdição; homens de sangue e de engano não viverão metade dos seus dias; eu, porém, confiarei em ti.
 
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
+
 ## 56
 
 * **56:1** Ao regente, sobre a pomba dos terebintos distantes, um Miktam de Davi, quando os filisteus o prenderam em Gate. Tem misericórdia de mim, Elohim, pois o homem me quer devorar; o dia todo me oprime combatendo-me.
@@ -997,6 +1277,11 @@
 * **56:12** Sobre mim estão os teus votos, ó Elohim; eu te renderei ações de graças.
 * **56:13** Pois tu livraste a minha alma da morte; não livrarás os meus pés da queda, para que eu ande diante de Elohim na luz dos viventes?
 
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
+
 ## 57
 
 * **57:1** Ao regente, não destruas, um Miktam de Davi, quando fugiu de Saul para a caverna. Tem misericórdia de mim, Elohim, tem misericórdia de mim, porque em ti a minha alma se refugia; e à sombra das tuas asas me refugiarei, até que passem as calamidades.
@@ -1011,6 +1296,11 @@
 * **57:10** Pois a tua benignidade é grande até aos céus, e a tua verdade até às nuvens.
 * **57:11** Exalta-te sobre os céus, Elohim; seja a tua glória sobre toda a terra.
 
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
+
 ## 58
 
 * **58:1** Ao regente, não destruas, um Miktam de Davi. Acaso falais vós, ó juízes, justiça? Julgais retamente os filhos dos homens?
@@ -1024,6 +1314,11 @@
 * **58:9** Antes que as vossas panelas sintam o fogo do espinheiro, ele os arrebatará como um turbilhão, tanto o verde como o seco.
 * **58:10** O justo se alegrará quando vir a vingança; lavará os seus pés no sangue do ímpio.
 * **58:11** Então dirá o homem: Deveras há um galardão para o justo; deveras há um Elohim que julga na terra.
+
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
 
 ## 59
 
@@ -1045,6 +1340,11 @@
 * **59:16** Eu, porém, cantarei a tua força; de manhã louvarei a tua benignidade, pois tu foste a minha fortaleza e o meu refúgio no dia da minha angústia.
 * **59:17** Força minha, a ti cantarei, pois Elohim é a minha fortaleza, o meu Elohim da benignidade.
 
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
+
 ## 60
 
 * **60:1** Quando ele combateu contra a Síria mesopotâmica e contra a Síria de Zobá, e Joabe voltou e feriu a Edom no Vale do Sal, doze mil homens. Elohim, tu nos rejeitaste, tu nos dispersaste, tu te indignaste; volta-te para nós.
@@ -1060,6 +1360,11 @@
 * **60:11** Dá-nos auxílio contra o adversário, pois vã é a salvação do homem.
 * **60:12** Em Elohim faremos proezas, e ele pisará os nossos inimigos.
 
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
+
 ## 61
 
 * **61:1** Ao regente, sobre instrumentos de corda, um salmo de Davi. Ouve, Elohim, o meu clamor; atende à minha oração.
@@ -1070,6 +1375,11 @@
 * **61:6** Prolongarás os dias do rei; e os seus anos serão como muitas gerações.
 * **61:7** Ele permanecerá diante de Elohim para sempre; prepara a benignidade e a verdade que o preservem.
 * **61:8** Assim cantarei louvores ao teu nome perpetuamente, pagando os meus votos de dia em dia.
+
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
 
 ## 62
 
@@ -1086,6 +1396,11 @@
 * **62:11** Elohim falou uma vez; duas vezes ouvi isto: que o poder pertence a Elohim.
 * **62:12** E a ti, Adonai, pertence a benignidade, pois tu retribuis a cada um segundo a sua obra.
 
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
+
 ## 63
 
 * **63:1** Salmo de Davi, quando estava no deserto de Judá. Elohim (Deus), tu és o meu Deus; eu te busco ansiosamente. Minha alma tem sede de ti; meu corpo te deseja em uma terra seca e exausta, onde não há água.
@@ -1100,6 +1415,11 @@
 * **63:10** Serão entregues ao poder da espada; serão porção para os chacais.
 * **63:11** Mas o rei se alegrará em Elohim; todo aquele que por ele jura se gloriará, pois a boca dos que falam mentiras será fechada.
 
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
+
 ## 64
 
 * **64:1** Ao regente do coro. Salmo de Davi. Ouve, Elohim, a minha voz na minha queixa; preserva a minha vida do medo do inimigo.
@@ -1112,6 +1432,11 @@
 * **64:8** A própria língua deles os fará tropeçar; todos os que os virem balançarão a cabeça.
 * **64:9** E todos os homens temerão, e anunciarão a obra de Elohim, e entenderão o que ele fez.
 * **64:10** O justo se alegrará em YHWH (SENHOR) e nele se refugiará; e todos os retos de coração se gloriarão.
+
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
 
 ## 65
 
@@ -1128,6 +1453,11 @@
 * **65:11** Coroas o ano com a tua bondade, e as tuas veredas destilam fartura.
 * **65:12** Destilam sobre as pastagens do deserto, e os outeiros se cingem de alegria.
 * **65:13** Os campos se vestem de rebanhos, e os vales se cobrem de trigo; eles se regozijam e também cantam.
+
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
 
 ## 66
 
@@ -1152,6 +1482,11 @@
 * **66:19** Mas, na verdade, Elohim me ouviu; atendeu à voz da minha oração.
 * **66:20** Bendito seja Elohim, que não rejeitou a minha oração, nem retirou de mim a sua benignidade.
 
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
+
 ## 67
 
 * **67:1** Ao regente do coro. Com instrumentos de cordas. Salmo. Cântico. Elohim tenha misericórdia de nós e nos abençoe; faça resplandecer o seu rosto sobre nós. Selá.
@@ -1161,6 +1496,11 @@
 * **67:5** Louvem-te os povos, Elohim; louvem-te os povos todos.
 * **67:6** A terra deu o seu fruto; Elohim, o nosso Elohim, nos abençoará.
 * **67:7** Elohim nos abençoará, e todos os confins da terra o temerão.
+
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
 
 ## 68
 
@@ -1199,6 +1539,11 @@
 * **68:33** Àquele que cavalga sobre os céus dos céus, que existiam desde a antiguidade; eis que ele envia a sua voz, uma voz poderosa.
 * **68:34** Atribuí força a Elohim; a sua majestade está sobre Israel, e a sua força, nas nuvens.
 * **68:35** Tremendo é Elohim desde os teus santuários; o Deus de Israel é o que dá força e poder ao povo. Bendito seja Elohim.
+
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
 
 ## 69
 
@@ -1239,6 +1584,11 @@
 * **69:35** Porque Elohim salvará a Sião e edificará as cidades de Judá; e habitarão ali e a possuirão.
 * **69:36** E a descendência dos seus servos a herdará, e os que amam o seu nome habitarão nela.
 
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
+
 ## 70
 
 * **70:1** Ao regente do coro. De Davi. Para memória. Elohim, apressa-te em livrar-me; YHWH, apressa-te em ajudar-me.
@@ -1246,6 +1596,11 @@
 * **70:3** Voltem atrás por causa da sua vergonha os que dizem: "Ah! Ah!"
 * **70:4** Regozijem-se e alegrem-se em ti todos os que te buscam; e digam continuamente os que amam a tua salvação: "Engrandecido seja Elohim".
 * **70:5** Eu, porém, sou aflito e necessitado; Elohim, apressa-te por mim; tu és o meu auxílio e o meu libertador; YHWH, não te detenhas.
+
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
 
 ## 71
 
@@ -1274,6 +1629,11 @@
 * **71:23** Os meus lábios exultarão quando eu te cantar, assim como a minha alma, que tu remiste.
 * **71:24** Também a minha língua falará de toda a tua justiça todo o dia, pois estão envergonhados e confundidos os que procuram o meu mal.
 
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
+
 ## 72
 
 * **72:1** De Salomão. Elohim, dá ao rei os teus juízos, e a tua justiça ao filho do rei.
@@ -1296,6 +1656,11 @@
 * **72:18** Bendito seja YHWH Elohim, o Elohim de Israel, que só ele faz maravilhas.
 * **72:19** E bendito seja o seu nome glorioso para sempre; e toda a terra se encha da sua glória. Amém e Amém.
 * **72:20** Acabaram-se as orações de Davi, filho de Jessé.
+
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
 
 ## 73
 
@@ -1328,6 +1693,11 @@
 * **73:27** Pois eis que os que se alongam de ti perecerão; tu destruirás todos os que se desviam de ti.
 * **73:28** Mas para mim, bom é aproximar-me de Elohim; pus a minha confiança em Adonai YHWH, para anunciar todas as tuas obras.
 
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
+
 ## 74
 
 * **74:1** Masquil de Asafe. Por que, Elohim, nos rejeitaste para sempre? Por que se acende a tua ira contra as ovelhas do teu pasto?
@@ -1354,6 +1724,11 @@
 * **74:22** Levanta-te, Elohim, pleiteia a tua causa; lembra-te da afronta que o louco te faz cada dia.
 * **74:23** Não te esqueças da voz dos teus adversários; o tumulto daqueles que se levantam contra ti aumenta continuamente.
 
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
+
 ## 75
 
 * **75:1** Ao mestre de canto. Não destruas. Salmo de Asafe. Cântico. Nós te louvamos, Elohim, nós te louvamos, e invocamos o teu nome, declarando as tuas maravilhas.
@@ -1366,6 +1741,11 @@
 * **75:8** Porque na mão de YHWH há um cálice, e o vinho é tinto, cheio de mistura; e ele derrama dele; mas todos os ímpios da terra sorverão e beberão as suas borras.
 * **75:9** Mas eu declararei para sempre; cantarei louvores ao Elohim de Jacó.
 * **75:10** E quebrarei todas as forças dos ímpios, mas as forças do justo serão exaltadas.
+
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
 
 ## 76
 
@@ -1381,6 +1761,11 @@
 * **76:10** Certamente a cólera do homem redundará em teu louvor; o restante da cólera tu o restringirás.
 * **76:11** Fazei votos, e pagai a YHWH vosso Elohim; tragam presentes os que estão ao redor dele, àquele que é temível.
 * **76:12** Ele quebrantará o espírito dos príncipes; ele é temível para os reis da terra.
+
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
 
 ## 77
 
@@ -1404,6 +1789,11 @@
 * **77:18** A voz do teu trovão estava no redemoinho; os relâmpagos alumiaram o mundo; a terra se abalou e tremeu.
 * **77:19** O teu caminho é no mar, e as tuas veredas nas grandes águas, e as tuas pegadas não são conhecidas.
 * **77:20** Guiaste o teu povo, como a um rebanho, pela mão de Moisés e de Arão.
+
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
 
 ## 78
 
@@ -1480,6 +1870,11 @@
 * **78:71** Trouxe-o de cuidar das ovelhas para apascentar a Jacó, Seu povo, e a Israel, Sua herança.
 * **78:72** Ele os apascentou segundo a integridade do seu coração e os guiou com a perícia das suas mãos.
 
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
+
 ## 79
 
 * **79:1** Salmo de Asafe. Elohim, as nações entraram na Tua herança, profanaram o Teu santo templo e reduziram Jerusalém a ruínas.
@@ -1495,6 +1890,11 @@
 * **79:11** Venha perante Ti o gemido dos presos; segundo a grandeza do Teu braço, preserva os condenados à morte.
 * **79:12** E retribui aos nossos vizinhos, sete vezes no seu seio, a afronta com que Te afrontaram, Adonai.
 * **79:13** E nós, Teu povo e ovelhas do Teu pasto, Te louvaremos para sempre; de geração em geração contaremos o Teu louvor.
+
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
 
 ## 80
 
@@ -1518,6 +1918,11 @@
 * **80:18** Assim não voltaremos atrás de Ti; vivifica-nos, e invocaremos o Teu nome.
 * **80:19** YHWH Elohim dos Exércitos, restaura-nos, faze resplandecer o Teu rosto, e seremos salvos.
 
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
+
 ## 81
 
 * **81:1** Ao mestre de canto, sobre a guitite. De Asafe. Cantai alegremente a Elohim, nossa força; celebrai ao Elohim de Jacó.
@@ -1537,6 +1942,11 @@
 * **81:15** Os que odeiam a YHWH teriam que se submeter a Ele, e o seu tempo seria para sempre.
 * **81:16** Ele o alimentaria com o trigo mais fino e o fartaria com mel da rocha.
 
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
+
 ## 82
 
 * **82:1** Salmo de Asafe. Elohim está na congregação de El; Ele julga no meio dos deuses.
@@ -1547,6 +1957,11 @@
 * **82:6** Eu disse: Vós sois deuses, e todos vós sois filhos do Elyon.
 * **82:7** Todavia, morrereis como homens e caireis como qualquer dos príncipes.
 * **82:8** Levanta-Te, Elohim, julga a terra, pois Tu possuis todas as nações.
+
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
 
 ## 83
 
@@ -1569,6 +1984,11 @@
 * **83:17** Sejam envergonhados e perturbados perpetuamente; sejam confundidos e pereçam.
 * **83:18** E saibam que Tu, cujo nome é YHWH, és o único Elyon sobre toda a terra.
 
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
+
 ## 84
 
 * **84:1** Ao mestre de canto, sobre a guitite. Dos filhos de Corá. Salmo. Quão amáveis são as Tuas moradas, YHWH dos Exércitos!
@@ -1583,6 +2003,11 @@
 * **84:10** Pois vale mais um dia nos Teus átrios do que mil em outro lugar; preferiria estar à porta da casa do meu Elohim a habitar nas tendas da impiedade.
 * **84:11** Porque YHWH Elohim é sol e escudo; YHWH dará graça e glória; não negará bem algum aos que andam na retidão.
 * **84:12** YHWH dos Exércitos, bem-aventurado o homem que em Ti confia.
+
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
 
 ## 85
 
@@ -1599,6 +2024,11 @@
 * **85:11** A verdade brotará da terra, e a justiça olhará desde os céus.
 * **85:12** Também YHWH dará o que é bom, e a nossa terra dará o seu fruto.
 * **85:13** A justiça irá adiante dEle e abrirá caminho para os Seus passos.
+
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
 
 ## 86
 
@@ -1620,6 +2050,11 @@
 * **86:16** Volta-te para mim e tem misericórdia de mim; dá a tua força ao teu servo e salva o filho da tua serva.
 * **86:17** Dá-me um sinal de bondade, para que os que me odeiam vejam e se envergonhem, pois tu, YHWH, me ajudaste e me consolaste.
 
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
+
 ## 87
 
 * **87:1** Aos filhos de Corá, um salmo, um cântico; o seu fundamento está nos montes santos.
@@ -1629,6 +2064,11 @@
 * **87:5** E de Sião se dirá: Este e aquele nasceram nela; e o próprio Elyon (Altíssimo) a estabelecerá.
 * **87:6** YHWH registrará, ao escrever os povos: Este nasceu ali. Selá.
 * **87:7** E os cantores, como os que dançam, dirão: Todas as minhas fontes estão em ti.
+
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
 
 ## 88
 
@@ -1650,6 +2090,11 @@
 * **88:16** Sobre mim passaram os teus ardores; os teus terrores me destruíram.
 * **88:17** Cercaram-me como água todo o dia; rodearam-me todos juntos.
 * **88:18** Afastaste de mim o amado e o amigo; os meus conhecidos são trevas.
+
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
 
 ## 89
 
@@ -1706,6 +2151,11 @@
 * **89:51** Com o qual os teus inimigos, YHWH, têm afrontado, com o qual têm afrontado os passos do teu ungido.
 * **89:52** Bendito seja YHWH para sempre. Amém e amém.
 
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
+
 ## 90
 
 * **90:1** Oração de Moisés, homem de Elohim. Adonai, tu tens sido o nosso refúgio, de geração em geração.
@@ -1726,6 +2176,11 @@
 * **90:16** Apareça a tua obra aos teus servos, e a tua glória sobre os seus filhos.
 * **90:17** E seja sobre nós a graça de Adonai, nosso Elohim; e confirma sobre nós a obra das nossas mãos; sim, confirma a obra das nossas mãos.
 
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
+
 ## 91
 
 * **91:1** Aquele que habita no esconderijo do Elyon, à sombra do Shaddai (Todo-poderoso) descansará.
@@ -1745,6 +2200,11 @@
 * **91:15** Ele me invocará, e eu lhe responderei; estarei com ele na angústia; livrá-lo-ei e o glorificarei.
 * **91:16** Dar-lhe-ei abundância de dias e lhe mostrarei a minha salvação.
 
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
+
 ## 92
 
 * **92:1** Salmo, cântico para o dia de sábado. Bom é louvar a YHWH e cantar louvores ao teu nome, ó Elyon.
@@ -1763,6 +2223,11 @@
 * **92:14** Na velhice ainda darão frutos; serão viçosos e florescentes,
 * **92:15** Para anunciar que YHWH é reto; ele é a minha rocha, e nele não há injustiça.
 
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
+
 ## 93
 
 * **93:1** YHWH reina, está vestido de majestade; YHWH se revestiu e cingiu de poder; o mundo também está firmado e não poderá vacilar.
@@ -1770,6 +2235,11 @@
 * **93:3** Os rios levantaram, YHWH, os rios levantaram o seu ruído; os rios levantam as suas ondas.
 * **93:4** Mas YHWH nas alturas é mais poderoso do que o ruído das grandes águas e do que as grandes ondas do mar.
 * **93:5** Os teus testemunhos são mui fiéis; a santidade convém à tua casa, YHWH, para sempre.
+
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
 
 ## 94
 
@@ -1797,6 +2267,11 @@
 * **94:22** Mas YHWH tem sido o meu alto refúgio, e Elohim (Deus), a rocha do meu abrigo.
 * **94:23** Ele fará recair sobre eles a sua própria maldade e, na sua perversidade, YHWH Eloheinu (nosso Deus) os destruirá.
 
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
+
 ## 95
 
 * **95:1** Vinde, cantemos alegremente a YHWH; façamos uma aclamação à rocha da nossa salvação.
@@ -1810,6 +2285,11 @@
 * **95:9** Onde vossos pais me tentaram, provaram-me e viram as minhas obras.
 * **95:10** Quarenta anos estive desgostado com aquela geração e disse: É um povo de coração errante, que não conhece os meus caminhos.
 * **95:11** Por isso, jurei na minha ira que não entrariam no meu descanso.
+
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
 
 ## 96
 
@@ -1827,6 +2307,11 @@
 * **96:12** Exulte o campo e tudo o que nele há; então cantarão de alegria todas as árvores do bosque.
 * **96:13** Diante de YHWH, porque ele vem, porque vem julgar a terra; julgará o mundo com justiça e os povos, com a sua fidelidade.
 
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
+
 ## 97
 
 * **97:1** YHWH reina; regozije-se a terra; alegrem-se as muitas ilhas.
@@ -1842,6 +2327,11 @@
 * **97:11** A luz semeia-se para o justo, e a alegria, para os retos de coração.
 * **97:12** Alegrai-vos em YHWH, ó justos, e dai louvores à memória da sua santidade.
 
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
+
 ## 98
 
 * **98:1** Salmo. Cantai a YHWH um cântico novo, porque ele fez maravilhas; a sua destra e o seu braço santo lhe alcançaram a vitória.
@@ -1853,6 +2343,11 @@
 * **98:7** Ruja o mar e a sua plenitude; o mundo e os que nele habitam.
 * **98:8** Os rios batam palmas; cantem de alegria juntamente os montes.
 * **98:9** Diante de YHWH, porque ele vem julgar a terra; julgará o mundo com justiça e os povos, com retidão.
+
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
 
 ## 99
 
@@ -1866,6 +2361,11 @@
 * **99:8** YHWH Eloheinu, tu os ouviste; tu foste para eles um Elohim que perdoa, ainda que vingador das suas obras.
 * **99:9** Exaltai a YHWH Eloheinu e adorai no seu santo monte, porque santo é YHWH Eloheinu.
 
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
+
 ## 100
 
 * **100:1** Salmo de louvor. Celebrai a YHWH, toda a terra.
@@ -1873,6 +2373,11 @@
 * **100:3** Sabei que YHWH é Elohim; foi ele quem nos fez, e não nós a nós mesmos; somos povo seu e ovelhas do seu pasto.
 * **100:4** Entrai pelas suas portas com ações de graças e nos seus átrios, com louvor; louvai-o e bendizei o seu nome.
 * **100:5** Porque YHWH é bom, e eterna, a sua benignidade; e a sua fidelidade dura de geração em geração.
+
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
 
 ## 101
 
@@ -1884,6 +2389,11 @@
 * **101:6** Os meus olhos procurarão os fiéis da terra, para que habitem comigo; o que anda num caminho reto, esse me servirá.
 * **101:7** O que usa de engano não habitará dentro da minha casa; o que fala mentiras não estará firme perante os meus olhos.
 * **101:8** Pela manhã destruirei todos os ímpios da terra, para desarraigar da cidade de YHWH todos os que praticam a iniquidade.
+
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
 
 ## 102
 
@@ -1916,6 +2426,11 @@
 * **102:27** Mas tu és o mesmo, e os teus anos não terão fim.
 * **102:28** Os filhos dos teus servos habitarão seguros, e a sua descendência será estabelecida perante ti.
 
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
+
 ## 103
 
 * **103:1** De Davi. Bendize, ó minha alma, a YHWH, e tudo o que há em mim bendiga o seu santo nome.
@@ -1940,6 +2455,11 @@
 * **103:20** Bendizei a YHWH, vós, seus anjos, poderosos em força, que executais a sua palavra, obedecendo à voz do seu mandado.
 * **103:21** Bendizei a YHWH, todos os seus exércitos, vós, ministros seus, que fazeis a sua vontade.
 * **103:22** Bendizei a YHWH, todas as suas obras, em todos os lugares do seu domínio. Bendize, ó minha alma, a YHWH.
+
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
 
 ## 104
 
@@ -1978,6 +2498,11 @@
 * **104:33** Cantarei a YHWH enquanto eu viver; cantarei louvores ao meu Elohim (Deus) enquanto eu existir.
 * **104:34** Que a minha meditação lhe seja agradável; eu me alegrarei em YHWH.
 * **104:35** Que os pecadores sejam consumidos da terra, e que os ímpios não existam mais. Bendize, ó minha alma, a YHWH. Aleluia!
+
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
 
 ## 105
 
@@ -2026,6 +2551,11 @@
 * **105:43** E tirou o seu povo com alegria, e os seus escolhidos com cânticos.
 * **105:44** Deu-lhes as terras das nações, e herdaram o trabalho dos povos.
 * **105:45** Para que guardassem os seus estatutos e observassem as suas leis. Aleluia!
+
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
 
 ## 106
 
@@ -2078,6 +2608,11 @@
 * **106:47** Salva-nos, YHWH, nosso Elohim (Deus), e ajunta-nos dentre as nações, para que demos graças ao teu santo nome e nos gloriemos no teu louvor.
 * **106:48** Bendito seja YHWH, Elohim (Deus) de Israel, de eternidade a eternidade. E todo o povo diga: Amém! Aleluia!
 
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
+
 ## 107
 
 * **107:1** Rendei graças a YHWH, porque ele é bom, porque a sua misericórdia dura para sempre.
@@ -2124,6 +2659,11 @@
 * **107:42** Os retos verão e se alegrarão, e toda iniquidade fechará a sua boca.
 * **107:43** Quem é sábio para guardar estas coisas e considerar as misericórdias de YHWH (SENHOR)?
 
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
+
 ## 108
 
 * **108:1** Cântico, salmo de Davi. Firme está o meu coração, Elohim (Deus); cantarei e salmodiarei, sim, com a minha glória.
@@ -2139,6 +2679,11 @@
 * **108:11** Não serias tu, Elohim, que nos rejeitaste? E não sairias, Elohim, com os nossos exércitos?
 * **108:12** Dá-nos auxílio contra o adversário, pois vã é a salvação do homem.
 * **108:13** Em Elohim faremos proezas, e ele pisará os nossos inimigos.
+
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
 
 ## 109
 
@@ -2174,6 +2719,11 @@
 * **109:30** Louvarei grandemente a YHWH com a minha boca; no meio da multidão o louvarei.
 * **109:31** Pois ele se porá à direita do necessitado, para o livrar dos que condenam a sua alma.
 
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
+
 ## 110
 
 * **110:1** Salmo de Davi. Disse YHWH ao meu Adonai: Assenta-te à minha direita, até que eu ponha os teus inimigos por escabelo dos teus pés.
@@ -2183,6 +2733,11 @@
 * **110:5** Adonai, à tua direita, ferirá os reis no dia da sua ira.
 * **110:6** Julgará entre as nações, encherá tudo de cadáveres; ferirá o cabeça sobre uma vasta terra.
 * **110:7** Beberá da ribeira no caminho, por isso levantará a cabeça.
+
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
 
 ## 111
 
@@ -2197,6 +2752,11 @@
 * **111:9** Enviou a redenção ao seu povo; ordenou a sua aliança para sempre; santo e temível é o seu nome.
 * **111:10** O temor de YHWH é o princípio da sabedoria; bom entendimento têm todos os que cumprem os seus preceitos; o seu louvor permanece para sempre.
 
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
+
 ## 112
 
 * **112:1** Louvai a Yah. Bem-aventurado o homem que teme a YHWH, que nos seus mandamentos tem grande prazer.
@@ -2210,6 +2770,11 @@
 * **112:9** Distribuiu, deu aos necessitados; a sua justiça permanece para sempre, e a sua força será exaltada em glória.
 * **112:10** O ímpio verá isso e se agastará; rangerá os dentes e se consumirá; o desejo dos ímpios perecerá.
 
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
+
 ## 113
 
 * **113:1** Louvai a Yah. Louvai, servos de YHWH, louvai o nome de YHWH.
@@ -2222,6 +2787,11 @@
 * **113:8** Para o fazer assentar com os príncipes, com os príncipes do seu povo.
 * **113:9** Faz com que a mulher estéril habite em casa, como alegre mãe de filhos. Louvai a Yah.
 
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
+
 ## 114
 
 * **114:1** Quando Israel saiu do Egito, e a casa de Jacó de um povo de língua estranha.
@@ -2232,6 +2802,11 @@
 * **114:6** Montes, que saltais como carneiros, e vós, colinas, como cordeiros?
 * **114:7** Treme, terra, na presença de Adon, na presença do Eloah (Deus) de Jacó.
 * **114:8** O qual transformou a rocha em lago de águas, e o seixo em fonte de água.
+
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
 
 ## 115
 
@@ -2253,6 +2828,11 @@
 * **115:16** Os céus são os céus de YHWH, mas a terra a deu aos filhos dos homens.
 * **115:17** Os mortos não louvam a Yah, nem os que descem ao silêncio.
 * **115:18** Mas nós bendiremos a Yah, desde agora e para sempre. Louvai a Yah.
+
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
 
 ## 116
 
@@ -2276,10 +2856,20 @@
 * **116:18** Pagarei os meus votos a YHWH, agora, na presença de todo o seu povo.
 * **116:19** Nos átrios da casa de YHWH, no meio de ti, ó Jerusalém. Louvai a Yah.
 
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
+
 ## 117
 
 * **117:1** Louvai a YHWH, todas as nações, louvai-o, todos os povos.
 * **117:2** Porque a sua benignidade é grande para conosco, e a verdade de YHWH permanece para sempre. Louvai a Yah.
+
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
 
 ## 118
 
@@ -2312,6 +2902,11 @@
 * **118:27** YHWH (SENHOR) é Deus e nos iluminou; celebrai a festa com ramos até as pontas do altar.
 * **118:28** Tu és o meu Deus (Elohim) e eu te louvarei; meu Deus (Elohim), eu te exaltarei.
 * **118:29** Rendei graças a YHWH (SENHOR), porque ele é bom, porque a sua misericórdia dura para sempre.
+
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
 
 ## 119
 
@@ -2492,6 +3087,11 @@
 * **119:175** Viva a minha alma para Te louvar, e ajudem-me os Teus juízos.
 * **119:176** Andei errante como uma ovelha perdida; busca o Teu servo, pois não me esqueci dos Teus mandamentos.
 
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
+
 ## 120
 
 * **120:1** Cântico dos degraus. Na minha angústia, clamei a YHWH, e Ele me respondeu.
@@ -2501,6 +3101,11 @@
 * **120:5** Ai de mim, que peregrino em Meseque e habito nas tendas de Quedar!
 * **120:6** Há muito que a minha alma habita com os que odeiam a paz.
 * **120:7** Eu sou pela paz, mas, quando falo, eles são pela guerra.
+
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
 
 ## 121
 
@@ -2512,6 +3117,11 @@
 * **121:6** De dia o sol não te ferirá, nem a lua de noite.
 * **121:7** YHWH te guardará de todo o mal; Ele guardará a tua alma.
 * **121:8** YHWH guardará a tua entrada e a tua saída, desde agora e para sempre.
+
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
 
 ## 122
 
@@ -2525,12 +3135,22 @@
 * **122:8** Por causa dos meus irmãos e amigos, direi: Paz seja em ti.
 * **122:9** Por causa da casa de YHWH, nosso Elohim (Deus), buscarei o teu bem.
 
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
+
 ## 123
 
 * **123:1** Cântico dos degraus. A Ti levanto os meus olhos, ó Tu que habitas nos céus.
 * **123:2** Eis que, como os olhos dos servos atentam para a mão dos seus senhores, e os olhos da serva para a mão de sua senhora, assim os nossos olhos atentam para YHWH, nosso Elohim, até que Ele tenha misericórdia de nós.
 * **123:3** Tem misericórdia de nós, YHWH, tem misericórdia de nós, pois estamos fartos de desprezo.
 * **123:4** A nossa alma está farta do escárnio dos que estão à vontade e do desprezo dos soberbos.
+
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
 
 ## 124
 
@@ -2543,6 +3163,11 @@
 * **124:7** A nossa alma escapou como um pássaro do laço dos passarinheiros; o laço quebrou-se, e nós escapamos.
 * **124:8** O nosso socorro está no nome de YHWH, que fez o céu e a terra.
 
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
+
 ## 125
 
 * **125:1** Cântico dos degraus. Os que confiam em YHWH são como o monte de Sião, que não se abala, mas permanece para sempre.
@@ -2550,6 +3175,11 @@
 * **125:3** Pois o cetro da impiedade não repousará sobre a sorte dos justos, para que os justos não estendam as suas mãos à iniquidade.
 * **125:4** Faze o bem, YHWH, aos bons e aos que são retos de coração.
 * **125:5** Mas aos que se desviam para os seus caminhos tortuosos, YHWH os levará com os que praticam a maldade. Paz sobre Israel.
+
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
 
 ## 126
 
@@ -2560,6 +3190,11 @@
 * **126:5** Os que semeiam em lágrimas segarão com alegria.
 * **126:6** Aquele que leva a preciosa semente, andando e chorando, voltará, sem dúvida, com alegria, trazendo os seus molhos.
 
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
+
 ## 127
 
 * **127:1** Cântico dos degraus de Salomão. Se YHWH não edificar a casa, em vão trabalham os que a edificam; se YHWH não guardar a cidade, em vão vigia o sentinela.
@@ -2567,6 +3202,11 @@
 * **127:3** Eis que os filhos são herança de YHWH, e o fruto do ventre o Seu galardão.
 * **127:4** Como flechas na mão de um homem valente, assim são os filhos da mocidade.
 * **127:5** Bem-aventurado o homem que enche deles a sua aljava; não serão confundidos quando falarem com os seus inimigos à porta.
+
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
 
 ## 128
 
@@ -2576,6 +3216,11 @@
 * **128:4** Eis que assim será abençoado o homem que teme a YHWH.
 * **128:5** YHWH te abençoará desde Sião, e tu verás o bem de Jerusalém em todos os dias da tua vida.
 * **128:6** E verás os filhos dos teus filhos. Paz sobre Israel.
+
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
 
 ## 129
 
@@ -2588,6 +3233,11 @@
 * **129:7** Da qual o segador não enche a sua mão, nem o que ata os molhos o seu braço.
 * **129:8** Nem os que passam dizem: A bênção de YHWH seja sobre vós; nós vos abençoamos em nome de YHWH.
 
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
+
 ## 130
 
 * **130:1** Cântico dos degraus. Das profundezas clamei a Ti, YHWH.
@@ -2599,11 +3249,21 @@
 * **130:7** Espere Israel em YHWH, pois com YHWH há benignidade, e com Ele há abundante redenção.
 * **130:8** E Ele remirá a Israel de todas as suas iniquidades.
 
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
+
 ## 131
 
 * **131:1** Cântico dos degraus de Davi. YHWH, o meu coração não se exaltou, nem os meus olhos se elevaram; não me exercitei em grandes assuntos, nem em coisas maravilhosas demais para mim.
 * **131:2** Pelo contrário, fiz calar e sossegar a minha alma; como a criança desmamada se aquieta no colo de sua mãe, assim é a minha alma para comigo.
 * **131:3** Espere Israel em YHWH, desde agora e para sempre.
+
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
 
 ## 132
 
@@ -2626,17 +3286,32 @@
 * **132:17** Ali farei brotar a força de Davi; preparei uma lâmpada para o Meu ungido.
 * **132:18** Vestirei de vergonha os seus inimigos, mas sobre ele florescerá a sua coroa.
 
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
+
 ## 133
 
 * **133:1** Cântico dos degraus de Davi. Eis quão bom e quão suave é que os irmãos vivam em união!
 * **133:2** É como o óleo precioso sobre a cabeça, que desce sobre a barba, a barba de Arão, que desce à orla das suas vestes.
 * **133:3** Como o orvalho de Hermom, que desce sobre os montes de Sião, porque ali YHWH ordena a bênção e a vida para sempre.
 
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
+
 ## 134
 
 * **134:1** Cântico dos degraus. Eis que bendizei a YHWH, vós todos os servos de YHWH, que estais de noite na casa de YHWH.
 * **134:2** Levantai as vossas mãos no santuário e bendizei a YHWH.
 * **134:3** YHWH te abençoe desde Sião, Ele que fez o céu e a terra.
+
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
 
 ## 135
 
@@ -2661,6 +3336,11 @@
 * **135:19** Casa de Israel, bendizei ao YHWH (SENHOR); casa de Arão, bendizei ao YHWH.
 * **135:20** Casa de Levi, bendizei ao YHWH; vós que temeis ao YHWH, bendizei ao YHWH.
 * **135:21** Bendito seja o YHWH desde Sião, que habita em Jerusalém. Louvai ao Yah.
+
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
 
 ## 136
 
@@ -2691,6 +3371,11 @@
 * **136:25** O que dá mantimento a toda a carne, porque a sua misericórdia dura para sempre.
 * **136:26** Rendei graças ao El (Deus) dos céus, porque a sua misericórdia dura para sempre.
 
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
+
 ## 137
 
 * **137:1** Junto aos rios da Babilônia, ali nos assentamos e choramos, lembrando-nos de Sião.
@@ -2703,6 +3388,11 @@
 * **137:8** Filha da Babilônia, que hás de ser assolada, feliz aquele que te retribuir o mal que nos fizeste.
 * **137:9** Feliz aquele que pegar nos teus filhinhos e der com eles nas pedras.
 
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
+
 ## 138
 
 * **138:1** De Davi. Eu te louvarei com todo o meu coração; na presença dos Elohim (Deus) te cantarei louvores.
@@ -2713,6 +3403,11 @@
 * **138:6** Porque o YHWH é excelso, contudo atenta para o humilde; mas ao soberbo conhece-o de longe.
 * **138:7** Se eu andar no meio da angústia, tu me reviverás; estenderás a tua mão contra a ira dos meus inimigos, e a tua destra me salvará.
 * **138:8** O YHWH aperfeiçoará o que me concerne; a tua benignidade, ó YHWH, dura para sempre; não desampares as obras das tuas mãos.
+
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
 
 ## 139
 
@@ -2741,6 +3436,11 @@
 * **139:23** Sonda-me, ó El (Deus), e conhece o meu coração; prova-me, e conhece os meus pensamentos.
 * **139:24** E vê se há em mim algum caminho mau, e guia-me pelo caminho eterno.
 
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
+
 ## 140
 
 * **140:1** Ao mestre de canto. Salmo de Davi. Livra-me, ó YHWH, do homem maligno; guarda-me do homem violento,
@@ -2757,6 +3457,11 @@
 * **140:12** Sei que o YHWH manterá a causa do aflito, e o direito dos necessitados.
 * **140:13** Assim os justos louvarão o teu nome; os retos habitarão na tua presença.
 
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
+
 ## 141
 
 * **141:1** Salmo de Davi. Ó YHWH, a ti clamo; apressa-te por mim; inclina os teus ouvidos à minha voz, quando a ti clamar.
@@ -2770,6 +3475,11 @@
 * **141:9** Guarda-me dos laços que me armaram, e das armadilhas dos que praticam a iniquidade.
 * **141:10** Caiam os ímpios nas suas próprias redes, até que eu escape.
 
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
+
 ## 142
 
 * **142:1** Masquil de Davi, quando estava na caverna. Oração. Com a minha voz clamo ao YHWH; com a minha voz suplico ao YHWH.
@@ -2779,6 +3489,11 @@
 * **142:5** A ti clamei, ó YHWH; eu disse: Tu és o meu refúgio, e o meu quinhão na terra dos viventes.
 * **142:6** Atende ao meu clamor, pois estou muito abatido; livra-me dos meus perseguidores, porque são mais fortes do que eu.
 * **142:7** Tira a minha alma da prisão, para que louve o teu nome; os justos me rodearão, pois me fizeste bem.
+
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
 
 ## 143
 
@@ -2794,6 +3509,11 @@
 * **143:10** Ensina-me a fazer a tua vontade, pois tu és o meu Eloah (Deus); o teu bom espírito me guie por terra plana.
 * **143:11** Vivifica-me, ó YHWH, por amor do teu nome; por amor da tua justiça, tira a minha alma da angústia.
 * **143:12** E por tua misericórdia, extermina os meus inimigos, e destrói todos os que angustiam a minha alma, pois eu sou teu servo.
+
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
 
 ## 144
 
@@ -2812,6 +3532,11 @@
 * **144:13** Para que as nossas despensas se encham de todo o tipo de provisões; para que as nossas ovelhas produzam milhares e dezenas de milhares em nossas ruas.
 * **144:14** Para que os nossos bois sejam fortes para o trabalho; para que não haja brechas, nem saída, nem clamor em nossas praças.
 * **144:15** Bem-aventurado o povo a quem assim sucede; bem-aventurado o povo cujo Elohim (Deus) é o YHWH.
+
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
 
 ## 145
 
@@ -2837,6 +3562,11 @@
 * **145:20** YHWH (SENHOR) guarda todos os que o amam, mas destruirá todos os ímpios.
 * **145:21** Minha boca proclamará o louvor de YHWH, e toda carne bendiga o Seu santo nome para todo o sempre.
 
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
+
 ## 146
 
 * **146:1** Aleluia! Minha alma, louva a YHWH.
@@ -2849,6 +3579,11 @@
 * **146:8** YHWH abre os olhos aos cegos, YHWH levanta os abatidos, YHWH ama os justos.
 * **146:9** YHWH protege os estrangeiros, ampara o órfão e a viúva, mas perverte o caminho dos ímpios.
 * **146:10** YHWH reinará para sempre, o teu Elohim, ó Sião, de geração em geração. Aleluia!
+
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
 
 ## 147
 
@@ -2873,6 +3608,11 @@
 * **147:19** Ele anuncia a Sua palavra a Jacó, os Seus estatutos e os Seus juízos a Israel.
 * **147:20** Não fez assim a nenhuma outra nação, e não conheceram os Seus juízos. Aleluia!
 
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
+
 ## 148
 
 * **148:1** Aleluia! Louvai a YHWH desde os céus, louvai-O nas alturas.
@@ -2890,6 +3630,11 @@
 * **148:13** Louvem o nome de YHWH, pois só o Seu nome é exaltado; a Sua glória está sobre a terra e os céus.
 * **148:14** Ele exalta o poder do Seu povo, o louvor de todos os Seus santos, dos filhos de Israel, um povo que Lhe é chegado. Aleluia!
 
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
+
 ## 149
 
 * **149:1** Aleluia! Cantai a YHWH um cântico novo, e o Seu louvor na congregação dos santos.
@@ -2901,6 +3646,11 @@
 * **149:7** Para exercer vingança entre as nações e castigos entre os povos.
 * **149:8** Para prender os seus reis com cadeias e os seus nobres com grilhões de ferro.
 * **149:9** Para executar contra eles o juízo escrito; esta é a honra de todos os Seus santos. Aleluia!
+
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
 
 ## 150
 

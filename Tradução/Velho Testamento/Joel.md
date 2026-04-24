@@ -1,5 +1,10 @@
 # Joel
 
+<a id="topo"></a>
+
+[1](#1) [2](#2) [3](#3)
+
+
 ## 1
 
 * **1:1** A palavra de YHWH (SENHOR) que veio a Joel, filho de Petuel.
@@ -22,6 +27,11 @@
 * **1:18** Como geme o gado! As manadas de bois estão confusas, porque não têm pasto; também os rebanhos de ovelhas sofrem.
 * **1:19** A ti, YHWH (SENHOR), clamo, porque o fogo consumiu as pastagens do deserto, e a chama abrasou todas as árvores do campo.
 * **1:20** Também os animais do campo suspiram por ti, porque as correntes de água secaram, e o fogo consumiu as pastagens do deserto.
+
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
 
 ## 2
 
@@ -57,6 +67,11 @@
 * **2:30** E mostrarei prodígios no céu e na terra, sangue, fogo e colunas de fumaça.
 * **2:31** O sol se converterá em trevas, e a lua em sangue, antes que venha o grande e terrível dia de YHWH (SENHOR).
 * **2:32** E acontecerá que todo aquele que invocar o nome de YHWH (SENHOR) será salvo; porque no monte Sião e em Jerusalém haverá livramento, como YHWH (SENHOR) disse, e entre os sobreviventes que YHWH (SENHOR) chamar.
+
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
 
 ## 3
 

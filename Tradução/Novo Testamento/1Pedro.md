@@ -1,5 +1,10 @@
 # 1 Pedro
 
+<a id="topo"></a>
+
+[1](#1) [2](#2) [3](#3) [4](#4) [5](#5)
+
+
 ## 1
 
 * **1:1** Pedro, apóstolo de Iēsous Christou (Jesus Messias), aos eleitos que vivem como estrangeiros na dispersão do Ponto, Galácia, Capadócia, Ásia e Bitínia,
@@ -27,6 +32,11 @@
 * **1:23** tendo sido regenerados, não de semente corruptível, mas de incorruptível, mediante a palavra de Deus, que vive e permanece.
 * **1:24** Pois toda carne é como a erva, e toda a sua glória como a flor da erva; secou-se a erva, e caiu a sua flor;
 * **1:25** mas a palavra do Senhor permanece para sempre. E esta é a palavra que vos foi evangelizada.
+
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
 
 ## 2
 
@@ -56,6 +66,11 @@
 * **2:24** o qual levou sobre si as nossas culpas no seu corpo sobre o madeiro, para que, mortos para as culpas, vivamos para a justiça; por cujas feridas fostes sarados.
 * **2:25** Pois éreis como ovelhas desgarradas, mas agora vos convertestes ao Pastor e Bispo das vossas almas.
 
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
+
 ## 3
 
 * **3:1** Semelhantemente, vós, mulheres, sede submissas aos vossos próprios maridos, para que, mesmo que alguns não obedeçam à palavra, sejam ganhos sem palavra pelo procedimento de suas mulheres,
@@ -81,6 +96,11 @@
 * **3:21** O que também, como antítipo, agora vos salva, o batismo, não a remoção da sujeira da carne, mas a indagação de uma boa consciência para com Deus, por meio da ressurreição de Jesus Messias,
 * **3:22** que está à direita de Deus, tendo ido ao céu, estando-lhe sujeitos anjos, autoridades e potestades.
 
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
+
 ## 4
 
 * **4:1** Tendo, pois, Messias sofrido na carne, armai-vos também vós do mesmo pensamento, pois aquele que sofreu na carne deixou o pecado,
@@ -102,6 +122,11 @@
 * **4:17** Porque é tempo de começar o julgamento pela casa de Deus; e, se começa primeiro por nós, qual será o fim daqueles que são desobedientes ao evangelho de Deus?
 * **4:18** E, se o justo dificilmente é salvo, onde aparecerá o ímpio e o pecador?
 * **4:19** Portanto, também os que sofrem segundo a vontade de Deus, entreguem as suas almas ao fiel Criador, praticando o bem.
+
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
 
 ## 5
 

@@ -1,5 +1,10 @@
 # Tito
 
+<a id="topo"></a>
+
+[1](#1) [2](#2) [3](#3)
+
+
 ## 1
 
 * **1:1** Paulo, servo de Theos (Deus), apóstolo de Iēsous Christos (Jesus Messias), conforme a fé dos eleitos de Deus e o pleno conhecimento da verdade que conduz à piedade,
@@ -19,6 +24,11 @@
 * **1:15** Todas as coisas são puras para os puros; mas para os contaminados e descrentes nada é puro, pois tanto a sua mente quanto a sua consciência estão contaminadas.
 * **1:16** Confessam que conhecem a Deus, mas negam-no pelas obras, sendo abomináveis, desobedientes e reprovados para toda boa obra.
 
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
+
 ## 2
 
 * **2:1** Tu, porém, fala o que convém à sã doutrina.
@@ -36,6 +46,11 @@
 * **2:13** aguardando a bendita esperança e a manifestação da glória do grande Deus e nosso Salvador, Iēsous Christos (Jesus Messias),
 * **2:14** que se entregou a si mesmo por nós, para nos remir de toda iniquidade e purificar para si um povo peculiar, zeloso de boas obras.
 * **2:15** Fala estas coisas, exorta e repreende com toda autoridade; ninguém te despreze.
+
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
 
 ## 3
 

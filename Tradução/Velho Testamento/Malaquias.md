@@ -1,5 +1,10 @@
 # Malaquias
 
+<a id="topo"></a>
+
+[1](#1) [2](#2) [3](#3) [4](#4)
+
+
 ## 1
 
 * **1:1** Sentença profética da palavra de YHWH (SENHOR) a Israel por intermédio de Malaquias.
@@ -16,6 +21,11 @@
 * **1:12** Mas vós o profanais, quando dizeis: A mesa de Adonai (Senhor) é imunda, e o seu fruto, isto é, a sua comida, é desprezível.
 * **1:13** E dizeis: Que canseira! E a desprezais, diz YHWH dos Exércitos; trazeis o roubado, o coxo e o enfermo; assim trazeis a oferta. Aceitarei eu isso da vossa mão? diz YHWH.
 * **1:14** Maldito seja o enganador que, tendo um macho no seu rebanho, faz um voto e sacrifica ao Adonai o que é defeituoso; porque eu sou um grande Rei, diz YHWH dos Exércitos, e o meu nome é temível entre as nações.
+
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
 
 ## 2
 
@@ -37,6 +47,11 @@
 * **2:16** Porque YHWH, o Elohim de Israel, diz que odeia o repúdio e aquele que cobre de violência a sua veste, diz YHWH dos Exércitos; portanto, guardai-vos em vosso espírito e não sejais desleais.
 * **2:17** Enfadais a YHWH com as vossas palavras. E ainda dizeis: Em que o enfadamos? Quando dizeis: Qualquer que faz o mal é bom aos olhos de YHWH, e nesses ele se deleita; ou: Onde está o Elohim do juízo?
 
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
+
 ## 3
 
 * **3:1** Eis que eu envio o meu mensageiro, que preparará o caminho diante de mim; e de repente virá ao seu templo o Adonai, a quem vós buscais, o mensageiro da aliança, a quem vós desejais, eis que ele vem, diz YHWH dos Exércitos.
@@ -57,6 +72,11 @@
 * **3:16** Então aqueles que temem a YHWH falam frequentemente um ao outro; e YHWH atenta e ouve; e um livro de memórias é escrito diante dele, para os que temem a YHWH e para os que se lembram do seu nome.
 * **3:17** E eles serão meus, diz YHWH dos Exércitos, naquele dia que farei, serão para mim particular tesouro; poupá-los-ei como um homem poupa a seu filho que o serve.
 * **3:18** Então voltareis e vereis a diferença entre o justo e o ímpio; entre o que serve a Elohim e o que não o serve.
+
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
 
 ## 4
 

@@ -1,5 +1,10 @@
 # Juízes
 
+<a id="topo"></a>
+
+[1](#1) [2](#2) [3](#3) [4](#4) [5](#5) [6](#6) [7](#7) [8](#8) [9](#9) [10](#10) [11](#11) [12](#12) [13](#13) [14](#14) [15](#15) [16](#16) [17](#17) [18](#18) [19](#19) [20](#20) [21](#21)
+
+
 ## 1
 
 * **1:1** Depois da morte de Josué, os filhos de Israel consultaram a YHWH (SENHOR), dizendo: "Quem de nós subirá primeiro contra os cananeus para lutar contra eles?"
@@ -39,6 +44,11 @@
 * **1:35** Os amorreus insistiram em habitar em Har-Heres, em Aijalom e em Saalbim; contudo, a mão da casa de José prevaleceu, e eles foram sujeitos a trabalhos forçados.
 * **1:36** O limite dos amorreus ia desde a subida de Acrabim, desde a Rocha e para cima.
 
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
+
 ## 2
 
 * **2:1** O anjo de YHWH subiu de Gilgal a Boquim e disse: "Fiz-vos subir do Egito e trouxe-vos à terra que jurei a vossos pais, e disse: 'Nunca violarei a minha aliança convosco'."
@@ -64,6 +74,11 @@
 * **2:21** "também eu não expulsarei mais de diante deles nenhum dos povos que Josué deixou quando morreu."
 * **2:22** "Isto é para provar Israel, se eles guardarão ou não o caminho de YHWH, como seus pais o guardaram."
 * **2:23** YHWH deixou ficar aquelas nações, não as expulsando logo, nem as entregou nas mãos de Josué.
+
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
 
 ## 3
 
@@ -99,6 +114,11 @@
 * **3:30** Assim, Moabe foi subjugado naquele dia sob a mão de Israel, e a terra teve paz por oitenta anos.
 * **3:31** Depois dele, houve Sangar, filho de Anate, que derrotou seiscentos filisteus com uma aguilhada de bois; ele também livrou Israel.
 
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
+
 ## 4
 
 * **4:1** Os filhos de Israel tornaram a fazer o que era mau aos olhos de YHWH, depois que Eúde morreu.
@@ -125,6 +145,11 @@
 * **4:22** Eis que Baraque perseguia Sísera; Jael saiu ao seu encontro e disse-lhe: "Vem, e mostrar-te-ei o homem que procuras." Ele entrou com ela, e eis que Sísera estava caído morto, com a estaca na têmpora.
 * **4:23** Assim, Elohim subjugou naquele dia Jabim, rei de Canaã, diante dos filhos de Israel.
 * **4:24** A mão dos filhos de Israel tornou-se cada vez mais dura contra Jabim, rei de Canaã, até que o destruíram.
+
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
 
 ## 5
 
@@ -159,6 +184,11 @@
 * **5:29** "As mais sábias das suas damas lhe respondiam, e ela mesma repetia as suas palavras:"
 * **5:30** "'Não acharam, não repartiram o despojo? Uma ou duas moças para cada homem; despojo de roupas coloridas para Sísera, despojo de roupas coloridas bordadas, um par de roupas coloridas bordadas para o pescoço do despojo?'"
 * **5:31** "Assim pereçam todos os teus inimigos, YHWH; mas os que te amam sejam como o sol quando sai na sua força. E a terra teve paz por quarenta anos."
+
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
 
 ## 6
 
@@ -203,6 +233,11 @@
 * **6:39** Gideão disse a Elohim: Não se acenda a tua ira contra mim, se ainda falar esta vez; permite-me provar apenas mais uma vez com o velo; que agora o velo fique seco, e em toda a terra haja orvalho.
 * **6:40** Elohim fez assim naquela noite; o velo ficou seco, e em toda a terra houve orvalho.
 
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
+
 ## 7
 
 * **7:1** Então Jerubaal, que é Gideão, e todo o povo que estava com ele, levantaram-se de madrugada e acamparam junto à fonte de Harode; o arraial de Midiã ficava-lhes ao norte, junto ao outeiro de Moré, no vale.
@@ -230,6 +265,11 @@
 * **7:23** Os homens de Israel, de Naftali, de Aser e de todo o Manassés, foram convocados e perseguiram Midiã.
 * **7:24** Gideão enviou mensageiros por toda a região montanhosa de Efraim, dizendo: Descei ao encontro de Midiã e ocupai-lhes as águas até Bete-Bara e o Jordão. Todos os homens de Efraim foram convocados e ocuparam as águas até Bete-Bara e o Jordão.
 * **7:25** Prenderam os dois príncipes de Midiã, Orebe e Zeebe; mataram Orebe na penha de Orebe e Zeebe mataram no lagar de Zeebe; perseguiram Midiã e trouxeram as cabeças de Orebe e Zeebe a Gideão, do outro lado do Jordão.
+
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
 
 ## 8
 
@@ -268,6 +308,11 @@
 * **8:33** Aconteceu que, morrendo Gideão, os filhos de Israel tornaram a prostituir-se após os baalins e puseram Baal-Berite por seu Elohim (Deus).
 * **8:34** Os filhos de Israel não se lembraram de YHWH Elohim (Deus) deles, que os livrara da mão de todos os seus inimigos em redor;
 * **8:35** nem usaram de beneficência com a casa de Jerubaal, Gideão, conforme todo o bem que ele fizera a Israel.
+
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
 
 ## 9
 
@@ -329,6 +374,11 @@
 * **9:56** Elohim (Deus) retribuiu a Abimeleque todo o mal que ele fez a seu pai, ao matar seus setenta irmãos.
 * **9:57** Elohim também fez recair sobre a cabeça deles todo o mal que os homens de Siquém praticaram, e a maldição de Jotão, filho de Jerubaal, veio sobre eles.
 
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
+
 ## 10
 
 * **10:1** Depois de Abimeleque, levantou-se, para livrar a Israel, Tola, filho de Puá, filho de Dodo, homem de Issacar, que habitava em Samir, na região montanhosa de Efraim.
@@ -349,6 +399,11 @@
 * **10:16** Eles removeram os deuses estrangeiros do meio deles e serviram a YHWH, e a alma dele se compadeceu da miséria de Israel.
 * **10:17** Os filhos de Amom se reuniram e acamparam em Gileade; os filhos de Israel se ajuntaram e acamparam em Mispa.
 * **10:18** O povo, os chefes de Gileade, disseram uns aos outros: Quem é o homem que começará a pelejar contra os filhos de Amom? Ele será o cabeça de todos os habitantes de Gileade.
+
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
 
 ## 11
 
@@ -393,6 +448,11 @@
 * **11:39** Ao fim de dois meses, ela voltou a seu pai, que cumpriu nela o voto que tinha feito; ela não conheceu homem. E tornou-se um costume em Israel:
 * **11:40** de ano em ano, as filhas de Israel vão lamentar a filha de Jefté, o gileadita, quatro dias no ano.
 
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
+
 ## 12
 
 * **12:1** Os homens de Efraim se reuniram, atravessaram para o norte e disseram a Jefté: Por que passaste para lutar contra os filhos de Amom e não nos chamaste para ir contigo? Queimaremos a tua casa contigo dentro!
@@ -410,6 +470,11 @@
 * **12:13** Depois dele, Abdom, filho de Hilel, o piratonita, julgou a Israel.
 * **12:14** Ele teve quarenta filhos e trinta netos, que montavam setenta jumentos; julgou a Israel por oito anos.
 * **12:15** Abdom, filho de Hilel, o piratonita, morreu e foi sepultado em Piratom, na terra de Efraim, na região montanhosa dos amalequitas.
+
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
 
 ## 13
 
@@ -439,6 +504,11 @@
 * **13:24** A mulher deu à luz um filho e chamou o seu nome Sansão; o menino cresceu, e YHWH o abençoou.
 * **13:25** O Ruach (Espírito) de YHWH começou a impeli-lo no acampamento de Dã, entre Zorá e Estaol.
 
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
+
 ## 14
 
 * **14:1** Sansão desceu a Timna e viu ali uma mulher das filhas dos filisteus.
@@ -462,6 +532,11 @@
 * **14:19** O Ruach de YHWH veio poderosamente sobre ele, e ele desceu a Ascalom, feriu trinta homens deles, tomou os seus despojos e deu as mudas de roupas aos que decifraram o enigma; acendeu-se a sua ira, e ele subiu à casa de seu pai.
 * **14:20** A esposa de Sansão foi dada ao seu companheiro, que tinha sido o seu amigo.
 
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
+
 ## 15
 
 * **15:1** Passado algum tempo, nos dias da sega do trigo, Sansão visitou sua esposa com um cabrito e disse: Entrarei no quarto de minha esposa; mas o pai dela não o deixou entrar.
@@ -484,6 +559,11 @@
 * **15:18** Teve muita sede, clamou a YHWH e disse: Tu deste esta grande salvação pelas mãos do teu servo, e agora morrerei de sede e cairei nas mãos dos incircuncisos?
 * **15:19** Elohim fendeu a cavidade que estava em Leí, e dela saiu água; ele bebeu, o seu espírito voltou e ele reviveu; por isso chamou o nome daquele lugar En-Hacore, que está em Leí até o dia de hoje.
 * **15:20** Ele julgou a Israel nos dias dos filisteus por vinte anos.
+
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
 
 ## 16
 
@@ -519,6 +599,11 @@
 * **16:30** Sansão disse: "Morra a minha alma com os filisteus!". Ele se inclinou com força, e a casa caiu sobre os governantes e sobre todo o povo que nela estava; e foram mais os mortos que ele matou na sua morte do que os que matara em sua vida.
 * **16:31** Seus irmãos e toda a casa de seu pai desceram, tomaram-no, subiram e o sepultaram entre Zorá e Estaol, no sepulcro de Manoá, seu pai. Ele julgou a Israel por vinte anos.
 
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
+
 ## 17
 
 * **17:1** Havia um homem da região montanhosa de Efraim, cujo nome era Micaías.
@@ -534,6 +619,11 @@
 * **17:11** O levita consentiu em morar com o homem, e o jovem lhe era como um de seus filhos.
 * **17:12** Mica consagrou o levita, o jovem tornou-se seu sacerdote e ficou na casa de Mica.
 * **17:13** Mica disse: "Agora sei que YHWH (SENHOR) me fará o bem, pois tenho um levita por sacerdote".
+
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
 
 ## 18
 
@@ -569,6 +659,11 @@
 * **18:30** Os filhos de Dã levantaram para si a imagem de escultura; e Jônatas, filho de Gérson, filho de Moisés, ele e seus filhos foram sacerdotes da tribo dos danitas até o dia do cativeiro da terra.
 * **18:31** Estabeleceram para si a imagem de escultura de Mica, que ele fizera, por todo o tempo em que a casa de Elohim (Deus) esteve em Siló.
 
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
+
 ## 19
 
 * **19:1** Aconteceu naqueles dias, não havendo rei em Israel, que um homem levita, que peregrinava nas extremidades da região montanhosa de Efraim, tomou para si uma mulher concubina de Belém de Judá.
@@ -601,6 +696,11 @@
 * **19:28** Ele lhe disse: "Levanta-te e vamos", mas não houve resposta. Ele a pôs sobre o jumento, levantou-se e foi para o seu lugar.
 * **19:29** Chegando à sua casa, tomou uma faca, agarrou a sua concubina e a dividiu, membro a membro, em doze pedaços, e os enviou por todo o território de Israel.
 * **19:30** Todo aquele que via isso dizia: "Nunca tal se fez nem se viu desde o dia em que os filhos de Israel subiram da terra do Egito até ao dia de hoje; considerai isto, consultai e falai".
+
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
 
 ## 20
 
@@ -652,6 +752,11 @@
 * **20:46** Todos os que caíram de Benjamim, naquele dia, foram vinte e cinco mil homens que puxavam da espada; todos estes eram homens valentes.
 * **20:47** Viraram-se e fugiram para o deserto, para a rocha de Rimom, seiscentos homens, e ficaram na rocha de Rimom por quatro meses.
 * **20:48** Os homens de Israel voltaram para os filhos de Benjamim e feriram-nos ao fio da espada, desde a cidade habitada até aos animais, até tudo o que se encontrou; também todas as cidades que encontraram puseram a fogo.
+
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
 
 ## 21
 

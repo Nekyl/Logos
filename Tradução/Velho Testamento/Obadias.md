@@ -1,5 +1,10 @@
 # Obadias
 
+<a id="topo"></a>
+
+[1](#1)
+
+
 ## 1
 
 * **1:1** Visão de Obadias: Assim diz Adonai YHWH (Senhor Deus) a Edom: Ouvimos uma mensagem da parte de YHWH (SENHOR), e um mensageiro foi enviado entre as nações: "Levantai-vos, e levantemo-nos contra ela para a guerra".

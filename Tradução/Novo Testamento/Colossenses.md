@@ -1,5 +1,10 @@
 # Colossenses
 
+<a id="topo"></a>
+
+[1](#1) [2](#2) [3](#3) [4](#4)
+
+
 ## 1
 
 * **1:1** Paulo, apóstolo de Christou Iēsou (Messias Jesus) pela vontade de Theou (Deus), e o irmão Timóteo,
@@ -32,6 +37,11 @@
 * **1:28** o qual nós anunciamos, advertindo a todo homem e ensinando a todo homem em toda sabedoria, para que apresentemos todo homem perfeito em Christō (Messias);
 * **1:29** para o que também trabalho, lutando segundo a sua eficácia que opera em mim com poder.
 
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
+
 ## 2
 
 * **2:1** Pois quero que saibam quão grande luta tenho por vocês e pelos que estão em Laodiceia, e por quantos não viram o meu rosto na carne,
@@ -57,6 +67,11 @@
 * **2:21** Não toques, não proves, não manuseies,
 * **2:22** coisas que todas se destinam à destruição pelo uso, segundo os mandamentos e doutrinas dos homens;
 * **2:23** as quais têm, na verdade, aparência de sabedoria em religiosidade voluntária, humildade e severidade com o corpo, mas não têm valor algum para a satisfação da carne.
+
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
 
 ## 3
 
@@ -85,6 +100,11 @@
 * **3:23** Tudo o que fizerem, façam de todo o coração, como para o Kyrion e não para homens,
 * **3:24** sabendo que do Kyriou receberão a recompensa da herança; sirvam ao Kyriō Christō.
 * **3:25** Pois quem faz injustiça receberá o que fez injustamente, e não há acepção de pessoas.
+
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
 
 ## 4
 

@@ -1,5 +1,10 @@
 # Cântico dos Cânticos
 
+<a id="topo"></a>
+
+[1](#1) [2](#2) [3](#3) [4](#4) [5](#5) [6](#6) [7](#7) [8](#8)
+
+
 ## 1
 
 * **1:1** Cântico dos Cânticos, que é de Salomão.
@@ -19,6 +24,11 @@
 * **1:15** Eis que és formosa, minha amada, eis que és formosa; os teus olhos são como os das pombas.
 * **1:16** Eis que és formoso, meu amado, e também amável; o nosso leito é viçoso.
 * **1:17** As traves da nossa casa são de cedro, e as nossas vergas de cipreste.
+
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
 
 ## 2
 
@@ -40,6 +50,11 @@
 * **2:16** O meu amado é meu, e eu sou dele; ele apascenta entre os lírios.
 * **2:17** Até que refresque o dia e as sombras fujam, volta, meu amado, faze-te semelhante ao gamo ou ao filho da gazela sobre os montes de Beter.
 
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
+
 ## 3
 
 * **3:1** De noite, na minha cama, busquei aquele a quem ama a minha alma; busquei-o e não o achei.
@@ -53,6 +68,11 @@
 * **3:9** O rei Salomão fez para si um palanquim de madeira do Líbano.
 * **3:10** As suas colunas fez de prata, o seu estrado de ouro, o seu assento de púrpura, o seu interior foi revestido com amor pelas filhas de Jerusalém.
 * **3:11** Saí, ó filhas de Sião, e vede o rei Salomão com a coroa com que sua mãe o coroou no dia do seu desposório e no dia do prazer do seu coração.
+
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
 
 ## 4
 
@@ -73,6 +93,11 @@
 * **4:15** Tu és a fonte dos jardins, poço de águas vivas, que correm do Líbano.
 * **4:16** Levanta-te, ó vento norte, e vem, tu, vento sul; sopra no meu jardim, para que os seus aromas se espalhem; venha o meu amado ao seu jardim e coma os seus frutos excelentes.
 
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
+
 ## 5
 
 * **5:1** Já vim ao meu jardim, minha irmã, minha esposa; colhi a minha mirra com as minhas especiarias, comi o meu favo com o meu mel, bebi o meu vinho com o meu leite; comei, amigos, bebei abundantemente, ó amados.
@@ -92,6 +117,11 @@
 * **5:15** As suas pernas, como colunas de mármore branco, fundadas sobre bases de ouro puro; o seu aspecto é como o Líbano, excelente como os cedros.
 * **5:16** O seu paladar é dulcíssimo, e ele é totalmente desejável; este é o meu amado, e este é o meu amigo, ó filhas de Jerusalém.
 
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
+
 ## 6
 
 * **6:1** Para onde foi o teu amado, ó mais bela entre as mulheres? Para onde se virou o teu amado, para que o busquemos contigo?
@@ -108,6 +138,11 @@
 * **6:12** Não sei como, a minha alma me pôs entre os carros do meu povo nobre.
 * **6:13** Volta, volta, ó Sulamita, volta, volta, para que nós te vejamos; que vereis na Sulamita? Como a dança de Maanaim.
 
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
+
 ## 7
 
 * **7:1** Quão formosos são os teus pés nas sandálias, ó filha de príncipe! As curvas das tuas coxas são como joias, obra de mãos de artífice.
@@ -123,6 +158,11 @@
 * **7:11** Vem, meu amado, saiamos ao campo, passemos as noites nas aldeias.
 * **7:12** Levantemo-nos de manhã para ir às vinhas, vejamos se florescem as vides, se se abre a flor, se já dão fruto as romãzeiras; ali te darei o meu amor.
 * **7:13** As mandrágoras exalam o seu perfume, e às nossas portas há toda sorte de frutos excelentes, novos e velhos; eu os guardei para ti, meu amado.
+
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
 
 ## 8
 

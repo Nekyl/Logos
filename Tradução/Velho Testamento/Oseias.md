@@ -1,5 +1,10 @@
 # Oseias
 
+<a id="topo"></a>
+
+[1](#1) [2](#2) [3](#3) [4](#4) [5](#5) [6](#6) [7](#7) [8](#8) [9](#9) [10](#10) [11](#11) [12](#12) [13](#13) [14](#14)
+
+
 ## 1
 
 * **1:1** Palavra de YHWH (SENHOR) que veio a Oseias, filho de Beeri, nos dias de Uzias, Jotão, Acaz e Ezequias, reis de Judá, e nos dias de Jeroboão, filho de Joás, rei de Israel.
@@ -13,6 +18,11 @@
 * **1:9** E Ele disse: Chama o seu nome Lo-Ami, porque vós não sois o meu povo, e eu não serei o vosso Deus.
 * **1:10** Contudo, o número dos filhos de Israel será como a areia do mar, que não se pode medir nem contar; e acontecerá que, no lugar onde se lhes dizia: Vós não sois o meu povo, se lhes dirá: Filhos do Deus vivo.
 * **1:11** E os filhos de Judá e os filhos de Israel se congregarão juntos, e constituirão para si uma só cabeça, e subirão da terra, porque grande será o dia de Jezreel.
+
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
 
 ## 2
 
@@ -40,6 +50,11 @@
 * **2:22** E a terra atenderá ao cereal, e ao vinho, e ao azeite, e eles atenderão a Jezreel.
 * **2:23** E a semearei para mim na terra, e terei misericórdia da que não alcançou misericórdia; e direi àquele que não era meu povo: Tu és meu povo; e ele dirá: Meu Elohim (Deus).
 
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
+
 ## 3
 
 * **3:1** E disse YHWH (SENHOR) a mim: Vai outra vez, ama uma mulher, amada de seu amigo, e adúltera, como YHWH (SENHOR) ama os filhos de Israel, embora eles olhem para outros Elohim (deuses) e amem bolos de passas.
@@ -47,6 +62,11 @@
 * **3:3** E eu lhe disse: Muitos dias ficarás comigo; não te prostituirás, nem serás de outro homem; e eu também serei para contigo.
 * **3:4** Porque os filhos de Israel ficarão por muitos dias sem rei, e sem príncipe, e sem sacrifício, e sem estátua, e sem éfode ou terafins.
 * **3:5** Depois tornarão os filhos de Israel, e buscarão a YHWH (SENHOR) Elohim (Deus) deles, e a Davi, seu rei; e temerão a YHWH (SENHOR) e à sua bondade, no fim dos dias.
+
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
 
 ## 4
 
@@ -70,6 +90,11 @@
 * **4:18** A sua bebida se tornou azeda; eles se prostituem continuamente; os seus governantes amam vergonhosamente o seu escudo.
 * **4:19** O vento os envolveu nas suas asas, e envergonhar-se-ão dos seus sacrifícios.
 
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
+
 ## 5
 
 * **5:1** Ouvi isto, ó sacerdotes, e escutai, ó casa de Israel, e dai ouvidos, ó casa do rei, porque a vós pertence o juízo; porque fostes um laço para Mispa, e rede estendida sobre o Tabor.
@@ -88,6 +113,11 @@
 * **5:14** Porque para Efraim serei como um leão, e como um leão novo para a casa de Judá; eu, eu os despedaçarei e irei embora; arrebatarei, e não haverá quem livre.
 * **5:15** Irei e voltarei ao meu lugar, até que se reconheçam culpados e busquem a minha face; na sua angústia me buscarão diligentemente.
 
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
+
 ## 6
 
 * **6:1** Vinde, e tornemos para YHWH (SENHOR), porque ele nos despedaçou e nos sarará; feriu, e nos atará.
@@ -101,6 +131,11 @@
 * **6:9** E como tropas de salteadores que esperam por alguém, assim é a companhia dos sacerdotes; matam no caminho, com consentimento, porque cometem abominação.
 * **6:10** Na casa de Israel vi uma coisa horrível; ali está a prostituição de Efraim, Israel se contaminou.
 * **6:11** Também para ti, ó Judá, está preparada uma colheita, quando eu fizer voltar o cativeiro do meu povo.
+
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
 
 ## 7
 
@@ -121,6 +156,11 @@
 * **7:15** Eu os castiguei, e fortaleci os seus braços, mas eles pensam mal contra mim.
 * **7:16** Eles voltam, mas não para o Altíssimo; são como um arco enganoso; os seus príncipes cairão à espada, por causa da fúria da sua língua; este será o seu escárnio na terra do Egito.
 
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
+
 ## 8
 
 * **8:1** Põe a trombeta à tua boca; ele virá como águia contra a casa de YHWH (SENHOR), porque transgrediram a minha aliança e se rebelaram contra a minha lei.
@@ -137,6 +177,11 @@
 * **8:12** Escrevi-lhe as grandezas da minha lei, mas elas são estimadas como coisa estranha.
 * **8:13** Quanto aos sacrifícios das minhas ofertas, eles sacrificam carne e a comem; mas YHWH (SENHOR) não os aceita; agora se lembrará da iniquidade deles, e visitará os seus pecados; eles voltarão para o Egito.
 * **8:14** Israel se esqueceu do seu Criador e edificou templos; e Judá multiplicou cidades fortificadas; mas eu enviarei um fogo sobre as suas cidades, que consumirá os seus palácios.
+
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
 
 ## 9
 
@@ -158,6 +203,11 @@
 * **9:16** Efraim foi ferido, a sua raiz se secou; não darão fruto; e ainda que gerem, eu matarei os frutos desejáveis do seu ventre.
 * **9:17** O meu Elohim (Deus) os rejeitará, porque não o ouviram; e serão errantes entre as nações.
 
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
+
 ## 10
 
 * **10:1** Israel é uma videira que floresce, dando fruto para si mesmo; conforme a abundância do seu fruto, multiplicou os altares; conforme a bondade da sua terra, fizeram belas estátuas.
@@ -176,6 +226,11 @@
 * **10:14** Portanto, entre o teu povo se levantará um tumulto, e todas as tuas fortalezas serão destruídas, como Salmã destruiu a Bete-Arbel no dia da batalha; a mãe foi despedaçada com os filhos.
 * **10:15** Assim vos fará Bete-El, por causa da vossa grande maldade; de madrugada o rei de Israel será totalmente destruído.
 
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
+
 ## 11
 
 * **11:1** Quando Israel era menino, eu o amei; e do Egito chamei o meu filho.
@@ -190,6 +245,11 @@
 * **11:10** Após YHWH (SENHOR) andarão; ele rugirá como um leão, pois ele rugirá, e os filhos tremerão desde o ocidente.
 * **11:11** Tremerão como um pássaro, vindos do Egito, e como uma pomba, da terra da Assíria; e os farei habitar em suas casas, declara YHWH.
 * **11:12** Efraim me cercou com mentiras, e a casa de Israel, com engano; mas Judá ainda domina com Elohim, e com os santos é fiel.
+
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
 
 ## 12
 
@@ -207,6 +267,11 @@
 * **12:12** Jacó fugiu para a terra de Arã, e Israel serviu por uma esposa, e por uma esposa guardou o rebanho.
 * **12:13** Por um profeta YHWH fez subir a Israel do Egito, e por um profeta foi ele guardado.
 * **12:14** Efraim provocou amargamente a ira; por isso, o seu Adonai (Senhor) deixará cair sobre ele o seu sangue e lhe retribuirá a sua vergonha.
+
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
 
 ## 13
 
@@ -226,6 +291,11 @@
 * **13:14** Eu os remirei da mão do Sheol (sepultura); eu os resgatarei da morte. Onde estão, ó morte, as tuas pragas? Onde está, ó Sheol, a tua destruição? O arrependimento será escondido de meus olhos.
 * **13:15** Ainda que ele dê frutos entre os irmãos, virá o vento leste, vento de YHWH, subindo do deserto, e secar-se-á a sua nascente, e esgotar-se-á a sua fonte; ele saqueará o tesouro de todos os objetos preciosos.
 * **13:16** Samaria será culpada, porque se rebelou contra o seu Elohim; cairão à espada; seus filhos serão despedaçados, e as suas mulheres grávidas serão fendidas.
+
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
 
 ## 14
 

@@ -1,5 +1,10 @@
 # Apocalipse
 
+<a id="topo"></a>
+
+[1](#1) [2](#2) [3](#3) [4](#4) [5](#5) [6](#6) [7](#7) [8](#8) [9](#9) [10](#10) [11](#11) [12](#12) [13](#13) [14](#14) [15](#15) [16](#16) [17](#17) [18](#18) [19](#19) [20](#20) [21](#21) [22](#22)
+
+
 ## 1
 
 * **1:1** Revelação de Iēsous Christou (Jesus Messias), que Theos (Deus) lhe deu para mostrar aos seus servos as coisas que devem acontecer em breve, e que ele enviou e manifestou por meio do seu anjo ao seu servo João,
@@ -22,6 +27,11 @@
 * **1:18** e o que vive; estive morto, mas eis que estou vivo pelos séculos dos séculos, e tenho as chaves da morte e do inferno.
 * **1:19** Escreve, pois, o que viste, o que é e o que deve acontecer depois disto.
 * **1:20** O mistério das sete estrelas que viste na minha mão direita, e os sete candelabros de ouro: as sete estrelas são os anjos das sete igrejas, e os sete candelabros são as sete igrejas.
+
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
 
 ## 2
 
@@ -55,6 +65,11 @@
 * **2:28** assim como também recebi de meu Pai, e dar-lhe-ei a estrela da manhã.
 * **2:29** Quem tem ouvidos, ouça o que o Espírito diz às igrejas.
 
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
+
 ## 3
 
 * **3:1** Ao anjo da igreja em Sardes escreve: Isto diz aquele que tem os sete espíritos de Deus e as sete estrelas: Conheço as tuas obras, que tens nome de que vives, e estás morto.
@@ -80,6 +95,11 @@
 * **3:21** Ao que vencer, dar-lhe-ei assentar-se comigo no meu trono, assim como eu venci e me assentei com meu Pai no seu trono.
 * **3:22** Quem tem ouvidos, ouça o que o Espírito diz às igrejas.
 
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
+
 ## 4
 
 * **4:1** Depois destas coisas, olhei, e eis uma porta aberta no céu, e a primeira voz que ouvi, como de trombeta falando comigo, dizia: Sobe aqui, e mostrar-te-ei as coisas que devem acontecer depois destas.
@@ -93,6 +113,11 @@
 * **4:9** E quando os seres viventes derem glória, honra e ações de graças àquele que está assentado sobre o trono, ao que vive pelos séculos dos séculos,
 * **4:10** os vinte e quatro anciãos prostrar-se-ão diante daquele que está assentado sobre o trono, e adorarão aquele que vive pelos séculos dos séculos, e lançarão as suas coroas diante do trono, dizendo:
 * **4:11** Digno és, Kyrios e Theos (Senhor e Deus) nosso, de receber a glória, a honra e o poder, porque tu criaste todas as coisas, e por tua vontade elas existiram e foram criadas.
+
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
 
 ## 5
 
@@ -110,6 +135,11 @@
 * **5:12** dizendo com grande voz: Digno é o Cordeiro que foi morto de receber o poder, a riqueza, a sabedoria, a força, a honra, a glória e a bênção.
 * **5:13** E ouvi toda criatura que está no céu, e na terra, e debaixo da terra, e no mar, e todas as coisas que neles há, dizerem: Àquele que está assentado sobre o trono e ao Cordeiro seja a bênção, a honra, a glória e o poder pelos séculos dos séculos.
 * **5:14** E os quatro seres viventes diziam: Amém. E os anciãos prostraram-se e adoraram.
+
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
 
 ## 6
 
@@ -131,6 +161,11 @@
 * **6:16** e diziam aos montes e às rochas: Caí sobre nós e escondei-nos da face daquele que está assentado sobre o trono e da ira do Cordeiro,
 * **6:17** porque é vindo o grande dia da ira deles, e quem poderá subsistir?
 
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
+
 ## 7
 
 * **7:1** Depois disto vi quatro anjos em pé sobre os quatro cantos da terra, segurando os quatro ventos da terra, para que nenhum vento soprasse sobre a terra, nem sobre o mar, nem sobre árvore alguma.
@@ -151,6 +186,11 @@
 * **7:16** Nunca mais terão fome, nunca mais terão sede, nem cairá sobre eles o sol, nem calor algum,
 * **7:17** porque o Cordeiro que está no meio do trono os pastoreará, e os guiará às fontes das águas da vida; e Deus limpará de seus olhos toda lágrima.
 
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
+
 ## 8
 
 * **8:1** E quando abriu o sétimo selo, fez-se silêncio no céu por cerca de meia hora.
@@ -166,6 +206,11 @@
 * **8:11** E o nome da estrela chama-se Absinto; e a terça parte das águas tornou-se em absinto, e muitos dos homens morreram das águas, porque se tornaram amargas.
 * **8:12** E o quarto anjo tocou a trombeta; e foi ferida a terça parte do sol, a terça parte da lua e a terça parte das estrelas, para que a terça parte deles se escurecesse, e o dia não brilhasse pela sua terça parte, e a noite da mesma forma.
 * **8:13** E olhei, e ouvi uma águia voando pelo meio do céu, dizendo com grande voz: Ai, ai, ai dos que habitam sobre a terra, por causa das outras vozes das trombetas dos três anjos que ainda hão de tocar.
+
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
 
 ## 9
 
@@ -191,6 +236,11 @@
 * **9:20** E os restantes dos homens, que não foram mortos por estas pragas, não se arrependeram das obras das suas mãos, para deixarem de adorar os demônios e os ídolos de ouro, de prata, de bronze, de pedra e de madeira, os quais não podem ver, nem ouvir, nem andar;
 * **9:21** e não se arrependeram dos seus homicídios, nem das suas feitiçarias, nem da sua prostituição, nem dos seus furtos.
 
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
+
 ## 10
 
 * **10:1** E vi outro anjo forte descendo do céu, vestido com uma nuvem, e o arco-íris estava sobre a sua cabeça, e o seu rosto era como o sol, e os seus pés como colunas de fogo;
@@ -204,6 +254,11 @@
 * **10:9** E fui ter com o anjo, dizendo-lhe que me desse o livrinho. E ele disse-me: Toma-o e come-o; e ele amargará o teu ventre, mas na tua boca será doce como mel.
 * **10:10** E tomei o livrinho da mão do anjo e comi-o, e era na minha boca doce como mel; e, quando o comi, amargou o meu ventre.
 * **10:11** E dizem-me: Importa que profetizes outra vez a muitos povos, nações, línguas e reis.
+
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
 
 ## 11
 
@@ -227,6 +282,11 @@
 * **11:18** E as nações se iraram, e veio a tua ira, e o tempo de serem julgados os mortos, e de dares o galardão aos teus servos, os profetas, e aos santos, e aos que temem o teu nome, aos pequenos e aos grandes, e de destruíres os que destroem a terra.
 * **11:19** E abriu-se o santuário de Deus no céu, e a arca da sua aliança foi vista no seu santuário; e houve relâmpagos, vozes, trovões, terremoto e grande saraiva.
 
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
+
 ## 12
 
 * **12:1** E viu-se um grande sinal no céu: uma mulher vestida do sol, com a lua debaixo dos seus pés, e sobre a sua cabeça uma coroa de doze estrelas;
@@ -248,6 +308,11 @@
 * **12:17** E o dragão irou-se contra a mulher, e foi fazer guerra ao restante da sua descendência, os que guardam os mandamentos de Deus e têm o testemunho de Iēsous (Jesus).
 * **12:18** E pôs-se sobre a areia do mar.
 
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
+
 ## 13
 
 * **13:1** E vi subir do mar uma besta com dez chifres e sete cabeças, e sobre os seus chifres dez coroas, e sobre as suas cabeças nomes de blasfêmia.
@@ -268,6 +333,11 @@
 * **13:16** E faz a todos, pequenos e grandes, ricos e pobres, livres e escravos, que lhes seja posto um sinal sobre a mão direita ou sobre a testa,
 * **13:17** para que ninguém possa comprar ou vender, senão aquele que tiver o sinal, o nome da besta ou o número do seu nome.
 * **13:18** Aqui há sabedoria. Aquele que tem entendimento calcule o número da besta, pois é número de homem; e o seu número é seiscentos e sessenta e seis.
+
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
 
 ## 14
 
@@ -292,6 +362,11 @@
 * **14:19** E o anjo lançou a sua gadanha na terra, e vindimou a videira da terra, e lançou-a no grande lagar da ira de Deus.
 * **14:20** E o lagar foi pisado fora da cidade, e saiu sangue do lagar até aos freios dos cavalos, por mil e seiscentos estádios.
 
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
+
 ## 15
 
 * **15:1** E vi outro grande e maravilhoso sinal no céu: sete anjos que tinham as sete últimas pragas, porque nelas se consumou a ira de Deus.
@@ -302,6 +377,11 @@
 * **15:6** e os sete anjos que tinham as sete pragas saíram do santuário, vestidos de linho puro e resplandecente, e cingidos ao peito com cintos de ouro.
 * **15:7** E um dos quatro seres viventes deu aos sete anjos sete taças de ouro, cheias da ira de Deus, que vive pelos séculos dos séculos.
 * **15:8** E o santuário encheu-se de fumaça, proveniente da glória de Deus e do seu poder; e ninguém podia entrar no santuário, até que se consumassem as sete pragas dos sete anjos.
+
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
 
 ## 16
 
@@ -327,6 +407,11 @@
 * **16:20** E toda ilha fugiu, e não se acharam montes.
 * **16:21** E caiu do céu sobre os homens grande saraiva, cada pedra do peso de um talento; e os homens blasfemaram a Theos (Deus) por causa da praga da saraiva, porque a sua praga é muito grande.
 
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
+
 ## 17
 
 * **17:1** E veio um dos sete anjos que tinham as sete taças e falou comigo, dizendo: Vem, mostrar-te-ei a sentença da grande prostituta que está sentada sobre muitas águas,
@@ -347,6 +432,11 @@
 * **17:16** E os dez chifres que viste, e a besta, estes odiarão a prostituta, e a deixarão desolada e nua, e comerão as suas carnes, e a queimarão no fogo;
 * **17:17** porque Theos (Deus) pôs nos seus corações que cumpram o propósito dele, e que tenham um mesmo propósito, e que deem à besta o seu reino, até que se cumpram as palavras de Theos (Deus).
 * **17:18** E a mulher que viste é a grande cidade que reina sobre os reis da terra.
+
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
 
 ## 18
 
@@ -375,6 +465,11 @@
 * **18:23** nunca mais brilhará em ti a luz de lamparina; nunca mais se ouvirá em ti voz de noivo e de noiva; porque os teus mercadores eram os grandes da terra, porque pela tua feitiçaria foram enganadas todas as nações;
 * **18:24** e nela se achou o sangue de profetas e de santos, e de todos os que foram mortos sobre a terra.
 
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
+
 ## 19
 
 * **19:1** Depois destas coisas, ouvi no céu como que uma grande voz de numerosa multidão, que dizia: Aleluia! A salvação, a glória e o poder pertencem ao nosso Theos (Deus),
@@ -399,6 +494,11 @@
 * **19:20** E a besta foi presa, e com ela o falso profeta que diante dela fizera os sinais, com os quais enganou os que receberam o sinal da besta e os que adoravam a sua imagem; vivos foram lançados os dois no lago de fogo que arde com enxofre.
 * **19:21** E os restantes foram mortos com a espada que saía da boca daquele que estava montado no cavalo, e todas as aves se fartaram das carnes deles.
 
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
+
 ## 20
 
 * **20:1** E vi descer do céu um anjo, que tinha a chave do abismo e uma grande cadeia na sua mão.
@@ -416,6 +516,11 @@
 * **20:13** E o mar entregou os mortos que nele havia; e a morte e o inferno entregaram os mortos que neles havia; e foram julgados cada um segundo as suas obras.
 * **20:14** E a morte e o inferno foram lançados no lago de fogo. Esta é a segunda morte, o lago de fogo.
 * **20:15** E se alguém não foi achado escrito no livro da vida, foi lançado no lago de fogo.
+
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
 
 ## 21
 
@@ -446,6 +551,11 @@
 * **21:25** e as suas portas não se fecharão de dia, porque ali não haverá noite;
 * **21:26** e a ela trarão a glória e a honra das nações;
 * **21:27** E não entrará nela coisa alguma impura, nem quem pratique abominação e mentira, mas somente os que estão inscritos no livro da vida do Arníon (Cordeiro).
+
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
 
 ## 22
 

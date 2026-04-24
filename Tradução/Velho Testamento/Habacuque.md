@@ -1,5 +1,10 @@
 # Habacuque
 
+<a id="topo"></a>
+
+[1](#1) [2](#2) [3](#3)
+
+
 ## 1
 
 * **1:1** A sentença que o profeta Habacuque recebeu em visão.
@@ -19,6 +24,11 @@
 * **1:15** Eles a todos levantam com o anzol, apanham-nos com a sua rede e ajuntam-nos na sua rede varredoura; por isso se alegram e se regozijam.
 * **1:16** Por isso sacrificam à sua rede e queimam incenso à sua rede varredoura; porque por elas a sua porção é gorda e o seu alimento é farto.
 * **1:17** Porventura por isso esvaziarão a sua rede e não deixarão de matar as nações continuamente?
+
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
 
 ## 2
 
@@ -42,6 +52,11 @@
 * **2:18** Que aproveita a imagem de escultura, depois que o seu artífice a esculpiu? A imagem de fundição e a mentira, para que o artífice confie na sua obra, fazendo ídolos mudos?
 * **2:19** Ai daquele que diz ao pau: Acorda! E à pedra muda: Desperta! Pode isso ensinar? Eis que está coberto de ouro e prata, mas não há fôlego nenhum no seu interior.
 * **2:20** Mas YHWH está no Seu santo templo; cale-se diante d'Ele toda a terra.
+
+
+<div align="right">
+  <a href="#topo"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
 
 ## 3
 
