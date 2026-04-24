@@ -66,18 +66,6 @@ Cada fonte passa por uma análise detalhada de confiabilidade, incluindo identif
   <a href="#-índice"><strong>&#x25B2; Voltar ao Índice</strong></a>
 </div>
 
-## Licença
-
-Este projeto está licenciado sob a [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
-
-Os textos-fonte em grego (SBLGNT) são distribuídos sob [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) pela Society of Biblical Literature. A tradução aqui presente é um trabalho derivado atribuído a **Nekyl**.
-
-<div align="right">
-  <a href="#-índice"><strong>&#x25B2; Voltar ao Índice</strong></a>
-</div>
-
----
-
 ## 📖 Velho Testamento
 
 - [Gênesis](Tradução/Velho%20Testamento/Gênesis.md)
@@ -153,6 +141,18 @@ Os textos-fonte em grego (SBLGNT) são distribuídos sob [CC BY 4.0](https://cre
 - [3João](Tradução/Novo%20Testamento/3João.md)
 - [Judas](Tradução/Novo%20Testamento/Judas.md)
 - [Apocalipse](Tradução/Novo%20Testamento/Apocalipse.md)
+
+<div align="right">
+  <a href="#-índice"><strong>&#x25B2; Voltar ao Índice</strong></a>
+</div>
+
+---
+
+## Licença
+
+Este projeto está licenciado sob a [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
+
+Os textos-fonte em grego (SBLGNT) são distribuídos sob [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) pela Society of Biblical Literature. A tradução aqui presente é um trabalho derivado atribuído a **Nekyl**.
 
 <div align="right">
   <a href="#-índice"><strong>&#x25B2; Voltar ao Índice</strong></a>
