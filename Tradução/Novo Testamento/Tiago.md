@@ -1,14 +1,9 @@
 # Tiago
 
-<a id="topo"></a>
-
+### Capítulos
 [1](#1) [2](#2) [3](#3) [4](#4) [5](#5)
 
-<div align="right">
-  <a href="../../README.md#-novo-testamento"><strong>&#x2190; Voltar ao Sumário</strong></a>
-  &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#topo"><strong>Voltar ao Índice &#x25B2;</strong></a>
-</div>
+<a href="../../README.md#-novo-testamento"><strong>&#x2190; Voltar ao Sumário</strong></a>
 
 ## 1
 
