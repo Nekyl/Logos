@@ -14,7 +14,7 @@
 
 ### Novo Testamento (Grego)
 
-- **Arquivo**: `NT (Grego)/text/*.txt` (27 arquivos)
+- **Arquivo**: `NT (Grego)/*.txt` (27 arquivos)
 - **Tamanho total**: 1.69 MB
 - **Formato**: TXT com grego politônico
 - **Livros**: 27 (todos presentes)
