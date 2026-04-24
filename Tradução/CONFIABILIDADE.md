@@ -106,6 +106,8 @@ Todos os versos conferem com o grego. Termos teológicos bem renderizados.
 
 ## 5. Confiabilidade dos Textos Originais
 
+> Para a análise técnica completa com identificação da fonte, comparação com manuscritos e veredito detalhado, consulte **[Fontes/ANALISE.md](../Fontes/ANALISE.md)**.
+
 ### Velho Testamento (Hebraico)
 - **Fonte**: OpenScriptures Hebrew Bible (baseado no Codex Leningradensis, 1008 d.C.)
 - **Tipo**: Texto consonantal massorético com Strong's numbers e tags morfológicas

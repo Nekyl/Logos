@@ -10,7 +10,7 @@ Tradução integral dos 66 livros da Bíblia (31.084 versículos) com consulta d
 - [Novo Testamento](#-novo-testamento)
 - [Sobre a tradução](#sobre-a-tradução)
 - [Estrutura](#estrutura)
-- [Textos-fonte](#textos-fonte)
+- [Fontes](#fontes)
 - [Mais detalhes](#mais-detalhes)
 - [Licença](#licença)
 - [Fontes — VT (Hebraico)](Fontes/VT%20(Hebraico)/hebrew.json)
@@ -41,12 +41,14 @@ Logos/
   <a href="#-índice"><strong>&#x25B2; Voltar ao Índice</strong></a>
 </div>
 
-## Textos-fonte
+## Fontes
 
 | Testamento | Idioma | Fonte | Diretório |
 |------------|--------|-------|-----------|
 | Velho Testamento | Hebraico | OpenScriptures Hebrew Bible (baseado no Codex Leningradensis, 1008 d.C.) | [`hebrew.json`](Fontes/VT%20(Hebraico)/hebrew.json) |
 | Novo Testamento | Grego koiné | SBL Greek New Testament (SBLGNT) | [Fontes/NT (Grego)](Fontes/NT%20(Grego)/) |
+
+Cada fonte passa por uma análise detalhada de confiabilidade, incluindo identificação da procedência real do texto, comparação com manuscritos de referência, mapeamento de variantes textuais e veredito individual: **[Fontes/ANALISE.md](Fontes/ANALISE.md)**.
 
 <div align="right">
   <a href="#-índice"><strong>&#x25B2; Voltar ao Índice</strong></a>
