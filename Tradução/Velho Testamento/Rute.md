@@ -1,18 +1,6 @@
-<!-- topo -->
 # Rute
 
-<!-- INDICE -->
-## 📜 Índice
-
-**4 capítulos**
-[1](#cap-1) · [2](#cap-2) · [3](#cap-3) · [4](#cap-4)
-
-<div align="right"><a href="#topo"><strong>▲ Voltar ao topo</strong></a></div>
-
-<!-- FIM_INDICE -->
-
-
-## 1 {#cap-1}
+## 1
 
 * **1** Aconteceu nos dias em que os juízes julgavam, que houve fome na terra; por isso, um homem de Belém de Judá foi morar nos campos de Moabe, ele, sua esposa e seus dois filhos.
 * **2** O nome do homem era Elimeleque, o nome de sua esposa era Noemi, e os nomes de seus dois filhos eram Malom e Quiliom, efrateus de Belém de Judá. Eles chegaram aos campos de Moabe e lá ficaram.
@@ -37,7 +25,7 @@
 * **21** Cheia eu parti, mas YHWH me fez voltar vazia. Por que me chamais Noemi, se YHWH testemunhou contra mim e o Shaddai me afligiu?
 * **22** Assim voltou Noemi, e com ela Rute, a moabita, sua nora, que voltara dos campos de Moabe; e chegaram a Belém no início da colheita da cevada.
 
-## 2 {#cap-2}
+## 2
 
 * **1** Noemi tinha um parente de seu marido, um homem valente e poderoso, da família de Elimeleque, cujo nome era Boaz.
 * **2** Rute, a moabita, disse a Noemi: Deixa-me ir ao campo colher espigas atrás daquele em cujos olhos eu achar graça. Ela lhe disse: Vai, minha filha.
@@ -63,7 +51,7 @@
 * **22** Noemi disse a Rute, sua nora: É bom, minha filha, que saias com as suas moças, para que não te molestem em outro campo.
 * **23** Ela ficou, pois, junto às moças de Boaz, colhendo até que a colheita da cevada e a do trigo terminaram, e morava com sua sogra.
 
-## 3 {#cap-3}
+## 3
 
 * **1** Noemi, sua sogra, disse-lhe: Minha filha, não devo eu buscar descanso para ti, para que te vá bem?
 * **2** Agora, não é Boaz, com cujas moças estiveste, nosso parente? Eis que ele joeira a cevada na eira esta noite.
@@ -84,7 +72,7 @@
 * **17** E disse: Estas seis medidas de cevada ele me deu, pois disse: Não voltes vazia para a tua sogra.
 * **18** Noemi disse: Espera, minha filha, até que saibas como o caso terminará, pois o homem não descansará até que hoje mesmo conclua este assunto.
 
-## 4 {#cap-4}
+## 4
 
 * **1** Boaz subiu à porta e sentou-se ali; e eis que o remidor, de quem Boaz falara, ia passando. Boaz disse: Ó fulano, desvia-te e senta-te aqui. Ele se desviou e sentou-se.
 * **2** Boaz tomou dez homens dos anciãos da cidade e disse: Assentai-vos aqui. E eles se assentaram.

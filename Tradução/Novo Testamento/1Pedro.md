@@ -1,18 +1,6 @@
-<!-- topo -->
 # 1 Pedro
 
-<!-- INDICE -->
-## 📜 Índice
-
-**5 capítulos**
-[1](#cap-1) · [2](#cap-2) · [3](#cap-3) · [4](#cap-4) · [5](#cap-5)
-
-<div align="right"><a href="#topo"><strong>▲ Voltar ao topo</strong></a></div>
-
-<!-- FIM_INDICE -->
-
-
-## 1 {#cap-1}
+## 1
 
 * **1** Pedro, apóstolo de Iēsous Christou (Jesus Messias), aos eleitos que vivem como estrangeiros na dispersão do Ponto, Galácia, Capadócia, Ásia e Bitínia,
 * **2** escolhidos segundo a presciência de Theos Patēr (Deus Pai), pela santificação do Pneuma Hagion (Espírito Santo), para a obediência e a aspersão do sangue de Jesus Messias: que a graça e a paz vos sejam multiplicadas.
@@ -40,7 +28,7 @@
 * **24** Pois toda carne é como a erva, e toda a sua glória como a flor da erva; secou-se a erva, e caiu a sua flor;
 * **25** mas a palavra do Senhor permanece para sempre. E esta é a palavra que vos foi evangelizada.
 
-## 2 {#cap-2}
+## 2
 
 * **1** Despojando-vos, pois, de toda maldade, de todo dolo, de hipocrisias, invejas e de todas as maledicências,
 * **2** como recém-nascidos, desejai ardentemente o puro leite espiritual, para que por ele cresçais para a salvação,
@@ -68,7 +56,7 @@
 * **24** o qual levou sobre si as nossas culpas no seu corpo sobre o madeiro, para que, mortos para as culpas, vivamos para a justiça; por cujas feridas fostes sarados.
 * **25** Pois éreis como ovelhas desgarradas, mas agora vos convertestes ao Pastor e Bispo das vossas almas.
 
-## 3 {#cap-3}
+## 3
 
 * **1** Semelhantemente, vós, mulheres, sede submissas aos vossos próprios maridos, para que, mesmo que alguns não obedeçam à palavra, sejam ganhos sem palavra pelo procedimento de suas mulheres,
 * **2** ao observarem o vosso procedimento casto em temor.
@@ -93,7 +81,7 @@
 * **21** O que também, como antítipo, agora vos salva, o batismo, não a remoção da sujeira da carne, mas a indagação de uma boa consciência para com Deus, por meio da ressurreição de Jesus Messias,
 * **22** que está à direita de Deus, tendo ido ao céu, estando-lhe sujeitos anjos, autoridades e potestades.
 
-## 4 {#cap-4}
+## 4
 
 * **1** Tendo, pois, Messias sofrido na carne, armai-vos também vós do mesmo pensamento, pois aquele que sofreu na carne deixou o pecado,
 * **2** para que, no tempo que resta na carne, não vivais mais para as paixões dos homens, mas para a vontade de Deus.
@@ -115,7 +103,7 @@
 * **18** E, se o justo dificilmente é salvo, onde aparecerá o ímpio e o pecador?
 * **19** Portanto, também os que sofrem segundo a vontade de Deus, entreguem as suas almas ao fiel Criador, praticando o bem.
 
-## 5 {#cap-5}
+## 5
 
 * **1** Exorto, pois, aos presbíteros que estão entre vós, eu, que sou presbítero com eles e testemunha dos sofrimentos de Messias, e também participante da glória que há de ser revelada:
 * **2** pastoreai o rebanho de Deus que está entre vós, cuidando dele, não por obrigação, mas voluntariamente, segundo Deus, nem por torpe ganância, mas de boa vontade,

@@ -1,18 +1,6 @@
-<!-- topo -->
 # Colossenses
 
-<!-- INDICE -->
-## 📜 Índice
-
-**4 capítulos**
-[1](#cap-1) · [2](#cap-2) · [3](#cap-3) · [4](#cap-4)
-
-<div align="right"><a href="#topo"><strong>▲ Voltar ao topo</strong></a></div>
-
-<!-- FIM_INDICE -->
-
-
-## 1 {#cap-1}
+## 1
 
 * **1** Paulo, apóstolo de Christou Iēsou (Messias Jesus) pela vontade de Theou (Deus), e o irmão Timóteo,
 * **2** aos santos e fiéis irmãos em Christo que estão em Colossos: graça a vocês e paz da parte de Theou Patēr (Deus Pai) nosso.
@@ -44,7 +32,7 @@
 * **28** o qual nós anunciamos, advertindo a todo homem e ensinando a todo homem em toda sabedoria, para que apresentemos todo homem perfeito em Christō (Messias);
 * **29** para o que também trabalho, lutando segundo a sua eficácia que opera em mim com poder.
 
-## 2 {#cap-2}
+## 2
 
 * **1** Pois quero que saibam quão grande luta tenho por vocês e pelos que estão em Laodiceia, e por quantos não viram o meu rosto na carne,
 * **2** para que os corações deles sejam consolados, unidos em amor e em toda a riqueza da plena certeza do entendimento, para o conhecimento do mistério de Theou, Christou,
@@ -70,7 +58,7 @@
 * **22** coisas que todas se destinam à destruição pelo uso, segundo os mandamentos e doutrinas dos homens;
 * **23** as quais têm, na verdade, aparência de sabedoria em religiosidade voluntária, humildade e severidade com o corpo, mas não têm valor algum para a satisfação da carne.
 
-## 3 {#cap-3}
+## 3
 
 * **1** Se, pois, vocês foram ressuscitados com Christō, busquem as coisas lá do alto, onde Christos está sentado à direita de Theou;
 * **2** pensem nas coisas lá do alto, não nas que são da terra;
@@ -98,7 +86,7 @@
 * **24** sabendo que do Kyriou receberão a recompensa da herança; sirvam ao Kyriō Christō.
 * **25** Pois quem faz injustiça receberá o que fez injustamente, e não há acepção de pessoas.
 
-## 4 {#cap-4}
+## 4
 
 * **1** Senhores, deem aos escravos o que é justo e equitativo, sabendo que também vocês têm um Kyrion no céu.
 * **2** Perseverem na oração, vigiando nela com gratidão,

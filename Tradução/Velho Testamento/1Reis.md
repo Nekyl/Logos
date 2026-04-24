@@ -1,20 +1,6 @@
-<!-- topo -->
 # 1 Reis
 
-<!-- INDICE -->
-## 📜 Índice
-
-**22 capítulos**
-[1](#cap-1) · [2](#cap-2) · [3](#cap-3) · [4](#cap-4) · [5](#cap-5) · [6](#cap-6) · [7](#cap-7) · [8](#cap-8) · [9](#cap-9) · [10](#cap-10)
-[11](#cap-11) · [12](#cap-12) · [13](#cap-13) · [14](#cap-14) · [15](#cap-15) · [16](#cap-16) · [17](#cap-17) · [18](#cap-18) · [19](#cap-19) · [20](#cap-20)
-[21](#cap-21) · [22](#cap-22)
-
-<div align="right"><a href="#topo"><strong>▲ Voltar ao topo</strong></a></div>
-
-<!-- FIM_INDICE -->
-
-
-## 1 {#cap-1}
+## 1
 
 * **1** O rei Davi era velho e avançado em idade; cobriam-no com roupas, mas ele não se aquecia.
 * **2** Seus servos lhe disseram: "Busquem para Adonai (meu senhor), o rei, uma jovem virgem, que esteja diante do rei, cuide dele, durma em seu regaço e assim Adonai (meu senhor), o rei, se aquecerá".
@@ -70,7 +56,7 @@
 * **52** Salomão disse: "Se ele se mostrar um homem valente, não cairá nem um fio de cabelo seu na terra; mas, se for achada maldade nele, morrerá".
 * **53** O rei Salomão enviou homens, e eles o tiraram do altar; ele veio, prostrou-se diante do rei Salomão, e Salomão lhe disse: "Vai para tua casa".
 
-## 2 {#cap-2}
+## 2
 
 * **1** Aproximando-se os dias de Davi para morrer, ele deu ordens a Salomão, seu filho, dizendo:
 * **2** "Eu vou pelo caminho de toda a terra; sê forte e sê homem."
@@ -119,7 +105,7 @@
 * **45** "Mas o rei Salomão será bendito, e o trono de Davi será firme diante de YHWH (SENHOR) para sempre."
 * **46** O rei ordenou a Benaia, filho de Joiada, que saiu, feriu-o e ele morreu. O reino estava firme nas mãos de Salomão.
 
-## 3 {#cap-3}
+## 3
 
 * **1** Salomão aparentou-se com Faraó, rei do Egito; tomou a filha de Faraó e a trouxe à cidade de Davi, até que acabasse de edificar a sua casa, a casa de YHWH (SENHOR) e o muro de Jerusalém ao redor.
 * **2** Somente o povo sacrificava nos altos, pois até aqueles dias não se edificara casa ao nome de YHWH (SENHOR).
@@ -150,7 +136,7 @@
 * **27** O rei respondeu: "Dai àquela o menino vivo e não o mateis; ela é a sua mãe".
 * **28** Todo o Israel ouviu o juízo que o rei dera e temeram diante do rei, pois viram que havia nele a sabedoria de Elohim (Deus) para fazer justiça.
 
-## 4 {#cap-4}
+## 4
 
 * **1** O rei Salomão era rei sobre todo o Israel.
 * **2** Estes eram os príncipes que ele tinha: Azarias, filho de Zadoque, o sacerdote;
@@ -187,7 +173,7 @@
 * **33** Discorreu sobre as árvores, desde o cedro do Líbano até o hissopo que brota no muro; falou também sobre os animais, as aves, os répteis e os peixes.
 * **34** De todos os povos vinham pessoas para ouvir a sabedoria de Salomão, enviadas por todos os reis da terra que tinham ouvido falar da sua sabedoria.
 
-## 5 {#cap-5}
+## 5
 
 * **1** Hirão, rei de Tiro, enviou os seus servos a Salomão, pois soube que o tinham ungido rei em lugar de seu pai, visto que Hirão sempre fora amigo de Davi.
 * **2** Salomão enviou esta mensagem a Hirão:
@@ -208,7 +194,7 @@
 * **17** O rei ordenou que extraíssem pedras grandes e valiosas, pedras lavradas, para os alicerces da casa.
 * **18** Os construtores de Salomão, os de Hirão e os gebalitas lavraram as pedras e prepararam a madeira e as pedras para a edificação da casa.
 
-## 6 {#cap-6}
+## 6
 
 * **1** No ano quatrocentos e oitenta após a saída dos filhos de Israel da terra do Egito, no quarto ano do reinado de Salomão sobre Israel, no mês de Zive, que é o segundo mês, ele começou a edificar a casa de YHWH (SENHOR).
 * **2** A casa que o rei Salomão edificou para YHWH (SENHOR) tinha sessenta côvados de comprimento, vinte de largura e trinta de altura.
@@ -249,7 +235,7 @@
 * **37** No quarto ano, foram lançados os alicerces da casa de YHWH (SENHOR), no mês de Zive.
 * **38** No décimo primeiro ano, no mês de Bule, que é o oitavo mês, a casa foi terminada em todos os seus detalhes e conforme todo o seu projeto; ele a edificou em sete anos.
 
-## 7 {#cap-7}
+## 7
 
 * **1** Salomão também edificou a sua própria casa em treze anos, até terminar toda a sua construção.
 * **2** Edificou a Casa do Bosque do Líbano, de cem côvados de comprimento, cinquenta de largura e trinta de altura, sobre quatro fileiras de colunas de cedro, com vigas de cedro sobre as colunas.
@@ -303,7 +289,7 @@
 * **50** As bacias, as tesouras, as bacias de aspersão, as colheres e os braseiros eram de ouro puro; e as dobradiças para as portas da casa interna, para o lugar santíssimo, e para as portas da casa do santuário, eram de ouro.
 * **51** Assim foi terminada toda a obra que o rei Salomão fez para a casa de YHWH (SENHOR); Salomão trouxe as coisas consagradas por Davi, seu pai, a prata, o ouro e os utensílios, e os colocou nos tesouros da casa de YHWH (SENHOR).
 
-## 8 {#cap-8}
+## 8
 
 * **1** Então Salomão reuniu os anciãos de Israel, todos os chefes das tribos e os príncipes das famílias dos filhos de Israel, junto ao rei Salomão, em Jerusalém, para trazer a arca da aliança de YHWH (SENHOR) da Cidade de Davi, que é Sião.
 * **2** Todos os homens de Israel reuniram-se junto ao rei Salomão no mês de Etanim, na festa, que é o sétimo mês.
@@ -372,7 +358,7 @@
 * **65** Naquela ocasião, Salomão celebrou a festa, e todo o Israel com ele, uma grande congregação, desde a entrada de Hamate até o ribeiro do Egito, diante de YHWH (SENHOR) Elohim (Deus), por sete dias e mais sete dias, catorze dias ao todo.
 * **66** No oitavo dia, despediu o povo, e eles abençoaram o rei e foram para as suas tendas, alegres e de coração contente por todo o bem que YHWH (SENHOR) fizera a Davi, seu servo, e a Israel, seu povo.
 
-## 9 {#cap-9}
+## 9
 
 * **1** Quando Salomão terminou de edificar a casa de YHWH (SENHOR), a casa do rei e todo o desejo de Salomão que ele quis realizar,
 * **2** YHWH (SENHOR) apareceu a Salomão pela segunda vez, como lhe havia aparecido em Gibeão.
@@ -403,7 +389,7 @@
 * **27** Hirão enviou na frota os seus servos, marinheiros conhecedores do mar, com os servos de Salomão.
 * **28** Eles foram a Ofir e de lá trouxeram quatrocentos e vinte talentos de ouro, e os trouxeram ao rei Salomão.
 
-## 10 {#cap-10}
+## 10
 
 * **1** A rainha de Sabá, tendo ouvido a fama de Salomão por causa do nome de YHWH (SENHOR), veio prová-lo com enigmas.
 * **2** Veio a Jerusalém com uma comitiva muito grande, com camelos carregados de especiarias, muitíssimo ouro e pedras preciosas; veio a Salomão e falou-lhe de tudo o que tinha no seu coração.
@@ -435,7 +421,7 @@
 * **28** A importação de cavalos que Salomão tinha vinha do Egito e de Coa; os mercadores do rei os buscavam em Coa por um preço.
 * **29** Um carro subia e saía do Egito por seiscentos siclos de prata, e um cavalo por cento e cinquenta; e assim, por meio deles, os exportavam para todos os reis dos heteus e para os reis da Síria.
 
-## 11 {#cap-11}
+## 11
 
 * **1** O rei Salomão amou muitas mulheres estrangeiras, além da filha de Faraó: moabitas, amonitas, edomitas, sidônias e heteias,
 * **2** das nações das quais YHWH (SENHOR) tinha dito aos filhos de Israel: "Não entrareis nelas, e elas não entrarão em vós, pois certamente desviariam o vosso coração para os seus deuses". A estas Salomão se apegou com amor.
@@ -481,7 +467,7 @@
 * **42** Os dias que Salomão reinou em Jerusalém sobre todo o Israel foram quarenta anos.
 * **43** Salomão dormiu com os seus antepassados e foi sepultado na cidade de Davi, seu pai; e Roboão, seu filho, reinou em seu lugar.
 
-## 12 {#cap-12}
+## 12
 
 * **1** Roboão foi a Siquém, pois todo o Israel tinha ido a Siquém para o fazer rei.
 * **2** Quando Jeroboão, filho de Nebate, ouviu isso — ele ainda estava no Egito, para onde fugira da presença do rei Salomão — Jeroboão habitava no Egito.
@@ -517,7 +503,7 @@
 * **32** Jeroboão instituiu uma festa no oitavo mês, no dia quinze do mês, semelhante à festa que havia em Judá, e subiu ao altar; assim fez em Betel, sacrificando aos bezerros que fizera, e estabeleceu em Betel os sacerdotes dos lugares altos que ele havia criado.
 * **33** Subiu ao altar que fizera em Betel, no dia quinze do oitavo mês, mês que ele inventou por conta própria, e instituiu uma festa para os filhos de Israel, subindo ao altar para queimar incenso.
 
-## 13 {#cap-13}
+## 13
 
 * **1** Eis que um homem de Elohim veio de Judá, por palavra de YHWH, a Betel, enquanto Jeroboão estava junto ao altar para queimar incenso.
 * **2** Ele clamou contra o altar, por palavra de YHWH, e disse: Altar, altar, assim diz YHWH: Eis que um filho nascerá à casa de Davi, cujo nome será Josias; ele sacrificará sobre ti os sacerdotes dos lugares altos que queimam incenso sobre ti, e ossos humanos serão queimados sobre ti.
@@ -554,7 +540,7 @@
 * **33** Depois deste fato, Jeroboão não se desviou do seu mau caminho, mas continuou a constituir sacerdotes dos lugares altos dentre todo o povo; a quem quisesse, ele consagrava, e este se tornava sacerdote dos lugares altos.
 * **34** Isso tornou-se pecado para a casa de Jeroboão, para ser exterminada e destruída da face da terra.
 
-## 14 {#cap-14}
+## 14
 
 * **1** Naquele tempo, Abias, filho de Jeroboão, adoeceu.
 * **2** Jeroboão disse à sua mulher: Levanta-te, disfarça-te, para que não saibam que és a mulher de Jeroboão, e vai a Siló; eis que lá está o profeta Aías, que falou a meu respeito que eu seria rei sobre este povo.
@@ -588,7 +574,7 @@
 * **30** Houve guerra entre Roboão e Jeroboão todos os dias.
 * **31** Roboão dormiu com seus pais e foi sepultado com seus pais na cidade de Davi. O nome de sua mãe era Naamá, a amonita. Abião, seu filho, reinou em seu lugar.
 
-## 15 {#cap-15}
+## 15
 
 * **1** No décimo oitavo ano do rei Jeroboão, filho de Nebate, Abião começou a reinar sobre Judá.
 * **2** Reinou três anos em Jerusalém. O nome de sua mãe era Maaca, filha de Absalão.
@@ -625,7 +611,7 @@
 * **33** No terceiro ano de Asa, rei de Judá, Baasa, filho de Aías, começou a reinar sobre todo o Israel em Tirza, por vinte e quatro anos.
 * **34** Fez o que era mau aos olhos de YHWH e andou no caminho de Jeroboão e no seu pecado, com que fez Israel pecar.
 
-## 16 {#cap-16}
+## 16
 
 * **1** A palavra de YHWH veio a Jeú, filho de Hanani, contra Baasa, dizendo:
 * **2** Visto que te exaltei do pó e te fiz príncipe sobre o meu povo, Israel, e tu andaste no caminho de Jeroboão e fizeste pecar o meu povo, Israel, para me provocarem à ira com os seus pecados,
@@ -662,7 +648,7 @@
 * **33** Acabe fez também o poste-ídolo; e Acabe fez ainda mais para provocar a YHWH, Elohim de Israel, do que todos os reis de Israel que foram antes dele.
 * **34** Nos seus dias, Hiel, o betelita, edificou Jericó; ao custo de Abirão, seu primogênito, lançou os seus fundamentos, e ao custo de Segube, seu filho mais novo, colocou as suas portas, conforme a palavra de YHWH que falara por intermédio de Josué, filho de Num.
 
-## 17 {#cap-17}
+## 17
 
 * **1** Elias, o tisbita, dos moradores de Gileade, disse a Acabe: "Vive YHWH (SENHOR), Elohim (Deus) de Israel, perante cuja face estou, que nestes anos não haverá orvalho nem chuva, senão segundo a minha palavra".
 * **2** Então a palavra de YHWH veio a ele, dizendo:
@@ -689,7 +675,7 @@
 * **23** Elias tomou o menino, levou-o do quarto alto para dentro da casa e o deu à sua mãe; e disse Elias: "Vê, teu filho vive".
 * **24** A mulher disse a Elias: "Nisto conheço agora que tu és um homem de Elohim e que a palavra de YHWH na tua boca é verdade".
 
-## 18 {#cap-18}
+## 18
 
 * **1** Passados muitos dias, a palavra de YHWH veio a Elias no terceiro ano, dizendo: "Vai, apresenta-te a Acabe, e darei chuva sobre a terra".
 * **2** Elias foi apresentar-se a Acabe, e a fome era grave em Samaria.
@@ -738,7 +724,7 @@
 * **45** Sucedeu que, entretanto, os céus se enegreceram com nuvens e vento, e veio uma grande chuva; Acabe subiu ao carro e foi para Jezreel.
 * **46** A mão de YHWH veio sobre Elias, o qual cingiu os seus lombos e correu adiante de Acabe, até chegar a Jezreel.
 
-## 19 {#cap-19}
+## 19
 
 * **1** Acabe contou a Jezabel tudo o que Elias tinha feito e como matara todos os profetas à espada.
 * **2** Jezabel mandou um mensageiro a Elias, dizendo: "Assim me façam os deuses, e outro tanto, se a estas horas de amanhã eu não fizer com a tua vida o que fizeste com a de cada um deles".
@@ -762,7 +748,7 @@
 * **20** Ele deixou os bois, correu após Elias e disse: "Deixa-me beijar a meu pai e a minha mãe, e então te seguirei". Ele lhe disse: "Vai e volta, pois que te fiz eu?"
 * **21** Voltou de após ele, tomou a junta de bois, sacrificou-os, com os aparelhos dos bois cozeu a carne e deu-a ao povo, e comeram; então se levantou, foi após Elias e o servia.
 
-## 20 {#cap-20}
+## 20
 
 * **1** Ben-Hadade, rei da Síria, reuniu todo o seu exército, e com ele trinta e dois reis, cavalos e carros; subiu, sitiou Samaria e pelejou contra ela.
 * **2** Enviou mensageiros a Acabe, rei de Israel, à cidade, e disse-lhe: "Assim diz Ben-Hadade:"
@@ -808,7 +794,7 @@
 * **42** Ele disse-lhe: "Assim diz YHWH: Porquanto soltaste da mão o homem que eu tinha destinado à destruição, a tua vida será pela sua vida, e o teu povo pelo seu povo".
 * **43** O rei de Israel foi para a sua casa, desgostoso e furioso, e chegou a Samaria.
 
-## 21 {#cap-21}
+## 21
 
 * **1** Depois destas coisas, Nabote, o jezreelita, tinha uma vinha em Jezreel, junto ao palácio de Acabe, rei de Samaria.
 * **2** Acabe falou a Nabote, dizendo: "Dá-me a tua vinha, para que me sirva de horta, pois está perto da minha casa; dar-te-ei por ela outra vinha melhor; ou, se bem te parecer, dar-te-ei o seu valor em prata".
@@ -840,7 +826,7 @@
 * **28** Então veio a palavra de YHWH (SENHOR) a Elias, o tesbita, dizendo:
 * **29** Tens visto como Acabe se humilha diante de mim? Porquanto se humilha diante de mim, não trarei este mal nos seus dias, mas nos dias de seu filho trarei o mal sobre a sua casa.
 
-## 22 {#cap-22}
+## 22
 
 * **1** E passaram-se três anos sem guerra entre a Síria e Israel.
 * **2** E sucedeu no terceiro ano, que Josafá, rei de Judá, desceu ao rei de Israel.

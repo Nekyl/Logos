@@ -1,20 +1,6 @@
-<!-- topo -->
 # 2 Samuel
 
-<!-- INDICE -->
-## 📜 Índice
-
-**24 capítulos**
-[1](#cap-1) · [2](#cap-2) · [3](#cap-3) · [4](#cap-4) · [5](#cap-5) · [6](#cap-6) · [7](#cap-7) · [8](#cap-8) · [9](#cap-9) · [10](#cap-10)
-[11](#cap-11) · [12](#cap-12) · [13](#cap-13) · [14](#cap-14) · [15](#cap-15) · [16](#cap-16) · [17](#cap-17) · [18](#cap-18) · [19](#cap-19) · [20](#cap-20)
-[21](#cap-21) · [22](#cap-22) · [23](#cap-23) · [24](#cap-24)
-
-<div align="right"><a href="#topo"><strong>▲ Voltar ao topo</strong></a></div>
-
-<!-- FIM_INDICE -->
-
-
-## 1 {#cap-1}
+## 1
 
 * **1** Depois da morte de Saul, Davi retornou da derrota dos amalequitas e permaneceu em Ziclague por dois dias.
 * **2** No terceiro dia, um homem chegou do acampamento de Saul com as roupas rasgadas e terra sobre a cabeça; ao chegar diante de Davi, prostrou-se em terra e inclinou-se.
@@ -44,7 +30,7 @@
 * **26** "Angustiado estou por ti, meu irmão Jônatas; eras muito amável para mim; teu amor era mais maravilhoso para mim do que o amor das mulheres."
 * **27** "Como caíram os valentes e pereceram as armas de guerra!"
 
-## 2 {#cap-2}
+## 2
 
 * **1** Depois disso, Davi consultou a YHWH (SENHOR), dizendo: "Devo subir a uma das cidades de Judá?" YHWH (SENHOR) respondeu-lhe: "Sobe." Davi perguntou: "Para onde subirei?" Ele respondeu: "Para Hebrom."
 * **2** Davi subiu para lá, com suas duas esposas, Ainoã, a jezreelita, e Abigail, esposa de Nabal, o carmelita.
@@ -79,7 +65,7 @@
 * **31** Os servos de Davi feriram trezentos e sessenta homens de Benjamim e dos homens de Abner, que morreram.
 * **32** Levaram Asael e sepultaram-no no túmulo de seu pai, em Belém. Joabe e seus homens caminharam toda a noite e amanheceu quando chegaram a Hebrom.
 
-## 3 {#cap-3}
+## 3
 
 * **1** A guerra foi longa entre a casa de Saul e a casa de Davi; Davi ia se fortalecendo, enquanto a casa de Saul ia se enfraquecendo.
 * **2** Nasceram filhos a Davi em Hebrom; seu primogênito foi Amnom, de Ainoã, a jezreelita.
@@ -121,7 +107,7 @@
 * **38** O rei disse aos seus servos: "Não sabeis que um príncipe e um grande homem caiu hoje em Israel?"
 * **39** "Eu hoje sou fraco, embora ungido rei, e estes homens, os filhos de Zeruia, são duros demais para mim; que YHWH (SENHOR) retribua ao malfeitor conforme a sua maldade."
 
-## 4 {#cap-4}
+## 4
 
 * **1** O filho de Saul ouviu que Abner morrera em Hebrom, suas mãos enfraqueceram-se e todo o Israel ficou perturbado.
 * **2** Dois homens, chefes de bandos, estavam com o filho de Saul; o nome de um era Baaná e o do outro, Recabe, filhos de Rimom, o beerotita, dos filhos de Benjamim, pois Beerote também era considerada parte de Benjamim.
@@ -136,7 +122,7 @@
 * **11** "Quanto mais quando homens perversos mataram um homem justo em sua casa, sobre sua cama! Agora, não pedirei eu o seu sangue de vossas mãos e vos exterminarei da terra?"
 * **12** Davi ordenou aos jovens que os matassem, cortassem suas mãos e seus pés, e os pendurassem junto ao tanque em Hebrom; tomaram a cabeça de Is-Bosete e a sepultaram no túmulo de Abner, em Hebrom.
 
-## 5 {#cap-5}
+## 5
 
 * **1** Todas as tribos de Israel vieram a Davi, em Hebrom, e disseram: "Eis que somos teus ossos e tua carne."
 * **2** "Também ontem e anteontem, quando Saul era rei sobre nós, eras tu quem conduzia e trazia Israel; YHWH (SENHOR) te disse: 'Tu apascentarás o meu povo, Israel, e tu serás o príncipe sobre Israel'."
@@ -164,7 +150,7 @@
 * **24** Quando ouvires o som de marcha nas copas das amoreiras, então te apressa, porque então YHWH sairá diante de ti para ferir o exército dos filisteus.
 * **25** Davi fez assim, como YHWH lhe ordenara, e feriu os filisteus desde Geba até chegar a Gezer.
 
-## 6 {#cap-6}
+## 6
 
 * **1** Davi reuniu ainda todos os escolhidos de Israel, trinta mil.
 * **2** Davi levantou-se e foi com todo o povo que estava com ele, de Baalá de Judá, para trazer de lá a arca de Elohim, sobre a qual se invoca o Nome, o Nome de YHWH dos Exércitos, que habita entre os querubins.
@@ -190,7 +176,7 @@
 * **22** "Ainda mais do que isso me humilharei e me rebaixarei aos meus próprios olhos; mas serei honrado pelas servas de que falaste".
 * **23** E Mical, filha de Saul, não teve filhos até o dia da sua morte.
 
-## 7 {#cap-7}
+## 7
 
 * **1** Quando o rei habitava em sua casa, e YHWH lhe dera descanso de todos os seus inimigos ao redor,
 * **2** o rei disse a Natã, o profeta: "Vê, eu habito numa casa de cedro, enquanto a arca de Elohim habita no meio de cortinas".
@@ -222,7 +208,7 @@
 * **28** "Agora, pois, Adonai YHWH, tu és o Elohim, e as tuas palavras serão verdade, e falaste ao teu servo esta bondade".
 * **29** "Agora, pois, sê servido de abençoar a casa do teu servo, para que permaneça para sempre diante de ti; pois tu, Adonai YHWH, o disseste, e com a tua bênção a casa do teu servo será abençoada para sempre".
 
-## 8 {#cap-8}
+## 8
 
 * **1** Depois disto, Davi feriu os filisteus e os subjugou; e Davi tomou a rédea da metrópole da mão dos filisteus.
 * **2** Feriu os moabitas e os mediu com cordel, fazendo-os deitar por terra; mediu dois cordéis para os matar e um cordel inteiro para os deixar viver; e os moabitas tornaram-se servos de Davi, trazendo presentes.
@@ -243,7 +229,7 @@
 * **17** Zadoque, filho de Aitube, e Aimeleque, filho de Abiatar, eram sacerdotes; Seraías era o escrivão.
 * **18** Benaia, filho de Joiada, comandava os quereteus e os peleteus; e os filhos de Davi eram sacerdotes.
 
-## 9 {#cap-9}
+## 9
 
 * **1** Davi disse: "Há ainda alguém que tenha ficado da casa de Saul, para que eu use de bondade com ele por amor de Jônatas?"
 * **2** Havia um servo da casa de Saul, cujo nome era Ziba; chamaram-no a Davi, e o rei lhe disse: "Tu és Ziba?" Ele respondeu: "Teu servo".
@@ -259,7 +245,7 @@
 * **12** Mefibosete tinha um filho pequeno, cujo nome era Mica; e todos os que moravam na casa de Ziba eram servos de Mefibosete.
 * **13** Mefibosete habitava em Jerusalém, porque comia sempre à mesa do rei; e era coxo de ambos os pés.
 
-## 10 {#cap-10}
+## 10
 
 * **1** Depois disto, morreu o rei dos filhos de Amom, e Hanum, seu filho, reinou em seu lugar.
 * **2** Davi disse: "Usarei de bondade com Hanum, filho de Naás, como seu pai usou de bondade comigo". Davi enviou os seus servos para o consolar acerca de seu pai; e os servos de Davi chegaram à terra dos filhos de Amom.
@@ -281,7 +267,7 @@
 * **18** Os arameus fugiram diante de Israel, e Davi matou dos arameus setecentos carros e quarenta mil cavaleiros; feriu também Sobaque, comandante do seu exército, que morreu ali.
 * **19** Vendo todos os reis, servos de Hadadezer, que tinham sido derrotados diante de Israel, fizeram paz com Israel e o serviram; e os arameus temeram socorrer mais os filhos de Amom.
 
-## 11 {#cap-11}
+## 11
 
 * **1** Decorrido um ano, no tempo em que os reis costumam sair à guerra, Davi enviou Joabe, os seus servos com ele e todo o Israel; eles destruíram os filhos de Amom e cercaram Rabá; porém Davi ficou em Jerusalém.
 * **2** À tarde, Davi levantou-se do seu leito e passeava no terraço da casa do rei; viu do terraço uma mulher que se banhava, e a mulher era mui formosa à vista.
@@ -311,7 +297,7 @@
 * **26** A mulher de Urias ouviu que Urias, seu marido, morrera, e chorou pelo seu marido.
 * **27** Passado o luto, Davi enviou e a recolheu em sua casa; ela lhe foi por mulher e lhe deu à luz um filho. Porém, o que Davi fizera foi mau aos olhos de YHWH.
 
-## 12 {#cap-12}
+## 12
 
 * **1** YHWH enviou Natã a Davi; ele veio a ele e lhe disse: "Havia dois homens numa cidade, um rico e outro pobre".
 * **2** "O rico tinha ovelhas e bois em grande quantidade".
@@ -345,7 +331,7 @@
 * **30** Tomou a coroa do seu rei da cabeça dele; o seu peso era de um talento de ouro, com pedras preciosas, e foi posta sobre a cabeça de Davi; e ele trouxe da cidade um despojo muito grande.
 * **31** O povo que nela estava, ele o tirou e o pôs sob serras, sob grades de ferro e sob machados de ferro, e os fez passar por fornos de tijolos; assim fez a todas as cidades dos filhos de Amom. Então Davi e todo o povo voltaram para Jerusalém.
 
-## 13 {#cap-13}
+## 13
 
 * **1** Aconteceu depois disso que Absalão, filho de Davi, tinha uma irmã formosa, cujo nome era Tamar; e Amnon, filho de Davi, amou-a.
 * **2** Amnon estava tão angustiado que adoeceu por causa de Tamar, sua irmã, pois ela era virgem, e parecia impossível a Amnon fazer-lhe qualquer coisa.
@@ -387,7 +373,7 @@
 * **38** Absalão fugiu e foi para Gesur, e lá esteve três anos.
 * **39** O rei Davi cessou de sair contra Absalão, pois se consolara da morte de Amnon.
 
-## 14 {#cap-14}
+## 14
 
 * **1** Joabe, filho de Zeruia, percebeu que o coração do rei estava inclinado para Absalão.
 * **2** Joabe enviou a Tecoa e de lá trouxe uma mulher sábia, e disse-lhe: Peço-te que finjas estar de luto, veste roupas de luto, não te unjas com óleo e sê como uma mulher que há muitos dias chora por um morto.
@@ -423,7 +409,7 @@
 * **32** Absalão disse a Joabe: Eis que enviei a ti, dizendo: Vem cá, para que eu te envie ao rei, a dizer: Por que vim de Gesur? Melhor me fora estar lá ainda. Agora, pois, veja eu a face do rei; e, se há em mim culpa, que me mate.
 * **33** Joabe foi ao rei e lho contou; ele chamou Absalão, que veio ao rei e se inclinou com o rosto em terra diante do rei; e o rei beijou Absalão.
 
-## 15 {#cap-15}
+## 15
 
 * **1** Depois disso, Absalão preparou para si um carro e cavalos, e cinquenta homens que corressem adiante dele.
 * **2** Absalão levantava-se cedo e punha-se junto ao caminho da porta; e, a todo o homem que tinha alguma demanda para vir ao rei a juízo, Absalão o chamava a si e dizia: De que cidade és tu? Ele dizia: De uma das tribos de Israel é o teu servo.
@@ -463,7 +449,7 @@
 * **36** Eis que estão ali com eles seus dois filhos, Aimaás, de Zadoque, e Jônatas, de Abiatar; por intermédio deles me enviareis tudo o que ouvirdes.
 * **37** Husai, amigo de Davi, entrou na cidade, e Absalão entrou em Jerusalém.
 
-## 16 {#cap-16}
+## 16
 
 * **1** Davi passou um pouco do cume, e eis que Ziba, servo de Mefibosete, veio ao seu encontro com um par de jumentos albardados, e sobre eles duzentos pães, cem cachos de passas, cem frutos de verão e um odre de vinho.
 * **2** O rei disse a Ziba: Que tens com isto? Ziba disse: Os jumentos são para a casa do rei, para montar; o pão e o fruto de verão, para os jovens comerem; e o vinho, para os que se cansarem no deserto beberem.
@@ -489,7 +475,7 @@
 * **22** Armaram uma tenda para Absalão no terraço, e Absalão entrou nas concubinas de seu pai à vista de todo o Israel.
 * **23** O conselho que Aitofel dava naqueles dias era como se alguém consultasse a palavra de Elohim (Deus); assim era todo o conselho de Aitofel, tanto para Davi quanto para Absalão.
 
-## 17 {#cap-17}
+## 17
 
 * **1** Aitofel disse a Absalão: "Deixa-me escolher doze mil homens, e eu me levantarei e perseguirei Davi esta noite."
 * **2** "Eu o atacarei enquanto ele estiver cansado e com as mãos fracas, causarei pânico, todo o povo que está com ele fugirá, e eu ferirei apenas o rei."
@@ -521,7 +507,7 @@
 * **28** trouxeram camas, bacias, vasos de barro, trigo, cevada, farinha, grãos torrados, favas, lentilhas e grãos torrados,
 * **29** mel, manteiga, ovelhas e queijos de vaca, e ofereceram a Davi e ao povo que estava com ele para comerem, pois disseram: "O povo está faminto, cansado e sedento no deserto."
 
-## 18 {#cap-18}
+## 18
 
 * **1** Davi contou o povo que estava com ele e colocou sobre eles chefes de mil e chefes de cem.
 * **2** Davi enviou o povo: um terço sob o comando de Joabe, um terço sob o comando de Abisai, filho de Zeruia, irmão de Joabe, e um terço sob o comando de Itai, o geteu. O rei disse ao povo: "Eu também sairei convosco."
@@ -557,7 +543,7 @@
 * **32** O rei perguntou ao cuxita: "Está bem o jovem Absalão?" O cuxita respondeu: "Que os inimigos de Adonai (meu Senhor), o rei, e todos os que se levantam contra ti para o mal, sejam como aquele jovem."
 * **33** O rei ficou profundamente comovido, subiu à câmara da porta e chorou. Enquanto caminhava, dizia: "Meu filho Absalão! Meu filho, meu filho Absalão! Quem me dera que eu tivesse morrido em teu lugar, Absalão, meu filho, meu filho!"
 
-## 19 {#cap-19}
+## 19
 
 * **1** Avisaram a Joabe: "O rei está chorando e lamentando por Absalão."
 * **2** A vitória naquele dia tornou-se luto para todo o povo, pois o povo ouviu naquele dia que o rei estava triste por causa de seu filho.
@@ -603,7 +589,7 @@
 * **42** Todos os homens de Judá responderam aos homens de Israel: "Porque o rei é nosso parente próximo. Por que vos irritais por causa deste assunto? Comemos nós algo do rei? Ou ele nos deu algum presente?"
 * **43** Os homens de Israel responderam aos homens de Judá: "Temos dez partes no rei, e também em Davi mais do que vós. Por que nos desprezastes? Não foi a nossa palavra a primeira para trazer de volta o nosso rei?" Mas a palavra dos homens de Judá foi mais dura que a palavra dos homens de Israel.
 
-## 20 {#cap-20}
+## 20
 
 * **1** Havia ali um homem vil, chamado Seba, filho de Bicri, um benjamita. Ele tocou a trombeta e disse: "Não temos parte em Davi, nem herança no filho de Jessé; cada um para as suas tendas, ó Israel!"
 * **2** Todos os homens de Israel se retiraram de Davi para seguir Seba, filho de Bicri, mas os homens de Judá se apegaram ao seu rei, desde o Jordão até Jerusalém.
@@ -632,7 +618,7 @@
 * **25** Seva era secretário, e Zadoque e Abiatar eram sacerdotes.
 * **26** E também Ira, o jairita, era sacerdote de Davi.
 
-## 21 {#cap-21}
+## 21
 
 * **1** Houve fome nos dias de Davi por três anos, ano após ano. Davi buscou a face de YHWH (SENHOR), e YHWH (SENHOR) disse: "É por causa de Saul e da casa de sangue, porque ele matou os gibeonitas."
 * **2** O rei chamou os gibeonitas e lhes falou. Os gibeonitas não eram dos filhos de Israel, mas do remanescente dos amorreus; os filhos de Israel lhes tinham jurado, mas Saul buscou feri-los em seu zelo pelos filhos de Israel e Judá.
@@ -657,7 +643,7 @@
 * **21** Ele desafiou a Israel, e Jônatas, filho de Simeia, irmão de Davi, o feriu.
 * **22** Estes quatro nasceram aos gigantes em Gate e caíram pelas mãos de Davi e de seus servos.
 
-## 22 {#cap-22}
+## 22
 
 * **1** Davi falou a YHWH as palavras deste cântico, no dia em que YHWH o livrou da mão de todos os seus inimigos e da mão de Saul.
 * **2** Ele disse: YHWH é minha rocha, minha fortaleza e meu libertador.
@@ -711,7 +697,7 @@
 * **50** Por isso, eu te louvarei, ó SENHOR, entre as nações e cantarei louvores ao teu nome.
 * **51** Ele engrandece as salvações do seu rei e usa de misericórdia para com o seu ungido, para com Davi e a sua descendência para sempre.
 
-## 23 {#cap-23}
+## 23
 
 * **1** Estas são as últimas palavras de Davi: Palavra de Davi, filho de Jessé, e palavra do homem que foi exaltado, o ungido do Elohim (Deus) de Jacó, o suave salmista de Israel.
 * **2** O ruach (Espírito) do SENHOR falou por mim, e a sua palavra esteve na minha língua.
@@ -753,7 +739,7 @@
 * **38** Ira, o itrita; Garebe, o itrita.
 * **39** Urias, o heteu; ao todo, trinta e sete.
 
-## 24 {#cap-24}
+## 24
 
 * **1** A ira do SENHOR tornou a acender-se contra Israel, e ele incitou Davi contra eles, dizendo: Vai, faze o censo de Israel e de Judá.
 * **2** Disse, pois, o rei a Joabe, chefe do exército que estava com ele: Percorre todas as tribos de Israel, desde Dã até Berseba, e fazei o censo do povo, para que eu saiba o número do povo.

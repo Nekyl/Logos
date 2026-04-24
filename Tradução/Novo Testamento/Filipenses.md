@@ -1,18 +1,6 @@
-<!-- topo -->
 # Filipenses
 
-<!-- INDICE -->
-## 📜 Índice
-
-**4 capítulos**
-[1](#cap-1) · [2](#cap-2) · [3](#cap-3) · [4](#cap-4)
-
-<div align="right"><a href="#topo"><strong>▲ Voltar ao topo</strong></a></div>
-
-<!-- FIM_INDICE -->
-
-
-## 1 {#cap-1}
+## 1
 
 * **1** Paulo e Timóteo, servos de Christos Iēsous (Messias Jesus), a todos os santos em Christo Iēsou que estão em Filipos, com os bispos e diáconos;
 * **2** Graça a vós e paz da parte de Theos Patēr (Deus Pai) nosso e do Kyrios (Senhor) Iēsou Christou.
@@ -45,7 +33,7 @@
 * **29** porque vos foi concedido, por amor de Christos, não somente crer nele, mas também sofrer por ele,
 * **30** tendo o mesmo combate que vistes em mim e agora ouvis que está em mim.
 
-## 2 {#cap-2}
+## 2
 
 * **1** Se há, pois, alguma consolação em Christo, se algum conforto de amor, se alguma comunhão do espírito, se alguns afetos e compaixões,
 * **2** completai a minha alegria, para que tenhais o mesmo modo de pensar, tendo o mesmo amor, unidos em alma, pensando a mesma coisa,
@@ -78,7 +66,7 @@
 * **29** Recebei-o, pois, no Kyrio com toda a alegria, e tende em honra a homens como ele,
 * **30** porque pela obra de Christos chegou até a morte, arriscando a sua vida para suprir o que faltava no vosso serviço para comigo.
 
-## 3 {#cap-3}
+## 3
 
 * **1** Resta, meus irmãos, que vos regozijeis no Kyrio. Não me é penoso escrever-vos as mesmas coisas, e é segurança para vós.
 * **2** Guardai-vos dos cães, guardai-vos dos maus obreiros, guardai-vos da falsa circuncisão.
@@ -102,7 +90,7 @@
 * **20** Mas a nossa pátria está nos céus, de onde também esperamos o Salvador, Kyrios Iēsoun Christon.
 * **21** Que transformará o nosso corpo abatido, para ser conforme o seu corpo glorioso, segundo o seu eficaz poder de sujeitar também a si todas as coisas.
 
-## 4 {#cap-4}
+## 4
 
 * **1** Portanto, meus irmãos amados e mui queridos, minha alegria e coroa, estai assim firmes no Kyrio, amados.
 * **2** Rogo a Evódia e rogo a Síntique que pensem o mesmo no Kyrio.

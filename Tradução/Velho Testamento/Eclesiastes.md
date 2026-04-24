@@ -1,19 +1,6 @@
-<!-- topo -->
 # Eclesiastes
 
-<!-- INDICE -->
-## 📜 Índice
-
-**12 capítulos**
-[1](#cap-1) · [2](#cap-2) · [3](#cap-3) · [4](#cap-4) · [5](#cap-5) · [6](#cap-6) · [7](#cap-7) · [8](#cap-8) · [9](#cap-9) · [10](#cap-10)
-[11](#cap-11) · [12](#cap-12)
-
-<div align="right"><a href="#topo"><strong>▲ Voltar ao topo</strong></a></div>
-
-<!-- FIM_INDICE -->
-
-
-## 1 {#cap-1}
+## 1
 
 * **1** Palavras de Coélet, filho de Davi, rei em Jerusalém.
 * **2** Vaidade de vaidades, diz Coélet; vaidade de vaidades, tudo é vaidade.
@@ -34,7 +21,7 @@
 * **17** E apliquei o meu coração a conhecer a sabedoria e a conhecer os desvarios e as loucuras; e vim a saber que também isto era aflição de espírito.
 * **18** Porque na muita sabedoria há muito enfado; e o que aumenta em conhecimento, aumenta em dor.
 
-## 2 {#cap-2}
+## 2
 
 * **1** Disse eu no meu coração: Ora vem, eu te provarei com alegria; portanto goza o prazer; mas eis que também isso era vaidade.
 * **2** Ao riso disse: Está doido; e à alegria: Para que serve esta?
@@ -63,7 +50,7 @@
 * **25** Pois quem pode comer, ou quem pode fruir, melhor do que eu?
 * **26** Porque ao homem que é bom diante dele, dá Elohim sabedoria, conhecimento e alegria; mas ao pecador dá trabalho, para que ele ajunte, e amontoe, para dá-lo ao que é bom perante Elohim; também isto é vaidade e aflição de espírito.
 
-## 3 {#cap-3}
+## 3
 
 * **1** Tudo tem o seu tempo determinado, e há tempo para todo o propósito debaixo do céu.
 * **2** Há tempo de nascer, e tempo de morrer; tempo de plantar, e tempo de arrancar o que se plantou;
@@ -88,7 +75,7 @@
 * **21** Quem sabe se o espírito dos filhos do homem sobe para cima, e se o espírito do animal desce para baixo, para a terra?
 * **22** Vi, pois, que não há nada melhor do que o homem alegrar-se nas suas obras, porque essa é a sua porção; pois quem o fará voltar para ver o que acontecerá depois dele?
 
-## 4 {#cap-4}
+## 4
 
 * **1** Voltei-me e vi todas as opressões que se fazem debaixo do sol; e eis as lágrimas dos oprimidos, que não têm consolador; e a força estava na mão dos seus opressores, e eles não tinham consolador.
 * **2** Por isso, louvei eu os mortos que já morreram, mais do que os vivos que ainda vivem.
@@ -107,7 +94,7 @@
 * **15** Vi todos os viventes que andam debaixo do sol com o jovem sucessor, que ficará no seu lugar.
 * **16** Não tem fim todo o povo, todos os que foram antes deles; tampouco os que vierem depois se alegrarão nele. Na verdade, que também isto é vaidade e correr atrás do vento.
 
-## 5 {#cap-5}
+## 5
 
 * **1** Guarda o teu pé, quando entrares na casa de Elohim (Deus); e chega-te mais para ouvir do que para oferecer sacrifícios de tolos, pois não sabem que fazem mal.
 * **2** Não te precipites com a tua boca, nem o teu coração se apresse a pronunciar palavra alguma diante de Elohim; porque Elohim está nos céus, e tu estás sobre a terra; pelo que as tuas palavras sejam poucas.
@@ -130,7 +117,7 @@
 * **19** E a todo o homem, a quem Elohim deu riquezas e bens, e lhe deu poder para delas comer, e tomar a sua porção, e gozar do seu trabalho, isto é dom de Elohim.
 * **20** Porque não se lembrará muito dos dias da sua vida, porquanto Elohim lhe enche o coração de alegria.
 
-## 6 {#cap-6}
+## 6
 
 * **1** Há um mal que vi debaixo do sol, e é muito comum entre os homens:
 * **2** Um homem a quem Elohim deu riquezas, bens e honra, e nada lhe falta de tudo o que a sua alma deseja, mas Elohim não lhe dá poder para delas comer; antes o estranho as come; isto é vaidade e má enfermidade.
@@ -145,7 +132,7 @@
 * **11** Na verdade, há muitas coisas que multiplicam a vaidade; que mais tem o homem?
 * **12** Pois, quem sabe o que é bom para o homem nesta vida, durante os dias da sua vã vida, os quais ele gasta como sombra? Quem declarará ao homem o que será depois dele debaixo do sol?
 
-## 7 {#cap-7}
+## 7
 
 * **1** Melhor é o bom nome do que o melhor ungüento, e o dia da morte do que o dia do nascimento.
 * **2** Melhor é ir à casa onde há luto do que ir à casa onde há banquete, porque naquela se vê o fim de todos os homens; e os vivos o aplicam ao seu coração.
@@ -177,7 +164,7 @@
 * **28** A qual ainda busca a minha alma, mas não a achei; um homem entre mil achei eu, mas uma mulher entre todas estas não achei.
 * **29** Eis que isto somente achei: que Elohim fez o homem reto, mas eles buscaram muitas astúcias.
 
-## 8 {#cap-8}
+## 8
 
 * **1** Quem é como o sábio? E quem sabe a interpretação das coisas? A sabedoria do homem faz brilhar o seu rosto, e a dureza do seu rosto se transforma.
 * **2** Eu digo: Observa o mandamento do rei, e isso por causa do juramento de Elohim.
@@ -197,7 +184,7 @@
 * **16** Quando apliquei o meu coração a conhecer a sabedoria, e a ver o trabalho que se faz sobre a terra (pois nem de dia nem de noite vê o homem sono nos seus olhos),
 * **17** Então vi toda a obra de Elohim, que o homem não pode compreender a obra que se faz debaixo do sol; por mais que o homem trabalhe para a buscar, não a achará; e, ainda que o sábio diga que a conhece, não a poderá compreender.
 
-## 9 {#cap-9}
+## 9
 
 * **1** Porque tudo isto apliquei ao meu coração, para declarar tudo isto: que os justos, e os sábios, e as suas obras, estão na mão de Elohim; o homem não sabe nem o amor nem o ódio; tudo está diante deles.
 * **2** Tudo sucede igualmente a todos; o mesmo sucede ao justo e ao ímpio, ao bom e ao puro, como ao impuro; assim ao que sacrifica como ao que não sacrifica; como é o bom, assim é o pecador; como o que jura, assim o que teme o juramento.
@@ -218,7 +205,7 @@
 * **17** As palavras dos sábios, ouvidas em silêncio, valem mais do que o clamor de quem domina entre os tolos.
 * **18** Melhor é a sabedoria do que as armas de guerra, mas um só pecador destrói muitos bens.
 
-## 10 {#cap-10}
+## 10
 
 * **1** As moscas mortas fazem o ungüento do perfumista exalar mau cheiro; assim é, para o que é estimado em sabedoria e honra, um pouco de estultícia.
 * **2** O coração do sábio está à sua direita, mas o coração do tolo à sua esquerda.
@@ -241,7 +228,7 @@
 * **19** Para rir se fazem banquetes, e o vinho alegra a vida, e por tudo o dinheiro responde.
 * **20** Nem ainda no teu pensamento amaldiçoes o rei, nem tampouco no mais interior do teu quarto amaldiçoes o rico; porque as aves dos céus levariam a voz, e os que têm asas dariam notícia da palavra.
 
-## 11 {#cap-11}
+## 11
 
 * **1** Lança o teu pão sobre as águas, porque depois de muitos dias o acharás.
 * **2** Reparte com sete, e ainda com oito, porque não sabes que mal virá sobre a terra.
@@ -254,7 +241,7 @@
 * **9** Alegra-te, jovem, na tua mocidade, e recreie-se o teu coração nos dias da tua juventude; anda pelos caminhos que satisfazem o teu coração e agradam aos teus olhos; sabe, porém, que por todas estas coisas Elohim te trará a juízo.
 * **10** Afasta, pois, a ira do teu coração, e remove o mal da tua carne; porque a juventude e a aurora da vida são vaidade.
 
-## 12 {#cap-12}
+## 12
 
 * **1** Lembra-te também do teu Criador nos dias da tua mocidade, antes que venham os maus dias, e cheguem os anos dos quais dirás: Não tenho neles prazer;
 * **2** Antes que se escureçam o sol, e a luz, e a lua, e as estrelas, e tornem a vir as nuvens depois da chuva;

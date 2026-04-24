@@ -1,19 +1,6 @@
-<!-- topo -->
 # 1 Coríntios
 
-<!-- INDICE -->
-## 📜 Índice
-
-**16 capítulos**
-[1](#cap-1) · [2](#cap-2) · [3](#cap-3) · [4](#cap-4) · [5](#cap-5) · [6](#cap-6) · [7](#cap-7) · [8](#cap-8) · [9](#cap-9) · [10](#cap-10)
-[11](#cap-11) · [12](#cap-12) · [13](#cap-13) · [14](#cap-14) · [15](#cap-15) · [16](#cap-16)
-
-<div align="right"><a href="#topo"><strong>▲ Voltar ao topo</strong></a></div>
-
-<!-- FIM_INDICE -->
-
-
-## 1 {#cap-1}
+## 1
 
 * **1** Paulo, apóstolo chamado de Christou Iēsou (Messias Jesus) pela vontade de Theou (Deus), e Sóstenes, o irmão,
 * **2** à igreja de Deus, santificados em Christo Iēsou, que estão em Corinto, chamados para serem santos, com todos os que invocam o nome de Kyriou (Senhor) nosso Iēsou Christou em todo lugar, deles e nosso;
@@ -47,7 +34,7 @@
 * **30** Mas vós sois dele, em Christo Iēsou, o qual se tornou para nós sabedoria da parte de Deus, e justiça, e santificação, e redenção,
 * **31** para que, como está escrito: Aquele que se gloria, glorie-se no Senhor.
 
-## 2 {#cap-2}
+## 2
 
 * **1** E eu, ao ir ter convosco, irmãos, não fui com excelência de palavra ou de sabedoria ao anunciar-vos o testemunho de Deus.
 * **2** Pois decidi nada saber entre vós, senão Iēsou Christou, e este crucificado.
@@ -66,7 +53,7 @@
 * **15** mas o homem espiritual discerne todas as coisas, e ele mesmo não é discernido por ninguém.
 * **16** Pois quem conheceu a mente do Senhor, para que possa instruí-lo? Nós, porém, temos a mente do Messias.
 
-## 3 {#cap-3}
+## 3
 
 * **1** E eu, irmãos, não pude falar-vos como a espirituais, mas como a carnais, como a crianças em Christo.
 * **2** Dei-vos leite para beber, não alimento sólido, pois ainda não podíeis. Nem ainda agora podeis,
@@ -92,7 +79,7 @@
 * **22** seja Paulo, seja Apolo, seja Cefas, seja o mundo, seja a vida, seja a morte, seja o presente, seja o futuro, tudo é vosso,
 * **23** e vós sois do Messias, e o Messias é de Deus.
 
-## 4 {#cap-4}
+## 4
 
 * **1** Que o homem nos considere, pois, como servos do Messias e despenseiros dos mistérios de Deus.
 * **2** Ora, além disso, o que se requer nos despenseiros é que cada um seja encontrado fiel.
@@ -116,7 +103,7 @@
 * **20** pois o reino de Deus não consiste em palavra, mas em poder.
 * **21** Que quereis? Irei ter convosco com vara, ou com amor e espírito de mansidão?
 
-## 5 {#cap-5}
+## 5
 
 * **1** Geralmente se ouve que há entre vós imoralidade, e tal imoralidade que nem mesmo entre os gentios se nomeia, a ponto de alguém possuir a mulher de seu pai.
 * **2** E vós estais inchados de orgulho, e não vos entristecestes mais, para que fosse tirado do meio de vós aquele que cometeu tal ação?
@@ -132,7 +119,7 @@
 * **12** Pois que tenho eu em julgar os que estão de fora? Não julgais vós os que estão dentro?
 * **13** Mas Deus julga os que estão de fora. Tirai o mal de entre vós mesmos.
 
-## 6 {#cap-6}
+## 6
 
 * **1** Ousa algum de vós, tendo um negócio contra outro, ir a juízo perante os injustos, e não perante os santos?
 * **2** Ou não sabeis que os santos julgarão o mundo? E, se o mundo é julgado por vós, sois indignos de julgar as coisas mínimas?
@@ -155,7 +142,7 @@
 * **19** Ou não sabeis que o vosso corpo é santuário do Pneuma Hagion que está em vós, o qual tendes da parte de Deus? E não sois de vós mesmos,
 * **20** pois fostes comprados por preço; glorificai, pois, a Deus no vosso corpo.
 
-## 7 {#cap-7}
+## 7
 
 * **1** Quanto às coisas que escrevestes, é bom que o homem não toque em mulher;
 * **2** mas, por causa da imoralidade, cada um tenha a sua própria mulher, e cada uma tenha o seu próprio marido.
@@ -198,7 +185,7 @@
 * **39** A mulher está ligada enquanto o marido viver; mas, se o marido morrer, ela está livre para se casar com quem quiser, contanto que seja no Senhor.
 * **40** Contudo, ela é mais feliz se permanecer assim, segundo o meu parecer; e penso que também eu tenho o Pneuma Theou (Espírito de Deus).
 
-## 8 {#cap-8}
+## 8
 
 * **1** Quanto às coisas sacrificadas aos ídolos, sabemos que todos temos conhecimento. O conhecimento incha, mas o amor edifica.
 * **2** Se alguém pensa que sabe alguma coisa, ainda não sabe como deveria saber;
@@ -214,7 +201,7 @@
 * **12** Assim, pecando contra os irmãos e ferindo a consciência deles quando são fracos, vocês pecam contra Christos.
 * **13** Por isso, se a comida faz meu irmão tropeçar, nunca mais comerei carne, para não fazer meu irmão tropeçar.
 
-## 9 {#cap-9}
+## 9
 
 * **1** Não sou livre? Não sou apóstolo? Não vi Iēsous, o Kyrios nosso? Vocês não são a minha obra no Senhor?
 * **2** Se para outros não sou apóstolo, para vocês certamente sou, pois vocês são o selo do meu apostolado no Senhor.
@@ -244,7 +231,7 @@
 * **26** Portanto, eu corro não como quem corre sem rumo; luto não como quem esmurra o ar;
 * **27** mas esmurro o meu corpo e o reduzo à escravidão, para que, tendo pregado a outros, não venha eu mesmo a ser desqualificado.
 
-## 10 {#cap-10}
+## 10
 
 * **1** Pois não quero que vocês ignorem, irmãos, que nossos pais estiveram todos sob a nuvem e todos atravessaram o mar,
 * **2** e todos foram batizados em Moisés na nuvem e no mar,
@@ -280,7 +267,7 @@
 * **32** Não se tornem motivo de tropeço nem para judeus, nem para gregos, nem para a igreja de Theos,
 * **33** assim como eu também procuro agradar a todos em tudo, não buscando o meu próprio interesse, mas o de muitos, para que sejam salvos.
 
-## 11 {#cap-11}
+## 11
 
 * **1** Tornem-se meus imitadores, como eu também sou de Christos.
 * **2** Eu os elogio porque vocês se lembram de mim em tudo e guardam as tradições assim como as entreguei a vocês.
@@ -317,7 +304,7 @@
 * **33** Portanto, meus irmãos, quando se reunirem para comer, esperem uns pelos outros.
 * **34** Se alguém tem fome, coma em casa, para que não se reúnam para juízo. Quanto ao mais, quando eu for, darei as ordens.
 
-## 12 {#cap-12}
+## 12
 
 * **1** A respeito dos dons espirituais, irmãos, não quero que vocês ignorem.
 * **2** Vocês sabem que, quando eram gentios, eram levados aos ídolos mudos, conforme eram conduzidos.
@@ -351,7 +338,7 @@
 * **30** Será que todos possuem dons de curas? Será que todos falam em línguas? Será que todos interpretam?
 * **31** Busquem, contudo, os dons maiores. E ainda vos mostro um caminho por excelência.
 
-## 13 {#cap-13}
+## 13
 
 * **1** Se eu falar nas línguas dos homens e dos anjos, mas não tiver amor, tornei-me como o bronze que soa ou o címbalo que retine.
 * **2** E se eu tiver o dom de profecia, e conhecer todos os mistérios e toda a ciência, e se tiver toda a fé, a ponto de transportar montes, mas não tiver amor, nada sou.
@@ -367,7 +354,7 @@
 * **12** Porque agora vemos como por um espelho, em enigma, mas então veremos face a face; agora conheço em parte, mas então conhecerei plenamente, como também fui plenamente conhecido.
 * **13** Agora, pois, permanecem a fé, a esperança e o amor; estes três, mas o maior deles é o amor.
 
-## 14 {#cap-14}
+## 14
 
 * **1** Sigam o amor e busquem com zelo os dons espirituais, mas principalmente que profetizeis.
 * **2** Pois quem fala em língua não fala aos homens, mas a Theos (Deus); porque ninguém entende, mas em espírito fala mistérios;
@@ -410,7 +397,7 @@
 * **39** Portanto, irmãos meus, procurai com zelo profetizar, e não proibais o falar em línguas;
 * **40** mas que tudo seja feito com decência e ordem.
 
-## 15 {#cap-15}
+## 15
 
 * **1** Também vos declaro, irmãos, o evangelho que vos anunciei, o qual também recebestes e no qual também estais firmes;
 * **2** pelo qual também sois salvos, se o retiverdes tal como vo-lo anunciei, a menos que tenhais crido em vão.
@@ -471,7 +458,7 @@
 * **57** Mas graças a Theos (Deus), que nos dá a vitória por intermédio de nosso Kyrios (Senhor) Iēsous (Jesus) Christos (Messias).
 * **58** Portanto, meus amados irmãos, sede firmes e constantes, sempre abundantes na obra de Kyrios (Senhor), sabendo que o vosso trabalho não é vão em Kyrios (Senhor).
 
-## 16 {#cap-16}
+## 16
 
 * **1** Ora, quanto à coleta para os santos, fazei como ordenei às igrejas da Galácia.
 * **2** No primeiro dia da semana, cada um de vós ponha de parte o que puder ajuntar, conforme a sua prosperidade, para que não se façam coletas quando eu chegar.

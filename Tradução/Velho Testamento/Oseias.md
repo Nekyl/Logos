@@ -1,19 +1,6 @@
-<!-- topo -->
 # Oseias
 
-<!-- INDICE -->
-## 📜 Índice
-
-**14 capítulos**
-[1](#cap-1) · [2](#cap-2) · [3](#cap-3) · [4](#cap-4) · [5](#cap-5) · [6](#cap-6) · [7](#cap-7) · [8](#cap-8) · [9](#cap-9) · [10](#cap-10)
-[11](#cap-11) · [12](#cap-12) · [13](#cap-13) · [14](#cap-14)
-
-<div align="right"><a href="#topo"><strong>▲ Voltar ao topo</strong></a></div>
-
-<!-- FIM_INDICE -->
-
-
-## 1 {#cap-1}
+## 1
 
 * **1** Palavra de YHWH (SENHOR) que veio a Oseias, filho de Beeri, nos dias de Uzias, Jotão, Acaz e Ezequias, reis de Judá, e nos dias de Jeroboão, filho de Joás, rei de Israel.
 * **2** O princípio da palavra de YHWH (SENHOR) por meio de Oseias; e disse YHWH (SENHOR) a Oseias: Vai, toma para ti uma mulher de prostituições e filhos de prostituição, porque a terra se prostituiu, desviando-se de YHWH (SENHOR).
@@ -27,7 +14,7 @@
 * **10** Contudo, o número dos filhos de Israel será como a areia do mar, que não se pode medir nem contar; e acontecerá que, no lugar onde se lhes dizia: Vós não sois o meu povo, se lhes dirá: Filhos do Deus vivo.
 * **11** E os filhos de Judá e os filhos de Israel se congregarão juntos, e constituirão para si uma só cabeça, e subirão da terra, porque grande será o dia de Jezreel.
 
-## 2 {#cap-2}
+## 2
 
 * **1** Dizei a vossos irmãos: Ami (Meu povo), e a vossas irmãs: Ruama (Alcançada pela misericórdia).
 * **2** Contendei com vossa mãe, contendei, porque ela não é minha mulher, e eu não sou seu marido; e que ela tire as suas prostituições da sua face e os seus adultérios do meio dos seus seios.
@@ -53,7 +40,7 @@
 * **22** E a terra atenderá ao cereal, e ao vinho, e ao azeite, e eles atenderão a Jezreel.
 * **23** E a semearei para mim na terra, e terei misericórdia da que não alcançou misericórdia; e direi àquele que não era meu povo: Tu és meu povo; e ele dirá: Meu Elohim (Deus).
 
-## 3 {#cap-3}
+## 3
 
 * **1** E disse YHWH (SENHOR) a mim: Vai outra vez, ama uma mulher, amada de seu amigo, e adúltera, como YHWH (SENHOR) ama os filhos de Israel, embora eles olhem para outros Elohim (deuses) e amem bolos de passas.
 * **2** E a comprei para mim por quinze moedas de prata e um ômer de cevada e meio ômer de cevada.
@@ -61,7 +48,7 @@
 * **4** Porque os filhos de Israel ficarão por muitos dias sem rei, e sem príncipe, e sem sacrifício, e sem estátua, e sem éfode ou terafins.
 * **5** Depois tornarão os filhos de Israel, e buscarão a YHWH (SENHOR) Elohim (Deus) deles, e a Davi, seu rei; e temerão a YHWH (SENHOR) e à sua bondade, no fim dos dias.
 
-## 4 {#cap-4}
+## 4
 
 * **1** Ouvi a palavra de YHWH (SENHOR), vós filhos de Israel, porque YHWH (SENHOR) tem uma contenda com os habitantes da terra, porque não há verdade, nem benignidade, nem conhecimento de Elohim (Deus) na terra.
 * **2** Só prevalecem o perjurar, o mentir, o matar, o furtar e o adulterar; fazem romper limites, e um sangue toca o outro.
@@ -83,7 +70,7 @@
 * **18** A sua bebida se tornou azeda; eles se prostituem continuamente; os seus governantes amam vergonhosamente o seu escudo.
 * **19** O vento os envolveu nas suas asas, e envergonhar-se-ão dos seus sacrifícios.
 
-## 5 {#cap-5}
+## 5
 
 * **1** Ouvi isto, ó sacerdotes, e escutai, ó casa de Israel, e dai ouvidos, ó casa do rei, porque a vós pertence o juízo; porque fostes um laço para Mispa, e rede estendida sobre o Tabor.
 * **2** Os rebeldes se aprofundaram na corrupção, mas eu serei o castigo de todos eles.
@@ -101,7 +88,7 @@
 * **14** Porque para Efraim serei como um leão, e como um leão novo para a casa de Judá; eu, eu os despedaçarei e irei embora; arrebatarei, e não haverá quem livre.
 * **15** Irei e voltarei ao meu lugar, até que se reconheçam culpados e busquem a minha face; na sua angústia me buscarão diligentemente.
 
-## 6 {#cap-6}
+## 6
 
 * **1** Vinde, e tornemos para YHWH (SENHOR), porque ele nos despedaçou e nos sarará; feriu, e nos atará.
 * **2** Depois de dois dias nos dará a vida; ao terceiro dia nos ressuscitará, e viveremos diante dele.
@@ -115,7 +102,7 @@
 * **10** Na casa de Israel vi uma coisa horrível; ali está a prostituição de Efraim, Israel se contaminou.
 * **11** Também para ti, ó Judá, está preparada uma colheita, quando eu fizer voltar o cativeiro do meu povo.
 
-## 7 {#cap-7}
+## 7
 
 * **1** Quando eu sarava a Israel, a iniquidade de Efraim se descobria, e as maldades de Samaria; porque operam falsamente, e o ladrão entra, e a tropa de salteadores despoja por fora.
 * **2** E não dizem no seu coração que eu me lembro de toda a sua maldade; agora, pois, as suas próprias obras os cercam; estão diante da minha face.
@@ -134,7 +121,7 @@
 * **15** Eu os castiguei, e fortaleci os seus braços, mas eles pensam mal contra mim.
 * **16** Eles voltam, mas não para o Altíssimo; são como um arco enganoso; os seus príncipes cairão à espada, por causa da fúria da sua língua; este será o seu escárnio na terra do Egito.
 
-## 8 {#cap-8}
+## 8
 
 * **1** Põe a trombeta à tua boca; ele virá como águia contra a casa de YHWH (SENHOR), porque transgrediram a minha aliança e se rebelaram contra a minha lei.
 * **2** A mim clamarão: Meu Elohim (Deus), nós, Israel, te conhecemos.
@@ -151,7 +138,7 @@
 * **13** Quanto aos sacrifícios das minhas ofertas, eles sacrificam carne e a comem; mas YHWH (SENHOR) não os aceita; agora se lembrará da iniquidade deles, e visitará os seus pecados; eles voltarão para o Egito.
 * **14** Israel se esqueceu do seu Criador e edificou templos; e Judá multiplicou cidades fortificadas; mas eu enviarei um fogo sobre as suas cidades, que consumirá os seus palácios.
 
-## 9 {#cap-9}
+## 9
 
 * **1** Não te alegres, ó Israel, não exultes como os outros povos, porque te prostituíste, apartando-te do teu Elohim (Deus); amaste a paga de prostituta sobre todas as eiras de cereal.
 * **2** A eira e o lagar não os sustentarão, e o vinho novo lhes faltará.
@@ -171,7 +158,7 @@
 * **16** Efraim foi ferido, a sua raiz se secou; não darão fruto; e ainda que gerem, eu matarei os frutos desejáveis do seu ventre.
 * **17** O meu Elohim (Deus) os rejeitará, porque não o ouviram; e serão errantes entre as nações.
 
-## 10 {#cap-10}
+## 10
 
 * **1** Israel é uma videira que floresce, dando fruto para si mesmo; conforme a abundância do seu fruto, multiplicou os altares; conforme a bondade da sua terra, fizeram belas estátuas.
 * **2** O coração deles está dividido; agora serão achados culpados; ele derrubará os seus altares, destruirá as suas estátuas.
@@ -189,7 +176,7 @@
 * **14** Portanto, entre o teu povo se levantará um tumulto, e todas as tuas fortalezas serão destruídas, como Salmã destruiu a Bete-Arbel no dia da batalha; a mãe foi despedaçada com os filhos.
 * **15** Assim vos fará Bete-El, por causa da vossa grande maldade; de madrugada o rei de Israel será totalmente destruído.
 
-## 11 {#cap-11}
+## 11
 
 * **1** Quando Israel era menino, eu o amei; e do Egito chamei o meu filho.
 * **2** Quanto mais os chamava, mais se iam da minha face; sacrificavam a Baals e queimavam incenso às imagens de escultura.
@@ -204,7 +191,7 @@
 * **11** Tremerão como um pássaro, vindos do Egito, e como uma pomba, da terra da Assíria; e os farei habitar em suas casas, declara YHWH.
 * **12** Efraim me cercou com mentiras, e a casa de Israel, com engano; mas Judá ainda domina com Elohim, e com os santos é fiel.
 
-## 12 {#cap-12}
+## 12
 
 * **1** Efraim apascenta o vento e persegue o vento leste; todo o dia multiplica a mentira e a destruição; fazem aliança com a Assíria, e o azeite é levado ao Egito.
 * **2** YHWH tem também uma contenda com Judá e punirá Jacó conforme os seus caminhos; segundo as suas obras, lhe retribuirá.
@@ -221,7 +208,7 @@
 * **13** Por um profeta YHWH fez subir a Israel do Egito, e por um profeta foi ele guardado.
 * **14** Efraim provocou amargamente a ira; por isso, o seu Adonai (Senhor) deixará cair sobre ele o seu sangue e lhe retribuirá a sua vergonha.
 
-## 13 {#cap-13}
+## 13
 
 * **1** Quando Efraim falava, havia tremor; ele se exaltou em Israel, mas, culpando-se por causa de Baal, morreu.
 * **2** Agora, pecam ainda mais e fazem para si imagens de fundição da sua prata, ídolos segundo o seu entendimento, todos obra de artífices; aos quais dizem: Os homens que sacrificam beijam os bezerros.
@@ -240,7 +227,7 @@
 * **15** Ainda que ele dê frutos entre os irmãos, virá o vento leste, vento de YHWH, subindo do deserto, e secar-se-á a sua nascente, e esgotar-se-á a sua fonte; ele saqueará o tesouro de todos os objetos preciosos.
 * **16** Samaria será culpada, porque se rebelou contra o seu Elohim; cairão à espada; seus filhos serão despedaçados, e as suas mulheres grávidas serão fendidas.
 
-## 14 {#cap-14}
+## 14
 
 * **1** Volta, ó Israel, para YHWH teu Elohim, porque tropeçaste na tua iniquidade.
 * **2** Tomai convosco palavras e convertei-vos a YHWH; dizei-lhe: Tira toda a iniquidade e aceita o que é bom; e ofereceremos como novilhos os sacrifícios dos nossos lábios.

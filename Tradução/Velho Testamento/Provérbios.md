@@ -1,21 +1,6 @@
-<!-- topo -->
 # Provérbios
 
-<!-- INDICE -->
-## 📜 Índice
-
-**31 capítulos**
-[1](#cap-1) · [2](#cap-2) · [3](#cap-3) · [4](#cap-4) · [5](#cap-5) · [6](#cap-6) · [7](#cap-7) · [8](#cap-8) · [9](#cap-9) · [10](#cap-10)
-[11](#cap-11) · [12](#cap-12) · [13](#cap-13) · [14](#cap-14) · [15](#cap-15) · [16](#cap-16) · [17](#cap-17) · [18](#cap-18) · [19](#cap-19) · [20](#cap-20)
-[21](#cap-21) · [22](#cap-22) · [23](#cap-23) · [24](#cap-24) · [25](#cap-25) · [26](#cap-26) · [27](#cap-27) · [28](#cap-28) · [29](#cap-29) · [30](#cap-30)
-[31](#cap-31)
-
-<div align="right"><a href="#topo"><strong>▲ Voltar ao topo</strong></a></div>
-
-<!-- FIM_INDICE -->
-
-
-## 1 {#cap-1}
+## 1
 
 * **1** Provérbios de Salomão, filho de Davi, rei de Israel.
 * **2** Para se conhecer a sabedoria e a disciplina, para compreender as palavras de discernimento.
@@ -51,7 +36,7 @@
 * **32** Porque o desvio dos simples os matará, e a prosperidade dos insensatos os destruirá.
 * **33** Mas o que me der ouvidos habitará em segurança e estará tranquilo, sem medo do mal".
 
-## 2 {#cap-2}
+## 2
 
 * **1** Meu filho, se aceitares as minhas palavras e esconderes contigo os meus mandamentos,
 * **2** Para inclinares o teu ouvido à sabedoria e o teu coração ao entendimento;
@@ -76,7 +61,7 @@
 * **21** Porque os retos habitarão a terra, e os íntegros permanecerão nela.
 * **22** Mas os ímpios serão eliminados da terra, e os infiéis serão dela arrancados.
 
-## 3 {#cap-3}
+## 3
 
 * **1** Meu filho, não te esqueças da minha lei, e o teu coração guarde os meus mandamentos.
 * **2** Porque eles te acrescentarão longos dias, anos de vida e paz.
@@ -114,7 +99,7 @@
 * **34** Certamente ele escarnece dos escarnecedores, mas dá graça aos humildes.
 * **35** Os sábios herdarão honra, mas os insensatos herdarão vergonha.
 
-## 4 {#cap-4}
+## 4
 
 * **1** Ouvi, filhos, a disciplina de um pai, e estai atentos para conhecer o discernimento.
 * **2** Pois vos dou boa doutrina; não abandoneis a minha lei.
@@ -144,7 +129,7 @@
 * **26** Pondera a vereda dos teus pés, e todos os teus caminhos sejam bem ordenados.
 * **27** Não declines nem para a direita nem para a esquerda; retira o teu pé do mal.
 
-## 5 {#cap-5}
+## 5
 
 * **1** Meu filho, atenta para a minha sabedoria, inclina o teu ouvido ao meu entendimento.
 * **2** Para que guardes a prudência, e os teus lábios preservem o conhecimento.
@@ -170,7 +155,7 @@
 * **22** As suas próprias iniquidades prenderão o ímpio, e com as cordas do seu pecado será detido.
 * **23** Ele morrerá por falta de disciplina, e pela grandeza da sua estultícia andará errado.
 
-## 6 {#cap-6}
+## 6
 
 * **1** Meu filho, se ficaste por fiador do teu próximo, se deste a tua mão a um estranho,
 * **2** Estás enredado pelas palavras da tua boca, estás preso pelas palavras da tua boca.
@@ -208,7 +193,7 @@
 * **34** Porque o ciúme é o furor do marido, e não perdoará no dia da vingança.
 * **35** Não aceitará nenhum resgate, nem se contentará, ainda que multipliques os presentes.
 
-## 7 {#cap-7}
+## 7
 
 * **1** Filho meu, guarda as minhas palavras, e esconde dentro de ti os meus mandamentos.
 * **2** Guarda os meus mandamentos e vive; e a minha instrução, como a menina dos teus olhos.
@@ -238,7 +223,7 @@
 * **26** Porque a muitos derrubou ferida; e são muitos os que por ela foram mortos.
 * **27** O caminho da sepultura é a sua casa, que desce às câmaras da morte.
 
-## 8 {#cap-8}
+## 8
 
 * **1** Porventura não clama a sabedoria, e o entendimento não faz ouvir a sua voz?
 * **2** No topo das alturas, junto ao caminho, nas encruzilhadas das veredas, ela se coloca.
@@ -277,7 +262,7 @@
 * **35** Porque o que me acha, acha a vida, e alcança o favor de YHWH (SENHOR).
 * **36** Mas o que peca contra mim violenta a sua própria alma; todos os que me odeiam amam a morte.
 
-## 9 {#cap-9}
+## 9
 
 * **1** A sabedoria já edificou a sua casa, já lavrou as suas sete colunas.
 * **2** Já preparou as suas carnes, já misturou o seu vinho, já preparou também a sua mesa.
@@ -298,7 +283,7 @@
 * **17** As águas roubadas são doces, e o pão comido às ocultas é agradável.
 * **18** Mas ele não sabe que ali estão os mortos; que os seus convidados estão nas profundezas da sepultura.
 
-## 10 {#cap-10}
+## 10
 
 * **1** Provérbios de Salomão. O filho sábio alegra seu pai, mas o filho insensato é a tristeza de sua mãe.
 * **2** Os tesouros da impiedade de nada aproveitam, mas a justiça livra da morte.
@@ -333,7 +318,7 @@
 * **31** A boca do justo produz sabedoria, mas a língua perversa será cortada.
 * **32** Os lábios do justo conhecem o que é agradável, mas a boca dos ímpios fala perversidades.
 
-## 11 {#cap-11}
+## 11
 
 * **1** Balança enganosa é abominação para YHWH (SENHOR), mas o peso justo é o seu prazer.
 * **2** Quando vem a soberba, vem também a desonra; mas com os humildes está a sabedoria.
@@ -367,7 +352,7 @@
 * **30** O fruto do justo é árvore de vida, e quem ganha almas é sábio.
 * **31** Se o justo é recompensado na terra, quanto mais o ímpio e o pecador!
 
-## 12 {#cap-12}
+## 12
 
 * **1** Quem ama a disciplina ama o conhecimento, mas quem odeia a repreensão é um bruto.
 * **2** O homem bom alcança o favor de YHWH, mas o homem de planos perversos é condenado.
@@ -398,7 +383,7 @@
 * **27** O preguiçoso não apanha a sua caça, mas a riqueza preciosa do homem é a diligência.
 * **28** Na vereda da justiça está a vida, e no seu caminho não há morte.
 
-## 13 {#cap-13}
+## 13
 
 * **1** O filho sábio aceita a disciplina do pai, mas o escarnecedor não ouve a repreensão.
 * **2** Do fruto da boca o homem come o bem, mas a alma dos traidores deseja a violência.
@@ -426,7 +411,7 @@
 * **24** Quem poupa a vara odeia o seu filho, mas quem o ama, disciplina-o cedo.
 * **25** O justo come até satisfazer a sua alma, mas o ventre dos ímpios passará necessidade.
 
-## 14 {#cap-14}
+## 14
 
 * **1** A mulher sábia edifica a sua casa, mas a insensata a derruba com as próprias mãos.
 * **2** Quem anda na sua retidão teme a YHWH, mas aquele que é perverso em seus caminhos O despreza.
@@ -464,7 +449,7 @@
 * **34** A justiça exalta a nação, mas o pecado é a vergonha dos povos.
 * **35** O favor do rei é para o servo que procede com inteligência, mas a sua ira é para o que causa vergonha.
 
-## 15 {#cap-15}
+## 15
 
 * **1** A resposta branda desvia o furor, mas a palavra dura suscita a ira.
 * **2** A língua dos sábios torna o conhecimento agradável, mas a boca dos tolos derrama estultícia.
@@ -500,7 +485,7 @@
 * **32** Quem rejeita a disciplina despreza a sua própria alma, mas quem ouve a repreensão adquire entendimento.
 * **33** O temor de YHWH é a disciplina da sabedoria, e diante da honra vai a humildade.
 
-## 16 {#cap-16}
+## 16
 
 * **1** Ao homem pertencem os planos do coração, mas de YHWH vem a resposta da língua.
 * **2** Todos os caminhos do homem são puros aos seus olhos, mas YHWH pesa os espíritos.
@@ -536,7 +521,7 @@
 * **32** Melhor é o homem paciente do que o valente, e o que domina o seu espírito do que o que conquista uma cidade.
 * **33** O sorteio é lançado no regaço, mas do YHWH (SENHOR) procede toda a sua decisão.
 
-## 17 {#cap-17}
+## 17
 
 * **1** Melhor é um bocado seco e com ele a tranquilidade do que a casa cheia de festins com contendas.
 * **2** O servo prudente dominará sobre o filho que causa vergonha e, entre os irmãos, repartirá a herança.
@@ -567,7 +552,7 @@
 * **27** Aquele que retém as suas palavras possui o conhecimento, e o homem de espírito sereno é um homem de discernimento.
 * **28** Até o tolo, quando se cala, é reputado por sábio; e o que fecha os seus lábios, por entendido.
 
-## 18 {#cap-18}
+## 18
 
 * **1** Aquele que se isola busca o seu próprio desejo e se insurge contra toda a verdadeira sabedoria.
 * **2** O tolo não tem prazer no entendimento, mas apenas em revelar o seu coração.
@@ -594,7 +579,7 @@
 * **23** O pobre fala com súplicas, mas o rico responde com dureza.
 * **24** O homem de muitos amigos deve mostrar-se amigável, mas há um amigo mais chegado do que um irmão.
 
-## 19 {#cap-19}
+## 19
 
 * **1** Melhor é o pobre que anda na sua integridade do que o de lábios perversos, que é tolo.
 * **2** Não é bom que a alma fique sem conhecimento, e o que se apressa com os pés peca.
@@ -626,7 +611,7 @@
 * **28** A testemunha vil escarnece do juízo, e a boca dos ímpios devora a iniquidade.
 * **29** Preparados estão os juízos para os escarnecedores, e os açoites para as costas dos tolos.
 
-## 20 {#cap-20}
+## 20
 
 * **1** O vinho é escarnecedor, a bebida forte é alvoroçadora; todo aquele que neles se embriaga não é sábio.
 * **2** O terror do rei é como o rugido do leão; quem o provoca à ira peca contra a sua própria alma.
@@ -659,7 +644,7 @@
 * **29** A glória dos jovens é a sua força, e a beleza dos velhos são as cãs.
 * **30** Os vergões das feridas purificam o mal, assim como os açoites purificam as profundezas do ventre.
 
-## 21 {#cap-21}
+## 21
 
 * **1** Como ribeiros de águas, assim é o coração do rei na mão de YHWH (SENHOR); Ele o inclina para onde quer.
 * **2** Todo caminho do homem é reto aos seus olhos, mas YHWH (SENHOR) pesa os corações.
@@ -693,7 +678,7 @@
 * **30** Não há sabedoria, nem entendimento, nem conselho contra YHWH (SENHOR).
 * **31** O cavalo é preparado para o dia da batalha, mas a vitória vem de YHWH (SENHOR).
 
-## 22 {#cap-22}
+## 22
 
 * **1** É melhor escolher um bom nome do que muitas riquezas; a estima vale mais que a prata e o ouro.
 * **2** O rico e o pobre se encontram; YHWH (SENHOR) fez a todos eles.
@@ -725,7 +710,7 @@
 * **28** Não removas os marcos antigos que os teus pais estabeleceram.
 * **29** Viste um homem diligente na sua obra? Ele se apresentará diante de reis; não ficará diante de homens obscuros.
 
-## 23 {#cap-23}
+## 23
 
 * **1** Quando te sentares a comer com um governante, considera bem o que está diante de ti.
 * **2** Põe uma faca à tua garganta, se fores homem de apetite voraz.
@@ -763,7 +748,7 @@
 * **34** E serás como o que se deita no meio do mar, e como o que se deita no topo do mastro.
 * **35** "Espancaram-me, e não senti dor; bateram-me, e não percebi. Quando acordarei? Voltarei a buscá-lo ainda."
 
-## 24 {#cap-24}
+## 24
 
 * **1** Não tenhas inveja dos homens maus, nem desejes estar com eles.
 * **2** Pois o seu coração medita violência, e os seus lábios falam de maldade.
@@ -800,7 +785,7 @@
 * **33** Um pouco de sono, um pouco de cochilo, um pouco de cruzar as mãos para descansar.
 * **34** Assim virá a tua pobreza como um viajante, e a tua necessidade como um homem armado.
 
-## 25 {#cap-25}
+## 25
 
 * **1** Também estes são provérbios de Salomão, que os homens de Ezequias, rei de Judá, compilaram.
 * **2** É a glória de Elohim (Deus) ocultar um assunto, mas é a glória dos reis investigá-lo.
@@ -831,7 +816,7 @@
 * **27** Comer muito mel não é bom, nem buscar a própria glória é honroso.
 * **28** Como cidade derrubada, sem muros, assim é o homem que não domina o seu espírito.
 
-## 26 {#cap-26}
+## 26
 
 * **1** Como a neve no verão e a chuva na colheita, assim a honra não convém ao tolo.
 * **2** Como o pássaro que foge e a andorinha que voa, assim a maldição sem causa não virá.
@@ -862,7 +847,7 @@
 * **27** Como o louco que lança fogo, flechas e morte,
 * **28** Assim é o homem que engana o seu próximo e diz: Não estava eu apenas brincando?
 
-## 27 {#cap-27}
+## 27
 
 * **1** Sem lenha, o fogo se apaga; e, onde não há difamador, a contenda cessa.
 * **2** O carvão é para a brasa, a lenha para o fogo, e o homem contencioso para acender rixas.
@@ -892,7 +877,7 @@
 * **26** Como o ferro com o ferro se afia, assim o homem ao rosto do seu amigo.
 * **27** O que cuida da figueira comerá do seu fruto, e o que atenta pelo seu senhor será honrado.
 
-## 28 {#cap-28}
+## 28
 
 * **1** Como na água o rosto reflete o rosto, assim o coração do homem ao homem.
 * **2** O Sheol (sepultura) e a destruição nunca se fartam, e os olhos do homem nunca se satisfazem.
@@ -923,7 +908,7 @@
 * **27** O que anda em integridade será salvo, mas o perverso em seus caminhos cairá logo.
 * **28** O que lavra a sua terra se fartará de pão, mas o que segue a ociosos se fartará de pobreza.
 
-## 29 {#cap-29}
+## 29
 
 * **1** O homem fiel abundará em bênçãos, mas o que se apressa a enriquecer não ficará impune.
 * **2** Não é bom mostrar parcialidade, pois até por um bocado de pão o homem transgride.
@@ -953,7 +938,7 @@
 * **26** Corrige o teu filho e te dará descanso, e dará delícias à tua alma.
 * **27** Não havendo profecia, o povo se corrompe, mas o que guarda a lei, esse é bem-aventurado.
 
-## 30 {#cap-30}
+## 30
 
 * **1** O servo não se corrige apenas com palavras, porque, ainda que entenda, não responderá.
 * **2** Viste um homem precipitado nas suas palavras? Mais esperança há para o tolo do que para ele.
@@ -989,7 +974,7 @@
 * **32** Pela mulher desprezada quando se casa, e pela serva quando herda da sua senhora.
 * **33** Estas quatro coisas são pequenas na terra, mas são extremamente sábias:
 
-## 31 {#cap-31}
+## 31
 
 * **1** As formigas, povo sem força, mas que prepara no verão o seu mantimento;
 * **2** Os coelhos, povo sem poder, mas que põe a sua casa na rocha;

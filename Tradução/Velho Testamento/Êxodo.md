@@ -1,21 +1,6 @@
-<!-- topo -->
 # Êxodo
 
-<!-- INDICE -->
-## 📜 Índice
-
-**40 capítulos**
-[1](#cap-1) · [2](#cap-2) · [3](#cap-3) · [4](#cap-4) · [5](#cap-5) · [6](#cap-6) · [7](#cap-7) · [8](#cap-8) · [9](#cap-9) · [10](#cap-10)
-[11](#cap-11) · [12](#cap-12) · [13](#cap-13) · [14](#cap-14) · [15](#cap-15) · [16](#cap-16) · [17](#cap-17) · [18](#cap-18) · [19](#cap-19) · [20](#cap-20)
-[21](#cap-21) · [22](#cap-22) · [23](#cap-23) · [24](#cap-24) · [25](#cap-25) · [26](#cap-26) · [27](#cap-27) · [28](#cap-28) · [29](#cap-29) · [30](#cap-30)
-[31](#cap-31) · [32](#cap-32) · [33](#cap-33) · [34](#cap-34) · [35](#cap-35) · [36](#cap-36) · [37](#cap-37) · [38](#cap-38) · [39](#cap-39) · [40](#cap-40)
-
-<div align="right"><a href="#topo"><strong>▲ Voltar ao topo</strong></a></div>
-
-<!-- FIM_INDICE -->
-
-
-## 1 {#cap-1}
+## 1
 
 * **1** Estes são os nomes dos filhos de Israel que entraram no Egito com Jacó, cada um com sua família:
 * **2** Rúben, Simeão, Levi e Judá;
@@ -40,7 +25,7 @@
 * **21** E, porque as parteiras temeram a Elohim (Deus), Ele lhes concedeu famílias.
 * **22** Então, o Faraó ordenou a todo o seu povo: "Lancem no rio Nilo todo menino que nascer, mas deixem viver todas as meninas."
 
-## 2 {#cap-2}
+## 2
 
 * **1** Um homem da casa de Levi foi e tomou por esposa uma filha de Levi.
 * **2** A mulher engravidou e deu à luz um filho; vendo que ele era formoso, escondeu-o por três meses.
@@ -68,7 +53,7 @@
 * **24** Elohim (Deus) ouviu o gemido deles e lembrou-se da Sua aliança com Abraão, com Isaque e com Jacó.
 * **25** Elohim (Deus) olhou para os filhos de Israel e atentou para eles.
 
-## 3 {#cap-3}
+## 3
 
 * **1** Moisés apascentava o rebanho de Jetro, seu sogro, sacerdote de Midiã; conduziu o rebanho para o outro lado do deserto e chegou ao monte de Elohim (Deus), em Horebe.
 * **2** O anjo de YHWH (SENHOR) apareceu-lhe em uma chama de fogo, do meio de uma sarça. Moisés olhou e viu que a sarça ardia em fogo, mas não se consumia.
@@ -93,7 +78,7 @@
 * **21** "Darei a este povo graça aos olhos dos egípcios; e acontecerá que, quando sairdes, não saireis de mãos vazias."
 * **22** "Cada mulher pedirá à sua vizinha e à sua hóspede objetos de prata, objetos de ouro e vestes, que poreis sobre vossos filhos e filhas; assim despojareis os egípcios."
 
-## 4 {#cap-4}
+## 4
 
 * **1** Moisés respondeu: "Mas eles não acreditarão em mim, nem ouvirão a minha voz, pois dirão: 'YHWH (SENHOR) não te apareceu'."
 * **2** YHWH (SENHOR) lhe disse: "O que é isso na sua mão?" Ele respondeu: "Um cajado."
@@ -127,7 +112,7 @@
 * **30** Arão falou todas as palavras que YHWH (SENHOR) dissera a Moisés e fez os sinais diante do povo.
 * **31** O povo acreditou; e, quando ouviram que YHWH (SENHOR) visitara os filhos de Israel e vira a sua aflição, inclinaram-se e adoraram.
 
-## 5 {#cap-5}
+## 5
 
 * **1** Depois, Moisés e Arão foram e disseram ao Faraó: "Assim diz YHWH (SENHOR), o Elohim (Deus) de Israel: Deixa ir o Meu povo, para que Me celebre uma festa no deserto."
 * **2** O Faraó respondeu: "Quem é YHWH (SENHOR), para que eu ouça a Sua voz e deixe ir Israel? Não conheço a YHWH (SENHOR), nem deixarei ir Israel."
@@ -153,7 +138,7 @@
 * **22** Moisés voltou a YHWH (SENHOR) e disse: "Adonai (Senhor), por que afligiste este povo? Por que me enviaste?"
 * **23** "Pois, desde que fui ao Faraó para falar em Teu nome, ele tem afligido este povo, e Tu de maneira nenhuma livraste o Teu povo."
 
-## 6 {#cap-6}
+## 6
 
 * **1** YHWH (SENHOR) disse a Moisés: "Agora verás o que farei ao Faraó, pois, por mão forte, ele os deixará ir e, por mão forte, os expulsará da sua terra."
 * **2** Elohim (Deus) falou a Moisés e disse-lhe: "Eu sou YHWH (SENHOR)."
@@ -186,7 +171,7 @@
 * **29** YHWH falou a Moisés, dizendo: "Eu sou YHWH; fala a Faraó, rei do Egito, tudo o que eu te disser".
 * **30** Moisés respondeu diante de YHWH: "Eis que sou de lábios incircuncisos; como, pois, Faraó me ouvirá?"
 
-## 7 {#cap-7}
+## 7
 
 * **1** YHWH disse a Moisés: "Vê, eu te constituí como Elohim (Deus) para Faraó, e Arão, teu irmão, será o teu profeta".
 * **2** "Tu falarás tudo o que eu te ordenar, e Arão, teu irmão, falará a Faraó, para que deixe sair os filhos de Israel da sua terra".
@@ -214,7 +199,7 @@
 * **24** Todos os egípcios cavaram ao redor do rio à procura de água para beber, porque não podiam beber das águas do rio.
 * **25** Passaram-se sete dias depois que YHWH feriu o rio.
 
-## 8 {#cap-8}
+## 8
 
 * **1** YHWH disse a Moisés: "Vai a Faraó e dize-lhe: 'Assim diz YHWH: Deixa ir o meu povo, para que me sirva'".
 * **2** "Se recusares deixá-lo ir, eis que ferirei todo o teu território com rãs".
@@ -249,7 +234,7 @@
 * **31** YHWH fez conforme a palavra de Moisés, e as moscas se afastaram de Faraó, de seus servos e de seu povo; não restou nem uma.
 * **32** Faraó endureceu o seu coração também desta vez e não deixou ir o povo.
 
-## 9 {#cap-9}
+## 9
 
 * **1** YHWH disse a Moisés: "Vai a Faraó e dize-lhe: 'Assim diz YHWH, o Elohim (Deus) dos hebreus: Deixa ir o meu povo, para que me sirva'".
 * **2** "Porque, se recusares deixá-lo ir e ainda os retiveres,"
@@ -287,7 +272,7 @@
 * **34** Vendo Faraó que a chuva, a saraiva e os trovões tinham cessado, pecou ainda mais e endureceu o seu coração, ele e os seus servos.
 * **35** O coração de Faraó endureceu-se, e ele não deixou ir os filhos de Israel, como YHWH tinha dito por intermédio de Moisés.
 
-## 10 {#cap-10}
+## 10
 
 * **1** YHWH disse a Moisés: "Vai a Faraó, porque eu endureci o seu coração e o coração dos seus servos, para que eu possa realizar estes meus sinais no meio deles".
 * **2** "E para que contes aos ouvidos de teu filho e do filho de teu filho as coisas que fiz no Egito e os meus sinais que realizei entre eles, para que saibais que eu sou YHWH".
@@ -319,7 +304,7 @@
 * **28** Faraó disse-lhe: "Sai de mim; guarda-te e não vejas mais o meu rosto, porque no dia em que vires o meu rosto, morrerás".
 * **29** Moisés disse: "Bem disseste; não verei mais o teu rosto".
 
-## 11 {#cap-11}
+## 11
 
 * **1** YHWH disse a Moisés: "Ainda trarei uma praga sobre Faraó e sobre o Egito; depois disso, ele vos deixará ir daqui; quando ele vos deixar ir, ele vos expulsará totalmente daqui".
 * **2** "Fala agora aos ouvidos do povo, que cada homem peça ao seu vizinho e cada mulher à sua vizinha objetos de prata e objetos de ouro".
@@ -332,7 +317,7 @@
 * **9** YHWH disse a Moisés: "Faraó não vos ouvirá, para que as minhas maravilhas se multipliquem na terra do Egito".
 * **10** Moisés e Arão fizeram todas estas maravilhas diante de Faraó; YHWH endureceu o coração de Faraó, e ele não deixou ir os filhos de Israel da sua terra.
 
-## 12 {#cap-12}
+## 12
 
 * **1** YHWH falou a Moisés e a Arão na terra do Egito, dizendo:
 * **2** "Este mês será para vós o princípio dos meses; será o primeiro dos meses do ano para vós".
@@ -386,7 +371,7 @@
 * **50** Todos os filhos de Israel fizeram como YHWH ordenou a Moisés e a Arão; assim fizeram.
 * **51** Naquele mesmo dia, YHWH tirou os filhos de Israel da terra do Egito, segundo os seus exércitos.
 
-## 13 {#cap-13}
+## 13
 
 * **1** YHWH falou a Moisés, dizendo:
 * **2** "Consagra-me todo primogênito, o que abre toda madre entre os filhos de Israel, tanto de homens como de animais; ele é meu."
@@ -411,7 +396,7 @@
 * **21** YHWH ia adiante deles, de dia numa coluna de nuvem para os guiar pelo caminho, e de noite numa coluna de fogo para os alumiar, para que caminhassem de dia e de noite.
 * **22** Nunca se apartou do povo a coluna de nuvem de dia, nem a coluna de fogo de noite.
 
-## 14 {#cap-14}
+## 14
 
 * **1** YHWH falou a Moisés, dizendo:
 * **2** "Fala aos filhos de Israel que voltem e acampem diante de Pi-Hairote, entre Migdol e o mar, defronte de Baal-Zefom; acampareis junto ao mar."
@@ -445,7 +430,7 @@
 * **30** Assim, YHWH salvou Israel naquele dia da mão dos egípcios; e Israel viu os egípcios mortos na praia do mar.
 * **31** Viu Israel a grande mão que YHWH exercera contra os egípcios; o povo temeu a YHWH e creu em YHWH e em Moisés, seu servo.
 
-## 15 {#cap-15}
+## 15
 
 * **1** Então Moisés e os filhos de Israel cantaram este cântico a YHWH, dizendo: "Cantarei a YHWH, porque triunfou gloriosamente; lançou no mar o cavalo e o seu cavaleiro".
 * **2** "O SENHOR é a minha força e o meu cântico, ele se tornou a minha salvação; este é o meu Elohim, e eu o glorificarei; o Elohim de meu pai, e eu o exaltarei."
@@ -475,7 +460,7 @@
 * **26** Disse: "Se ouvires atentamente a voz de YHWH, teu Elohim, e fizeres o que é reto aos seus olhos, e deres ouvidos aos seus mandamentos, e guardares todos os seus estatutos, nenhuma das enfermidades que pus sobre os egípcios porei sobre ti, pois eu sou YHWH, que te sara".
 * **27** Chegaram a Elim, onde havia doze fontes de água e setenta palmeiras; e acamparam ali junto às águas.
 
-## 16 {#cap-16}
+## 16
 
 * **1** Partiram de Elim, e toda a congregação dos filhos de Israel chegou ao deserto de Sim, que está entre Elim e Sinai, no dia quinze do segundo mês, após a saída da terra do Egito.
 * **2** Toda a congregação dos filhos de Israel murmurou contra Moisés e contra Arão no deserto.
@@ -514,7 +499,7 @@
 * **35** Os filhos de Israel comeram maná quarenta anos, até que chegaram a uma terra habitada; comeram maná até chegarem aos limites da terra de Canaã.
 * **36** O ômer é a décima parte de um efa.
 
-## 17 {#cap-17}
+## 17
 
 * **1** Toda a congregação dos filhos de Israel partiu do deserto de Sim, seguindo as etapas ordenadas por YHWH (SENHOR), e acamparam em Refidim, onde não havia água para o povo beber.
 * **2** O povo discutiu com Moisés e disse: "Dê-nos água para beber". Moisés respondeu: "Por que discutem comigo? Por que tentam a YHWH?"
@@ -533,7 +518,7 @@
 * **15** Moisés edificou um altar e chamou-lhe YHWH Nissi (O SENHOR é minha bandeira).
 * **16** Disse: "Porque a mão está sobre o trono de Yah (SENHOR), haverá guerra de YHWH contra Amaleque de geração em geração".
 
-## 18 {#cap-18}
+## 18
 
 * **1** Jetro, sacerdote de Midiã, sogro de Moisés, ouviu tudo o que Elohim fizera por Moisés e por Israel, seu povo, como YHWH tirara Israel do Egito.
 * **2** Jetro, sogro de Moisés, tomou Zípora, a esposa de Moisés, depois que ele a enviara de volta,
@@ -563,7 +548,7 @@
 * **26** Eles julgavam o povo em todo o tempo; as questões difíceis traziam a Moisés, mas as questões pequenas julgavam eles mesmos.
 * **27** Moisés despediu o sogro, e ele partiu para a sua terra.
 
-## 19 {#cap-19}
+## 19
 
 * **1** No terceiro mês após a saída dos filhos de Israel da terra do Egito, naquele mesmo dia, chegaram ao deserto do Sinai.
 * **2** Partiram de Refidim, chegaram ao deserto do Sinai e acamparam no deserto; ali Israel acampou defronte do monte.
@@ -591,7 +576,7 @@
 * **24** YHWH disse-lhe: "Vai, desce, e sobe tu e Arão contigo; mas os sacerdotes e o povo não rompam os limites para subir a YHWH, para que ele não os fira".
 * **25** Moisés desceu ao povo e falou-lhes.
 
-## 20 {#cap-20}
+## 20
 
 * **1** Elohim falou todas estas palavras, dizendo:
 * **2** "Eu sou YHWH, teu Elohim, que te tirei da terra do Egito, da casa da servidão".
@@ -620,7 +605,7 @@
 * **25** "Se me fizeres um altar de pedras, não o construirás de pedras lavradas, pois se usares o teu cinzel sobre elas, profaná-lo-ás".
 * **26** "Não subirás por degraus ao meu altar, para que a tua nudez não seja descoberta sobre ele".
 
-## 21 {#cap-21}
+## 21
 
 * **1** "Estas são as ordenanças que lhes proporás".
 * **2** "Se comprares um servo hebreu, seis anos servirá; mas no sétimo sairá livre, de graça".
@@ -659,7 +644,7 @@
 * **35** "Se o boi de alguém ferir o boi do seu próximo e ele morrer, venderão o boi vivo e repartirão o dinheiro; também repartirão o morto".
 * **36** "Mas se for notório que o boi era chifrador desde ontem e anteontem, e o seu dono não o guardou, pagará boi por boi, e o morto será seu".
 
-## 22 {#cap-22}
+## 22
 
 * **1** "Se alguém furtar um boi ou uma ovelha e o abater ou vender, pagará cinco bois pelo boi e quatro ovelhas pela ovelha".
 * **2** "Se o ladrão for achado arrombando e for ferido e morrer, não haverá culpa de sangue".
@@ -693,7 +678,7 @@
 * **30** Assim farás com o teu boi e com o teu rebanho; sete dias ficará com sua mãe, e no oitavo dia o darás a Mim.
 * **31** Sereis homens santos para Mim; não comereis carne despedaçada no campo, lançá-la-eis aos cães.
 
-## 23 {#cap-23}
+## 23
 
 * **1** Não aceitarás notícia falsa, nem estenderás a mão com o ímpio para seres testemunha de injustiça.
 * **2** Não seguirás a multidão para fazer o mal, nem deporás em um processo inclinando-te para a maioria, para perverter a justiça.
@@ -729,7 +714,7 @@
 * **32** Não farás aliança com eles, nem com os seus Elohim.
 * **33** Não habitarão na tua terra, para que não te façam pecar contra Mim; pois se servires aos seus Elohim, isso será um laço para ti.
 
-## 24 {#cap-24}
+## 24
 
 * **1** E a Moisés disse: Sobe a YHWH (SENHOR), tu e Aarão, Nadabe e Abiú, e setenta dos anciãos de Israel, e prostrai-vos de longe.
 * **2** Moisés chegar-se-á sozinho a YHWH, mas eles não se chegarão, e o povo não subirá com ele.
@@ -750,7 +735,7 @@
 * **17** O aspecto da glória de YHWH era como um fogo consumidor no cume do monte, aos olhos dos filhos de Israel.
 * **18** Moisés entrou no meio da nuvem e subiu ao monte; e Moisés esteve no monte quarenta dias e quarenta noites.
 
-## 25 {#cap-25}
+## 25
 
 * **1** YHWH falou a Moisés, dizendo:
 * **2** Fala aos filhos de Israel que Me tragam uma oferta; de todo homem cujo coração o mover voluntariamente, tomareis a Minha oferta.
@@ -793,7 +778,7 @@
 * **39** De um talento de ouro puro se fará ele, com todos estes utensílios.
 * **40** Vê e faze conforme o modelo que te foi mostrado no monte.
 
-## 26 {#cap-26}
+## 26
 
 * **1** Farás o tabernáculo de dez cortinas de linho fino retorcido, púrpura azul, púrpura vermelha e carmesim; com querubins de obra de artífice as farás.
 * **2** O comprimento de cada cortina será de vinte e oito côvados, e a largura de cada cortina de quatro côvados; todas as cortinas terão a mesma medida.
@@ -833,7 +818,7 @@
 * **36** Farás um cortinado para a porta da tenda, de púrpura azul, púrpura vermelha, carmesim e linho fino retorcido, obra de bordador.
 * **37** Farás para o cortinado cinco colunas de acácia e as cobrirás de ouro, com colchetes de ouro; e fundirás para elas cinco bases de bronze.
 
-## 27 {#cap-27}
+## 27
 
 * **1** Farás o altar de madeira de acácia; cinco côvados de comprimento e cinco côvados de largura; quadrado será o altar, e três côvados a sua altura.
 * **2** Farás as suas pontas nos seus quatro cantos; as suas pontas serão do mesmo, e o cobrirás de bronze.
@@ -857,7 +842,7 @@
 * **20** Tu ordenarás aos filhos de Israel que tragam azeite puro de oliveira batido para o candelabro, a fim de manter a lâmpada acesa continuamente.
 * **21** Na tenda da congregação, fora do véu que está diante do testemunho, Aarão e seus filhos a manterão acesa desde a tarde até a manhã, diante de YHWH (SENHOR); este será um estatuto perpétuo para as suas gerações, da parte dos filhos de Israel.
 
-## 28 {#cap-28}
+## 28
 
 * **1** Aproxima de ti Aarão, teu irmão, e seus filhos com ele, dentre os filhos de Israel, para que me sirvam como sacerdotes: Aarão, Nadabe, Abiú, Eleazar e Itamar, filhos de Aarão.
 * **2** Farás vestes sagradas para Aarão, teu irmão, para glória e esplendor.
@@ -903,7 +888,7 @@
 * **42** Far-lhes-ás calções de linho para cobrir a carne nua; irão desde os lombos até as coxas.
 * **43** Estarão sobre Aarão e seus filhos quando entrarem na tenda da congregação ou quando se aproximarem do altar para ministrar no lugar santo, para que não levem iniquidade e morram; este será um estatuto perpétuo para ele e para a sua descendência depois dele.
 
-## 29 {#cap-29}
+## 29
 
 * **1** Isto é o que lhes farás para os consagrar a fim de me servirem como sacerdotes: toma um novilho e dois carneiros sem defeito.
 * **2** Pães ázimos, bolos ázimos amassados com azeite e obreias ázimas untadas com azeite; de flor de farinha de trigo os farás.
@@ -952,7 +937,7 @@
 * **45** Habitarei no meio dos filhos de Israel e serei o seu Elohim (Deus).
 * **46** Saberão que eu sou YHWH (SENHOR), seu Elohim (Deus), que os tirei da terra do Egito, para habitar no meio deles; eu sou YHWH (SENHOR), seu Elohim (Deus).
 
-## 30 {#cap-30}
+## 30
 
 * **1** Farás um altar para queimar incenso; de madeira de acácia o farás.
 * **2** De um côvado de comprimento e um côvado de largura, será quadrado, e de dois côvados de altura; as suas pontas serão da mesma peça.
@@ -993,7 +978,7 @@
 * **37** O incenso que fizeres, conforme esta composição, não o fareis para vós mesmos; santo será para ti para YHWH (SENHOR).
 * **38** Qualquer que fizer tal como este para o cheirar, será eliminado do seu povo.
 
-## 31 {#cap-31}
+## 31
 
 * **1** Falou YHWH (SENHOR) a Moisés, dizendo:
 * **2** Vê, chamei pelo nome Bezalel, filho de Uri, filho de Hur, da tribo de Judá.
@@ -1014,7 +999,7 @@
 * **17** Entre mim e os filhos de Israel é um sinal para sempre, pois em seis dias YHWH fez os céus e a terra, e no sétimo dia descansou e tomou alento.
 * **18** E deu a Moisés, ao acabar de falar com ele no monte Sinai, as duas tábuas do testemunho, tábuas de pedra, escritas pelo dedo de Elohim (Deus).
 
-## 32 {#cap-32}
+## 32
 
 * **1** Vendo o povo que Moisés tardava em descer do monte, ajuntou-se o povo contra Arão e disseram-lhe: Levanta-te, faze-nos deuses que vão adiante de nós, pois quanto a este Moisés, o homem que nos tirou da terra do Egito, não sabemos o que lhe aconteceu.
 * **2** Arão disse-lhes: Arrancai as argolas de ouro que estão nas orelhas de vossas mulheres, de vossos filhos e de vossas filhas, e trazei-as a mim.
@@ -1052,7 +1037,7 @@
 * **34** Agora, pois, vai, guia este povo para onde te disse; eis que o meu anjo irá adiante de ti; porém, no dia da minha visitação, visitarei sobre eles o seu pecado.
 * **35** Feriu YHWH o povo, por causa do que fizeram com o bezerro que Arão tinha feito.
 
-## 33 {#cap-33}
+## 33
 
 * **1** YHWH disse a Moisés: Vai, sobe daqui, tu e o povo que tiraste da terra do Egito, para a terra que jurei a Abraão, a Isaque e a Jacó, dizendo: À tua descendência a darei.
 * **2** Enviarei um anjo adiante de ti e expulsarei o cananeu, o amorreu, o heteu, o perizeu, o heveu e o jebuseu.
@@ -1078,7 +1063,7 @@
 * **22** Quando a minha glória passar, eu te porei numa fenda da rocha e te cobrirei com a minha mão, até que eu tenha passado.
 * **23** Depois tirarei a minha mão, tu me verás pelas costas, mas a minha face não se verá.
 
-## 34 {#cap-34}
+## 34
 
 * **1** YHWH disse a Moisés: Lavra para ti duas tábuas de pedra como as primeiras, e escreverei sobre as tábuas as palavras que estavam nas primeiras tábuas que quebraste.
 * **2** Prepara-te para a manhã, e sobe pela manhã ao monte Sinai, e apresenta-te a mim ali, no cume do monte.
@@ -1116,7 +1101,7 @@
 * **34** Quando Moisés entrava diante de YHWH para falar com ele, tirava o véu até sair; e, saindo, falava aos filhos de Israel o que lhe era ordenado.
 * **35** Os filhos de Israel viam o rosto de Moisés, que a pele do seu rosto resplandecia; tornava Moisés a pôr o véu sobre o seu rosto, até que entrava para falar com Ele.
 
-## 35 {#cap-35}
+## 35
 
 * **1** Moisés ajuntou toda a congregação dos filhos de Israel e disse-lhes: Estas são as palavras que YHWH ordenou que se fizessem.
 * **2** Seis dias se fará trabalho, mas no sétimo dia tereis descanso, sábado de descanso solene para YHWH; qualquer que nele fizer trabalho, será morto.
@@ -1154,7 +1139,7 @@
 * **34** E para ensinar, pôs no seu coração, tanto nele como em Aoliabe, filho de Aisamaque, da tribo de Dã.
 * **35** Encheu-os de sabedoria de coração, para fazer toda obra de artífice, de projetista e de bordador em azul, em púrpura, em carmesim e em linho fino, e de tecelão, fazendo toda obra e criando projetos.
 
-## 36 {#cap-36}
+## 36
 
 * **1** Bezalel, Aoliabe e todo homem sábio de coração, a quem YHWH deu sabedoria e entendimento para saber fazer toda a obra para o serviço do santuário, fizeram conforme tudo o que YHWH ordenou.
 * **2** Moisés chamou Bezalel, Aoliabe e todo homem sábio de coração, a quem YHWH dera sabedoria no seu coração, todo aquele cujo coração o moveu a chegar-se à obra para fazê-la.
@@ -1195,7 +1180,7 @@
 * **37** Fez um cortinado para a porta da tenda, de azul, púrpura, carmesim e linho fino retorcido, obra de bordador.
 * **38** E as suas cinco colunas com os seus ganchos; revestiu os seus topos e as suas molduras de ouro, e as suas cinco bases eram de bronze.
 
-## 37 {#cap-37}
+## 37
 
 * **1** Bezalel fez a arca de madeira de acácia: dois côvados e meio o seu comprimento, um côvado e meio a sua largura, e um côvado e meio a sua altura.
 * **2** Revestiu-a de ouro puro por dentro e por fora, e fez-lhe uma moldura de ouro ao redor.
@@ -1227,7 +1212,7 @@
 * **28** Fez os varais de madeira de acácia e revestiu-os de ouro.
 * **29** Fez o óleo da santa unção e o incenso puro de especiarias, obra de perfumista.
 
-## 38 {#cap-38}
+## 38
 
 * **1** Fez o altar do holocausto de madeira de acácia: cinco côvados o seu comprimento e cinco côvados a sua largura, quadrado, e três côvados a sua altura.
 * **2** Fez as suas pontas nos seus quatro cantos; dele mesmo eram as suas pontas, e revestiu-o de bronze.
@@ -1261,7 +1246,7 @@
 * **30** Com ele fez as bases da porta da tenda da congregação, o altar de bronze, a sua grelha de bronze e todos os utensílios do altar.
 * **31** As bases do átrio ao redor, as bases da porta do átrio, todas as estacas do tabernáculo e todas as estacas do átrio ao redor.
 
-## 39 {#cap-39}
+## 39
 
 * **1** Do azul, púrpura e carmesim fizeram vestes de serviço para ministrar no santuário, e fizeram as vestes sagradas para Aarão, como YHWH (SENHOR) ordenou a Moisés.
 * **2** Fez o éfode de ouro, azul, púrpura, carmesim e linho fino retorcido.
@@ -1307,7 +1292,7 @@
 * **42** Conforme tudo o que YHWH (SENHOR) ordenou a Moisés, assim fizeram os filhos de Israel toda a obra.
 * **43** Moisés viu toda a obra e, eis que a tinham feito como YHWH (SENHOR) ordenara; assim a fizeram, e Moisés os abençoou.
 
-## 40 {#cap-40}
+## 40
 
 * **1** Falou YHWH (SENHOR) a Moisés, dizendo:
 * **2** No primeiro dia do primeiro mês levantarás o tabernáculo da tenda da congregação.

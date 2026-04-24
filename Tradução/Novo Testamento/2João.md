@@ -1,18 +1,6 @@
-<!-- topo -->
 # 2 João
 
-<!-- INDICE -->
-## 📜 Índice
-
-**1 capítulos**
-[1](#cap-1)
-
-<div align="right"><a href="#topo"><strong>▲ Voltar ao topo</strong></a></div>
-
-<!-- FIM_INDICE -->
-
-
-## 1 {#cap-1}
+## 1
 
 * **1** O presbítero à senhora eleita e aos seus filhos, a quem eu amo na verdade, e não somente eu, mas também todos os que conheceram a verdade,
 * **2** por causa da verdade que permanece em nós e estará conosco para sempre;

@@ -1,18 +1,6 @@
-<!-- topo -->
 # Tiago
 
-<!-- INDICE -->
-## 📜 Índice
-
-**5 capítulos**
-[1](#cap-1) · [2](#cap-2) · [3](#cap-3) · [4](#cap-4) · [5](#cap-5)
-
-<div align="right"><a href="#topo"><strong>▲ Voltar ao topo</strong></a></div>
-
-<!-- FIM_INDICE -->
-
-
-## 1 {#cap-1}
+## 1
 
 * **1** Tiago, servo de Theos (Deus) e do Kyrios (Senhor) Iēsous Christos (Jesus Messias), às doze tribos que estão na dispersão, saudações.
 * **2** Meus irmãos, considerem motivo de grande alegria quando passarem por diversas provações,
@@ -42,7 +30,7 @@
 * **26** Se alguém parece ser religioso, mas não refreia a sua língua e engana o seu próprio coração, a sua religião é vã.
 * **27** A religião pura e imaculada diante do Deus e Pai é esta: visitar os órfãos e as viúvas nas suas aflições e guardar-se incontaminado do mundo.
 
-## 2 {#cap-2}
+## 2
 
 * **1** Meus irmãos, não tenham a fé do Senhor Jesus Messias, o glorioso, fazendo acepção de pessoas.
 * **2** Pois, se entrar na reunião de vocês um homem com anéis de ouro e roupas luxuosas, e entrar também um pobre com roupas sujas,
@@ -71,7 +59,7 @@
 * **25** Da mesma forma, Raabe, a meretriz, não foi justificada pelas obras, ao acolher os mensageiros e fazê-los sair por outro caminho?
 * **26** Pois, assim como o corpo sem espírito está morto, assim também a fé sem obras está morta.
 
-## 3 {#cap-3}
+## 3
 
 * **1** Não sejam muitos de vocês mestres, meus irmãos, sabendo que receberemos um juízo mais rigoroso;
 * **2** pois todos tropeçamos em muitas coisas. Se alguém não tropeça no falar, este é um homem maduro, capaz de refrear também todo o corpo.
@@ -92,7 +80,7 @@
 * **17** Mas a sabedoria que vem do alto é, primeiramente, pura, depois pacífica, moderada, tratável, cheia de misericórdia e de bons frutos, imparcial e sem hipocrisia.
 * **18** O fruto da justiça é semeado em paz para aqueles que promovem a paz.
 
-## 4 {#cap-4}
+## 4
 
 * **1** De onde vêm as guerras e as contendas entre vocês? Não vêm disto, dos prazeres que guerreiam nos seus membros?
 * **2** Vocês cobiçam e não têm; matam e têm inveja, e não podem alcançar; combatem e guerreiam. Vocês não têm porque não pedem;
@@ -112,7 +100,7 @@
 * **16** Agora, porém, vocês se vangloriam nas suas arrogâncias; toda vanglória como esta é má.
 * **17** Aquele, pois, que sabe fazer o bem e não o faz, comete pecado.
 
-## 5 {#cap-5}
+## 5
 
 * **1** E agora, vocês, ricos, chorem e pranteiem por causa das misérias que virão sobre vocês.
 * **2** As suas riquezas apodreceram, e as suas vestes estão comidas pela traça;

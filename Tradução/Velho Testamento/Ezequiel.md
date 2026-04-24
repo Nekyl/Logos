@@ -1,22 +1,6 @@
-<!-- topo -->
 # Ezequiel
 
-<!-- INDICE -->
-## 📜 Índice
-
-**48 capítulos**
-[1](#cap-1) · [2](#cap-2) · [3](#cap-3) · [4](#cap-4) · [5](#cap-5) · [6](#cap-6) · [7](#cap-7) · [8](#cap-8) · [9](#cap-9) · [10](#cap-10)
-[11](#cap-11) · [12](#cap-12) · [13](#cap-13) · [14](#cap-14) · [15](#cap-15) · [16](#cap-16) · [17](#cap-17) · [18](#cap-18) · [19](#cap-19) · [20](#cap-20)
-[21](#cap-21) · [22](#cap-22) · [23](#cap-23) · [24](#cap-24) · [25](#cap-25) · [26](#cap-26) · [27](#cap-27) · [28](#cap-28) · [29](#cap-29) · [30](#cap-30)
-[31](#cap-31) · [32](#cap-32) · [33](#cap-33) · [34](#cap-34) · [35](#cap-35) · [36](#cap-36) · [37](#cap-37) · [38](#cap-38) · [39](#cap-39) · [40](#cap-40)
-[41](#cap-41) · [42](#cap-42) · [43](#cap-43) · [44](#cap-44) · [45](#cap-45) · [46](#cap-46) · [47](#cap-47) · [48](#cap-48)
-
-<div align="right"><a href="#topo"><strong>▲ Voltar ao topo</strong></a></div>
-
-<!-- FIM_INDICE -->
-
-
-## 1 {#cap-1}
+## 1
 
 * **1** No trigésimo ano, no quarto mês, no dia cinco, estando eu entre os exilados junto ao rio Quebar, os céus se abriram e eu tive visões de Elohim (Deus).
 * **2** No dia cinco do mês, que era o quinto ano do cativeiro do rei Joaquim.
@@ -47,7 +31,7 @@
 * **27** Vi como o brilho de metal reluzente, como a aparência de fogo ao redor dele, desde a aparência de seus lombos para cima; e desde a aparência de seus lombos para baixo, vi como a aparência de fogo, e um resplendor ao redor dele.
 * **28** Como a aparência do arco que aparece na nuvem no dia de chuva, assim era a aparência do resplendor ao redor. Esta era a aparência da semelhança da glória de YHWH; vendo isso, caí com o rosto em terra e ouvi uma voz que falava.
 
-## 2 {#cap-2}
+## 2
 
 * **1** Ele me disse: Filho do homem, põe-te em pé, e falarei contigo.
 * **2** Entrou em mim o espírito, assim como ele me falou, e me pôs em pé, e ouvi aquele que falava comigo.
@@ -60,7 +44,7 @@
 * **9** Olhei, e eis que uma mão estendida para mim, e nela havia um rolo de livro.
 * **10** Ele o estendeu diante de mim, e estava escrito por dentro e por fora; nele estavam escritas lamentações, suspiros e ais.
 
-## 3 {#cap-3}
+## 3
 
 * **1** Ele me disse: Filho do homem, come o que achares; come este rolo e vai, fala à casa de Israel.
 * **2** Abri a minha boca, e ele me fez comer aquele rolo.
@@ -90,7 +74,7 @@
 * **26** Farei a tua língua pegar-se ao teu paladar, e ficarás mudo, e não serás para eles um homem que repreende, porque são casa rebelde.
 * **27** Mas, quando eu falar contigo, abrirei a tua boca, e lhes dirás: Assim diz Adonai YHWH: Quem ouvir, ouça, e quem deixar de ouvir, deixe, porque são casa rebelde.
 
-## 4 {#cap-4}
+## 4
 
 * **1** E tu, filho do homem, toma um tijolo, põe-no diante de ti e desenha nele a cidade de Jerusalém.
 * **2** Põe cerco contra ela, edifica contra ela baluartes, levanta contra ela tranqueira, põe contra ela acampamentos e coloca aríetes ao redor.
@@ -110,7 +94,7 @@
 * **16** Disse-me: Filho do homem, eis que eu quebrarei o sustento do pão em Jerusalém; comerão pão por peso e com ansiedade, e beberão água por medida e com espanto.
 * **17** Para que, faltando-lhes pão e água, se assombrem uns com os outros e se consumam na sua iniquidade.
 
-## 5 {#cap-5}
+## 5
 
 * **1** E tu, filho do homem, toma uma espada afiada; como navalha de barbeiro a tomarás para ti, e a passarás sobre a tua cabeça e sobre a tua barba; toma então uma balança de peso e reparte o cabelo.
 * **2** Uma terça parte queimarás no fogo no meio da cidade, quando se cumprirem os dias do cerco; tomarás a outra terça parte e a ferirás com a espada ao redor dela; e a outra terça parte espalharás ao vento, e eu desembainharei a espada atrás deles.
@@ -130,7 +114,7 @@
 * **16** Quando eu enviar contra eles as flechas malignas da fome, que serão para destruição, as quais enviarei para vos destruir, aumentarei a fome sobre vós e quebrarei o vosso sustento do pão.
 * **17** Enviarei sobre vós a fome e bestas feras, que te desfilharão; a peste e o sangue passarão por ti, e trarei a espada sobre ti; eu, YHWH, falei.
 
-## 6 {#cap-6}
+## 6
 
 * **1** Veio a palavra de YHWH a mim, dizendo:
 * **2** Filho do homem, põe o teu rosto contra os montes de Israel e profetiza contra eles.
@@ -147,7 +131,7 @@
 * **13** Sabereis que eu sou YHWH, quando os seus mortos estiverem no meio dos seus ídolos, ao redor dos seus altares, em todo outeiro alto, em todos os cumes dos montes, debaixo de toda árvore verde e debaixo de todo carvalho frondoso, lugares onde ofereciam cheiro suave a todos os seus ídolos.
 * **14** Estenderei a minha mão sobre eles e farei a terra em desolação e espanto, desde o deserto até Dibla, em todas as suas habitações; e saberão que eu sou YHWH.
 
-## 7 {#cap-7}
+## 7
 
 * **1** Veio a palavra de YHWH a mim, dizendo:
 * **2** E tu, filho do homem, assim diz Adonai YHWH à terra de Israel: O fim! O fim vem sobre os quatro cantos da terra.
@@ -177,7 +161,7 @@
 * **26** Ruína sobre ruína virá, e rumor sobre rumor sucederá; buscarão visão do profeta, mas a lei perecerá do sacerdote, e o conselho, dos anciãos.
 * **27** O rei se lamentará, o príncipe se vestirá de desolação, e as mãos do povo da terra se turbarão; segundo o seu caminho lhes farei, e com os seus juízos os julgarei; e saberão que eu sou YHWH.
 
-## 8 {#cap-8}
+## 8
 
 * **1** No sexto ano, no sexto mês, no dia cinco do mês, estando eu assentado em minha casa, e os anciãos de Judá assentados diante de mim, a mão de Adonai YHWH caiu ali sobre mim.
 * **2** Olhei, e eis uma semelhança como a aparência de fogo; desde a aparência dos seus lombos para baixo, fogo; e desde os seus lombos para cima, como a aparência de resplendor, como o brilho de metal reluzente.
@@ -198,7 +182,7 @@
 * **17** E Ele me disse: "Viste, filho do homem? É pouco para a casa de Judá cometerem as abominações que fazem aqui? Pois encheram a terra de violência e tornam a provocar-Me à ira; e eis que chegam o ramo ao seu nariz."
 * **18** "Por isso, também Eu agirei com furor; o Meu olho não poupará, nem terei piedade; ainda que gritem aos Meus ouvidos em alta voz, não os ouvirei."
 
-## 9 {#cap-9}
+## 9
 
 * **1** E Ele clamou aos meus ouvidos em alta voz, dizendo: "Aproximai-vos, executores da cidade, cada um com a sua arma de destruição na mão."
 * **2** E eis que seis homens vinham do caminho da porta superior, que olha para o norte, cada um com a sua arma de destruição na mão; e um homem no meio deles, vestido de linho, com um tinteiro de escrivão à cintura; e entraram e puseram-se junto ao altar de bronze.
@@ -212,7 +196,7 @@
 * **10** "Por isso, também o Meu olho não poupará, nem terei piedade; farei recair o seu caminho sobre a sua cabeça."
 * **11** E eis que o homem vestido de linho, que tinha o tinteiro à cintura, respondeu, dizendo: "Fiz conforme tudo o que me ordenaste."
 
-## 10 {#cap-10}
+## 10
 
 * **1** E olhei, e eis que no firmamento que estava sobre a cabeça dos querubins apareceu sobre eles algo como uma pedra de safira, como a aparência da semelhança de um trono.
 * **2** E Ele disse ao homem vestido de linho: "Entra no meio das rodas, debaixo do querubim, e enche as tuas mãos de brasas de fogo de entre os querubins, e espalha-as sobre a cidade." E ele entrou à minha vista.
@@ -237,7 +221,7 @@
 * **21** Cada um tinha quatro rostos e cada um quatro asas; e a semelhança de mãos de homem estava debaixo das suas asas.
 * **22** E a semelhança dos seus rostos era a mesma dos rostos que vi junto ao rio Quebar, a sua aparência e eles mesmos; cada um andava em direção ao seu rosto.
 
-## 11 {#cap-11}
+## 11
 
 * **1** E o espírito me levantou e me levou à porta oriental da casa de YHWH, que olha para o oriente; e eis que à entrada da porta estavam vinte e cinco homens, e vi no meio deles Jazanias, filho de Azur, e Pelatias, filho de Benaia, príncipes do povo.
 * **2** E Ele me disse: "Filho do homem, estes são os homens que maquinam a iniquidade e dão maus conselhos nesta cidade."
@@ -265,7 +249,7 @@
 * **24** E o espírito me levantou e me levou na visão, pelo Ruach Elohim (Espírito de Deus), para a Caldeia, aos do cativeiro; e a visão que eu tinha visto se elevou de sobre mim.
 * **25** E falei aos do cativeiro todas as palavras de YHWH que Ele me tinha mostrado.
 
-## 12 {#cap-12}
+## 12
 
 * **1** E veio a mim a palavra de YHWH, dizendo:
 * **2** "Filho do homem, tu habitas no meio da casa rebelde, que tem olhos para ver e não vê, tem ouvidos para ouvir e não ouve; porque são casa rebelde."
@@ -296,7 +280,7 @@
 * **27** "Filho do homem, eis que a casa de Israel diz: 'A visão que este vê é para muitos dias, e ele profetiza de tempos longínquos'."
 * **28** "Portanto, dize-lhes: Assim diz Adonai YHWH: Não será mais adiada nenhuma das Minhas palavras; a palavra que Eu falar será cumprida, diz Adonai YHWH."
 
-## 13 {#cap-13}
+## 13
 
 * **1** E veio a mim a palavra de YHWH, dizendo:
 * **2** "Filho do homem, profetiza contra os profetas de Israel que profetizam, e dize aos que profetizam do seu próprio coração: Ouvi a palavra de YHWH."
@@ -322,7 +306,7 @@
 * **22** "Porque com mentiras entristecestes o coração do justo, ao qual Eu não entristeci, e fortalecestes as mãos do ímpio, para que não se desviasse do seu mau caminho, para salvar a sua vida."
 * **23** "Portanto, não vereis mais vaidade, nem adivinhareis mais adivinhações; e livrarei o Meu povo da vossa mão, e sabereis que Eu sou YHWH."
 
-## 14 {#cap-14}
+## 14
 
 * **1** E vieram a mim homens dos anciãos de Israel e se assentaram diante de mim.
 * **2** E veio a mim a palavra de YHWH, dizendo:
@@ -348,7 +332,7 @@
 * **22** "Contudo, eis que nela restará um remanescente, que será tirado, filhos e filhas; eis que eles sairão a vós, e vereis o seu caminho e as suas obras, e vos consolareis do mal que trouxe sobre Jerusalém, de tudo o que trouxe sobre ela."
 * **23** "E vos consolareis, quando virdes o seu caminho e as suas obras; e sabereis que não fiz sem causa tudo o que fiz nela, diz Adonai YHWH."
 
-## 15 {#cap-15}
+## 15
 
 * **1** E veio a mim a palavra de YHWH, dizendo:
 * **2** "Filho do homem, que é a madeira da videira mais do que qualquer outra madeira, o ramo que está entre as árvores do bosque?"
@@ -359,7 +343,7 @@
 * **7** "E porei o Meu rosto contra eles; do fogo sairão, e o fogo os consumirá; e sabereis que Eu sou YHWH, quando Eu puser o Meu rosto contra eles."
 * **8** "E tornarei a terra em desolação, porque cometeram uma transgressão, diz Adonai YHWH."
 
-## 16 {#cap-16}
+## 16
 
 * **1** E veio a mim a palavra de YHWH, dizendo:
 * **2** "Filho do homem, faze saber a Jerusalém as suas abominações."
@@ -425,7 +409,7 @@
 * **62** E eu estabelecerei a minha aliança contigo, e saberás que eu sou YHWH;
 * **63** para que te lembres, e te envergonhes, e nunca mais abras a boca por causa da tua vergonha, quando eu te perdoar tudo o que fizeste, diz Adonai YHWH.
 
-## 17 {#cap-17}
+## 17
 
 * **1** E veio a mim a palavra de YHWH, dizendo:
 * **2** Filho do homem, propõe um enigma e conta uma parábola à casa de Israel.
@@ -452,7 +436,7 @@
 * **23** No monte alto de Israel o plantarei, e produzirá ramos, e dará fruto, e se tornará um cedro excelente; e debaixo dele habitarão aves de toda a espécie, à sombra dos seus ramos habitarão.
 * **24** E todas as árvores do campo saberão que eu, YHWH, abati a árvore alta, elevei a árvore baixa, sequei a árvore verde e fiz florescer a árvore seca; eu, YHWH, o disse e o fiz.
 
-## 18 {#cap-18}
+## 18
 
 * **1** E veio a mim a palavra de YHWH, dizendo:
 * **2** Que tendes vós, vós que usais este provérbio acerca da terra de Israel, dizendo: Os pais comeram uvas verdes, e os dentes dos filhos se embotaram?
@@ -487,7 +471,7 @@
 * **31** Lançai de vós todas as vossas transgressões que cometestes e criai em vós um coração novo e um espírito novo; pois, por que morreríeis, ó casa de Israel?
 * **32** Porque não tenho prazer na morte de ninguém, diz Adonai YHWH; convertei-vos, pois, e vivei.
 
-## 19 {#cap-19}
+## 19
 
 * **1** E tu, levanta uma lamentação sobre os príncipes de Israel,
 * **2** e dize: Que era tua mãe? Uma leoa; deitava-se entre os leões, criava os seus cachorros no meio dos leões novos.
@@ -504,7 +488,7 @@
 * **13** E agora está plantada no deserto, em terra seca e sedenta.
 * **14** E saiu fogo de uma vara dos seus ramos, que consumiu o seu fruto, de modo que não há nela vara forte, cetro para governar. Esta é uma lamentação e servirá de lamentação.
 
-## 20 {#cap-20}
+## 20
 
 * **1** E aconteceu, no sétimo ano, no quinto mês, aos dez dias do mês, que vieram alguns dos anciãos de Israel para consultar a YHWH, e se assentaram diante de mim.
 * **2** E veio a mim a palavra de YHWH, dizendo:
@@ -556,7 +540,7 @@
 * **48** E toda a carne verá que eu, YHWH, o acendi; não se apagará.
 * **49** Então disse eu: Ah, Adonai YHWH! Eles dizem de mim: Porventura não profere ele parábolas?
 
-## 21 {#cap-21}
+## 21
 
 * **1** E veio a mim a palavra de YHWH, dizendo:
 * **2** Filho do homem, põe o teu rosto para Jerusalém, e derrama as tuas palavras contra os santuários, e profetiza contra a terra de Israel.
@@ -591,7 +575,7 @@
 * **31** E derramarei sobre ti a minha indignação, assoprarei sobre ti o fogo do meu furor, e te entregarei na mão de homens brutais, artífices de destruição.
 * **32** Ao fogo servirás para ser consumido; o teu sangue estará no meio da terra; não serás mais lembrado, porque eu, YHWH, o disse.
 
-## 22 {#cap-22}
+## 22
 
 * **1** E veio a mim a palavra de YHWH, dizendo:
 * **2** E tu, ó filho do homem, julgarás, julgarás a cidade sanguinária? Faze-lhe conhecer todas as suas abominações.
@@ -625,7 +609,7 @@
 * **30** E busquei dentre eles um homem que levantasse o muro, e se pusesse na brecha perante mim por esta terra, para que eu não a destruísse; mas a ninguém achei.
 * **31** Por isso derramei sobre eles a minha indignação, com o fogo do meu furor os consumi; o seu caminho fiz cair sobre a sua cabeça, diz Adonai YHWH.
 
-## 23 {#cap-23}
+## 23
 
 * **1** E veio a mim a palavra de YHWH, dizendo:
 * **2** Filho do homem, havia duas mulheres, filhas de uma mesma mãe.
@@ -678,7 +662,7 @@
 * **48** Farei cessar a devassidão da terra, para que todas as mulheres sejam advertidas e não façam segundo a vossa devassidão.
 * **49** Sobre vós recairá a vossa devassidão, e levareis os pecados dos vossos ídolos; e sabereis que eu sou Adonai YHWH.
 
-## 24 {#cap-24}
+## 24
 
 * **1** E aconteceu, no nono ano, no décimo mês, no décimo dia do mês, que a palavra de YHWH veio a mim, dizendo:
 * **2** Filho do homem, escreve para ti o nome deste dia, exatamente este dia; o rei da Babilônia sitiou Jerusalém exatamente neste dia.
@@ -708,7 +692,7 @@
 * **26** que naquele dia virá a ti um fugitivo para trazer a notícia aos teus ouvidos?
 * **27** Naquele dia, a tua boca se abrirá para o fugitivo, e falarás e não ficarás mais mudo; assim serás para eles um sinal, e saberão que eu sou YHWH.
 
-## 25 {#cap-25}
+## 25
 
 * **1** E a palavra de YHWH veio a mim, dizendo:
 * **2** Filho do homem, volta o teu rosto contra os filhos de Amom e profetiza contra eles.
@@ -728,7 +712,7 @@
 * **16** portanto, assim diz Adonai YHWH: Eis que estenderei a minha mão sobre os filisteus, e cortarei os quereteus, e destruirei o resto da costa do mar.
 * **17** E executarei neles grandes vinganças com repreensões furiosas; e saberão que eu sou YHWH, quando eu exercer a minha vingança sobre eles.
 
-## 26 {#cap-26}
+## 26
 
 * **1** E aconteceu, no décimo primeiro ano, no primeiro dia do mês, que a palavra de YHWH veio a mim, dizendo:
 * **2** Filho do homem, visto que Tiro disse contra Jerusalém: "Ah! Está quebrada a porta dos povos; ela se voltou para mim; eu me encherei, ela está assolada",
@@ -752,7 +736,7 @@
 * **20** então te farei descer com os que descem à cova, ao povo antigo, e te farei habitar nas profundezas da terra, como as ruínas antigas, com os que descem à cova, para que não sejas habitada; e porei glória na terra dos viventes.
 * **21** Far-te-ei um objeto de espanto, e não serás mais; serás procurada, mas nunca mais serás achada para sempre, diz Adonai YHWH.
 
-## 27 {#cap-27}
+## 27
 
 * **1** E a palavra de YHWH veio a mim, dizendo:
 * **2** E tu, filho do homem, levanta uma lamentação sobre Tiro.
@@ -791,7 +775,7 @@
 * **35** Todos os habitantes das ilhas pasmaram por tua causa, e os seus reis estremeceram de medo, o semblante perturbado.
 * **36** Os mercadores entre os povos assobiaram por tua causa; tornaste-te em objetos de espanto e não serás mais para sempre.
 
-## 28 {#cap-28}
+## 28
 
 * **1** E a palavra de YHWH veio a mim, dizendo:
 * **2** Filho do homem, dize ao príncipe de Tiro: Assim diz Adonai YHWH: Visto que o teu coração se elevou e disseste: "Eu sou Elohim (Deus), sento-me no assento de Elohim no coração dos mares", sendo tu homem e não Elohim, e pondo o teu coração como o coração de Elohim;
@@ -820,7 +804,7 @@
 * **25** Assim diz Adonai YHWH: Quando eu congregar a casa de Israel dentre os povos onde estão espalhados, e me santificar entre eles aos olhos das nações, então habitarão na sua terra que dei ao meu servo Jacó.
 * **26** E habitarão nela seguros, e edificarão casas, e plantarão vinhas, e habitarão seguros, quando eu executar juízos sobre todos os que os desprezam ao redor deles; e saberão que eu sou YHWH, Elohim (Deus) deles.
 
-## 29 {#cap-29}
+## 29
 
 * **1** No décimo ano, no décimo segundo dia do décimo mês, veio a palavra de YHWH a mim, dizendo:
 * **2** Filho do homem, volta o teu rosto contra Faraó, rei do Egito, e profetiza contra ele e contra todo o Egito.
@@ -844,7 +828,7 @@
 * **20** Pelo trabalho que ele fez contra ela, dei-lhe a terra do Egito, porque trabalharam para mim, diz Adonai YHWH.
 * **21** Naquele dia, farei brotar o poder para a casa de Israel, e te darei a ti a abertura da boca no meio deles; e saberão que eu sou YHWH.
 
-## 30 {#cap-30}
+## 30
 
 * **1** E veio a palavra de YHWH a mim, dizendo:
 * **2** Filho do homem, profetiza e dize: Assim diz Adonai YHWH: Ai deste dia!
@@ -873,7 +857,7 @@
 * **25** Fortalecerei os braços do rei de Babilônia, e os braços de Faraó cairão; e saberão que eu sou YHWH, quando eu puser a minha espada na mão do rei de Babilônia, e ele a estender sobre a terra do Egito.
 * **26** E espalharei os egípcios entre as nações e os dispersarei pelas terras; e saberão que eu sou YHWH.
 
-## 31 {#cap-31}
+## 31
 
 * **1** E aconteceu no décimo primeiro ano, no terceiro mês, no primeiro dia do mês, que veio a palavra de YHWH a mim, dizendo:
 * **2** Filho do homem, dize a Faraó, rei do Egito, e à sua multidão: A quem és tu semelhante na tua grandeza?
@@ -894,7 +878,7 @@
 * **17** Também estes desceram com ele ao Seol, aos que foram mortos à espada; e os que eram o seu braço, que habitavam à sua sombra no meio das nações.
 * **18** A quem és tu semelhante em glória e em grandeza entre as árvores do Éden? Contudo, serás precipitado com as árvores do Éden à terra debaixo; no meio dos incircuncisos jazerás, com os que foram mortos à espada. Este é Faraó e toda a sua multidão, diz Adonai YHWH.
 
-## 32 {#cap-32}
+## 32
 
 * **1** E aconteceu no décimo segundo ano, no décimo segundo mês, no primeiro dia do mês, que veio a palavra de YHWH a mim, dizendo:
 * **2** Filho do homem, levanta uma lamentação sobre Faraó, rei do Egito, e dize-lhe: Tu eras como um leão novo entre as nações, mas tu és como o monstro nos mares; e tu irrompias nos teus rios, e turvavas as águas com os teus pés, e sujavas os seus rios.
@@ -929,7 +913,7 @@
 * **31** Faraó os verá e se consolará sobre toda a sua multidão; Faraó e todo o seu exército, mortos à espada, diz Adonai YHWH.
 * **32** Porque pus o meu terror na terra dos viventes, e ele será sepultado no meio dos incircuncisos com os que foram mortos à espada, Faraó e toda a sua multidão, diz Adonai YHWH.
 
-## 33 {#cap-33}
+## 33
 
 * **1** E veio a palavra de YHWH a mim, dizendo:
 * **2** Filho do homem, fala aos filhos do teu povo e dize-lhes: Quando eu trouxer a espada sobre uma terra, se o povo da terra tomar um homem dentre os seus termos e o constituir por seu atalaia,
@@ -965,7 +949,7 @@
 * **32** E eis que tu és para eles como uma canção de amores, de quem tem voz suave e que bem tange; porque ouvem as tuas palavras, mas não as põem por obra.
 * **33** Mas, quando isso vier (e eis que vem), saberão que houve um profeta no meio deles.
 
-## 34 {#cap-34}
+## 34
 
 * **1** E veio a palavra de YHWH a mim, dizendo:
 * **2** Filho do homem, profetiza contra os pastores de Israel; profetiza e dize aos pastores: Assim diz Adonai YHWH: Ai dos pastores de Israel que se apascentam a si mesmos! Não devem os pastores apascentar as ovelhas?
@@ -999,7 +983,7 @@
 * **30** Saberão que eu, YHWH, seu Elohim, estou com elas, e que elas, a casa de Israel, são o meu povo, declara Adonai YHWH.
 * **31** Vós sois as minhas ovelhas, ovelhas do meu pasto; sois homens, e eu sou o vosso Elohim, declara Adonai YHWH.
 
-## 35 {#cap-35}
+## 35
 
 * **1** Veio a mim a palavra de YHWH, dizendo:
 * **2** Filho do homem, volta o teu rosto para o monte Seir e profetiza contra ele.
@@ -1017,7 +1001,7 @@
 * **14** Assim diz Adonai YHWH: Quando toda a terra se alegrar, eu farei de ti uma desolação.
 * **15** Como te alegraste com a herança da casa de Israel, porque estava desolada, assim farei contigo; o monte Seir será uma desolação, e todo o Edom, todo ele; e saberão que eu sou YHWH.
 
-## 36 {#cap-36}
+## 36
 
 * **1** E tu, filho do homem, profetiza aos montes de Israel e dize: Montes de Israel, ouvi a palavra de YHWH.
 * **2** Assim diz Adonai YHWH: Visto que o inimigo disse contra vós: Ah! E as alturas eternas nos tornaram possessão;
@@ -1058,7 +1042,7 @@
 * **37** Assim diz Adonai YHWH: Ainda nisto serei consultado pela casa de Israel, para lho fazer: multiplicá-los-ei como um rebanho de homens.
 * **38** Como o rebanho de ofertas, como o rebanho de Jerusalém nas suas festas fixas, assim as cidades arruinadas ficarão cheias de rebanhos de homens; e saberão que eu sou YHWH.
 
-## 37 {#cap-37}
+## 37
 
 * **1** A mão de YHWH estava sobre mim, e ele me levou no Ruach (Espírito) de YHWH e me deixou no meio do vale, que estava cheio de ossos.
 * **2** Ele me fez passar por eles ao redor, e eis que eram mui numerosos sobre a face do vale, e eis que estavam sequíssimos.
@@ -1089,7 +1073,7 @@
 * **27** O meu tabernáculo estará com eles; eu serei o seu Elohim, e eles serão o meu povo.
 * **28** As nações saberão que eu, YHWH, santifico a Israel, quando o meu santuário estiver no meio deles para sempre.
 
-## 38 {#cap-38}
+## 38
 
 * **1** Veio a mim a palavra de YHWH, dizendo:
 * **2** Filho do homem, volta o teu rosto para Gogue, terra de Magogue, príncipe de Rôs, Meseque e Tubal, e profetiza contra ele.
@@ -1115,7 +1099,7 @@
 * **22** Entrarei em juízo contra ele com peste e com sangue; chuva inundante, pedras de saraiva, fogo e enxofre farei chover sobre ele, sobre as suas tropas e sobre os muitos povos que estiverem com ele.
 * **23** Eu me engrandecerei, me santificarei e me darei a conhecer aos olhos de muitas nações; e saberão que eu sou YHWH.
 
-## 39 {#cap-39}
+## 39
 
 * **1** E tu, filho do homem, profetiza contra Gogue e dize: Assim diz Adonai YHWH: Eis que estou contra ti, ó Gogue, príncipe de Rôs, Meseque e Tubal.
 * **2** Eu te virarei, te conduzirei, te farei subir das partes remotas do norte e te trarei aos montes de Israel.
@@ -1147,7 +1131,7 @@
 * **28** E saberão que Eu sou YHWH (SENHOR) Elohim (Deus) deles, quando Eu os tiver exilado entre as nações e os tiver reunido em sua própria terra, não deixando mais nenhum deles para trás.
 * **29** E não esconderei mais o Meu rosto deles, pois derramei o Meu ruach (Espírito) sobre a casa de Israel, declara Adonai (Senhor) YHWH.
 
-## 40 {#cap-40}
+## 40
 
 * **1** No vigésimo quinto ano do nosso exílio, no início do ano, no décimo dia do mês, catorze anos depois que a cidade foi golpeada, naquele mesmo dia, a mão de YHWH esteve sobre mim e Ele me levou para lá.
 * **2** Em visões de Elohim, Ele me trouxe à terra de Israel e me colocou sobre um monte muito alto, sobre o qual havia algo como a estrutura de uma cidade ao sul.
@@ -1199,7 +1183,7 @@
 * **48** Ele me levou ao vestíbulo da casa e mediu cada pilar do vestíbulo, cinco côvados de um lado e cinco côvados do outro; a largura do portão era de três côvados de um lado e três côvados do outro.
 * **49** O comprimento do vestíbulo era de vinte côvados, e a largura de onze côvados; subia-se por degraus, e havia colunas junto aos pilares, uma de um lado e outra do outro.
 
-## 41 {#cap-41}
+## 41
 
 * **1** Ele me levou ao templo e mediu os pilares, seis côvados de largura de um lado e seis côvados de largura do outro, a largura da tenda.
 * **2** A largura da entrada era de dez côvados, e as laterais da entrada tinham cinco côvados de um lado e cinco côvados do outro; ele mediu seu comprimento, quarenta côvados, e a largura, vinte côvados.
@@ -1228,7 +1212,7 @@
 * **25** Nas portas do templo foram feitos querubins e palmeiras, como os feitos nas paredes; e havia uma espessura de madeira diante do vestíbulo, por fora.
 * **26** Havia janelas fechadas e palmeiras de um lado e do outro, nas laterais do vestíbulo, nas câmaras laterais da casa e nas espessuras.
 
-## 42 {#cap-42}
+## 42
 
 * **1** Ele me levou ao átrio externo, pelo caminho do norte, e me levou à câmara que estava diante do lugar separado e diante da estrutura, ao norte.
 * **2** Diante do comprimento de cem côvados, a entrada era ao norte, e a largura, cinquenta côvados.
@@ -1251,7 +1235,7 @@
 * **19** Ele virou para o lado do mar e mediu quinhentas varas com a vara de medir.
 * **20** Para os quatro lados ele mediu; havia um muro ao redor, quinhentos de comprimento e quinhentos de largura, para fazer separação entre o santo e o profano.
 
-## 43 {#cap-43}
+## 43
 
 * **1** Ele me levou ao portão, o portão que dava para o oriente.
 * **2** E eis que a glória de Elohim de Israel vinha do caminho do oriente; sua voz era como o som de muitas águas, e a terra resplandecia com Sua glória.
@@ -1281,7 +1265,7 @@
 * **26** Durante sete dias farão expiação pelo altar, purificá-lo-ão e o consagrarão.
 * **27** Ao completarem os dias, será que, no oitavo dia e daí em diante, os sacerdotes oferecerão sobre o altar os vossos holocaustos e as vossas ofertas de paz; e Eu vos aceitarei, declara Adonai YHWH.
 
-## 44 {#cap-44}
+## 44
 
 * **1** Ele me fez voltar pelo caminho do portão do santuário externo, que olha para o oriente, e ele estava fechado.
 * **2** YHWH me disse: "Este portão estará fechado; não se abrirá, e ninguém entrará por ele, pois YHWH, Elohim de Israel, entrou por ele; por isso estará fechado."
@@ -1315,7 +1299,7 @@
 * **30** O melhor de todos os primeiros frutos e toda oferta de todas as vossas contribuições pertencerão aos sacerdotes; dareis ao sacerdote o primeiro da vossa massa, para que a bênção repouse sobre a vossa casa.
 * **31** Os sacerdotes não comerão nada que tenha morrido por si mesmo ou que tenha sido despedaçado por animais, seja ave ou animal.
 
-## 45 {#cap-45}
+## 45
 
 * **1** Quando repartirdes a terra por herança, reservareis uma contribuição para YHWH (SENHOR), uma porção sagrada da terra, de vinte e cinco mil côvados de comprimento e dez mil de largura; será sagrada em todo o seu limite ao redor.
 * **2** Desta, haverá para o santuário um quadrado de quinhentos por quinhentos côvados, com cinquenta côvados de terreno livre ao redor.
@@ -1343,7 +1327,7 @@
 * **24** Preparará também uma oferta de cereais de um efa para cada novilho e um efa para cada carneiro, e um him de azeite para cada efa.
 * **25** No sétimo mês, no décimo quinto dia do mês, na festa, fará o mesmo durante os sete dias, tanto na oferta pelo pecado, quanto no holocausto, na oferta de cereais e no azeite.
 
-## 46 {#cap-46}
+## 46
 
 * **1** Assim diz Adonai (Senhor) YHWH (SENHOR): A porta do pátio interno que dá para o oriente ficará fechada durante os seis dias de trabalho; mas no dia de sábado será aberta, e no dia da lua nova será aberta.
 * **2** O príncipe entrará pelo caminho do vestíbulo da porta, por fora, e ficará junto às ombreiras da porta; os sacerdotes prepararão o seu holocausto e as suas ofertas de paz, e ele adorará no limiar da porta e sairá; mas a porta não se fechará até a tarde.
@@ -1370,7 +1354,7 @@
 * **23** Havia uma fileira de pedras ao redor de cada um dos quatro, e lugares para cozer feitos debaixo das fileiras ao redor.
 * **24** Ele me disse: Estas são as cozinhas onde os ministros do templo cozerão os sacrifícios do povo.
 
-## 47 {#cap-47}
+## 47
 
 * **1** Ele me fez voltar à entrada do templo, e eis que saíam águas de debaixo do limiar do templo, para o oriente, pois a face do templo estava para o oriente; as águas desciam debaixo do lado direito do templo, ao sul do altar.
 * **2** Levou-me pelo caminho da porta norte e fez-me dar uma volta pelo caminho de fora até a porta externa, pelo caminho que olha para o oriente; e eis que as águas brotavam do lado direito.
@@ -1396,7 +1380,7 @@
 * **22** Lançareis sortes para a repartir em herança entre vós e entre os estrangeiros que habitam no meio de vós, que gerarem filhos no meio de vós; eles serão para vós como naturais entre os filhos de Israel; convosco entrarão em herança no meio das tribos de Israel.
 * **23** Na tribo em que o estrangeiro habitar, ali lhe dareis a sua herança, declara Adonai (Senhor) YHWH (SENHOR).
 
-## 48 {#cap-48}
+## 48
 
 * **1** Estes são os nomes das tribos: desde a extremidade norte, pelo caminho de Hetlom até a entrada de Hamate, Hazar-Enom, o limite de Damasco ao norte, junto a Hamate; e terão o lado oriental e o ocidental, Dã, uma porção.
 * **2** Junto ao limite de Dã, desde o lado oriental até o lado ocidental, Aser, uma porção.

@@ -1,18 +1,6 @@
-<!-- topo -->
 # 3 João
 
-<!-- INDICE -->
-## 📜 Índice
-
-**1 capítulos**
-[1](#cap-1)
-
-<div align="right"><a href="#topo"><strong>▲ Voltar ao topo</strong></a></div>
-
-<!-- FIM_INDICE -->
-
-
-## 1 {#cap-1}
+## 1
 
 * **1** O presbítero ao amado Gaio, a quem eu amo na verdade.
 * **2** Amado, acima de tudo, oro para que você prospere e tenha saúde, assim como a sua alma prospera.

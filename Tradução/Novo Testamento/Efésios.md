@@ -1,18 +1,6 @@
-<!-- topo -->
 # Efésios
 
-<!-- INDICE -->
-## 📜 Índice
-
-**6 capítulos**
-[1](#cap-1) · [2](#cap-2) · [3](#cap-3) · [4](#cap-4) · [5](#cap-5) · [6](#cap-6)
-
-<div align="right"><a href="#topo"><strong>▲ Voltar ao topo</strong></a></div>
-
-<!-- FIM_INDICE -->
-
-
-## 1 {#cap-1}
+## 1
 
 * **1** Paulo, apóstolo de Christos Iēsous (Messias Jesus) pela vontade de Theos (Deus), aos santos que estão em Éfeso e fiéis em Christo Iēsou;
 * **2** Graça a vós e paz da parte de Theou Patros (Deus Pai) nosso e do Kyriou Iēsou Christou (Senhor Jesus Messias).
@@ -38,7 +26,7 @@
 * **22** e sujeitou todas as coisas debaixo dos seus pés e, para ser o cabeça sobre todas as coisas, o deu à igreja,
 * **23** que é o seu corpo, a plenitude daquele que preenche tudo em todos.
 
-## 2 {#cap-2}
+## 2
 
 * **1** E vós, estando mortos em vossas ofensas e pecados,
 * **2** nos quais outrora andastes segundo o curso deste mundo, segundo o príncipe da autoridade do ar, do espírito que agora opera nos filhos da desobediência;
@@ -63,7 +51,7 @@
 * **21** em quem todo o edifício, bem ajustado, cresce para um templo santo no Kyriō;
 * **22** em quem também vós sois juntamente edificados para morada de Theou no espírito.
 
-## 3 {#cap-3}
+## 3
 
 * **1** Por esta causa, eu, Paulo, o prisioneiro de Christou Iēsou por vós, gentios —
 * **2** se é que ouvistes a dispensação da graça de Theou que me foi dada para convosco;
@@ -87,7 +75,7 @@
 * **20** Ora, àquele que é poderoso para fazer tudo muito mais abundantemente além do que pedimos ou pensamos, segundo o poder que opera em nós,
 * **21** a ele seja a glória na igreja e em Christō Iēsou, por todas as gerações, para todo o sempre. Amém.
 
-## 4 {#cap-4}
+## 4
 
 * **1** Rogo-vos, pois, eu, o prisioneiro no Kyriō, que andeis de modo digno da vocação com que fostes chamados,
 * **2** com toda humildade e mansidão, com longanimidade, suportando-vos uns aos outros em amor,
@@ -122,7 +110,7 @@
 * **31** Toda amargura, e cólera, e ira, e gritaria, e blasfêmia sejam tiradas de entre vós, juntamente com toda malícia.
 * **32** Sede uns para com os outros benignos, compassivos, perdoando-vos mutuamente, como também Theos em Christō vos perdoou.
 
-## 5 {#cap-5}
+## 5
 
 * **1** Sede, pois, imitadores de Theou, como filhos amados,
 * **2** e andai em amor, como também Christos nos amou e se entregou a si mesmo por nós, como oferta e sacrifício a Theō, em cheiro de suavidade.
@@ -158,7 +146,7 @@
 * **32** Este mistério é grande, mas eu falo em relação a Christon e à igreja.
 * **33** Não obstante, vós, cada um de vós, ame a sua própria mulher como a si mesmo, e a mulher que respeite o marido.
 
-## 6 {#cap-6}
+## 6
 
 * **1** Filhos, obedecei a vossos pais no Kyriō, pois isto é justo;
 * **2** honra a teu pai e a tua mãe, que é o primeiro mandamento com promessa,

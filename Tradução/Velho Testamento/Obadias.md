@@ -1,18 +1,6 @@
-<!-- topo -->
 # Obadias
 
-<!-- INDICE -->
-## 📜 Índice
-
-**1 capítulos**
-[1](#cap-1)
-
-<div align="right"><a href="#topo"><strong>▲ Voltar ao topo</strong></a></div>
-
-<!-- FIM_INDICE -->
-
-
-## 1 {#cap-1}
+## 1
 
 * **1** Visão de Obadias: Assim diz Adonai YHWH (Senhor Deus) a Edom: Ouvimos uma mensagem da parte de YHWH (SENHOR), e um mensageiro foi enviado entre as nações: "Levantai-vos, e levantemo-nos contra ela para a guerra".
 * **2** Eis que te fiz pequeno entre as nações; és muito desprezado.

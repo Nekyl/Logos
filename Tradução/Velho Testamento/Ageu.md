@@ -1,18 +1,6 @@
-<!-- topo -->
 # Ageu
 
-<!-- INDICE -->
-## 📜 Índice
-
-**2 capítulos**
-[1](#cap-1) · [2](#cap-2)
-
-<div align="right"><a href="#topo"><strong>▲ Voltar ao topo</strong></a></div>
-
-<!-- FIM_INDICE -->
-
-
-## 1 {#cap-1}
+## 1
 
 * **1** No segundo ano do rei Dario, no sexto mês, no primeiro dia do mês, veio a palavra de YHWH (SENHOR) por intermédio do profeta Ageu a Zorobabel, filho de Sealtiel, governador de Judá, e a Josué, filho de Jozadaque, o sumo sacerdote, dizendo:
 * **2** Assim diz YHWH (SENHOR) Tzevaot (dos Exércitos): Este povo diz: Não é ainda o tempo, o tempo de edificar a casa de YHWH (SENHOR).
@@ -30,7 +18,7 @@
 * **14** YHWH (SENHOR) despertou o espírito de Zorobabel, filho de Sealtiel, governador de Judá, e o espírito de Josué, filho de Jozadaque, o sumo sacerdote, e o espírito de todo o restante do povo; eles vieram e realizaram a obra na casa de YHWH (SENHOR) Tzevaot (dos Exércitos), seu Deus.
 * **15** No dia vinte e quatro do sexto mês, no segundo ano do rei Dario.
 
-## 2 {#cap-2}
+## 2
 
 * **1** No sétimo mês, no vigésimo primeiro dia do mês, veio a palavra de YHWH (SENHOR) por intermédio do profeta Ageu, dizendo:
 * **2** Fala agora a Zorobabel, filho de Sealtiel, governador de Judá, e a Josué, filho de Jozadaque, o sumo sacerdote, e ao restante do povo, dizendo:

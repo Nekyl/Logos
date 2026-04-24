@@ -1,18 +1,6 @@
-<!-- topo -->
 # Tito
 
-<!-- INDICE -->
-## 📜 Índice
-
-**3 capítulos**
-[1](#cap-1) · [2](#cap-2) · [3](#cap-3)
-
-<div align="right"><a href="#topo"><strong>▲ Voltar ao topo</strong></a></div>
-
-<!-- FIM_INDICE -->
-
-
-## 1 {#cap-1}
+## 1
 
 * **1** Paulo, servo de Theos (Deus), apóstolo de Iēsous Christos (Jesus Messias), conforme a fé dos eleitos de Deus e o pleno conhecimento da verdade que conduz à piedade,
 * **2** na esperança da vida eterna, a qual o Deus que não mente prometeu antes dos tempos eternos,
@@ -31,7 +19,7 @@
 * **15** Todas as coisas são puras para os puros; mas para os contaminados e descrentes nada é puro, pois tanto a sua mente quanto a sua consciência estão contaminadas.
 * **16** Confessam que conhecem a Deus, mas negam-no pelas obras, sendo abomináveis, desobedientes e reprovados para toda boa obra.
 
-## 2 {#cap-2}
+## 2
 
 * **1** Tu, porém, fala o que convém à sã doutrina.
 * **2** Que os homens idosos sejam sóbrios, respeitáveis, sensatos, sadios na fé, no amor e na perseverança.
@@ -49,7 +37,7 @@
 * **14** que se entregou a si mesmo por nós, para nos remir de toda iniquidade e purificar para si um povo peculiar, zeloso de boas obras.
 * **15** Fala estas coisas, exorta e repreende com toda autoridade; ninguém te despreze.
 
-## 3 {#cap-3}
+## 3
 
 * **1** Lembra-os de que sejam submissos aos governantes e autoridades, que sejam obedientes e estejam prontos para toda boa obra,
 * **2** que não difamem a ninguém, que sejam pacíficos, gentis, mostrando toda mansidão para com todos os homens.

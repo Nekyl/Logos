@@ -1,18 +1,6 @@
-<!-- topo -->
 # 1 Timóteo
 
-<!-- INDICE -->
-## 📜 Índice
-
-**6 capítulos**
-[1](#cap-1) · [2](#cap-2) · [3](#cap-3) · [4](#cap-4) · [5](#cap-5) · [6](#cap-6)
-
-<div align="right"><a href="#topo"><strong>▲ Voltar ao topo</strong></a></div>
-
-<!-- FIM_INDICE -->
-
-
-## 1 {#cap-1}
+## 1
 
 * **1** Paulo, apóstolo de Christou Iēsou (Cristo Jesus), por ordem de Theou (Deus), nosso Salvador, e de Christou Iēsou, nossa esperança,
 * **2** a Timóteo, verdadeiro filho na fé: graça, misericórdia e paz da parte de Theou Patros (Deus Pai) e de Christou Iēsou, nosso Kyrios (Senhor).
@@ -35,7 +23,7 @@
 * **19** mantendo a fé e uma boa consciência, a qual alguns rejeitaram e, por isso, naufragaram na fé.
 * **20** Entre eles estão Himeneu e Alexandre, os quais entreguei a Satanás, para que aprendam a não blasfemar.
 
-## 2 {#cap-2}
+## 2
 
 * **1** Exorto, pois, acima de tudo, que se façam súplicas, orações, intercessões e ações de graças por todos os homens,
 * **2** pelos reis e por todos os que estão em posições de autoridade, para que tenhamos uma vida tranquila e sossegada, com toda piedade e dignidade.
@@ -53,7 +41,7 @@
 * **14** E Adão não foi enganado, mas a mulher, sendo enganada, caiu em transgressão.
 * **15** Ela será salva através da maternidade, se permanecerem na fé, no amor e na santificação, com bom senso.
 
-## 3 {#cap-3}
+## 3
 
 * **1** Fiel é a palavra: se alguém aspira ao episcopado, deseja uma excelente obra.
 * **2** É necessário, pois, que o bispo seja irrepreensível, marido de uma só mulher, sóbrio, sensato, respeitável, hospitaleiro, apto para ensinar,
@@ -72,7 +60,7 @@
 * **15** mas, se eu tardar, para que saibas como se deve proceder na casa de Theos (Deus), que é a igreja do Deus vivo, coluna e fundamento da verdade.
 * **16** E, confessadamente, grande é o mistério da piedade: Aquele que foi manifestado na carne, justificado no espírito, visto pelos anjos, pregado entre as nações, crido no mundo, recebido na glória.
 
-## 4 {#cap-4}
+## 4
 
 * **1** Mas o Pneuma Hagion (Espírito Santo) diz expressamente que, nos últimos tempos, alguns apostatarão da fé, dando ouvidos a espíritos enganadores e a doutrinas de demônios,
 * **2** pela hipocrisia de homens que falam mentiras e que têm a própria consciência cauterizada,
@@ -91,7 +79,7 @@
 * **15** Medita estas coisas, sê diligente nelas, para que o teu progresso seja manifesto a todos.
 * **16** Tem cuidado de ti mesmo e da doutrina; persevera nestas coisas, pois, fazendo isto, salvarás tanto a ti mesmo quanto aos que te ouvem.
 
-## 5 {#cap-5}
+## 5
 
 * **1** Não repreendas asperamente um homem idoso, mas exorta-o como a um pai; aos jovens, como a irmãos;
 * **2** às mulheres idosas, como a mães; às jovens, como a irmãs, com toda a pureza.
@@ -119,7 +107,7 @@
 * **24** Os pecados de alguns homens são manifestos, precedendo o juízo, enquanto em outros, eles os seguem.
 * **25** Da mesma forma, as boas obras também são manifestas, e as que são de outra maneira não podem ficar escondidas.
 
-## 6 {#cap-6}
+## 6
 
 * **1** Todos os que estão sob o jugo da escravidão considerem seus próprios senhores dignos de toda honra, para que o nome de Theos e a doutrina não sejam blasfemados.
 * **2** E os que têm senhores fiéis não os desprezem por serem irmãos; antes, sirvam-nos melhor, porque são fiéis e amados os que se beneficiam do seu serviço. Ensina e exorta estas coisas.

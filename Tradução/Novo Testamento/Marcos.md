@@ -1,19 +1,6 @@
-<!-- topo -->
 # Marcos
 
-<!-- INDICE -->
-## 📜 Índice
-
-**16 capítulos**
-[1](#cap-1) · [2](#cap-2) · [3](#cap-3) · [4](#cap-4) · [5](#cap-5) · [6](#cap-6) · [7](#cap-7) · [8](#cap-8) · [9](#cap-9) · [10](#cap-10)
-[11](#cap-11) · [12](#cap-12) · [13](#cap-13) · [14](#cap-14) · [15](#cap-15) · [16](#cap-16)
-
-<div align="right"><a href="#topo"><strong>▲ Voltar ao topo</strong></a></div>
-
-<!-- FIM_INDICE -->
-
-
-## 1 {#cap-1}
+## 1
 
 * **1** Início das boas-novas de Iēsous Christou (Jesus Messias).
 * **2** Conforme está escrito no profeta Isaías: Eis que envio o meu mensageiro diante da tua face, o qual preparará o teu caminho;
@@ -61,7 +48,7 @@
 * **44** e disse-lhe: Olha, não digas nada a ninguém; mas vai, mostra-te ao sacerdote e oferece pela tua purificação o que Moisés ordenou, para servir de testemunho a eles.
 * **45** Mas ele, saindo, começou a proclamar muitas coisas e a divulgar o fato, de modo que Iēsous já não podia entrar abertamente em qualquer cidade, mas permanecia fora, em lugares desertos; e vinham a ele de toda parte.
 
-## 2 {#cap-2}
+## 2
 
 * **1** E, entrando novamente em Cafarnaum, depois de alguns dias, soube-se que ele estava em casa.
 * **2** E muitos se reuniram, a ponto de não caberem nem mesmo junto à porta, e ele lhes anunciava a palavra.
@@ -92,7 +79,7 @@
 * **27** E dizia-lhes: O sábado foi feito por causa do homem, e não o homem por causa do sábado;
 * **28** de sorte que o Filho do Homem é senhor até do sábado.
 
-## 3 {#cap-3}
+## 3
 
 * **1** E entrou novamente na sinagoga, e estava ali um homem que tinha a mão atrofiada.
 * **2** E observavam-no, se o curaria no sábado, para que pudessem acusá-lo.
@@ -130,7 +117,7 @@
 * **34** E, olhando em redor para os que estavam sentados ao seu redor, disse: Eis minha mãe e meus irmãos;
 * **35** pois qualquer que fizer a vontade de Theou (Deus), esse é meu irmão, e irmã, e mãe.
 
-## 4 {#cap-4}
+## 4
 
 * **1** E começou novamente a ensinar junto ao mar; e reuniu-se a ele uma multidão tão grande que ele entrou num barco e sentou-se no mar, e toda a multidão estava em terra, junto ao mar.
 * **2** E ensinava-lhes muitas coisas por parábolas, e dizia-lhes na sua doutrina:
@@ -174,7 +161,7 @@
 * **40** E disse-lhes: Por que sois tão medrosos? Ainda não tendes fé?
 * **41** E sentiram um grande temor e diziam uns aos outros: Quem é este, que até o vento e o mar lhe obedecem?
 
-## 5 {#cap-5}
+## 5
 
 * **1** E chegaram ao outro lado do mar, à terra dos gerasenos.
 * **2** E, ao sair ele do barco, logo um homem com um espírito impuro veio ao seu encontro vindo dos sepulcros,
@@ -220,7 +207,7 @@
 * **42** E logo a menina levantou-se e andava, pois tinha doze anos. E ficaram logo tomados de grande espanto.
 * **43** E ordenou-lhes muito que ninguém soubesse disso, e disse que lhe dessem de comer.
 
-## 6 {#cap-6}
+## 6
 
 * **1** E saiu dali e chega à sua terra, e os seus discípulos o seguem.
 * **2** E, chegando o sábado, começou a ensinar na sinagoga; e muitos, ouvindo, maravilhavam-se, dizendo: De onde lhe vêm estas coisas, e que sabedoria é esta que lhe foi dada, e tais milagres feitos por suas mãos?
@@ -279,7 +266,7 @@
 * **55** e percorreram toda aquela região e começaram a trazer nos leitos os que estavam enfermos, para onde ouviam que ele estava.
 * **56** E onde quer que ele entrasse, nas aldeias, cidades ou campos, punham os enfermos nas praças e suplicavam-lhe que pudessem tocar ao menos na orla da sua veste; e todos os que o tocavam eram salvos.
 
-## 7 {#cap-7}
+## 7
 
 * **1** E reúnem-se junto a ele os fariseus e alguns dos escribas que tinham vindo de Jerusalém,
 * **2** e, vendo que alguns dos seus discípulos comiam os pães com mãos comuns, isto é, não lavadas—
@@ -318,7 +305,7 @@
 * **36** e ordenou-lhes que a ninguém o dissessem; mas, quanto mais ele os proibia, tanto mais eles o proclamavam.
 * **37** E maravilhavam-se sobremaneira, dizendo: Ele faz tudo bem; faz os surdos ouvir e os mudos falar.
 
-## 8 {#cap-8}
+## 8
 
 * **1** Naqueles dias, havendo novamente uma grande multidão e não tendo o que comer, chamando os discípulos, diz-lhes:
 * **2** Tenho compaixão da multidão, porque já há três dias que estão comigo e não têm o que comer;
@@ -359,7 +346,7 @@
 * **37** Pois que daria o homem em troca da sua alma?
 * **38** Pois quem se envergonhar de mim e das minhas palavras nesta geração adúltera e pecadora, também o filho do homem se envergonhará dele quando vier na glória do Patēr (Pai) dele com os anjos santos.
 
-## 9 {#cap-9}
+## 9
 
 * **1** E dizia-lhes: Em verdade vos digo que há alguns dos que aqui estão que de modo algum provarão a morte até que vejam o reino de Theos ter chegado em poder.
 * **2** E, após seis dias, Iēsous toma a Pedro, e a Tiago, e a João, e leva-os a um alto monte, a sós, em particular. E foi transfigurado diante deles,
@@ -410,7 +397,7 @@
 * **49** Pois todos serão salgados com fogo.
 * **50** O sal é bom; mas, se o sal se tornar insípido, com que o temperareis? Tende sal em vós mesmos e vivei em paz uns com os outros.
 
-## 10 {#cap-10}
+## 10
 
 * **1** E, levantando-se dali, vem aos confins da Judeia e além do Jordão, e multidões reúnem-se novamente a ele, e, como costumava, novamente as ensinava.
 * **2** E perguntavam-lhe se é lícito ao homem divorciar-se da mulher, tentando-o.
@@ -465,7 +452,7 @@
 * **51** E, respondendo, Iēsous disse-lhe: Que queres que te faça? O cego disse-lhe: Raboni, que eu veja.
 * **52** E Iēsous disse-lhe: Vai, a tua fé te salvou. E logo viu, e seguia-o no caminho.
 
-## 11 {#cap-11}
+## 11
 
 * **1** E, quando se aproximam de Jerusalém, a Betfagé e Betânia, junto ao Monte das Oliveiras, envia dois dos seus discípulos
 * **2** e diz-lhes: Ide à aldeia que está defronte de vós, e logo, entrando nela, encontrareis um jumentinho preso, sobre o qual nenhum homem ainda montou; soltai-o e trazei-o.
@@ -500,7 +487,7 @@
 * **32** Mas diremos: 'Dos homens?' — eles temiam a multidão, pois todos consideravam que João era realmente um profeta.
 * **33** E, respondendo a Jesus, disseram: "Não sabemos". E Jesus lhes diz: "Nem eu lhes digo com que autoridade faço estas coisas".
 
-## 12 {#cap-12}
+## 12
 
 * **1** E começou a falar-lhes por parábolas: "Um homem plantou uma vinha, cercou-a com uma sebe, cavou um lagar e edificou uma torre; arrendou-a a lavradores e ausentou-se".
 * **2** E enviou aos lavradores, no devido tempo, um servo, para que recebesse dos lavradores dos frutos da vinha;
@@ -547,7 +534,7 @@
 * **43** E, chamando os seus discípulos, disse-lhes: "Em verdade vos digo que esta viúva pobre lançou mais do que todos os que lançaram no gazofilácio;
 * **44** pois todos lançaram do que lhes sobrava, mas ela, da sua pobreza, lançou tudo o que tinha, todo o seu sustento".
 
-## 13 {#cap-13}
+## 13
 
 * **1** E, saindo ele do templo, diz-lhe um dos seus discípulos: "Mestre, olha que pedras e que construções!"
 * **2** E Jesus disse-lhe: "Vês estas grandes construções? Não ficará aqui pedra sobre pedra que não seja derrubada".
@@ -587,7 +574,7 @@
 * **36** para que, vindo de repente, não vos encontre dormindo.
 * **37** O que vos digo, digo a todos: vigiem".
 
-## 14 {#cap-14}
+## 14
 
 * **1** E era a Páscoa e os pães ázimos depois de dois dias. E os principais sacerdotes e os escribas procuravam como, prendendo-o com dolo, o matassem;
 * **2** diziam, pois: "Não na festa, para que não haja tumulto do povo".
@@ -662,7 +649,7 @@
 * **71** Mas ele começou a praguejar e a jurar: Não conheço este homem de quem vocês falam.
 * **72** E imediatamente, pela segunda vez, o galo cantou; e Pedro lembrou-se da palavra que Iēsous lhe dissera: Antes que o galo cante duas vezes, três vezes você me negará; e, caindo em si, chorava.
 
-## 15 {#cap-15}
+## 15
 
 * **1** E logo pela manhã, tendo feito uma reunião, os sumos sacerdotes com os anciãos e escribas e todo o conselho, tendo amarrado Iēsous, levaram-no e entregaram-no a Pilatos.
 * **2** E Pilatos perguntou-lhe: Você é o rei dos judeus? E ele, respondendo, disse-lhe: Você diz.
@@ -711,7 +698,7 @@
 * **46** E ele, comprando um lençol, tirou-o, envolveu-o no lençol e depositou-o num sepulcro que fora cavado na rocha, e rolou uma pedra sobre a porta do sepulcro.
 * **47** E Maria Madalena e Maria, mãe de José, observavam onde ele fora posto.
 
-## 16 {#cap-16}
+## 16
 
 * **1** E, passado o sábado, Maria Madalena e Maria, mãe de Tiago, e Salomé compraram aromas para irem ungi-lo.
 * **2** E, muito cedo, no primeiro dia da semana, chegam ao sepulcro, ao nascer do sol.

@@ -1,20 +1,6 @@
-<!-- topo -->
 # Levítico
 
-<!-- INDICE -->
-## 📜 Índice
-
-**27 capítulos**
-[1](#cap-1) · [2](#cap-2) · [3](#cap-3) · [4](#cap-4) · [5](#cap-5) · [6](#cap-6) · [7](#cap-7) · [8](#cap-8) · [9](#cap-9) · [10](#cap-10)
-[11](#cap-11) · [12](#cap-12) · [13](#cap-13) · [14](#cap-14) · [15](#cap-15) · [16](#cap-16) · [17](#cap-17) · [18](#cap-18) · [19](#cap-19) · [20](#cap-20)
-[21](#cap-21) · [22](#cap-22) · [23](#cap-23) · [24](#cap-24) · [25](#cap-25) · [26](#cap-26) · [27](#cap-27)
-
-<div align="right"><a href="#topo"><strong>▲ Voltar ao topo</strong></a></div>
-
-<!-- FIM_INDICE -->
-
-
-## 1 {#cap-1}
+## 1
 
 * **1** YHWH (SENHOR) chamou Moisés e falou com ele a partir da Tenda da Reunião, dizendo:
 * **2** Fala aos filhos de Israel e dize-lhes: Quando algum de vós oferecer uma oferta a YHWH (SENHOR), oferecereis a vossa oferta de gado, do rebanho ou do gado miúdo.
@@ -34,7 +20,7 @@
 * **16** Tirar-lhe-á o papo com as suas penas e o lançará junto ao altar, para o lado do oriente, no lugar das cinzas.
 * **17** Fendê-la-á pelas asas, sem contudo a separar, e o sacerdote a queimará sobre o altar, sobre a lenha que está no fogo; é um holocausto, oferta queimada de aroma agradável a YHWH (SENHOR).
 
-## 2 {#cap-2}
+## 2
 
 * **1** Quando alguém oferecer uma oferta de manjares a YHWH (SENHOR), a sua oferta será de flor de farinha; sobre ela deitará azeite e porá incenso.
 * **2** Trazê-la-á aos filhos de Arão, os sacerdotes, dos quais o sacerdote tomará um punhado da flor de farinha e do azeite, com todo o incenso, e o queimará sobre o altar como memorial, oferta queimada de aroma agradável a YHWH (SENHOR).
@@ -53,7 +39,7 @@
 * **15** Sobre ela deitarás azeite e porás incenso; é uma oferta de manjares.
 * **16** O sacerdote queimará a sua parte memorial, dos grãos debulhados e do azeite, com todo o incenso, como oferta queimada a YHWH (SENHOR).
 
-## 3 {#cap-3}
+## 3
 
 * **1** Se a sua oferta for um sacrifício de oferta pacífica, se a oferecer de gado, seja macho ou fêmea, sem defeito a oferecerá diante de YHWH (SENHOR).
 * **2** Porá a mão sobre a cabeça da sua oferta e a degolará à porta da Tenda da Reunião; e os filhos de Arão, os sacerdotes, aspergirão o seu sangue ao redor sobre o altar.
@@ -73,7 +59,7 @@
 * **16** O sacerdote os queimará sobre o altar como alimento de oferta queimada, de aroma agradável; toda a gordura pertence a YHWH (SENHOR).
 * **17** Estatuto perpétuo é pelas vossas gerações, em todas as vossas habitações: nenhuma gordura nem sangue algum comereis.
 
-## 4 {#cap-4}
+## 4
 
 * **1** YHWH (SENHOR) falou a Moisés, dizendo:
 * **2** Fala aos filhos de Israel: Quando uma pessoa pecar por erro contra algum dos mandamentos de YHWH (SENHOR), fazendo o que não deve ser feito, e cometer qualquer um deles;
@@ -111,7 +97,7 @@
 * **34** O sacerdote tomará com o dedo do sangue da oferta pelo pecado e o porá sobre as pontas do altar do holocausto; e todo o resto do seu sangue derramará à base do altar.
 * **35** Tirará toda a sua gordura, como se tira a gordura do cordeiro do sacrifício da oferta pacífica, e o sacerdote a queimará sobre o altar, sobre as ofertas queimadas a YHWH (SENHOR); assim o sacerdote fará expiação por ele do pecado que cometeu, e lhe será perdoado.
 
-## 5 {#cap-5}
+## 5
 
 * **1** Se alguém pecar, ouvindo uma voz de maldição, sendo testemunha, ou por ter visto, ou por ter sabido, se não o denunciar, levará a sua iniquidade.
 * **2** Ou se alguém tocar em alguma coisa imunda, seja cadáver de animal selvagem imundo, ou cadáver de animal doméstico imundo, ou cadáver de réptil imundo, e isso lhe for oculto, e ele se tornar imundo e culpado;
@@ -133,7 +119,7 @@
 * **18** Trará ao sacerdote um carneiro sem defeito, do rebanho, conforme a tua avaliação, para oferta pela culpa; assim o sacerdote fará expiação por ele do erro que cometeu sem saber, e lhe será perdoado.
 * **19** É oferta pela culpa; certamente se tornou culpado perante YHWH (SENHOR).
 
-## 6 {#cap-6}
+## 6
 
 * **1** YHWH (SENHOR) falou a Moisés, dizendo:
 * **2** Se alguém pecar e cometer uma transgressão contra YHWH (SENHOR), e negar ao seu próximo o que lhe foi dado em depósito, ou a penhor, ou por roubo, ou se tiver oprimido o seu próximo,
@@ -166,7 +152,7 @@
 * **29** Todo homem entre os sacerdotes a comerá; é coisa santíssima.
 * **30** Porém, nenhuma oferta pelo pecado, cujo sangue se traz à Tenda da Reunião para fazer expiação no santuário, se comerá; será queimada no fogo.
 
-## 7 {#cap-7}
+## 7
 
 * **1** Esta é a lei da oferta pela culpa; é coisa santíssima.
 * **2** No lugar onde degolam o holocausto, degolarão a oferta pela culpa; e o seu sangue se aspergirá ao redor sobre o altar.
@@ -207,7 +193,7 @@
 * **37** Esta é a lei para o holocausto, para a oferta de cereal, para a oferta pelo pecado, para a oferta pela culpa, para a consagração e para o sacrifício de comunhão.
 * **38** Que YHWH (SENHOR) ordenou a Moisés no monte Sinai, no dia em que ordenou aos filhos de Israel que oferecessem as suas ofertas a YHWH (SENHOR), no deserto do Sinai.
 
-## 8 {#cap-8}
+## 8
 
 * **1** YHWH (SENHOR) falou a Moisés, dizendo:
 * **2** Toma Arão e seus filhos com ele, as vestes, o óleo da unção, o novilho da oferta pelo pecado, os dois carneiros e o cesto de pães ázimos.
@@ -246,7 +232,7 @@
 * **35** Permanecei à entrada da tenda da congregação dia e noite, por sete dias, e observai o que YHWH (SENHOR) ordenou, para que não morrais, pois assim me foi ordenado.
 * **36** Arão e seus filhos fizeram todas as coisas que YHWH (SENHOR) ordenou por intermédio de Moisés.
 
-## 9 {#cap-9}
+## 9
 
 * **1** No oitavo dia, Moisés chamou Arão, seus filhos e os anciãos de Israel.
 * **2** Disse a Arão: Toma para ti um bezerro para a oferta pelo pecado e um carneiro para o holocausto, sem defeito, e oferece-os diante de YHWH (SENHOR).
@@ -273,7 +259,7 @@
 * **23** Moisés e Arão entraram na tenda da congregação, saíram e abençoaram o povo, e a glória de YHWH (SENHOR) apareceu a todo o povo.
 * **24** Saiu fogo de diante de YHWH (SENHOR) e consumiu sobre o altar o holocausto e as gorduras; todo o povo viu, exultou e prostrou-se com o rosto em terra.
 
-## 10 {#cap-10}
+## 10
 
 * **1** Os filhos de Arão, Nadabe e Abiú, tomaram cada um o seu incensário, puseram fogo neles, colocaram incenso sobre ele e ofereceram fogo estranho diante de YHWH (SENHOR), o que ele não lhes ordenara.
 * **2** Saiu fogo de diante de YHWH (SENHOR) e os consumiu, e morreram diante de YHWH (SENHOR).
@@ -296,7 +282,7 @@
 * **19** Arão disse a Moisés: Eis que hoje ofereceram a sua oferta pelo pecado e o seu holocausto diante de YHWH (SENHOR), e coisas como estas me aconteceram; se eu comesse a oferta pelo pecado hoje, seria isso agradável aos olhos de YHWH (SENHOR)?
 * **20** Moisés ouviu e foi agradável aos seus olhos.
 
-## 11 {#cap-11}
+## 11
 
 * **1** YHWH (SENHOR) falou a Moisés e a Arão, dizendo-lhes:
 * **2** Falai aos filhos de Israel, dizendo: Estes são os animais que comereis de entre todos os animais que há sobre a terra.
@@ -346,7 +332,7 @@
 * **46** Esta é a lei dos animais, das aves, de toda criatura vivente que se move nas águas e de toda criatura que se move sobre a terra.
 * **47** Para fazer distinção entre o impuro e o puro, e entre o animal que se pode comer e o animal que não se pode comer.
 
-## 12 {#cap-12}
+## 12
 
 * **1** YHWH (SENHOR) falou a Moisés, dizendo:
 * **2** Fale aos filhos de Israel, dizendo: Quando uma mulher conceber e der à luz um menino, será impura por sete dias; como nos dias da sua menstruação, ela será impura.
@@ -357,7 +343,7 @@
 * **7** Ele o oferecerá diante de YHWH (SENHOR) e fará expiação por ela, e ela será purificada do fluxo do seu sangue. Esta é a lei da que deu à luz um menino ou uma menina.
 * **8** Se a sua mão não alcançar o suficiente para um cordeiro, tomará duas rolas ou dois pombinhos, um para holocausto e outro para oferta pelo pecado; o sacerdote fará expiação por ela, e ela será purificada.
 
-## 13 {#cap-13}
+## 13
 
 * **1** E falou YHWH (SENHOR) a Moisés e a Arão, dizendo:
 * **2** Quando um homem tiver na pele da sua carne inchaço, ou pústula, ou mancha brilhante, e isso se tornar na pele da sua carne como praga de lepra, será levado a Arão, o sacerdote, ou a um dos seus filhos, os sacerdotes.
@@ -419,7 +405,7 @@
 * **58** Mas a veste, ou a trama, ou a urdidura, ou qualquer objeto de pele que lavares e a praga se retirar deles, será lavado pela segunda vez e será puro.
 * **59** Esta é a lei da praga de lepra na veste de lã ou de linho, ou na trama, ou na urdidura, ou em qualquer objeto de pele, para declará-lo puro ou impuro.
 
-## 14 {#cap-14}
+## 14
 
 * **1** E falou YHWH (SENHOR) a Moisés, dizendo:
 * **2** Esta será a lei do leproso no dia da sua purificação: será levado ao sacerdote.
@@ -479,7 +465,7 @@
 * **56** e para o inchaço, e para a pústula, e para a mancha brilhante,
 * **57** para ensinar no dia da impureza e no dia da purificação; esta é a lei da lepra.
 
-## 15 {#cap-15}
+## 15
 
 * **1** E falou YHWH (SENHOR) a Moisés e a Arão, dizendo:
 * **2** Falai aos filhos de Israel e dizei-lhes: Qualquer homem que tiver fluxo da sua carne, o seu fluxo é impuro.
@@ -515,7 +501,7 @@
 * **32** Esta é a lei daquele que tem fluxo e daquele de quem sai o sêmen, tornando-se impuro por isso.
 * **33** E daquela que está na sua enfermidade menstrual, e daquele que tem fluxo, tanto homem como mulher, e do homem que se deita com mulher impura.
 
-## 16 {#cap-16}
+## 16
 
 * **1** Falou YHWH (SENHOR) a Moisés, depois da morte dos dois filhos de Aarão, quando se aproximaram diante de YHWH (SENHOR) e morreram.
 * **2** Disse YHWH (SENHOR) a Moisés: Fala a Aarão, teu irmão, que não entre em todo o tempo no lugar santo, dentro do véu, diante do propiciatório que está sobre a arca, para que não morra; porque eu aparecerei na nuvem sobre o propiciatório.
@@ -552,7 +538,7 @@
 * **33** Fará expiação pelo santuário santo, pela tenda da congregação e pelo altar; fará expiação pelos sacerdotes e por todo o povo da congregação.
 * **34** Isto vos será por estatuto perpétuo, para fazer expiação pelos filhos de Israel de todos os seus pecados, uma vez por ano. E fez como YHWH (SENHOR) ordenara a Moisés.
 
-## 17 {#cap-17}
+## 17
 
 * **1** Falou YHWH (SENHOR) a Moisés, dizendo:
 * **2** Fala a Aarão, aos seus filhos e a todos os filhos de Israel, e dize-lhes: Esta é a palavra que YHWH (SENHOR) ordenou, dizendo:
@@ -571,7 +557,7 @@
 * **15** Toda a alma que comer o que é morto ou dilacerado, seja natural ou estrangeiro, lavará as suas vestes, banhar-se-á em água e será impura até à tarde; depois será pura.
 * **16** Mas, se não as lavar e não banhar o seu corpo, levará a sua iniquidade.
 
-## 18 {#cap-18}
+## 18
 
 * **1** Falou YHWH (SENHOR) a Moisés, dizendo:
 * **2** Fala aos filhos de Israel e dize-lhes: Eu sou YHWH (SENHOR), vosso Elohim (Deus).
@@ -604,7 +590,7 @@
 * **29** Porque qualquer que fizer alguma destas abominações, as almas que as fizerem serão extirpadas do meio do seu povo.
 * **30** Portanto, guardareis o meu mandamento, para não fazerdes nenhuma das práticas abomináveis que se fizeram antes de vós, e não vos contamineis nelas; eu sou YHWH (SENHOR), vosso Elohim (Deus).
 
-## 19 {#cap-19}
+## 19
 
 * **1** Falou YHWH (SENHOR) a Moisés, dizendo:
 * **2** Fala a toda a congregação dos filhos de Israel e dize-lhes: Santos sereis, porque eu, YHWH (SENHOR), vosso Elohim (Deus), sou santo.
@@ -644,7 +630,7 @@
 * **36** Balanças justas, pesos justos, efa justa e justo hin tereis; eu sou YHWH (SENHOR), vosso Elohim (Deus), que vos tirei da terra do Egito.
 * **37** Guardareis todos os meus estatutos e todos os meus juízos e os cumprireis; eu sou YHWH (SENHOR).
 
-## 20 {#cap-20}
+## 20
 
 * **1** Falou YHWH (SENHOR) a Moisés, dizendo:
 * **2** Dirás aos filhos de Israel: Qualquer homem dos filhos de Israel, ou dos estrangeiros que peregrinam em Israel, que der da sua descendência a Moloque, certamente morrerá; o povo da terra o apedrejará.
@@ -674,7 +660,7 @@
 * **26** Santos sereis para mim, porque eu, YHWH (SENHOR), sou santo e vos separei dos povos, para serdes meus.
 * **27** O homem ou mulher que tiver em si um espírito de adivinhação ou encantador, certamente morrerá; apedrejá-los-ão; o seu sangue é sobre eles.
 
-## 21 {#cap-21}
+## 21
 
 * **1** YHWH (SENHOR) disse a Moisés: Fale aos sacerdotes, filhos de Arão, e diga-lhes: Nenhum deles se tornará impuro por causa de um morto entre o seu povo,
 * **2** exceto por seus parentes mais próximos: sua mãe, seu pai, seu filho, sua filha e seu irmão;
@@ -701,7 +687,7 @@
 * **23** Contudo, não entrará até o véu, nem se aproximará do altar, porque tem defeito, para que não profane os meus santuários, pois Eu sou YHWH, que os santifico.
 * **24** Moisés falou a Arão, aos seus filhos e a todos os filhos de Israel.
 
-## 22 {#cap-22}
+## 22
 
 * **1** YHWH falou a Moisés, dizendo:
 * **2** Fale a Arão e aos seus filhos, para que se apartem das coisas sagradas dos filhos de Israel e não profanem o meu santo nome, que eles me consagram. Eu sou YHWH.
@@ -737,7 +723,7 @@
 * **32** Não profanareis o meu santo nome, para que Eu seja santificado no meio dos filhos de Israel. Eu sou YHWH, que os santifico,
 * **33** que os tirei da terra do Egito para ser o seu Elohim. Eu sou YHWH.
 
-## 23 {#cap-23}
+## 23
 
 * **1** YHWH falou a Moisés, dizendo:
 * **2** Fale aos filhos de Israel e diga-lhes: As festas fixas de YHWH, que proclamareis como santas convocações, estas são as minhas festas.
@@ -784,7 +770,7 @@
 * **43** para que as vossas gerações saibam que fiz habitar os filhos de Israel em cabanas, quando os tirei da terra do Egito. Eu sou YHWH, o vosso Elohim.
 * **44** Moisés declarou as festas fixas de YHWH aos filhos de Israel.
 
-## 24 {#cap-24}
+## 24
 
 * **1** YHWH falou a Moisés, dizendo:
 * **2** Ordena aos filhos de Israel que tragam azeite de oliva puro, batido, para o candelabro, para manter as lâmpadas acesas continuamente.
@@ -810,7 +796,7 @@
 * **22** Terei uma só lei para vocês; será como para o estrangeiro, assim para o natural, pois Eu sou YHWH, o vosso Elohim.
 * **23** Moisés falou aos filhos de Israel, e eles levaram o que amaldiçoou para fora do acampamento e o apedrejaram. Os filhos de Israel fizeram como YHWH ordenara a Moisés.
 
-## 25 {#cap-25}
+## 25
 
 * **1** YHWH falou a Moisés no monte Sinai, dizendo:
 * **2** Fale aos filhos de Israel e diga-lhes: Quando entrardes na terra que Eu lhes dou, a terra descansará um sábado para YHWH.
@@ -868,7 +854,7 @@
 * **54** E se não for resgatado por estes meios, sairá no ano do Jubileu, ele e seus filhos com ele.
 * **55** Porque os filhos de Israel são meus servos; eles são meus servos, a quem tirei da terra do Egito. Eu sou YHWH (SENHOR) Elohim (Deus) de vocês.
 
-## 26 {#cap-26}
+## 26
 
 * **1** Não façam para vocês ídolos, nem imagem de escultura, nem levantem coluna, nem coloquem pedra esculpida em sua terra para se curvarem diante dela, porque eu sou YHWH Elohim de vocês.
 * **2** Guardem os meus sábados e reverenciem o meu santuário. Eu sou YHWH.
@@ -917,7 +903,7 @@
 * **45** Mas, por amor deles, lembrar-me-ei da aliança com os seus antepassados, que tirei da terra do Egito aos olhos das nações, para ser o seu Elohim. Eu sou YHWH.
 * **46** Estes são os estatutos, os juízos e as leis que YHWH estabeleceu entre si e os filhos de Israel, no monte Sinai, por intermédio de Moisés.
 
-## 27 {#cap-27}
+## 27
 
 * **1** Falou YHWH a Moisés, dizendo:
 * **2** Fala aos filhos de Israel e dize-lhes: Quando alguém fizer um voto especial ao SENHOR, referente à avaliação de pessoas,

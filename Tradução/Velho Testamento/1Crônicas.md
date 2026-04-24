@@ -1,20 +1,6 @@
-<!-- topo -->
 # 1 Crônicas
 
-<!-- INDICE -->
-## 📜 Índice
-
-**29 capítulos**
-[1](#cap-1) · [2](#cap-2) · [3](#cap-3) · [4](#cap-4) · [5](#cap-5) · [6](#cap-6) · [7](#cap-7) · [8](#cap-8) · [9](#cap-9) · [10](#cap-10)
-[11](#cap-11) · [12](#cap-12) · [13](#cap-13) · [14](#cap-14) · [15](#cap-15) · [16](#cap-16) · [17](#cap-17) · [18](#cap-18) · [19](#cap-19) · [20](#cap-20)
-[21](#cap-21) · [22](#cap-22) · [23](#cap-23) · [24](#cap-24) · [25](#cap-25) · [26](#cap-26) · [27](#cap-27) · [28](#cap-28) · [29](#cap-29)
-
-<div align="right"><a href="#topo"><strong>▲ Voltar ao topo</strong></a></div>
-
-<!-- FIM_INDICE -->
-
-
-## 1 {#cap-1}
+## 1
 
 * **1** Adão, Sete, Enos.
 * **2** Quenã, Maalalel, Jerede.
@@ -71,7 +57,7 @@
 * **53** O chefe Quenaz, o chefe Temã, o chefe Mibzar.
 * **54** O chefe Magdiel, o chefe Irã. Estes são os chefes de Edom.
 
-## 2 {#cap-2}
+## 2
 
 * **1** Estes são os filhos de Israel: Rúben, Simeão, Levi e Judá, Issacar e Zebulom.
 * **2** Dã, José e Benjamim, Naftali, Gade e Aser.
@@ -129,7 +115,7 @@
 * **54** Os filhos de Salma: Belém, os netofatitas, Atarote-Bete-Joabe e metade dos manaatitas, os zoratitas.
 * **55** As famílias dos escribas que habitavam em Jabez: os tiratitas, os simeatitas e os sucatitas. Estes são os queneus, que vieram de Hamate, pai da casa de Recabe.
 
-## 3 {#cap-3}
+## 3
 
 * **1** Estes foram os filhos de Davi que lhe nasceram em Hebrom: o primogênito, Amnon, de Ainoã, a jezreelita; o segundo, Daniel, de Abigail, a carmelita;
 * **2** O terceiro, Absalão, filho de Maaca, filha de Talmai, rei de Gesur; o quarto, Adonias, filho de Hagite;
@@ -156,7 +142,7 @@
 * **23** O filho de Nearias: Elioenai, Ezequias e Azricão, três.
 * **24** Os filhos de Elioenai: Hodavias, Eliasibe, Pelaías, Acube, Joanã, Delaías e Anani, sete.
 
-## 4 {#cap-4}
+## 4
 
 * **1** Os filhos de Judá: Perez, Hezrom, Carmi, Hur e Sobal.
 * **2** Reaías, filho de Sobal, gerou a Jaate, e Jaate gerou a Aumai e a Laade. Estas são as famílias dos zoratitas.
@@ -202,7 +188,7 @@
 * **42** Dentre eles, quinhentos homens dos filhos de Simeão foram ao monte Seir, tendo por chefes Pelatias, Nearias, Refaías e Uziel, filhos de Isi.
 * **43** Feriram o restante dos amalequitas que haviam escapado e habitaram ali até ao dia de hoje.
 
-## 5 {#cap-5}
+## 5
 
 * **1** Os filhos de Rúben, o primogênito de Israel — pois ele era o primogênito, mas, por ter profanado o leito de seu pai, a sua primogenitura foi dada aos filhos de José, filho de Israel, de modo que não foi registrado na genealogia como primogênito.
 * **2** Pois Judá tornou-se poderoso entre os seus irmãos, e dele veio o príncipe, mas a primogenitura coube a José.
@@ -231,7 +217,7 @@
 * **25** Mas transgrediram contra o Elohim de seus pais e prostituíram-se após os deuses dos povos da terra, os quais Elohim destruíra de diante deles.
 * **26** Por isso, o Elohim de Israel despertou o espírito de Pul, rei da Assíria, e o espírito de Tiglate-Pileser, rei da Assíria, que levou cativos os rubenitas, os gaditas e a meia tribo de Manassés, e os trouxe para Hala, Habor, Hara e para o rio Gozã, até ao dia de hoje.
 
-## 6 {#cap-6}
+## 6
 
 * **1** Os filhos de Levi foram: Gérson, Coate e Merari.
 * **2** Os filhos de Coate foram: Anrão, Isar, Hebrom e Uziel.
@@ -315,7 +301,7 @@
 * **80** Da tribo de Gade: Ramote, em Gileade, e os seus arredores, Maanaim e os seus arredores.
 * **81** Hesbom e os seus arredores, Jazer e os seus arredores.
 
-## 7 {#cap-7}
+## 7
 
 * **1** Os filhos de Issacar foram: Tola, Puá, Jasube e Sinrom, quatro.
 * **2** Os filhos de Tola foram: Uzi, Refaías, Jeriel, Jamai, Ibsão e Samuel, chefes da casa de seus pais, descendentes de Tola, homens valentes segundo as suas gerações; o seu número nos dias de Davi era vinte e dois mil e seiscentos.
@@ -358,7 +344,7 @@
 * **39** Os filhos de Ula foram Ara, Haniel e Rizia.
 * **40** Todos estes foram filhos de Aser, chefes das casas paternas, escolhidos, homens valentes, chefes dos príncipes; o seu registro no exército para a guerra era de vinte e seis mil homens.
 
-## 8 {#cap-8}
+## 8
 
 * **1** Benjamim gerou Belá, seu primogênito; Asbel, o segundo; Aará, o terceiro.
 * **2** Noá, o quarto; e Rafa, o quinto.
@@ -401,7 +387,7 @@
 * **39** Os filhos de Eseque, seu irmão, foram Ulão, seu primogênito; Jeús, o segundo; Elifelete, o terceiro.
 * **40** Os filhos de Ulão foram homens valentes, flecheiros, e tiveram muitos filhos e netos, cento e cinquenta; todos estes são dos filhos de Benjamim.
 
-## 9 {#cap-9}
+## 9
 
 * **1** Todo o Israel foi registrado, e eis que estão escritos no livro dos reis de Israel e de Judá, que foram levados cativos para a Babilônia por causa da sua transgressão.
 * **2** Os primeiros habitantes que moravam em suas possessões, em suas cidades, eram Israel, os sacerdotes, os levitas e os netineus.
@@ -448,7 +434,7 @@
 * **43** Moza gerou Bineá; Refa, seu filho; Eleasa, seu filho; Azel, seu filho.
 * **44** Azel teve seis filhos, e estes são os seus nomes: Azricão, seu primogênito; Ismael, Searias, Obadias e Hanã; estes são os filhos de Azel.
 
-## 10 {#cap-10}
+## 10
 
 * **1** Os filisteus pelejaram contra Israel, e os homens de Israel fugiram de diante dos filisteus e caíram mortos no monte Gilboa.
 * **2** Os filisteus perseguiram Saul e seus filhos, e os filisteus mataram Jônatas, Abinadabe e Malquisua, filhos de Saul.
@@ -465,7 +451,7 @@
 * **13** Assim morreu Saul na sua transgressão que cometeu contra YHWH, por causa da palavra de YHWH que não guardou; e também porque buscou a uma adivinha para consultá-la.
 * **14** E não buscou a YHWH; por isso o matou e transferiu o reino para Davi, filho de Jessé.
 
-## 11 {#cap-11}
+## 11
 
 * **1** Todo o Israel se ajuntou a Davi em Hebrom, dizendo: "Eis que somos teus ossos e tua carne".
 * **2** Também ontem e anteontem, mesmo quando Saul era rei, eras tu quem tiravas e trazias a Israel; e YHWH, teu Elohim, te disse: "Tu apascentarás o meu povo, Israel, e tu serás príncipe sobre o meu povo, Israel".
@@ -515,7 +501,7 @@
 * **46** Eliel, o maavita, e Jeribai e Josavia, filhos de Elnaã, e Itma, o moabita.
 * **47** Eliel e Obede e Jaasiel, o mezobaita.
 
-## 12 {#cap-12}
+## 12
 
 * **1** Estes são os que vieram a Davi em Ziclague, enquanto ainda estava refugiado da presença de Saul, filho de Quis; e eles estavam entre os valentes, auxiliares na guerra.
 * **2** Armados de arco, usando a mão direita e a esquerda com pedras e com flechas no arco, dos irmãos de Saul, de Benjamim.
@@ -558,7 +544,7 @@
 * **39** E estiveram ali com Davi três dias, comendo e bebendo, pois seus irmãos tinham preparado para eles.
 * **40** E também os que estavam próximos a eles, até Issacar, Zebulom e Naftali, traziam pão em jumentos, e em camelos, e em mulas, e em bois, mantimento de farinha, bolos de figos e passas, e vinho, e azeite, e bois, e ovelhas em abundância, pois havia alegria em Israel.
 
-## 13 {#cap-13}
+## 13
 
 * **1** E Davi aconselhou-se com os chefes dos milhares e das centenas, com cada príncipe.
 * **2** E disse Davi a toda a congregação de Israel: Se vos parece bem, e se é de YHWH (SENHOR) nosso Elohim (Deus), espalhemos e enviemos aos nossos irmãos que restam em todas as terras de Israel, e com eles aos sacerdotes e aos levitas nas cidades dos seus arredores, para que se ajuntem a nós.
@@ -575,7 +561,7 @@
 * **13** E Davi não trouxe a arca a si, à cidade de Davi, mas a desviou para a casa de Obede-Edom, o geteu.
 * **14** E a arca de Elohim (Deus) ficou com a casa de Obede-Edom, em sua casa, três meses; e YHWH (SENHOR) abençoou a casa de Obede-Edom e tudo o que ele tinha.
 
-## 14 {#cap-14}
+## 14
 
 * **1** E Hirão, rei de Tiro, enviou mensageiros a Davi, e madeira de cedro, e pedreiros, e carpinteiros, para lhe edificarem uma casa.
 * **2** E Davi entendeu que YHWH (SENHOR) o confirmara como rei sobre Israel, pois o seu reino tinha sido exaltado por causa do seu povo Israel.
@@ -595,7 +581,7 @@
 * **16** E Davi fez como Elohim (Deus) lhe ordenara, e feriram o exército dos filisteus desde Gibeão até Gezer.
 * **17** E a fama de Davi espalhou-se por todas as terras, e YHWH (SENHOR) pôs o temor dele sobre todas as nações.
 
-## 15 {#cap-15}
+## 15
 
 * **1** E fez para si casas na cidade de Davi, e preparou um lugar para a arca de Elohim (Deus), e estendeu para ela uma tenda.
 * **2** Então disse Davi: Ninguém deve levar a arca de Elohim (Deus) senão os levitas, pois YHWH (SENHOR) os escolheu para levar a arca de YHWH (SENHOR) e para o servirem para sempre.
@@ -627,7 +613,7 @@
 * **28** E todo o Israel trazia a arca da aliança de YHWH (SENHOR) com júbilo, e com som de buzina, e com trombetas, e com címbalos, fazendo soar saltérios e harpas.
 * **29** E aconteceu que, chegando a arca da aliança de YHWH (SENHOR) à cidade de Davi, Mical, filha de Saul, olhou pela janela e viu o rei Davi saltando e alegrando-se, e desprezou-o no seu coração.
 
-## 16 {#cap-16}
+## 16
 
 * **1** E trouxeram a arca de Elohim (Deus) e a puseram no meio da tenda que Davi lhe tinha armado, e ofereceram holocaustos e ofertas pacíficas perante Elohim (Deus).
 * **2** E, acabando Davi de oferecer o holocausto e as ofertas pacíficas, abençoou o povo em nome de YHWH (SENHOR).
@@ -673,7 +659,7 @@
 * **42** E com eles Hemã e Jedutum, com trombetas e címbalos para os que faziam soar, e com instrumentos de música de Elohim; e os filhos de Jedutum, para a porta.
 * **43** Então todo o povo foi-se, cada um para sua casa, e Davi voltou para abençoar a sua casa.
 
-## 17 {#cap-17}
+## 17
 
 * **1** E sucedeu que, quando Davi habitava em sua casa, disse Davi a Natã, o profeta: Eis que eu habito em uma casa de cedro, mas a arca da aliança de YHWH está debaixo de cortinas.
 * **2** E disse Natã a Davi: Faze tudo o que está no teu coração, pois Elohim está contigo.
@@ -703,7 +689,7 @@
 * **26** Agora, pois, YHWH, Tu és o Elohim, e falaste esta bondade acerca do Teu servo.
 * **27** Agora, pois, dignaste-Te abençoar a casa do Teu servo, para que permaneça para sempre diante de Ti; pois Tu, YHWH, abençoaste, e abençoado será para sempre.
 
-## 18 {#cap-18}
+## 18
 
 * **1** E sucedeu depois disto que Davi feriu os filisteus, e os humilhou, e tomou a Gate e as suas vilas da mão dos filisteus.
 * **2** Feriu também a Moabe, e os moabitas tornaram-se servos de Davi, trazendo presentes.
@@ -723,7 +709,7 @@
 * **16** Zadoque, filho de Aitube, e Abimeleque, filho de Abiatar, eram sacerdotes; e Susa era o escrivão.
 * **17** Benaia, filho de Joiada, estava sobre os quereteus e os peleteus; e os filhos de Davi eram os primeiros ao lado do rei.
 
-## 19 {#cap-19}
+## 19
 
 * **1** E sucedeu depois disto que morreu Naás, rei dos filhos de Amom, e seu filho reinou em seu lugar.
 * **2** E disse Davi: Usarei de benevolência com Hanum, filho de Naás, porque seu pai usou de benevolência comigo. E Davi enviou mensageiros para o consolar acerca de seu pai; e os servos de Davi vieram à terra dos filhos de Amom, a Hanum, para o consolarem.
@@ -745,7 +731,7 @@
 * **18** Mas os sírios fugiram de diante de Israel, e Davi matou dos sírios sete mil carros e quarenta mil homens de infantaria; e a Sofaque, capitão do exército, matou.
 * **19** Vendo os servos de Hadadezer que foram feridos diante de Israel, fizeram paz com Davi e serviram-no; e os sírios não quiseram mais socorrer os filhos de Amom.
 
-## 20 {#cap-20}
+## 20
 
 * **1** E sucedeu, no tempo da volta do ano, no tempo em que os reis saem à guerra, que Joabe conduziu o exército e destruiu a terra dos filhos de Amom, e veio e cercou Rabá; mas Davi ficou em Jerusalém. E Joabe feriu a Rabá e a destruiu.
 * **2** E Davi tomou a coroa do seu rei de sobre a sua cabeça, e achou-a do peso de um talento de ouro, e nela havia pedras preciosas, e foi posta sobre a cabeça de Davi; e tirou da cidade mui grande despojo.
@@ -756,7 +742,7 @@
 * **7** E afrontou a Israel, mas Jônatas, filho de Simeia, irmão de Davi, o feriu.
 * **8** Estes nasceram ao gigante em Gate, e caíram pela mão de Davi e pela mão dos seus servos.
 
-## 21 {#cap-21}
+## 21
 
 * **1** E Satanás se levantou contra Israel, e incitou Davi a numerar a Israel.
 * **2** E disse Davi a Joabe e aos príncipes do povo: Ide, contai a Israel, desde Berseba até Dã, e trazei-me o número deles, para que eu o saiba.
@@ -789,7 +775,7 @@
 * **29** E o tabernáculo de YHWH, que Moisés fizera no deserto, e o altar do holocausto, estavam naquele tempo no lugar alto em Gibeão.
 * **30** Mas Davi não podia ir perante ele para consultar a Elohim, porque estava atemorizado por causa da espada do anjo de YHWH.
 
-## 22 {#cap-22}
+## 22
 
 * **1** E disse Davi: Este é o lugar da casa de YHWH Elohim, e este é o altar do holocausto para Israel.
 * **2** E ordenou Davi que se ajuntassem os estrangeiros que estavam na terra de Israel; e constituiu pedreiros para lavrar pedras de cantaria para edificar a casa de Elohim.
@@ -811,7 +797,7 @@
 * **18** Porventura não é YHWH, vosso Elohim, convosco? E não vos deu descanso em redor? Porque entregou na minha mão os moradores da terra, e a terra foi sujeita diante de YHWH e diante do Seu povo.
 * **19** Agora, pois, aplicai o vosso coração e a vossa alma para buscardes a YHWH, vosso Elohim; e levantai-vos e edificai o santuário de YHWH Elohim, para trazer a arca da aliança de YHWH e os utensílios sagrados de Elohim para a casa que se há de edificar ao nome de YHWH.
 
-## 23 {#cap-23}
+## 23
 
 * **1** Sendo Davi velho e cheio de dias, fez reinar a Salomão, seu filho, sobre Israel.
 * **2** E ajuntou a todos os príncipes de Israel, e os sacerdotes, e os levitas.
@@ -846,7 +832,7 @@
 * **31** E para todos os holocaustos oferecidos a YHWH nos sábados, nas luas novas e nas festas fixas, conforme o número e o costume estabelecido para eles, continuamente diante de YHWH.
 * **32** E para que guardassem a guarda da tenda da congregação, a guarda do santuário e a guarda dos filhos de Arão, seus irmãos, para o serviço da casa de YHWH.
 
-## 24 {#cap-24}
+## 24
 
 * **1** E para os filhos de Arão, as suas divisões foram: os filhos de Arão, Nadabe e Abiú, Eleazar e Itamar.
 * **2** Nadabe e Abiú morreram antes de seu pai e não tiveram filhos; por isso, Eleazar e Itamar exerceram o sacerdócio.
@@ -880,7 +866,7 @@
 * **30** E os filhos de Musi: Mali, Éder e Jerimote. Estes foram os filhos dos levitas, segundo as casas de seus pais.
 * **31** Estes também lançaram sortes como seus irmãos, os filhos de Arão, diante do rei Davi, de Zadoque, de Aimeleque e dos chefes das casas dos sacerdotes e dos levitas; o chefe da família lançou sortes da mesma forma que o seu irmão mais novo.
 
-## 25 {#cap-25}
+## 25
 
 * **1** Davi e os chefes do exército separaram para o serviço os filhos de Asafe, de Hemã e de Jedutum, que profetizavam com harpas, alaúdes e címbalos; e o número deles, homens que faziam a obra segundo o seu serviço, foi:
 * **2** Dos filhos de Asafe: Zacur, José, Natanias e Asarela, filhos de Asafe, sob a direção de Asafe, que profetizava sob as ordens do rei.
@@ -914,7 +900,7 @@
 * **30** A vigésima terceira para Maaziote, seus filhos e seus irmãos, doze.
 * **31** A vigésima quarta para Romanti-Ezer, seus filhos e seus irmãos, doze.
 
-## 26 {#cap-26}
+## 26
 
 * **1** Quanto às divisões dos porteiros: dos coraítas, Meselemias, filho de Coré, dos filhos de Asafe.
 * **2** Os filhos de Meselemias foram: Zacarias, o primogênito; Jediael, o segundo; Zebadias, o terceiro; Jatniel, o quarto;
@@ -949,7 +935,7 @@
 * **31** Dos hebronitas, Jerias era o chefe dos hebronitas, segundo as suas gerações e famílias. No quadragésimo ano do reinado de Davi, foram procurados e acharam-se entre eles homens valentes em Jazer de Gileade.
 * **32** Seus irmãos, homens valentes, dois mil e setecentos, chefes das casas dos pais, os quais o rei Davi constituiu sobre os rubenitas, os gaditas e a meia tribo dos manassitas, para todos os negócios de Elohim e do rei.
 
-## 27 {#cap-27}
+## 27
 
 * **1** Os filhos de Israel, segundo o seu número, chefes das casas dos pais, capitães de mil e de cem e seus oficiais que serviam ao rei em todos os negócios das divisões que entravam e saíam mês a mês, em todos os meses do ano, cada divisão era de vinte e quatro mil.
 * **2** Sobre a primeira divisão, para o primeiro mês, estava Jasobeão, filho de Zabdiel; e sobre a sua divisão, vinte e quatro mil.
@@ -986,7 +972,7 @@
 * **33** Aitofel era conselheiro do rei, e Husai, o arquita, era amigo do rei.
 * **34** Depois de Aitofel, vinha Joiada, filho de Benaia, e Abiatar; e o capitão do exército do rei era Joabe.
 
-## 28 {#cap-28}
+## 28
 
 * **1** Davi reuniu todos os príncipes de Israel, os príncipes das tribos, os príncipes das divisões que serviam ao rei, os capitães de mil e de cem, os administradores de todos os bens e gado do rei e de seus filhos, com os eunucos, os valentes e todos os homens de valor, em Jerusalém.
 * **2** O rei Davi pôs-se em pé e disse: Ouvi-me, meus irmãos e meu povo. Eu tinha no meu coração edificar uma casa de repouso para a arca da aliança de YHWH e para o estrado dos pés de nosso Elohim, e tinha feito preparativos para edificar.
@@ -1010,7 +996,7 @@
 * **20** Davi disse a Salomão, seu filho: Sê forte e corajoso, e faze a obra; não temas, nem te desanimes, porque YHWH Elohim, meu Elohim, está contigo; Ele não te deixará, nem te abandonará, até que termines toda a obra do serviço da casa de YHWH.
 * **21** Eis as divisões dos sacerdotes e dos levitas para todo o serviço da casa de Elohim; e contigo, em toda a obra, estarão todos os voluntários habilidosos para qualquer serviço, bem como os príncipes e todo o povo, para todas as tuas ordens.
 
-## 29 {#cap-29}
+## 29
 
 * **1** Disse o rei Davi a toda a congregação: Salomão, meu filho, o único a quem Elohim escolheu, é jovem e inexperiente, e a obra é grande, pois este palácio não é para o homem, mas para YHWH Elohim.
 * **2** Com toda a minha força preparei para a casa de meu Elohim: ouro para o que é de ouro, prata para o que é de prata, bronze para o que é de bronze, ferro para o que é de ferro, madeira para o que é de madeira; pedras de ônix e pedras de engaste, pedras de mosaico e de várias cores, toda sorte de pedras preciosas e pedras de mármore em abundância.

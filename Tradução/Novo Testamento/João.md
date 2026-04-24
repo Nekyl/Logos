@@ -1,20 +1,6 @@
-<!-- topo -->
 # João
 
-<!-- INDICE -->
-## 📜 Índice
-
-**21 capítulos**
-[1](#cap-1) · [2](#cap-2) · [3](#cap-3) · [4](#cap-4) · [5](#cap-5) · [6](#cap-6) · [7](#cap-7) · [8](#cap-8) · [9](#cap-9) · [10](#cap-10)
-[11](#cap-11) · [12](#cap-12) · [13](#cap-13) · [14](#cap-14) · [15](#cap-15) · [16](#cap-16) · [17](#cap-17) · [18](#cap-18) · [19](#cap-19) · [20](#cap-20)
-[21](#cap-21)
-
-<div align="right"><a href="#topo"><strong>▲ Voltar ao topo</strong></a></div>
-
-<!-- FIM_INDICE -->
-
-
-## 1 {#cap-1}
+## 1
 
 * **1** No princípio era o Logos (Verbo), e o Logos estava com o Theos (Deus), e o Logos era Theos.
 * **2** Ele estava no princípio com Deus.
@@ -68,7 +54,7 @@
 * **50** Jesus respondeu e lhe disse: Porque te disse que te vi debaixo da figueira, crês? Coisas maiores do que estas verás.
 * **51** E diz-lhe: Em verdade, em verdade vos digo, vereis o céu aberto e os anjos de Deus subindo e descendo sobre o Filho do homem.
 
-## 2 {#cap-2}
+## 2
 
 * **1** E no terceiro dia houve um casamento em Caná da Galileia, e a mãe de Jesus estava ali.
 * **2** Jesus e os seus discípulos também foram convidados para o casamento.
@@ -96,7 +82,7 @@
 * **24** mas o próprio Jesus não se confiava a eles, porque ele conhecia a todos
 * **25** e porque não precisava que alguém desse testemunho a respeito do homem, pois ele mesmo sabia o que havia no homem.
 
-## 3 {#cap-3}
+## 3
 
 * **1** Havia um homem entre os fariseus, chamado Nicodemos, uma autoridade dos judeus;
 * **2** este veio a ele de noite e disse-lhe: Rabi, sabemos que vieste de Deus como mestre; pois ninguém pode fazer estes sinais que tu fazes, se Deus não estiver com ele.
@@ -135,7 +121,7 @@
 * **35** O Pai ama o Filho e todas as coisas entregou na sua mão.
 * **36** Aquele que crê no Filho tem a vida eterna; mas aquele que não obedece ao Filho não verá a vida, mas a ira de Deus permanece sobre ele.
 
-## 4 {#cap-4}
+## 4
 
 * **1** Quando, pois, Jesus soube que os fariseus tinham ouvido que Jesus fazia e batizava mais discípulos do que João—
 * **2** embora Jesus mesmo não batizasse, mas os seus discípulos—
@@ -192,7 +178,7 @@
 * **53** Conheceu, pois, o Patēr (Pai) que naquela hora em que Jesus lhe dissera: "O teu filho vive", e creu ele e toda a sua casa.
 * **54** Este, de novo, foi o segundo sinal que Jesus fez, tendo vindo da Judeia para a Galileia.
 
-## 5 {#cap-5}
+## 5
 
 * **1** Depois disto, havia uma festa dos judeus, e subiu Iēsous (Jesus) a Jerusalém.
 * **2** Ora, em Jerusalém, junto à porta das ovelhas, há um tanque, chamado em hebraico Betesda, que tem cinco pavilhões.
@@ -241,7 +227,7 @@
 * **46** Pois, se crêsseis em Moisés, creríeis em mim, pois ele escreveu a meu respeito.
 * **47** Mas, se não credes nos seus escritos, como crereis nas minhas palavras?
 
-## 6 {#cap-6}
+## 6
 
 * **1** Depois disto, o Iēsous (Jesus) partiu para o outro lado do mar da Galileia, o de Tiberíades.
 * **2** E seguia-o uma grande multidão, porque viam os sinais que ele fazia sobre os enfermos.
@@ -315,7 +301,7 @@
 * **70** Respondeu-lhes Jesus: "Não vos escolhi eu os doze? E um de vós é um diabo".
 * **71** Falava ele de Judas, filho de Simão Iscariotes; pois este era quem o havia de entregar, sendo um dos doze.
 
-## 7 {#cap-7}
+## 7
 
 * **1** E depois disto, o Iēsous (Jesus) andava pela Galileia, pois não queria andar pela Judeia, porque os judeus procuravam matá-lo.
 * **2** E estava próxima a festa dos judeus, a dos tabernáculos.
@@ -371,7 +357,7 @@
 * **52** Responderam e disseram-lhe: És tu também da Galileia? Examina e vê que da Galileia não surge profeta.
 * **53** E cada um foi para sua casa.
 
-## 8 {#cap-8}
+## 8
 
 * **1** Jesus, porém, foi para o monte das Oliveiras.
 * **2** De manhã cedo, voltou ao templo, e todo o povo vinha a ele; e, assentando-se, ensinava-os.
@@ -433,7 +419,7 @@
 * **58** Disse-lhes Jesus: Em verdade, em verdade vos digo: antes que Abraão existisse, eu sou.
 * **59** Pegaram, pois, em pedras para atirar nele; Jesus, porém, ocultou-se e saiu do templo.
 
-## 9 {#cap-9}
+## 9
 
 * **1** E, passando, viu um homem cego de nascença.
 * **2** E os seus discípulos perguntaram-lhe, dizendo: Rabi, quem pecou, este ou os seus pais, para que nascesse cego?
@@ -477,7 +463,7 @@
 * **40** Ouviram isso alguns dos fariseus que estavam com ele, e disseram-lhe: Acaso somos nós também cegos?
 * **41** Disse-lhes Jesus: Se fôsseis cegos, não teríeis pecado; mas agora dizeis: Vemos; o vosso pecado permanece.
 
-## 10 {#cap-10}
+## 10
 
 * **1** Em verdade, em verdade vos digo: aquele que não entra pela porta no aprisco das ovelhas, mas sobe por outra parte, esse é ladrão e salteador;
 * **2** mas aquele que entra pela porta é o pastor das ovelhas.
@@ -522,7 +508,7 @@
 * **41** E muitos foram ter com ele e diziam que João, na verdade, não fez sinal algum, mas tudo o que João disse a respeito deste era verdade.
 * **42** E muitos creram nele ali.
 
-## 11 {#cap-11}
+## 11
 
 * **1** Estava, porém, enfermo um certo Lázaro, de Betânia, da aldeia de Maria e de Marta, sua irmã.
 * **2** Era Maria a que ungiu o Kyrios (Senhor) com bálsamo e enxugou os seus pés com os seus cabelos, cujo irmão Lázaro estava enfermo.
@@ -582,7 +568,7 @@
 * **56** Procuravam, pois, a Jesus e diziam uns aos outros, estando no templo: Que vos parece? Não virá ele à festa?
 * **57** Ora, os principais sacerdotes e os fariseus tinham dado ordens de que, se alguém soubesse onde ele estava, o denunciasse, para que o prendessem.
 
-## 12 {#cap-12}
+## 12
 
 * **1** Jesus, pois, seis dias antes da páscoa, veio a Betânia, onde estava Lázaro, a quem Jesus ressuscitara dos mortos.
 * **2** Fizeram-lhe, pois, ali uma ceia, e Marta servia, e Lázaro era um dos que estavam à mesa com ele;
@@ -635,7 +621,7 @@
 * **49** Porque eu não tenho falado de mim mesmo, mas o Patēr, que me enviou, ele me deu mandamento sobre o que hei de dizer e o que hei de falar.
 * **50** E sei que o seu mandamento é vida eterna. Portanto, o que eu falo, falo-o como o Patēr mo tem dito.
 
-## 13 {#cap-13}
+## 13
 
 * **1** Ora, antes da festa da páscoa, sabendo Jesus que era chegada a sua hora de passar deste mundo para o Patēr, tendo amado os seus que estavam no mundo, amou-os até ao fim.
 * **2** E, durante a ceia, tendo já o diabo posto no coração que Judas Iscariotes, filho de Simão, o entregasse,
@@ -676,7 +662,7 @@
 * **37** Diz-lhe Pedro: Senhor, por que não posso seguir-te agora? A minha vida darei por ti.
 * **38** Responde Jesus: A tua vida darás por mim? Em verdade, em verdade te digo: não cantará o galo até que me negues três vezes.
 
-## 14 {#cap-14}
+## 14
 
 * **1** Não se turbe o vosso coração; credes em Deus, crede também em mim.
 * **2** Na casa de meu Patēr (Pai) há muitas moradas; se não fosse assim, eu vo-lo teria dito, pois vou preparar-vos um lugar.
@@ -710,7 +696,7 @@
 * **30** Já não falarei muito convosco, pois vem o príncipe do mundo; e ele nada tem em mim,
 * **31** mas para que o mundo saiba que eu amo o Pai, e como o Pai me ordenou, assim faço. Levantai-vos, vamos daqui.
 
-## 15 {#cap-15}
+## 15
 
 * **1** Eu sou a videira verdadeira, e meu Pai é o agricultor.
 * **2** Todo ramo em mim que não dá fruto, ele o tira; e todo o que dá fruto, ele o limpa, para que dê mais fruto.
@@ -740,7 +726,7 @@
 * **26** Quando vier o Consolador, que eu vos enviarei da parte do Pai, o Espírito da verdade, que procede do Pai, esse testificará de mim;
 * **27** e vós também testemunhareis, porque estais comigo desde o princípio.
 
-## 16 {#cap-16}
+## 16
 
 * **1** Tenho-vos dito estas coisas para que não vos escandalizeis.
 * **2** Expulsar-vos-ão das sinagogas; mas vem a hora em que todo aquele que vos matar pensará estar prestando um culto a Deus.
@@ -776,7 +762,7 @@
 * **32** Eis que vem a hora, e já chegou, em que sereis dispersos, cada um para a sua casa, e me deixareis só; mas não estou só, porque o Pai está comigo.
 * **33** Tenho-vos dito estas coisas para que em mim tenhais paz; no mundo tereis aflições, mas tende bom ânimo, eu venci o mundo.
 
-## 17 {#cap-17}
+## 17
 
 * **1** Estas coisas falou Jesus e, levantando os seus olhos ao céu, disse: Pai, é chegada a hora; glorifica o teu Filho, para que o Filho te glorifique,
 * **2** assim como lhe deste autoridade sobre toda a carne, para que dê a vida eterna a todos os que lhe deste.
@@ -805,7 +791,7 @@
 * **25** Pai justo, o mundo não te conheceu, mas eu te conheci, e estes conheceram que tu me enviaste;
 * **26** e eu lhes dei a conhecer o teu nome e lho darei a conhecer, para que o amor com que me amaste esteja neles, e eu neles.
 
-## 18 {#cap-18}
+## 18
 
 * **1** Tendo Jesus dito estas coisas, saiu com os seus discípulos para além do ribeiro de Cedrom, onde havia um jardim, no qual ele entrou com os seus discípulos.
 * **2** Judas, que o traía, também conhecia o lugar, porque Jesus muitas vezes se reunia ali com os seus discípulos.
@@ -848,7 +834,7 @@
 * **39** Mas vós tendes por costume que eu vos solte alguém na páscoa; quereis, pois, que vos solte o rei dos judeus?
 * **40** Gritaram, pois, novamente, dizendo: Não este, mas Barrabás. E Barrabás era um salteador.
 
-## 19 {#cap-19}
+## 19
 
 * **1** Então Pilatos tomou Jesus e o açoitou.
 * **2** E os soldados, tecendo uma coroa de espinhos, puseram-lha sobre a cabeça, e o vestiram com um manto de púrpura,
@@ -893,7 +879,7 @@
 * **41** E havia um jardim no lugar onde ele foi crucificado, e no jardim um sepulcro novo, em que ainda ninguém havia sido posto.
 * **42** Ali, pois, por causa da preparação dos judeus, e por estar perto o sepulcro, puseram Jesus.
 
-## 20 {#cap-20}
+## 20
 
 * **1** No primeiro dia da semana, Maria Madalena foi ao sepulcro de madrugada, sendo ainda escuro, e viu a pedra removida do sepulcro.
 * **2** Correu, pois, e foi a Simão Pedro e ao outro discípulo, a quem Jesus amava, e disse-lhes: Levaram o Senhor do sepulcro, e não sabemos onde o puseram.
@@ -927,7 +913,7 @@
 * **30** Jesus, pois, operou também, na presença dos seus discípulos, muitos outros sinais que não estão escritos neste livro;
 * **31** estes, porém, foram escritos para que creiais que Jesus é o Christos (Messias), o Filho de Deus, e para que, crendo, tenhais vida em seu nome.
 
-## 21 {#cap-21}
+## 21
 
 * **1** Depois disto, manifestou-se Jesus outra vez aos discípulos junto ao mar de Tiberíades; e manifestou-se desta maneira:
 * **2** Estavam juntos Simão Pedro, Tomé, chamado Dídimo, Natanael, que era de Caná da Galileia, os filhos de Zebedeu e outros dois dos seus discípulos.
