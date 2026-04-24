@@ -13,6 +13,8 @@ Tradução integral dos 66 livros da Bíblia (31.084 versículos) com consulta d
 - [Licença](#licença)
 - [Velho Testamento](#-velho-testamento)
 - [Novo Testamento](#-novo-testamento)
+- [Fontes — VT (Hebraico)](#textos-fonte)
+- [Fontes — NT (Grego)](#textos-fonte)
 
 ---
 
@@ -26,12 +28,13 @@ Um sistema de redundância preserva termos dos idiomas originais seguidos de seu
 
 ```text
 Logos/
-├── Velho Testamento (Hebraico)/   # Textos-fonte em hebraico
-├── Novo Testamento (Grego)/       # Textos-fonte em grego (SBLGNT)
+├── Fontes/
+│   ├── VT (Hebraico)/               # Textos-fonte em hebraico
+│   └── NT (Grego)/                  # Textos-fonte em grego (SBLGNT)
 └── Tradução/
-    ├── Velho Testamento/          # 39 livros traduzidos
-    ├── Novo Testamento/           # 27 livros traduzidos
-    └── CONFIABILIDADE.md          # Relatório de precisão, amostras comparadas e nota do tradutor
+    ├── Velho Testamento/            # 39 livros traduzidos
+    ├── Novo Testamento/             # 27 livros traduzidos
+    └── CONFIABILIDADE.md            # Relatório de precisão, amostras comparadas e nota do tradutor
 ```
 
 <div align="right">
@@ -40,10 +43,10 @@ Logos/
 
 ## Textos-fonte
 
-| Testamento | Idioma | Fonte |
-|------------|--------|-------|
-| Velho Testamento | Hebraico | OpenScriptures Hebrew Bible (baseado no Codex Leningradensis, 1008 d.C.) |
-| Novo Testamento | Grego koiné | SBL Greek New Testament (SBLGNT) |
+| Testamento | Idioma | Fonte | Diretório |
+|------------|--------|-------|-----------|
+| Velho Testamento | Hebraico | OpenScriptures Hebrew Bible (baseado no Codex Leningradensis, 1008 d.C.) | [Fontes/VT (Hebraico)](Fontes/VT%20(Hebraico)/) |
+| Novo Testamento | Grego koiné | SBL Greek New Testament (SBLGNT) | [Fontes/NT (Grego)](Fontes/NT%20(Grego)/) |
 
 <div align="right">
   <a href="#-índice"><strong>&#x25B2; Voltar ao Índice</strong></a>
